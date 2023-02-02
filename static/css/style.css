@@ -1,0 +1,187 @@
+
+
+@keyframes background-pan {
+  from {
+    background-position: 0% center;
+  }
+  
+  to {
+    background-position: -200% center;
+  }
+}
+
+body {
+  font-family: "DM Sans";
+  animation: background-pan 5s linear infinite;
+  background: linear-gradient(
+  to right,
+  #ADE8F4,
+  #48CAE4,
+  #90E0EF,
+  #ADE8F4
+  );
+  background-size: 200%;
+  min-height: 100vh;
+  width: 100vw;
+  margin: 0px;
+  overflow: hidden;
+}
+
+#overlay{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+
+}
+#menu-img{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-image: url("../images/jobsnmore-logos/icon/jobsnmore-website-favicon-color.png");
+  background-repeat: no-repeat; 
+  background-size: contain;
+  background-position: right;
+  width: 10%;
+  height: 10%;
+  padding: 0%;
+  margin: 0%;
+  
+  
+}
+
+#container{
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+  display:grid;
+  place-items: center;
+}
+
+
+#box {
+  aspect-ratio: 1.618;
+  width: 80vmin;
+  position: relative;
+}
+
+
+#box > .shape {
+  position: absolute;
+  transition: border-radius, top , left, height, width;
+  transition-duration: 750ms;
+  transition-timing-function: ease-in-out;
+}
+
+
+
+/* #box > #label {
+  font-family: 'Roboto', sans-serif;
+  font-size: 5vmin;
+  color: #F8F7FF;
+  position: absolute;
+  margin: 0px;
+  z-index: 3;
+  top: -10%;
+
+} */
+
+#label{
+  font-size: 10vmin;
+  color: #F8F7FF;
+  position: absolute;
+  margin: 0px;
+  z-index: 3;
+  top: -10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#label2{
+  font-size: 4vmin;
+  color: #F8F7FF;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+  text-align: center;
+}
+
+
+#box > .shape:nth-child(1) {
+  background-color: #03045E;
+  z-index: 1;
+  left: 0%;
+  top: 0%;
+  height: 50%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(2) {
+  background-color: #023E8A;
+  z-index: 2;
+  left: 20%;
+  top: 0%;
+  height: 50%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(3) {
+  background-color: #0077B6;
+  z-index: 1;
+  left: 50%;
+  top: 40%;
+  height: 60%;
+  width: 50%;
+
+}
+
+#box > .shape:nth-child(4) {
+  background-color: #4895EF;
+  z-index: 2;
+  left: 0%;
+  top: 50%;
+  height: 50%;
+  width: 30%;
+}
+
+#box > .shape:nth-child(5) {
+  background-color: #0096C7;
+  z-index: 2;
+  left: 30%;
+  top: 50%;
+  height: 50%;
+  width: 20%;
+}
+
+#box > .shape:nth-child(6) {
+  background-color: #00B4D8;
+  z-index: 2;
+  left: 70%;
+  top: 50%;
+  height: 50%;
+  width: 30%;
+}
+#box > .shape:nth-child(7) {
+  background-color: #F8F7FF;
+  z-index: 2;
+  left: 50%;
+  top: 0%;
+  height: 45%;
+  width: 50%;
+}
+
+#shape {   
+  border-radius: 0rem; 
+}
+
+#box > .shape:hover {  
+  border-radius: 4rem;
+}
+
+
