@@ -9,6 +9,7 @@
     background-position: -200% center;
   }
 }
+@import url('https://fonts.googleapis.com/css?family=DM Sans');
 
 body {
   font-family: "DM Sans";
@@ -35,7 +36,7 @@ body {
   height: 100%;
 
 }
-#menu-img{
+#logo-bottom{
   position: absolute;
   bottom: 0px;
   right: 0px;
@@ -48,6 +49,21 @@ body {
   padding: 0%;
   margin: 0%;
   
+}
+#logo-center{
+  position: absolute;
+  background-image: url("../images/jobsnmore-logos/png/logo-no-background.png");
+  background-repeat: no-repeat; 
+  background-size: contain;
+  background-position: center;
+  width: 40%;
+  height: 40%;
+  margin: 0px;
+  z-index: 3;
+  top: -20%;
+  left: 50%;
+  /*place item the the left hand side of label*/
+  transform: translate(-50%, -50%);
   
 }
 
