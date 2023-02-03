@@ -36,7 +36,8 @@ document.querySelector('#box').addEventListener('click', function(e) {
     }
     else
     {
-      document.querySelector('#label2') != null ? document.querySelector('#label2').remove() : null;
+
+      document.querySelector('#label2') != null ? document.querySelector('#label2').remove() : document.querySelector('#logo-center').remove();
       e.target.style.zIndex = 3;
       e.target.style.left = '0%';
       e.target.style.top = '0%';
@@ -82,14 +83,22 @@ document.querySelector('#box').addEventListener('click', function(e) {
 // if the body is clicked, reset the shapes
 document.querySelector('body').addEventListener('click', function(e) {
   if (e.target.matches('#container')) {
-    let h1 = document.querySelector('#label');
+    
     
     // remove  label2
     document.querySelector('#label2') != null ? document.querySelector('#label2').remove() : null;
 
-
+    // add logo if null
+    let logo = document.querySelector('#logo-center')
+    if(logo == null){
+      let img = document.createElement('div');
+      img.id = 'logo-center';
+      e.target.appendChild(img);
+    }
+    
+    let h1 = document.querySelector('#label');
     // create a new label
-    h1.innerHTML = 'JobsNMore';
+    h1.innerHTML = '';
 
     let count = 0;
     shapes.forEach((shape) => {

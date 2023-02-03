@@ -1,15 +1,164 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>About</title>
-        <link rel="stylesheet" href="/static/css/bootstrap/bootstrap.min.css"> 
-        <link rel="stylesheet" href="/static/css/style.css">
-        <link href='https://fonts.googleapis.com/css?family=DM Sans' rel='stylesheet'>
-    </head>
 
-    <body>
-        <h1>About us</h1>
-    </body>
-</html>
+{% extends 'shared/layout.html' %}
+{% block content %}
+
+        <title>{%block title%}About{%endblock%}</title>
+        <div class="container-fluid h-50 bg-gradient2">
+
+            <div class="container align-items-center py-5">
+                <div class="row">
+                    <div class="col">
+                        <img class="img-fluid" src="/static/images/logo-no-slogan.png">
+                    </div>
+                    <div class="col">
+                        <h1 class="py-4">Simple and informative.</h1>
+                        <p>JobsNMore is your one-stop shop for job search and career advancement. 
+                            The website tracks the latest job listing from multiple sources, the statistics on the skills required, 
+                            and recommended online courses to fulfill skills.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container align-items-center">
+            <h1 class="text-center py-5">Meet the Team</h1>
+            <div class="row row-cols-1 row-cols-md-3 py-4 gy-4">
+                <div class="col">
+                    <div class="card mb-3 h-100">
+                        <!-- <h3 class="card-header"></h3> -->
+                        <div class="card-body">
+                            <h5 class="card-title">Willy Resendz</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Lead Frontend + Backend</h6>
+                        </div>
+                        <img class="card-img-top" src="/static/images/About/pro.png" alt="Card image cap">
+                        <div class="card-body">
+                            <p class="card-text">I am a third-year student at the University of Texas at Austin, 
+                                majoring in Management Information Systems and pursuing a certificate in Computer Science.</p>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class = "list-group-item">Commits: <span class=" ms-2 badge bg-primary rounded-pill">
+                                {{commits[1]["wresendiz"]}}
+                            </span>
+                            </li>
+                            <li class = "list-group-item">Issues:</li>
+                            <li class = "list-group-item">Unit tests:</li>
+
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card mb-3 h-100">
+                        <!-- <h3 class="card-header"></h3> -->
+                        <div class="card-body">
+                            <h5 class="card-title">2</h5>
+                            <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        </div>
+                        <img class="card-img-top" src="/static/images/logo-no-slogan.png" alt="Card image cap">
+                        <div class="card-body">
+                            <p class="card-text">add</p>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class = "list-group-item">Commits:</li>
+                            <li class = "list-group-item">Issues:</li>
+                            <li class = "list-group-item">Unit tests:</li>
+
+                        </ul>
+
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card mb-3 h-100">
+                        <!-- <h3 class="card-header"></h3> -->
+                        <div class="card-body">
+                            <h5 class="card-title">2</h5>
+                            <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        </div>
+                        <img class="card-img-bottom" src="/static/images/logo-no-slogan.png" alt="Card image cap">
+                        <div class="card-body">
+                            <p class="card-text">add</p>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class = "list-group-item">Commits:</li>
+                            <li class = "list-group-item">Issues:</li>
+                            <li class = "list-group-item">Unit tests:</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card mb-3 h-100">
+                        <!-- <h3 class="card-header"></h3> -->
+                        <div class="card-body">
+                            <h5 class="card-title">2</h5>
+                            <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        </div>
+                        <img class="card-img-bottom" src="/static/images/logo-no-slogan.png" alt="Card image cap">
+                        <div class="card-body">
+                            <p class="card-text">add</p>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class = "list-group-item">Commits:</li>
+                            <li class = "list-group-item">Issues:</li>
+                            <li class = "list-group-item">Unit tests:</li>
+
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card mb-3 h-100">
+                        <!-- <h3 class="card-header"></h3> -->
+                        <div class="card-body">
+                            <h5 class="card-title">2</h5>
+                            <h6 class="card-subtitle mb-2 text-muted"></h6>
+                        </div>
+                        <img class="card-img-bottom" src="/static/images/logo-no-slogan.png" alt="Card image cap">
+                        <div class="card-body">
+                            <p class="card-text">add</p>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class = "list-group-item">Commits:</li>
+                            <li class = "list-group-item">Issues:</li>
+                            <li class = "list-group-item">Unit tests:</li>
+
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container py-5 align-items-center">
+            <h1 class="text-center">Project Stats</h1>
+            <ul class="list-group mx-5">
+                <li class="list-group-item d-flex justify-content-between">Total Commits
+                    <span class="badge bg-primary rounded-pill">{{commits[0]}}</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between">Total Issues
+                    <span class="badge bg-primary rounded-pill">{{total_issues}}</span>
+                </li>
+                <li class="list-group-item d-flex justify-content-between">Total Unit Tests
+                    <span class="badge bg-primary rounded-pill">set up pipeline</span>
+                </li>
+            </ul>
+            <!-- Add three gitlab icons links-->
+            <div class="buttondiv">
+                <a href="https://gitlab.com/javier.ramirez5/cs331e-idb" class="btn btn-primary">
+                    <span class="fab fa-gitlab"> Issue Tracker</span>
+                </a>
+                <a href="https://gitlab.com/javier.ramirez5/cs331e-idb" class="btn btn-primary">
+                    <span class="fab fa-gitlab"> Repo</span>
+                </a>
+                <a href="https://gitlab.com/javier.ramirez5/cs331e-idb" class="btn btn-primary">
+                    <span class="fab fa-gitlab"> Wiki</span>
+                </a>
+            </div>
+        </div>
+        <div class="container py-5 align-items-center">
+            <h1 class="text-center">Data Sources</h1>
+        </div>
+        <div class="container py-5 align-items-center">
+            <h1 class="text-center">Tools Used</h1>
+        </div>
+
+{% endblock%}
