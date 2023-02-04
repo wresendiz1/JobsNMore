@@ -1,8 +1,14 @@
 
-// const primary = JSON.parse(JSON.stringify(document.body.style));
+// code for the animation on the home page
 
-
+// DOM Elements
 const shapes = document.querySelectorAll('.shape');
+const default_shapes = JSON.parse(localStorage.getItem('.shape')) || [];
+const box  = document.querySelector('#box');
+const body = document.querySelector('body');
+
+
+
 
 const sizes = [
   { width: '10%', height: '50%', left: '0%', top: '50%', zIndex: 6 },
@@ -21,89 +27,83 @@ const pages = [
   {"Locations": "Find a job near you or explore what other cities have to offer."},
   {"Contact": "Contact us with any questions or concerns."},
   {"Other": "Explore other resources."}
-]
+];
 
-const defaultshapes = [ ...shapes ].map((shape) => JSON.parse(JSON.stringify(shape.style)));
 
-document.querySelector('#box').addEventListener('click', function(e) {
-  if (e.target.matches('.shape')) {
+
+box.addEventListener('click', function(e) {
+  if (!e.target.matches('.shape')) return;
     
-    // if the target has the label2 
-    if(e.target.querySelector('#label2') != null){
-      window.location.pathname += document.querySelector('#label').innerHTML.toLowerCase();
+  const shape = e.target;
 
-      
-    }
-    else
-    {
-
-      document.querySelector('#label2') != null ? document.querySelector('#label2').remove() : document.querySelector('#logo-center').remove();
-      e.target.style.zIndex = 3;
-      e.target.style.left = '0%';
-      e.target.style.top = '0%';
-      e.target.style.height = '50%';
-      e.target.style.width = '100%';
-  
-      
-      let h1 = document.querySelector('#label')
-      let count = 0;
-      let nth = 0;
-      shapes.forEach((shape) => {
-        if (shape == e.target) {
-          nth = count;
-          return;
-        }
-        shape.style.zIndex = sizes[count].zIndex;
-        shape.style.left = sizes[count].left;
-        shape.style.top = sizes[count].top;
-        shape.style.height = sizes[count].height;
-        shape.style.width = sizes[count].width;
-        count++;
-      });
-  
-        // get the key of the object in list
-        h1.innerHTML = Object.keys(pages[nth])[0];
-        // create description
-        let p = document.createElement('p');
-        p.id = 'label2';
-        p.innerHTML = pages[nth][h1.innerHTML];
-  
-        if(nth == 6 ){
-          p.style.color = "#0077B6"
-        }
-        e.target.appendChild(p);
-    }
-
-
-
-
-
-  }});
-
-// if the body is clicked, reset the shapes
-document.querySelector('body').addEventListener('click', function(e) {
-  if (e.target.matches('#container')) {
+  // if the shape is clicked, and it has a label2, go to the page
+  if(shape.hasChildNodes())
+  {
+    window.location.pathname += label.innerHTML.toLowerCase();
+  }
+  else
+  {
+    // if a shape is clicked and a label2 exists outside of the shape, remove it
+    // else remove the logo as we are the starting position
+    document.querySelector('#label')? document.querySelector('#label').remove() : null;
+    document.querySelector('#label2')? document.querySelector('#label2').remove() : null;
+    document.querySelector('#logo-center') ? document.querySelector('#logo-center').remove() : null;
     
-    
-    // remove  label2
-    document.querySelector('#label2') != null ? document.querySelector('#label2').remove() : null;
+    // set the shape to the largest size
+    shape.style.zIndex = 3;
+    shape.style.left = '0%';
+    shape.style.top = '0%';
+    shape.style.height = '50%';
+    shape.style.width = '100%';
 
-    // add logo if null
-    let logo = document.querySelector('#logo-center')
-    if(logo == null){
-      let img = document.createElement('div');
-      img.id = 'logo-center';
-      e.target.appendChild(img);
-    }
-    
-    let h1 = document.querySelector('#label');
-    // create a new label
-    h1.innerHTML = '';
-
+    // shift other shapes to positon stated in array of dictionaries
+    let nth = 0;
     let count = 0;
     shapes.forEach((shape) => {
-      shape.style = defaultshapes[count];
+      if (shape == e.target){
+        nth = count;
+        return;
+      }
+      
+      for (let key in sizes[count]){
+        shape.style[key] = sizes[count][key];
+      }
+      count++;
+      
+    });
+
+    label = document.createElement('h1');
+    label.id = 'label';
+    label.innerHTML = Object.keys(pages[nth])[0];
+    box.appendChild(label);
+
+    label2 = document.createElement('h2');
+    label2.id = 'label2';
+    label2.innerHTML = pages[nth][label.innerHTML];
+    if(nth == 6) label2.style.color = "#0077B6";
+    shape.appendChild(label2);
+
+  }
+
+});
+
+// if the body is clicked, reset the shapes
+body.addEventListener('click', function(e) {
+    if (e.target.matches('.shape')) return;
+    document.querySelector('#label')? document.querySelector('#label').remove() : null;
+    document.querySelector('#label2')? document.querySelector('#label2').remove() : null;
+
+    // add logo if null
+    if(document.querySelector('#logo-center') == null){
+      let img = document.createElement('div');
+      img.id = 'logo-center';
+      box.appendChild(img);
+    }
+    
+    let count = 0;
+    shapes.forEach((shape) => {
+      shape.style = default_shapes[count];
       count++;
     });
-  }
+  
 });

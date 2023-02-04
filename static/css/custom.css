@@ -10,7 +10,6 @@
   }
 
 .bg-gradient2 {
-    font-family: "DM Sans";
     animation: background-pan 5s linear infinite;
     background: linear-gradient(
     to right,

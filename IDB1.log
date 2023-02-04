@@ -1,3 +1,38 @@
+commit c80b77d16329c5f7537236daf7d09cd14485312d
+Merge: 57257b1 1daab2f
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Fri Feb 3 02:28:21 2023 +0000
+
+    Merge branch 'willy' into 'main'
+    
+    added about page
+    
+    See merge request javier.ramirez5/cs331e-idb!1
+
+commit 1daab2f12dd1233912489081358f58e67589773c
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 2 20:24:28 2023 -0600
+
+    added about page
+
+commit 57257b13e2c7f2343a47a8bfccbf532014dfa09b
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 2 12:34:04 2023 -0600
+
+    gitignore include
+
+commit 1d91d8d3022f9dca83c45445c015576831380e1d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 1 19:53:18 2023 -0600
+
+    added splash page and configs + new pages
+
+commit 70854b7f89687d2ea613d00d5054358e129c4760
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Jan 30 18:03:12 2023 -0600
+
+    added makefile
+
 commit 37bb25045d68226e5ba6f30d7e7414c036393df2
 Author: wresendiz <wresendiz@utexas.edu>
 Date:   Mon Jan 30 17:23:35 2023 -0600

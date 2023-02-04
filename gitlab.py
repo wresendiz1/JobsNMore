@@ -22,7 +22,6 @@ def get_commits():
     for user in data:
         total += user['commits']
         users[user['name']] = user['commits']
-
     return total, users
 
 def get_issues():
@@ -30,9 +29,14 @@ def get_issues():
     data = response.json()
     return data['statistics']['counts']['all']
 
-# def get_issues_by_user():
-#     response = requests.get(urls[2], headers=headers)
-#     data = response.json()
-#     return data
-    
+def get_issues_by_user():
+    response = requests.get(urls[2], headers=headers)
+    data = response.json()
+    users = {}
+    for issue in data:
+        if issue['author']['username'] not in users:
+            users[issue['author']['username']] = 1
+        else:
+            users[issue['author']['username']] += 1
+    return users
 
