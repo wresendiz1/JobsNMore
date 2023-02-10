@@ -39,5 +39,3 @@ def get_issues_by_user():
         else:
             users[issue['author']['username']] += 1
     return users
-
-print(get_commits())

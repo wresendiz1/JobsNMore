@@ -24,12 +24,11 @@
             <div class="row row-cols-1 row-cols-md-3 py-4 gy-4">
                 <div class="col">
                     <div class="card mb-3 h-100">
-                        <!-- <h3 class="card-header"></h3> -->
                         <div class="card-body">
                             <h5 class="card-title">Willy Resendz</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Lead Frontend + Backend</h6>
                         </div>
-                        <img class="card-img-top" src="/static/images/About/pro.png" alt="Card image cap">
+                        <img class="card-img-top mx-auto rounded" src="/static/images/About/pro.png" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">I am a third-year student at the University of Texas at Austin, 
                                 majoring in Management Information Systems and pursuing a certificate in Computer Science.</p>
@@ -39,7 +38,9 @@
                                 {{commits[1]["wresendiz"]}}
                             </span>
                             </li>
-                            <li class = "list-group-item">Issues:</li>
+                            <li class = "list-group-item">Issues: <span class=" ms-2 badge bg-primary rounded-pill">
+                                {{user_issues["wresendiz"]}}
+                            </span></li>
                             <li class = "list-group-item">Unit tests:</li>
 
                         </ul>
@@ -53,7 +54,7 @@
                             <h5 class="card-title">Javier Ramirez</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Backend</h6>
                         </div>
-                        <img class="card-img-top" src="/static/images/About/Headshot.jpg" alt="Card image cap">
+                        <img class="mx-auto w-72 rounded" src="/static/images/About/headshot2.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">I am third-year student at the University of Texas at Austin,
                                 studying mechanical engineering with a certificate in Computer Science</p>
@@ -76,16 +77,16 @@
                         <!-- <h3 class="card-header"></h3> -->
                         <div class="card-body">
                             <h5 class="card-title">Cade Taylor</h5>
-                            <h6 class="card-subtitle mb-2 text-muted"></h6>
+                            <h6 class="card-subtitle mb-2 text-muted">Backend</h6>
                         </div>
-                        <img class="card-img-bottom" src="/static/images/professionalpicture.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="/static/images/professionalpicture.jpg" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">I am a fourth-year student at the University of Texas at Austin,
                                 studying Mathematics with a certificate in Computer Science</p>
                         </div>
                         <ul class="list-group list-group-flush">
                             <li class = "list-group-item">Commits: <span class=" ms-2 badge bg-primary rounded-pill">
-                                {{commits[1]["Cade Taylor"]}}
+                                {{commits[1]["cadetaylor"]}}
                             </span>
                             </li>
                             <li class = "list-group-item">Issues:</li>

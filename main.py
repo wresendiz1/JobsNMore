@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for
-from gitlab import get_commits, get_issues
+from gitlab import get_commits, get_issues, get_issues_by_user
 
 app = Flask(__name__)
 
@@ -11,7 +11,8 @@ def index():
 def about():
 	commits = get_commits()
 	total_issues = get_issues()
-	return render_template('about.html', commits=commits, total_issues=total_issues)
+	user_issues = get_issues_by_user()
+	return render_template('about.html', commits=commits, total_issues=total_issues, user_issues=user_issues)
 
 @app.route('/jobs')
 def jobs():
