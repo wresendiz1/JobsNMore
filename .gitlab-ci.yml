@@ -1,0 +1,28 @@
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  FLASK_APP: "main.py"
+
+before_script:
+  - apt-get update -y
+  - apt-get install -y python3-pip
+  - pip3 install --upgrade pip
+  - pip3 install -r requirements.txt
+
+build:
+  stage: build
+  script:
+    - export FLASK_APP=$FLASK_APP
+    - flask run &
+  only:
+    - branches
+
+test:
+  stage: test
+  script:
+    - curl http://localhost:5000
+  only:
+    - branches
