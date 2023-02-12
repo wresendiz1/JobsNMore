@@ -1,0 +1,18 @@
+stages:
+  - build
+  - test
+  - deploy
+
+before_script:
+  - apt-get update -y
+  - apt-get install -y python3-pip
+  - pip3 install --upgrade pip
+  - pip3 install -r requirements.txt
+
+test:
+  stage: test
+  script:
+    - python main.py
+    - curl http://localhost:5000
+  only:
+    - branches
