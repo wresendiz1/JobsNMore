@@ -1,3 +1,46 @@
+commit 58fcebf8dee05c129a51093128f0cebdfa17a7ae
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Fri Feb 10 17:06:37 2023 -0600
+
+    fix about page
+
+commit ffde83be8a8701436a09ee26f2bb353acb75f00f
+Merge: 4370c79 2ad8582
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Fri Feb 10 15:19:58 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 4370c798761fa05ada400ad690ae6b2c8a6dd89d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Fri Feb 10 15:19:40 2023 -0600
+
+    fix about.html
+
+commit 2ad85820bb1b084a0025f6687aa089f88adbf905
+Author: cadetaylor <cade.taylor01@gmail.com>
+Date:   Fri Feb 10 15:17:29 2023 -0600
+
+    Cade Taylor about info added
+
+commit 5d6cdc26533ab4506319bb982450c17489d142a0
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Fri Feb 10 14:48:47 2023 -0600
+
+    About Javier Page
+
+commit 596ca426ede51a08dbb571935e5b5a88541fd670
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sat Feb 4 14:05:50 2023 -0600
+
+    merge
+
+commit bb5a954fd10b31ae1bbef2d537df47d1ea575b13
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sat Feb 4 13:56:23 2023 -0600
+
+    splash page reworked
+
 commit c80b77d16329c5f7537236daf7d09cd14485312d
 Merge: 57257b1 1daab2f
 Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
