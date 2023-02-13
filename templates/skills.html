@@ -4,5 +4,26 @@
 
 
     <h1>Skills</h1>
+    <div class="Card"></div>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    {% for i in headers %}
+                    <th scope="col">{{i}}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for i in skill %}
+                    <tr>
+                        <th scope="row">{{i.Name}}</th>
+                        <td>{{i.Certifications}}</td>
+                        <td>{{i.Skill}}</td>
+                        <td>{{i.Industry}}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
 
 {% endblock %}
