@@ -21,8 +21,8 @@ course = [{'Name':'CS50: Introduction to Computer Science', 'Time':'10-20 hours 
 #These are the headers of the tables
 job_headers = ['Job Title', 'Company', 'Location', 'Link to Application', 'Job Posting Date']
 skill_headers = ['Skill Name', 'Certifications', 'Skill Type', 'Industries']
-location_headers = ['City', 'State', 'Unemployment Rent', 'Average Salary', 'Average Rent']
-course_headers = ['Course Name', 'Time to Complete', 'Cost', 'Provier', 'Link to Course']
+location_headers = ['City', 'State', 'Unemployment Rate', 'Average Salary', 'Average Rent']
+course_headers = ['Course Name', 'Time to Complete', 'Cost', 'Provider', 'Link to Course']
 
 def create_app():
 	
