@@ -4,5 +4,27 @@
 
 
     <h1>Locations</h1>
+    <div class="Card"></div>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    {% for i in headers %}
+                    <th scope="col">{{i}}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for i in locations %}
+                    <tr>
+                        <th scope="row">{{i.City}}</th>
+                        <td>{{i.State}}</td>
+                        <td>{{i.Unemployment}}</td>
+                        <td>{{i.Salary}}</td>
+                        <td>{{i.Rent}}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
 
 {% endblock %}

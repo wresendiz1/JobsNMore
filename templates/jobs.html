@@ -1,8 +1,28 @@
 {% extends 'shared/layout.html' %}
 {% block content %}
 <title>{%block title%}Jobs{%endblock%}</title>
-
-
     <h1>Jobs</h1>
+    <div class="Card"></div>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    {% for i in headers %}
+                    <th scope="col">{{i}}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for i in job %}
+                    <tr>
+                        <th scope="row">{{i.Title}}</th>
+                        <td>{{i.Company}}</td>
+                        <td>{{i.Location}}</td>
+                        <td><a href="{{i.Link}}">Link</a></td>
+                        <td>{{i.Date}}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
 
 {% endblock %}
