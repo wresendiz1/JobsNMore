@@ -10,7 +10,10 @@ skill = [{'Name': 'Excel', 'Certifications':'Microsoft Office Specialist', 'Skil
     {'Name': 'Public Speaking', 'Certifications':'Expierence', 'Skill':'Soft', 'Industry':'Any'},\
     {'Name': '3D AutoCad', 'Certifications':'Inventor', 'Skill':'Hard', 'Industry':'Engineering'}]
 
-location = [{'City':'', 'State':'', 'Unemployment':'', 'Salary':'', 'Rent':''}]
+locations = [{'City':'Austin', 'State':'TX', 'Unemployment':'6', 'Salary':'$52,500', 'Rent':'$1,100'},\
+    {'City':'San Francisco', 'State':'CA', 'Unemployment':'8', 'Salary':'$63,250', 'Rent':'$1,600'},\
+    {'City':'Chicago', 'State':'IL', 'Unemployment':'7.5', 'Salary':'$61,500', 'Rent':'$1,550'}]
+
 course = [{'Name':'', 'Time':'', 'Cost':'', 'Provider':'', 'Link':''}]
 
 #These are the headers of the tables
@@ -48,7 +51,7 @@ def create_app():
 
 	@app.route('/locations')
 	def location():
-		return render_template('locations.html')
+		return render_template('locations.html',  locations = locations, headers = location_headers)
 
 	@app.route('/contact')
 	def contact():
