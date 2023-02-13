@@ -2,8 +2,29 @@
 {% block content %}
 <title>{%block title%}Courses{%endblock%}</title>
 
-
-
     <h1>Courses</h1>
+    <div class="Card"></div>
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    {% for i in headers %}
+                    <th scope="col">{{i}}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for i in course %}
+                    <tr>
+                        <th scope="row">{{i.Name}}</th>
+                        <td>{{i.Time}}</td>
+                        <td>{{i.Cost}}</td>
+                        <td>{{i.Provider}}</td>
+                        <td><a href="{{i.Link}}">Link</a></td>
+
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
 
 {% endblock %}

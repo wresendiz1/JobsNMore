@@ -14,13 +14,15 @@ locations = [{'City':'Austin', 'State':'TX', 'Unemployment':'6', 'Salary':'$52,5
     {'City':'San Francisco', 'State':'CA', 'Unemployment':'8', 'Salary':'$63,250', 'Rent':'$1,600'},\
     {'City':'Chicago', 'State':'IL', 'Unemployment':'7.5', 'Salary':'$61,500', 'Rent':'$1,550'}]
 
-course = [{'Name':'', 'Time':'', 'Cost':'', 'Provider':'', 'Link':''}]
+course = [{'Name':'CS50: Introduction to Computer Science', 'Time':'10-20 hours per week', 'Cost':'$149.00', 'Provider':'Harvard', 'Link':'https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0'},\
+    {'Name':'The Complete Digital Marketing Course', 'Time':'6 hours per week', 'Cost':'$149.99', 'Provider':'Udemy', 'Link':'https://www.udemy.com/course/learn-digital-marketing-course/'},\
+    {'Name':'Google Project Management: Professional Certificate', 'Time':'10 hours per week', 'Cost':'$300.00', 'Provider':'Google', 'Link':'https://www.coursera.org/professional-certificates/google-project-management?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite-gDigital-paidha-sem-sk-gen-exa-glp-null&_ga=2.75832981.1032362299.1676326416-957183620.1676326416&_gac=1.122856953.1676326423.CjwKCAiA3KefBhByEiwAi2LDHMn3d5dlkyBfBWUoU4Uco7Tx4O2yb-hR1ZNVxSkvggxK4tupjyDC3hoCFpIQAvD_BwE'}]
 
 #These are the headers of the tables
 job_headers = ['Job Title', 'Company', 'Location', 'Link to Application', 'Job Posting Date']
 skill_headers = ['Skill Name', 'Certifications', 'Skill Type', 'Industries']
 location_headers = ['City', 'State', 'Unemployment Rent', 'Average Salary', 'Average Rent']
-cousre_headers = ['Course Name', 'Time to Complete', 'Cost', 'Provier', 'Link to Course']
+course_headers = ['Course Name', 'Time to Complete', 'Cost', 'Provier', 'Link to Course']
 
 def create_app():
 	
@@ -47,7 +49,7 @@ def create_app():
 
 	@app.route('/courses')
 	def courses():
-		return render_template('courses.html')
+		return render_template('courses.html', course = course, headers =course_headers)
 
 	@app.route('/locations')
 	def location():
