@@ -32,7 +32,11 @@ const pages = [
 
 
 box.addEventListener('click', function(e) {
-  if (!e.target.matches('.shape')) return;
+  
+  if (!e.target.matches('.shape')){
+    e.stopPropagation();
+    return;
+  }
     
   const shape = e.target;
 
@@ -40,6 +44,7 @@ box.addEventListener('click', function(e) {
   if(shape.hasChildNodes())
   {
     window.location.pathname += label.innerHTML.toLowerCase();
+    
   }
   else
   {
@@ -48,6 +53,7 @@ box.addEventListener('click', function(e) {
     document.querySelector('#label')? document.querySelector('#label').remove() : null;
     document.querySelector('#label2')? document.querySelector('#label2').remove() : null;
     document.querySelector('#logo-center') ? document.querySelector('#logo-center').remove() : null;
+    document.querySelector('.clicked') ? document.querySelector('.clicked').classList.remove('clicked') : null;
     
     // set the shape to the largest size
     shape.style.zIndex = 3;
@@ -55,6 +61,7 @@ box.addEventListener('click', function(e) {
     shape.style.top = '0%';
     shape.style.height = '50%';
     shape.style.width = '100%';
+    shape.classList.add('clicked');
 
     // shift other shapes to positon stated in array of dictionaries
     let nth = 0;
@@ -84,14 +91,12 @@ box.addEventListener('click', function(e) {
     shape.appendChild(label2);
 
   }
+  e.stopPropagation();
 
 });
 
 // if the body is clicked, reset the shapes
 body.addEventListener('click', function(e) {
-    if (e.target.matches('.shape')) return;
-    document.querySelector('#label')? document.querySelector('#label').remove() : null;
-    document.querySelector('#label2')? document.querySelector('#label2').remove() : null;
 
     // add logo if null
     if(document.querySelector('#logo-center') == null){
@@ -99,6 +104,15 @@ body.addEventListener('click', function(e) {
       img.id = 'logo-center';
       box.appendChild(img);
     }
+    else{
+      return;
+    }
+
+    document.querySelector('#label')? document.querySelector('#label').remove() : null;
+    document.querySelector('#label2')? document.querySelector('#label2').remove() : null;
+    document.querySelector('.clicked') ? document.querySelector('.clicked').classList.remove('clicked') : null;
+
+
     
     let count = 0;
     shapes.forEach((shape) => {

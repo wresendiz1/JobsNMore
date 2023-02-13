@@ -229,3 +229,7 @@ body {
   transform: translateY(0);
   border-width: 4px;
 }
+
+.clicked{
+  cursor: pointer;
+}
