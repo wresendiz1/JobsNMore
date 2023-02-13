@@ -1,13 +1,9 @@
 import requests
 
-# for unit tests
-# url = "https://gitlab.com/api/v4/projects/<project_id>/pipelines/<pipeline_id>/test_reports"
-
-
 urls = [
     "https://gitlab.com/api/v4/projects/42829136/repository/contributors", # commits by user and total
     "https://gitlab.com/api/v4/projects/42829136/issues_statistics?scope=all", # total issues
-    "https://gitlab.com/api/v4/projects/42829136/issues", # issues by user
+    "https://gitlab.com/api/v4/projects/42829136/issues" # issues by user
 ]
 
 headers = {
@@ -39,3 +35,8 @@ def get_issues_by_user():
         else:
             users[issue['author']['username']] += 1
     return users
+
+if __name__ == '__main__':
+    print(get_commits())
+    print(get_issues())
+    print(get_issues_by_user())
