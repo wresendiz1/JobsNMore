@@ -15,9 +15,15 @@ def get_commits():
     data = response.json()
     total = 0
     users = {}
+    javier = 0
     for user in data:
         total += user['commits']
-        users[user['name']] = user['commits']
+        if user['email'] == "javierr8906@gmail.com" or user['email'] == "javier.ramirez5@utexas.edu":
+            javier += user["commits"]
+        else:
+            users[user["email"]] = user["commits"]
+    users["javier.ramirez5@utexas.edu"] = javier
+
     return total, users
 
 def get_issues():
