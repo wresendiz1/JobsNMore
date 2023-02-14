@@ -1,3 +1,174 @@
+commit a3fe899c47fee8ae619846251184752f7c6823a2
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Tue Feb 14 01:10:11 2023 +0000
+
+    Update README.md
+
+commit fbd2f500b622eca6f4918d977e43fd8309a699cd
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 19:00:29 2023 -0600
+
+    fixed about gitlab links and added sample form to contact
+
+commit ed00199fddf7f4792acd21fcc0d66d8f8d91f85f
+Merge: 8da8b86 edc2102
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 18:43:51 2023 -0600
+
+    Merge branch 'willy'
+
+commit edc21028c69f86860e509e70c2d42591fe8cb8f4
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 18:27:54 2023 -0600
+
+    fix gitlab api
+
+commit 8da8b86c80ee27772a19842acd819d898db22083
+Author: cadetaylor <cade.taylor01@gmail.com>
+Date:   Mon Feb 13 18:23:05 2023 -0600
+
+    Fixed issues on about.html
+
+commit 1bf83cd671da9ec63505408449ab118b223f0a0b
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 17:27:13 2023 -0600
+
+    format views
+
+commit 572cd7bf1a38fcbd5798990029426894a0451b93
+Author: cadetaylor <cade.taylor01@gmail.com>
+Date:   Mon Feb 13 17:07:47 2023 -0600
+
+    Added professional headshot
+
+commit b6c3678ebe05e5fa5c800eb3a4cd0ebd1f147b8b
+Merge: 199fe11 0d96686
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 17:03:55 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 199fe116f65a1f636350723be3ed29e98bf09c26
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 17:02:14 2023 -0600
+
+    added titles to boxes on home page
+
+commit 0d966866710138e6289b15f51a6f9698ae38d6e5
+Merge: d1a1c2e bc6f8e9
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Mon Feb 13 22:41:35 2023 +0000
+
+    Merge branch 'jobs' into 'main'
+    
+    1st Iteration of Tables
+    
+    See merge request javier.ramirez5/cs331e-idb!2
+
+commit bc6f8e95b9aac9eb92dcbff2baeac77072e87e0a
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 16:29:24 2023 -0600
+
+    Rough Draft of courses page
+
+commit d1a1c2e74d95ebab6a794ef29cf08bbf3f76b215
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 15:55:05 2023 -0600
+
+    about.html update
+
+commit 74d77c81bf8609942965121638ad808dc93ba666
+Merge: 6a80e23 5a7fc78
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 15:47:45 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb into willy
+
+commit 6a80e2364a66072b204fdc8d41e4ceef14478277
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 15:46:49 2023 -0600
+
+    minor fix about.html
+
+commit 807b2881293817a53536f367aa7cca695db9d67c
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 15:43:16 2023 -0600
+
+    Rough Draft of locations page
+
+commit a1402edbb88542ec6d623294c593afac9a4c292a
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 15:35:27 2023 -0600
+
+    Rough Draft of skills page
+
+commit 3615bfbd95ec478ca88c108d050dc2e4dfa146a8
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 10:59:39 2023 -0600
+
+    Added table headers and started populating dummy data
+
+commit 9f8a78bb2a6d3502fe2b3c0d967df10b5cb16ead
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 00:37:24 2023 -0600
+
+    Added a rough draft of the jobs page
+
+commit 5a7fc78354535daa2da359ba7529e78bbf78769f
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Sun Feb 12 19:15:41 2023 -0600
+
+    removed additional profile
+
+commit 5e74c3ef698189432ba2e83ced8132f64fa0aa36
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Sun Feb 12 19:11:17 2023 -0600
+
+    corrected git address
+
+commit 0ffe6a16620fab4c80a81c4c63b6ea4e58db3977
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Sun Feb 12 19:08:39 2023 -0600
+
+    added personal data
+
+commit 47468e481e4a4284ea8ac1b44f3b5dba3d6af933
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Sun Feb 12 19:25:48 2023 +0000
+
+    Update .gitlab-ci.yml file -enable test reports integration
+
+commit b07812f6dd8a7b590425cbfa9b50c7ec2632919c
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Sun Feb 12 19:02:28 2023 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 6a1297b701b9c80163e458b094aa1f28cd78bf51
+Merge: 730305e 0a50df1
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sun Feb 12 13:00:31 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 730305e21db21075167e08072917f8bcc7f54c8f
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sun Feb 12 12:59:55 2023 -0600
+
+    created initial testing files
+
+commit 0a50df1ad0538629237c2b676fd1eb6362a357d5
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Fri Feb 10 23:31:41 2023 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 55cbce287b466481588951f3af9fabd2f4ba18d3
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Fri Feb 10 23:11:24 2023 +0000
+
+    Update .gitlab-ci.yml file
+
 commit 58fcebf8dee05c129a51093128f0cebdfa17a7ae
 Author: wresendiz <wresendiz@utexas.edu>
 Date:   Fri Feb 10 17:06:37 2023 -0600

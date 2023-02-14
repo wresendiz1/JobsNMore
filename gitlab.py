@@ -2,7 +2,6 @@ import requests
 
 urls = [
     "https://gitlab.com/api/v4/projects/42829136/repository/contributors", # commits by user and total, uses email
-    "https://gitlab.com/api/v4/projects/42829136/issues_statistics?scope=all", # total issues
     "https://gitlab.com/api/v4/projects/42829136/issues" # issues by user, uses username
 ]
 
@@ -29,20 +28,16 @@ def get_commits():
 def get_issues():
     response = requests.get(urls[1], headers=headers)
     data = response.json()
-    return data['statistics']['counts']['all']
-
-def get_issues_by_user():
-    response = requests.get(urls[2], headers=headers)
-    data = response.json()
     users = {}
+    total = 0
     for issue in data:
+        total += 1
         if issue['author']['username'] not in users:
             users[issue['author']['username']] = 1
         else:
             users[issue['author']['username']] += 1
-    return users
+    return total, users
 
 if __name__ == '__main__':
     print(get_commits())
     print(get_issues())
-    print(get_issues_by_user())

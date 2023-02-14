@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for
-from gitlab import get_commits, get_issues, get_issues_by_user
+from gitlab import get_commits, get_issues
 
 #Dummy Data for Phase 1
 job = [{'Title': 'Senior Software Engineer', 'Company': 'Google', 'Location': 'San Francisco, CA', 'Link': 'https://careers.google.com/jobs/results/116958901158453958-senior-software-engineering-manager-ar/?f=true&page=29&utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply', 'Date':'2/13/2023'},\
@@ -35,9 +35,8 @@ def create_app():
 	@app.route('/about')
 	def about():
 		commits = get_commits()
-		total_issues = get_issues()
-		user_issues = get_issues_by_user()
-		return render_template('about.html', commits=commits, total_issues=total_issues, user_issues=user_issues)
+		issues = get_issues()
+		return render_template('about.html', commits=commits, issues=issues)
 
 	@app.route('/jobs')
 	def jobs():
