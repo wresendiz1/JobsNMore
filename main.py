@@ -55,9 +55,12 @@ def create_app():
 	def location():
 		return render_template('locations.html',  locations = locations, headers = location_headers)
 
-	@app.route('/contact')
+	@app.route('/contact', methods=['GET', 'POST'])
 	def contact():
-		return render_template('contact.html')
+		if request.method == 'POST':
+			return redirect(url_for('contact'))
+		else:
+			return render_template('contact.html')
 
 	@app.route('/other')
 	def other():
