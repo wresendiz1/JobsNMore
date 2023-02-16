@@ -9,10 +9,9 @@
     background-position: -200% center;
   }
 }
-@import url('https://fonts.googleapis.com/css?family=DM Sans');
+
 
 body {
-  font-family: "DM Sans";
   animation: background-pan 5s linear infinite;
   background: linear-gradient(
   to right,
@@ -25,31 +24,8 @@ body {
   min-height: 100vh;
   width: 100vw;
   margin: 0px;
-  overflow: hidden;
 }
 
-#overlay{
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-
-}
-#logo-bottom{
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
-  background-image: url("../images/jobsnmore-logos/icon/jobsnmore-website-favicon-color.png");
-  background-repeat: no-repeat; 
-  background-size: contain;
-  background-position: right;
-  width: 10%;
-  height: 10%;
-  padding: 0%;
-  margin: 0%;
-  
-}
 #logo-center{
   position: absolute;
   background-image: url("../images/jobsnmore-logos/png/logo-no-background.png");
@@ -68,14 +44,13 @@ body {
 }
 
 #container{
-  margin: 0 auto;
   left: 0;
   right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  position: absolute;
-  display:grid;
+  transform: translateY(50%);
+  position: relative;
+  display: grid;
   place-items: center;
+  padding-bottom: 4rem;
 }
 
 
@@ -93,21 +68,8 @@ body {
   transition-timing-function: ease-in-out;
 }
 
-
-
-/* #box > #label {
-  font-family: 'Roboto', sans-serif;
-  font-size: 5vmin;
-  color: #F8F7FF;
-  position: absolute;
-  margin: 0px;
-  z-index: 3;
-  top: -10%;
-
-} */
-
 #label{
-  font-size: 10vmin;
+  font-size: 9vmin;
   color: #F8F7FF;
   position: absolute;
   margin: 0px;
@@ -119,7 +81,7 @@ body {
 }
 
 #label2{
-  font-size: 4vmin;
+  font-size: 3.5vmin;
   color: #F8F7FF;
   position: absolute;
   top: 50%;
