@@ -1,3 +1,28 @@
+commit a923019016c46ef75c357b48a7b89ba706b8b19c
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 15 16:52:56 2023 -0600
+
+    add more data sources
+
+commit 6754770e7e39feb8b15eba53b3f1c3de2b084087
+Merge: 6cd3a37 db64c11
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 15 16:28:10 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 6cd3a37e39045523ba932c2a2a6310199c346135
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 15 16:27:55 2023 -0600
+
+    added tools and data sources
+
+commit db64c112ad3e0c67034f8a664d3bc865a32d876b
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Wed Feb 15 19:02:06 2023 +0000
+
+    Update README.md
+
 commit 5afa851493e3d218530ad4ea0e25eb19f822d2f0
 Author: wresendiz <wresendiz@utexas.edu>
 Date:   Tue Feb 14 10:19:45 2023 -0600

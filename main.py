@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for
 from gitlab import get_commits, get_issues
 
-#Dummy Data for Phase 1
+# Dummy Data for Phase 1
 job = [{'Title': 'Senior Software Engineer', 'Company': 'Google', 'Location': 'San Francisco, CA', 'Link': 'https://careers.google.com/jobs/results/116958901158453958-senior-software-engineering-manager-ar/?f=true&page=29&utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply', 'Date':'2/13/2023'},\
     {'Title': 'Data Analyst', 'Company': 'Simplex', 'Location': 'Austin, TX', 'Link': 'https://jobs.myjobhelper.com/signup?prodid=9874&jobkey=558369-1031810&feedId=3113&pubId=9874&pubFeedId=426&jobType=&pubClickId=374533662&feedOverCap=N&company=Simplex&utm_medium=cpc&utm_source=9874&utm_campaign=xml-426&utm_content=Data%20Analyst&utm_term=Simplex&l=&ccuid=', 'Date':'2/12/2023'},\
     {'Title': 'SR Software Developer', 'Company': 'Spectrum', 'Location': 'Austin, TX', 'Link': 'https://spectrum.talentify.io/job/sr-software-developer-austin-texas-spectrum-charter-communications-332670br?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'Date':'2/13/2023'}]
@@ -18,7 +18,7 @@ course = [{'Name':'CS50: Introduction to Computer Science', 'Time':'10-20 hours 
     {'Name':'The Complete Digital Marketing Course', 'Time':'6 hours per week', 'Cost':'$149.99', 'Provider':'Udemy', 'Link':'https://www.udemy.com/course/learn-digital-marketing-course/'},\
     {'Name':'Google Project Management: Professional Certificate', 'Time':'10 hours per week', 'Cost':'$300.00', 'Provider':'Google', 'Link':'https://www.coursera.org/professional-certificates/google-project-management?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite-gDigital-paidha-sem-sk-gen-exa-glp-null&_ga=2.75832981.1032362299.1676326416-957183620.1676326416&_gac=1.122856953.1676326423.CjwKCAiA3KefBhByEiwAi2LDHMn3d5dlkyBfBWUoU4Uco7Tx4O2yb-hR1ZNVxSkvggxK4tupjyDC3hoCFpIQAvD_BwE'}]
 
-#These are the headers of the tables
+# These are the headers of the tables
 job_headers = ['Job Title', 'Company', 'Location', 'Link to Application', 'Job Posting Date']
 skill_headers = ['Skill Name', 'Certifications', 'Skill Type', 'Industries']
 location_headers = ['City', 'State', 'Unemployment Rate', 'Average Salary', 'Average Rent']
