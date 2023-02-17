@@ -8,19 +8,21 @@
         <table class="table table-bordered table-striped">
             <thead>
                 <tr>
-                    {% for i in headers %}
-                    <th scope="col">{{i}}</th>
+                    {% for key in locations['Austin'] if key != 'Image' %}
+                    <th scope="col">{{key}}</th>
                     {% endfor %}
+                    <th></th>
                 </tr>
             </thead>
             <tbody>
-                {% for i in locations %}
+                {% for dict in locations %}
                     <tr>
-                        <th scope="row">{{i.City}}</th>
-                        <td>{{i.State}}</td>
-                        <td>{{i.Unemployment}}</td>
-                        <td>{{i.Salary}}</td>
-                        <td>{{i.Rent}}</td>
+                        <th scope="row">{{locations[dict]["City"]}}</th>
+                        <td>{{locations[dict]["State"]}}</td>
+                        <td>{{locations[dict]["Unemployment"]}}</td>
+                        <td>{{locations[dict]["Salary"]}}</td>
+                        <td>{{locations[dict]["Rent"]}}</td>
+                        <td><a href="{{url_for('view_location', location_id=dict)}}">Details</a></td>
                     </tr>
                 {% endfor %}
             </tbody>

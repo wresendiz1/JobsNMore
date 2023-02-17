@@ -7,19 +7,21 @@
         <table class="table table-bordered table-striped">
             <thead>
                 <tr>
-                    {% for i in headers %}
-                    <th scope="col">{{i}}</th>
+                    {% for key in courses['CourseID1'] %}
+                    <th scope="col">{{key}}</th>
                     {% endfor %}
+                    <th></th>
                 </tr>
             </thead>
             <tbody>
-                {% for i in course %}
+                {% for dict in courses %}
                     <tr>
-                        <th scope="row">{{i.Name}}</th>
-                        <td>{{i.Time}}</td>
-                        <td>{{i.Cost}}</td>
-                        <td>{{i.Provider}}</td>
-                        <td><a href="{{i.Link}}">Link</a></td>
+                        <th scope="row">{{courses[dict]["Name"]}}</th>
+                        <td>{{courses[dict]["Time"]}}</td>
+                        <td>{{courses[dict]["Cost"]}}</td>
+                        <td>{{courses[dict]["Provider"]}}</td>
+                        <td><a href="{{courses[dict]['Link']}}" target="_blank">Link</a></td>
+                        <td><a href="{{url_for('view_course', course_id=dict)}}">Details</a></td>
 
                     </tr>
                 {% endfor %}

@@ -1,0 +1,39 @@
+{% extends 'shared/layout.html' %}
+{% block content %}
+<title>{%block title%}Skill Details{%endblock%}</title>
+    <h1 class="text-center py-5">Skill Details</h1>
+    <div class="container align-items-center min-vh-100">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    {% for key in skill %}
+                    <th scope="col">{{key}}</th>
+                    {% endfor %}
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <th scope="row">{{skill['Name']}}</th>
+                    <td>{{skill['Certifications']}}</td>
+                    <td>{{skill['Level']}}</td>
+                    <td>{{skill['Industry']}}</td>
+                    {% if skill['Courses'] | length > 1%}
+                    <td>
+                        {% for course in skill['Courses'] %}
+                          <a href="{{ url_for('view_course', course_id=course) }}">{{ courses[course]['Name'] }}</a>{% if not loop.last %}, {% endif %}
+                        {% endfor %}
+                      </td>
+                    {% else %}
+                    <td><a href="{{url_for('view_course', course_id= skill['Courses'][0])}}">{{courses[skill['Courses'][0]]['Name']}}</a></td>
+                    {% endif %}
+                    <td><a href="{{url_for('skills')}}">Back</a></td>
+
+                </tr>
+     
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}

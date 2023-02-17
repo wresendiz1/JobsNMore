@@ -1,3 +1,15 @@
+commit b5753454d5f40e88349a9d18aba12246a17de1f3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 16 15:37:49 2023 -0600
+
+    added navbar to splash page
+
+commit da4768ec78a06f7e6856b1b01f7a44b35a0e7aa3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 16 13:28:26 2023 -0600
+
+    added GCP files and configurations
+
 commit a923019016c46ef75c357b48a7b89ba706b8b19c
 Author: wresendiz <wresendiz@utexas.edu>
 Date:   Wed Feb 15 16:52:56 2023 -0600

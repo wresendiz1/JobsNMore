@@ -6,19 +6,26 @@
         <table class="table table-bordered table-striped">
             <thead>
                 <tr>
-                    {% for i in headers %}
-                    <th scope="col">{{i}}</th>
+                    {% for key in jobs["JobID1"] if key != 'Image' %}
+                    <th scope="col">{{key}}</th>
                     {% endfor %}
+                    <th></th>
                 </tr>
             </thead>
             <tbody>
-                {% for i in job %}
+                {% for dict in jobs %}
                     <tr>
-                        <th scope="row">{{i.Title}}</th>
-                        <td>{{i.Company}}</td>
-                        <td>{{i.Location}}</td>
-                        <td><a href="{{i.Link}}">Link</a></td>
-                        <td>{{i.Date}}</td>
+                        <th scope="row">{{jobs[dict]['Title']}}</th>
+                        <td>{{jobs[dict]['Company']}}</td>
+                        <td><a href="{{jobs[dict]['Link']}}" target="_blank">Link</a></td>
+                        <td>{{jobs[dict]['Date']}}</td>
+                        {% if jobs[dict]['Skills'] | length > 1%}
+                        <td>{{', '.join(jobs[dict]['Skills'])}}</td>
+                        {% else %}
+                        <td>{{jobs[dict]['Skills']}}</td>
+                        {% endif %}
+                        <td>{{''.join(jobs[dict]['Locations'])}}</td>
+                        <td><a href="{{url_for('view_job', job_id=dict)}}">Details</a></td>
                     </tr>
                 {% endfor %}
             </tbody>

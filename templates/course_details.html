@@ -1,0 +1,31 @@
+{% extends 'shared/layout.html' %}
+{% block content %}
+<title>{%block title%}Course Details{%endblock%}</title>
+    <h1 class="text-center py-5">Course Details</h1>
+    <div class="container align-items-center min-vh-100">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    {% for key in course %}
+                    <th scope="col">{{key}}</th>
+                    {% endfor %}
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <th scope="row">{{course['Name']}}</th>
+                    <td>{{course['Time']}}</td>
+                    <td>{{course['Cost']}}</td>
+                    <td>{{course['Provider']}}</td>
+                    <td><a href="{{course['Link']}}" target="_blank">Link</a></td>
+                    <td><a href="{{url_for('courses')}}">Back</a></td>
+
+                </tr>
+     
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}
