@@ -4,4 +4,4 @@ IDB1:
 
 .PHONY: requirements
 requirements:
-	pip freeze > requirements.txt
+	pip-chill --no-version > requirements.txt

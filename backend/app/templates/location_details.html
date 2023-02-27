@@ -1,0 +1,40 @@
+{% extends 'shared/layout.html' %}
+{% block content %}
+<title>{%block title%}Location Details{%endblock%}</title>
+    <h1 class="text-center py-5">Location Details</h1>
+    <div class="container align-items-center min-vh-100">
+        <div class="row">
+            <div class = "col-3">
+                <img src="{{location['Image']}}" alt="Image of {{location['City']}}" class="img-fluid rounded mx-auto">
+            </div>
+            <div class = "col-9">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            {% for key in location if key != "Image" %}
+                            <th scope="col">{{key}}</th>
+                            {% endfor %}
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                        <tr>
+                            <th scope="row">{{location['City']}}</th>
+                            <td>{{location['State']}}</td>
+                            <td>{{location['Unemployment']}}</td>
+                            <td>{{location['Salary']}}</td>
+                            <td>{{location['Rent']}}</td>
+                            <!-- <td><a href="{{location['Link']}}">Link</a></td> -->
+                            <td><a href="{{url_for('locations')}}">Back</a></td>
+        
+                        </tr>
+             
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+    </div>
+
+{% endblock %}
