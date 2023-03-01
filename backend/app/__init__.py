@@ -1,6 +1,6 @@
 
-from flask import Flask, request
-
+from flask import Flask, request, send_file
+import json
 # Application factory, use run.py to create an instance of the app
 
 
@@ -18,6 +18,10 @@ def create_app():
         commits = gitlab.get_commits()
         issues = gitlab.get_issues()
         return [commits, issues]
+
+    @app.route('/about.json')
+    def about_json():
+        return send_file('about.json')
 
     @app.route('/jobs')
     def jobs():

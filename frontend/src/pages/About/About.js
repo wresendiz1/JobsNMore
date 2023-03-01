@@ -7,12 +7,8 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Img from '../../images/logos/png/logo-no-slogan.png'
 import Spinner from 'react-bootstrap/Spinner';
+import AboutCard from '../../components/AboutCard/AboutCard';
 
-// headshots
-import p1 from '../../images/About/willy.png'
-import p2 from '../../images/About/javier.jpg'
-import p3 from '../../images/About/cade.jpg'
-import p4 from '../../images/About/jesus.jpg'
 
 // data sources
 import bls from '../../images/About/Data/bls.png'
@@ -72,132 +68,23 @@ function About() {
                 </Container>
                 {!data ? (
                     <Container className='d-flex align-items-center justify-content-center min-vh-100' variant='primary'>
-                        <Spinner animation="border" className='mx-auto' />
+                        <Spinner animation="border" />
                     </Container>
 
 
 
                 ) :
-                    (<Container className='align-items-center'>
-                        <h1 className="text-center py-5">Meet the Team</h1>
-                        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
-                            <Col>
-                                <div className="card mb-3 h-100">
-                                    <div className="card-body">
-                                        <h5 className="card-title">Willy Resendiz</h5>
-                                        <h6 className="card-subtitle mb-2 text-muted">Lead Frontend + Backend</h6>
-                                    </div>
-                                    <Image className="w-85 mx-auto rounded" src={p1} alt="Card image cap"></Image>
-                                    <div className="card-body">
-                                        <p className="card-text">I am a third-year student at the University of Texas at Austin,
-                                            majoring in Management Information Systems and pursuing a certificate in Computer Science.</p>
-                                    </div>
-                                    <ul className="list-group list-group-flush">
-                                        <li className="list-group-item">Commits:
-                                            <span className=" ms-2 badge bg-primary rounded-pill">
-                                                {data && data[0][1]['wresendiz@utexas.edu']}
-                                            </span>
-                                        </li>
-                                        <li className="list-group-item">Issues:<span className=" ms-2 badge bg-primary rounded-pill">
-                                            {data && data[1][1]['wresendiz']}
-                                        </span></li>
-                                        <li className="list-group-item">Unit tests:<span className=" ms-2 badge bg-primary rounded-pill">
-                                            1
-                                        </span></li>
-
-                                    </ul>
-
-                                </div>
-                            </Col>
-                            <Col>
-                                <div className="card mb-3 h-100">
-                                    <div className="card-body">
-                                        <h5 className="card-title">Javier Ramirez</h5>
-                                        <h6 className="card-subtitle mb-2 text-muted">Backend</h6>
-                                    </div>
-                                    <Image className="mx-auto w-72 rounded" src={p2} alt="Card image cap"></Image>
-                                    <div className="card-body">
-                                        <p className="card-text">I am third-year student at the University of Texas at Austin,
-                                            studying mechanical engineering with a certificate in Computer Science.</p>
-                                    </div>
-                                    <ul className="list-group list-group-flush">
-                                        <li className="list-group-item">Commits: <span className=" ms-2 badge bg-primary rounded-pill">
-                                            {data && data[0][1]['javier.ramirez5@utexas.edu'] + data[0][1]['javierr8906@gmail.com']}
-
-                                        </span>
-                                        </li>
-                                        <li className="list-group-item">Issues: <span className=" ms-2 badge bg-primary rounded-pill">
-                                            {data && data[1][1]['javier.ramirez5']}
-                                        </span></li>
-                                        <li className="list-group-item">Unit tests:<span className=" ms-2 badge bg-primary rounded-pill"> 1</span></li>
-
-                                    </ul>
-
-                                </div>
-                            </Col>
-                            <Col>
-                                <div className="card mb-3 h-100">
-                                    <div className="card-body">
-                                        <h5 className="card-title">Cade Taylor</h5>
-                                        <h6 className="card-subtitle mb-2 text-muted">Backend</h6>
-                                    </div>
-                                    <Image className="w-90 mx-auto" src={p3} alt="Card image cap"></Image>
-                                    <div className="card-body">
-                                        <p className="card-text">I am a fourth-year student at the University of Texas at Austin,
-                                            studying Mathematics with a certificate in Computer Science.</p>
-                                    </div>
-                                    <ul className="list-group list-group-flush">
-                                        <li className="list-group-item">Commits: <span className=" ms-2 badge bg-primary rounded-pill">
-                                            {data && data[0][1]['cade.taylor01@gmail.com']}
-                                        </span>
-                                        </li>
-                                        <li className="list-group-item">Issues: <span className=" ms-2 badge bg-primary rounded-pill">
-                                            0
-                                        </span></li>
-                                        <li className="list-group-item">Unit tests:<span className=" ms-2 badge bg-primary rounded-pill"> 1</span></li>
-
-                                    </ul>
-
-                                </div>
-                            </Col>
-                            <Col>
-                                <div className="card mb-3 h-100">
-                                    <div className="card-body">
-                                        <h5 className="card-title">Jesus Munoz-Castaneda</h5>
-                                        <h6 className="card-subtitle mb-2 text-muted">Backend</h6>
-                                    </div>
-                                    <Image className="w-72 rounded mx-auto" src={p4} alt="Card image cap"></Image>
-                                    <div className="card-body">
-                                        <p className="card-text">A fourth-year chemistry student with a certificate in computer science at the
-                                            University of Texas at Austin.</p>
-                                    </div>
-                                    <ul className="list-group list-group-flush">
-                                        <li className="list-group-item">Commits: <span className=" ms-2 badge bg-primary rounded-pill">
-                                            0
-                                        </span>
-                                        </li>
-                                        <li className="list-group-item">Issues: <span className=" ms-2 badge bg-primary rounded-pill">
-                                            0
-                                        </span></li>
-                                        <li className="list-group-item">Unit tests:<span className=" ms-2 badge bg-primary rounded-pill"> 1</span></li>
-
-                                    </ul>
-
-                                </div>
-                            </Col>
-
-                        </Row>
-
-
-                    </Container>)}
+                    (<AboutCard data={data}></AboutCard>)}
                 {!data ? (
                     <Container className='d-flex align-items-center justify-content-center min-vh-100' variant='primary'>
-                        <Spinner animation="border" className='mx-auto' />
+                        <Spinner animation="border" />
                     </Container>
 
 
 
                 ) : (
+                    
+                    // TODO: Modulate this container into a component
                     <Container>
                         <h1 className="text-center py-5">Project Stats</h1>
                         <ul className="list-group">
@@ -224,6 +111,7 @@ function About() {
                         </div>
                     </Container>
                 )}
+                {/* TODO: Modulate this container into a component */}
                 <Container className='py-5'>
                     <h1 className="text-center py-5">Data Sources</h1>
                     <Row className='py-4 align-items-center'>
@@ -273,6 +161,7 @@ function About() {
                         </Col>
                     </Row>
                 </Container>
+                {/* TODO: Modulate this container into a component */}
                 <Container className='py-5'>
                     <h1 className="text-center py-5">Tools Used</h1>
                     <Row className="row py-4 align-items-center">

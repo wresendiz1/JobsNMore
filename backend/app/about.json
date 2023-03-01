@@ -1,0 +1,37 @@
+{
+    "Team": [
+        {
+            "Name": "Willy Resendiz",
+            "Role": "Lead Frontend + Backend",
+            "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/willy.png",
+            "About": "I am a third-year student at the University of Texas at Austin, majoring in Management Information Systems and pursuing a certificate in Computer Science.",
+            "Username":"wresendiz",
+            "Email":"wresendiz@utexas.edu"
+        },
+        {
+            "Name": "Javier Ramirez",
+            "Role": "Backend",
+            "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/6bcd77730799ec7b2109fd811dbc3a322b0bb2a0/frontend/src/images/About/javier.jpg",
+            "About": "I am third-year student at the University of Texas at Austin, studying mechanical engineering with a certificate in Computer Science.",
+            "Username":"javier.ramirez5",
+            "Email":"javier.ramirez5@utexas.edu"
+        },
+        {
+            "Name": "Cade Taylor",
+            "Role": "Backend",
+            "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/6bcd77730799ec7b2109fd811dbc3a322b0bb2a0/frontend/src/images/About/cade.jpg",
+            "About": "I am a fourth-year student at the University of Texas at Austin, studying Mathematics with a certificate in Computer Science.",
+            "Username":"cadetaylor01",
+            "Email":"cade.taylor01@gmail.com"
+        },
+        {
+            "Name": "Jesus Munoz-Castaneda",
+            "Role": "Backend",
+            "Image": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/6bcd77730799ec7b2109fd811dbc3a322b0bb2a0/frontend/src/images/About/jesus.jpg",
+            "About": "A fourth-year chemistry student with a certificate in computer science at the University of Texas at Austin.",
+            "Username":"jesusamc",
+            "Email":"jesusamc@utexas.edu"
+        }
+        
+    ]
+}
