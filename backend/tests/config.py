@@ -2,7 +2,8 @@ import pytest
 import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from api.routes import create_app
+from app import create_app
+
 
 
 

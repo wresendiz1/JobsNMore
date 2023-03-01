@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import { redirect } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import CustomBar from '../../components/Navbar/Navbar'
 import './home.css';
 
@@ -28,15 +28,23 @@ function Home() {
   const clickBox = useRef();
   const desc = useRef(null);
   const clickedShape = useRef(null);
+  const navigate = useNavigate();
 
-  // Record initial state of DOM elements at page load
+  // on render
   useEffect(() => {
     shapes.current = document.getElementsByClassName('shape');
-    title.current = document.getElementById('shapeLabel');
-    logo.current = document.getElementById('logo-center');
     // checks if the click is outside the shapes
     document.addEventListener('click', clickOutside, true);
+
+    document.body.classList.add('home');
     
+    // on unmount
+    return () => {
+      document.body.classList.remove('home');
+      document.removeEventListener('click', clickOutside, true);
+    };
+
+
   }, []);
 
 
@@ -55,7 +63,7 @@ function Home() {
         shape.style = '';
         shape.children[0].style = '';
         shape.children[0].innerHTML = shape.title;
-        
+
       });
 
 
@@ -73,8 +81,9 @@ function Home() {
       clickedShape.current.classList.remove('clicked');
     }
     // redirect to the clicked shapes title
-    if(clickedShape.current === e.target){
-      return redirect("/" + clickedShape.current.title);
+    if (clickedShape.current === e.target) {
+      // window.location.href = "/" + clickedShape.current.title;
+      navigate("/" + clickedShape.current.title);
     }
     clickedShape.current = e.target;
 
@@ -91,15 +100,10 @@ function Home() {
 
 
     // set the shape to the largest size
-    clickedShape.current.style.zIndex = 3;
-    clickedShape.current.style.left = '0%';
-    clickedShape.current.style.top = '0%';
-    clickedShape.current.style.height = '90%';
-    clickedShape.current.style.width = '100%';
     clickedShape.current.classList.add('clicked');
 
 
-    // loop through shapes and hide the descr that are not clicked
+    // loop through shapes and hide the descr that are not clicked and set the size
     let count = 0;
     Array.from(shapes.current).forEach((shape) => {
       if (shape !== clickedShape.current) {
@@ -115,20 +119,22 @@ function Home() {
   }
   return (
     <>
-    <CustomBar />
+
+      <CustomBar />
       <div id="container">
         <div id="box" ref={clickBox} >
           {pages.map((page) => (
-            <div className="shape hvr-reveal" title={Object.keys(page)[0]} key={Object.keys(page)[0]} onClick={checkShape} ref={clickedShape}>
+            <div className="shape hvr-reveal" title={Object.keys(page)[0]} key={Object.keys(page)[0]} onClick={checkShape}>
               <div className="shapeDescription">
                 {Object.keys(page)[0]}
               </div>
             </div>
           ))}
-          <div id="logo-center"></div>
-          <div id="shapeLabel"></div>
+          <div id="logo-center" ref ={logo}></div>
+          <div id="shapeLabel" ref = {title}></div>
         </div>
       </div>
+
     </>
 
   )

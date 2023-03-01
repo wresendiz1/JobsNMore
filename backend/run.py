@@ -1,6 +1,6 @@
-from app import create_app
+import app as app_pkg
 
-app = create_app()
+app = app_pkg.create_app()
 
 if __name__ == '__main__':
 	app.debug = True
