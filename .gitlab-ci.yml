@@ -15,10 +15,8 @@ test:
   script:
     - pytest tests/config.py --junitxml=report.xml
   artifacts:
-    paths: 
-      - $CI_PROJECT_DIR/backend/
     when: always
     reports:
-      junit: report.xml
+      junit: $CI_PROJECT_DIR/backend/report.xml
   only:
     - branches
