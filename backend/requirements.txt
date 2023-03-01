@@ -1,0 +1,10 @@
+aiohttp
+autopep8
+flask-sqlalchemy
+gunicorn
+pip-chill
+psycopg2-binary
+pylint
+pytest
+requests
+tqdm

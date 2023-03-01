@@ -1,11 +1,11 @@
 image: python:latest
 
 variables:
-  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/backend/.cache/pip"
 
 before_script:
   - python --version
-  - pip install --upgrade pip
+  - cd backend && pip install --upgrade pip
   - pip install virtualenv
   - virtualenv venv
   - source venv/bin/activate
@@ -17,6 +17,6 @@ test:
   artifacts:
     when: always
     reports:
-      junit: report.xml
+      junit: $CI_PROJECT_DIR/backend/report.xml
   only:
     - branches
