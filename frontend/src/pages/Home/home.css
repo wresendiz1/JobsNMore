@@ -10,7 +10,6 @@
   }
 }
 
-
 body.home {
   animation: background-pan 5s linear infinite;
   background: linear-gradient(
@@ -53,6 +52,14 @@ body.home {
   padding-bottom: 4rem;
 }
 
+@keyframes textFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 
 #box {
   aspect-ratio: 1.618;
@@ -60,13 +67,13 @@ body.home {
   position: relative;
 }
 
-
 #box > .shape {
   position: absolute;
   transition: border-radius, top , left, height, width;
   transition-duration: 750ms;
   transition-timing-function: ease-in-out;
 }
+
 
 #shapeLabel{
   font-size: 9vmin;
@@ -188,4 +195,11 @@ body.home {
   height : 90% !important;
   width : 100% !important;
   cursor: pointer !important;
+}
+
+.clicked > .shapeDescription{
+  animation: textFadeIn 1s ease-in;
+}
+.clicked ~ #shapeLabel{
+  animation: textFadeIn 1s ease-in;
 }

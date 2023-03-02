@@ -12,8 +12,6 @@ import '../Layout/bootstrap.css';
 
 function CustomBar() {
   return (
-
-
     <Navbar expand="lg">
       <Container>
         <Navbar.Brand as={Link} to="/"><FontAwesomeIcon icon={faHouse}></FontAwesomeIcon></Navbar.Brand>

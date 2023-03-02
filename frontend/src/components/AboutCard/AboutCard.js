@@ -26,8 +26,8 @@ function AboutCard({ data }) {
                 <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
                     {info && info['Team'].map(member => {
                         return (
-                            <Col>
-                                <Card className='mb-3 h-100' key={member['Name']}>
+                            <Col key={member['Name']}>
+                                <Card className='mb-3 h-100'>
                                     <Card.Body>
                                         <Card.Title>{member['Name']}</Card.Title>
                                         <Card.Subtitle className='mb-2 text-muted'>{member['Role']}</Card.Subtitle>

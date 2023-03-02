@@ -35,9 +35,8 @@ function Home() {
     shapes.current = document.getElementsByClassName('shape');
     // checks if the click is outside the shapes
     document.addEventListener('click', clickOutside, true);
-
     document.body.classList.add('home');
-    
+
     // on unmount
     return () => {
       document.body.classList.remove('home');
@@ -49,14 +48,14 @@ function Home() {
 
 
   const clickOutside = (e) => {
-    if (!clickBox.current.contains(e.target)) {
+    if (!clickBox.current.contains(e.target) && clickedShape.current !== null) {
       // if the clicked element is outside, reset the page to original state
       title.current.innerHTML = '';
       logo.current.style.display = 'block';
       desc.current = null;
       clickedShape.current = null;
       // set shapes to original state
-      Array.from(shapes.current).forEach((shape) => {
+      for (let shape of shapes.current) {
         shape.classList.remove('clicked');
         shape.style.zIndex = 1;
         // reset shape to original size
@@ -64,7 +63,7 @@ function Home() {
         shape.children[0].style = '';
         shape.children[0].innerHTML = shape.title;
 
-      });
+      };
 
 
     }
@@ -103,9 +102,9 @@ function Home() {
     clickedShape.current.classList.add('clicked');
 
 
-    // loop through shapes and hide the descr that are not clicked and set the size
+    // loop through other shapes and hide the descr that are not clicked and set the size
     let count = 0;
-    Array.from(shapes.current).forEach((shape) => {
+    for (let shape of shapes.current) {
       if (shape !== clickedShape.current) {
         shape.children[0].style.display = 'none';
         for (let key in sizes[count]) {
@@ -114,27 +113,24 @@ function Home() {
         count++;
       }
 
-    });
-
+    };
   }
   return (
     <>
-
       <CustomBar />
-      <div id="container">
-        <div id="box" ref={clickBox} >
-          {pages.map((page) => (
-            <div className="shape hvr-reveal" title={Object.keys(page)[0]} key={Object.keys(page)[0]} onClick={checkShape}>
-              <div className="shapeDescription">
-                {Object.keys(page)[0]}
+        <div id='container'>
+          <div id='box' ref={clickBox} >
+            {pages.map((page) => (
+              <div className='shape hvr-reveal' title={Object.keys(page)[0]} key={Object.keys(page)[0]} onClick={checkShape}>
+                <div className='shapeDescription'>
+                  {Object.keys(page)[0]}
+                </div>
               </div>
-            </div>
-          ))}
-          <div id="logo-center" ref ={logo}></div>
-          <div id="shapeLabel" ref = {title}></div>
+            ))}
+            <div id='logo-center' ref={logo}></div>
+            <div id='shapeLabel' ref={title}></div>
+          </div>
         </div>
-      </div>
-
     </>
 
   )

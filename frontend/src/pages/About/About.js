@@ -4,6 +4,7 @@ import MainLayout from '../../components/Layout/MainLayout'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import ListGroup from 'react-bootstrap/ListGroup';
 import Image from 'react-bootstrap/Image';
 import Img from '../../images/logos/png/logo-no-slogan.png'
 import Spinner from 'react-bootstrap/Spinner';
@@ -33,6 +34,7 @@ import { faGitlab } from '@fortawesome/free-brands-svg-icons';
 
 // backend data
 import axios from 'axios';
+import ListGroupItem from 'react-bootstrap/esm/ListGroupItem';
 
 
 
@@ -83,21 +85,21 @@ function About() {
 
 
                 ) : (
-                    
+
                     // TODO: Modulate this container into a component
                     <Container>
                         <h1 className="text-center py-5">Project Stats</h1>
-                        <ul className="list-group">
-                            <li className="list-group-item d-flex justify-content-between">Total Commits
+                        <ListGroup>
+                            <ListGroupItem className="d-flex justify-content-between">Total Commits
                                 <span className="badge bg-primary rounded-pill">{data && data[0][0]}</span>
-                            </li>
-                            <li className="list-group-item d-flex justify-content-between">Total Issues
+                            </ListGroupItem>
+                            <ListGroupItem className="d-flex justify-content-between">Total Issues
                                 <span className="badge bg-primary rounded-pill">{data && data[1][0]}</span>
-                            </li>
-                            <li className="list-group-item d-flex justify-content-between">Total Unit Tests
+                            </ListGroupItem>
+                            <ListGroupItem className="d-flex justify-content-between">Total Unit Tests
                                 <span className="badge bg-primary rounded-pill">1</span>
-                            </li>
-                        </ul>
+                            </ListGroupItem>
+                        </ListGroup>
                         <div className="buttondiv">
                             <a href="https://gitlab.com/javier.ramirez5/cs331e-idb/-/boards" className="btn btn-primary" rel="noopener noreferrer" target="_blank">
                                 <span><FontAwesomeIcon icon={faGitlab}></FontAwesomeIcon> Issue Tracker</span>

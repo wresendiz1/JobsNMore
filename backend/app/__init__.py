@@ -1,6 +1,5 @@
 
 from flask import Flask, request, send_file
-import json
 # Application factory, use run.py to create an instance of the app
 
 
