@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import { Link } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -14,7 +14,7 @@ function CustomBar() {
   return (
     <Navbar expand="lg">
       <Container>
-        <Navbar.Brand as={Link} to="/"><FontAwesomeIcon icon={faHouse}></FontAwesomeIcon></Navbar.Brand>
+        <Navbar.Brand as={Link} to="/"><FontAwesomeIcon icon={faHouse} /></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
         <Navbar.Collapse id="basic-navbar-nav">
@@ -36,5 +36,4 @@ function CustomBar() {
   );
 }
 
-
-export default CustomBar
+export default CustomBar;
