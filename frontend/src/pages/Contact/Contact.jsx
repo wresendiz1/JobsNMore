@@ -1,9 +1,7 @@
-import React from 'react';
-import Container from 'react-bootstrap/esm/Container';
-import {
-  Row, Col, Form, Button,
-} from 'react-bootstrap';
-import MainLayout from '../../components/Layout/MainLayout';
+import React from "react";
+import Container from "react-bootstrap/esm/Container";
+import { Row, Col, Form, Button } from "react-bootstrap";
+import MainLayout from "../../components/Layout/MainLayout";
 
 function Contact() {
   return (
@@ -19,19 +17,19 @@ function Contact() {
               </Form.Group>
               <Form.Group controlId="message" className="my-5">
                 <Form.Label>Message</Form.Label>
-                <Form.Control as="textarea" rows={3} placeholder="Enter message" />
+                <Form.Control
+                  as="textarea"
+                  rows={3}
+                  placeholder="Enter message"
+                />
               </Form.Group>
               <Button variant="primary" type="submit">
                 Submit
               </Button>
-
             </Form>
           </Col>
-
         </Row>
-
       </Container>
-
     </MainLayout>
   );
 }

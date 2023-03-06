@@ -1,10 +1,14 @@
 aiohttp
-autopep8
+astroid
+black
+dill
 flask-sqlalchemy
 gunicorn
+mccabe
 pip-chill
 psycopg2-binary
-pylint
+pycodestyle
 pytest
 requests
+tomlkit
 tqdm

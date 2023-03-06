@@ -171,10 +171,9 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
 node_modules
 bower_components
-
+*.eslintrc.json
 *.sublime*
 
 psd

@@ -1,7 +1,15 @@
-.PHONY: IDB1
-IDB1:
+idb1.log:
 	git log > IDB1.log
 
-.PHONY: requirements
+idb2:
+	git log > IDB2.log
+
 requirements:
-	pip-chill --no-version > requirements.txt
+	cd backend && pip-chill --no-version > requirements.txt
+
+format-back:
+	cd backend && find . -name '*.py' ! -path '*/env/*' -print0 | xargs -0 black
+
+format-front:
+	cd frontend && npx prettier --write .
+

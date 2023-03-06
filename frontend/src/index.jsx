@@ -1,57 +1,51 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import App from './App';
-import Home from './pages/Home/Home';
-import About from './pages/About/About';
-import Contact from './pages/Contact/Contact';
-import Jobs from './pages/Jobs/Jobs';
-import Courses from './pages/Courses/Courses';
-import Skills from './pages/Skills/Skills';
-import Locations from './pages/Locations/Locations';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import App from "./App";
+import Home from "./pages/Home/Home";
+import About from "./pages/About/About";
+import Contact from "./pages/Contact/Contact";
+import Jobs from "./pages/Jobs/Jobs";
+import Courses from "./pages/Courses/Courses";
+import Skills from "./pages/Skills/Skills";
+import Locations from "./pages/Locations/Locations";
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: "/",
     element: <Home />,
   },
   {
-    path: '/About',
+    path: "/About",
     element: <About />,
-
   },
   {
-    path: '/Jobs',
+    path: "/Jobs",
     element: <Jobs />,
-
   },
   {
-    path: '/Skills',
+    path: "/Skills",
     element: <Skills />,
-
   },
   {
-    path: '/Courses',
+    path: "/Courses",
     element: <Courses />,
-
   },
   {
-    path: '/Locations',
+    path: "/Locations",
     element: <Locations />,
-
   },
   {
-    path: '/Contact',
+    path: "/Contact",
     element: <Contact />,
-
   },
   {
-    path: '/Test',
+    path: "/Test",
     element: <App />,
   },
 ]);
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<RouterProvider router={router} />);
 
 // import reportWebVitals from './reportWebVitals';

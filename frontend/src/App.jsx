@@ -1,6 +1,6 @@
-import React, { useState, useMemo } from 'react';
-import axios from 'axios';
-import AboutCard from './components/AboutCard/AboutCard';
+import React, { useState, useMemo } from "react";
+import axios from "axios";
+import AboutCard from "./components/AboutCard/AboutCard";
 
 // backend data
 
@@ -8,18 +8,14 @@ import AboutCard from './components/AboutCard/AboutCard';
 
 function App() {
   const [data, setData] = useState();
-  const getData = useMemo(
-    () => {
-      axios.get('/about')
-        .then((res) => setData(res.data))
-        .catch((err) => console.log(err));
-      return data;
-    },
-    [data],
-  );
-  return (
-    <AboutCard onLoad={getData} data={data} />
-  );
+  useMemo(() => {
+    axios
+      .get("/about")
+      .then((res) => setData(res.data))
+      .catch((err) => console.log(err));
+    return data;
+  }, [data]);
+  return <AboutCard data={data} />;
 }
 
 export default App;
