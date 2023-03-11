@@ -14,12 +14,6 @@ import "../Layout/custom.css";
 function AboutCard({ data }) {
   const [info, setInfo] = useState();
 
-  // useEffect(() => {
-  //   if (!info) {
-  //     fetch("/about.json")
-  //       .then((res) => res.json())
-  //       .then((aboutCard) => setInfo(aboutCard));
-  //   }
   useEffect(() => {
     if (!info) {
       fetch("/about.json")
