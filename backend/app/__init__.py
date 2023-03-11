@@ -23,7 +23,7 @@ def create_app():
 
     @app.route("/about.json")
     def about_json():
-        return send_file("about.json")
+        return send_file("data/about.json")
 
     @app.route("/jobs")
     def jobs():

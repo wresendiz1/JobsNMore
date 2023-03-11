@@ -1,15 +1,14 @@
 import React, { useEffect, useState } from "react";
 import Container from "react-bootstrap/esm/Container";
 import Table from "react-bootstrap/Table";
-import axios from "axios";
 import MainLayout from "../../components/Layout/MainLayout";
 
 function Courses() {
   const [courses, setCourses] = useState();
   useEffect(() => {
-    axios
-      .get("/courses")
-      .then((res) => setCourses(res.data))
+    fetch("/courses")
+      .then((res) => res.json())
+      .then((courses) => setCourses(courses))
       .catch((err) => console.log(err));
   }, []);
   return (

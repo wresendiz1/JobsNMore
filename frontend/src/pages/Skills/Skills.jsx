@@ -1,15 +1,14 @@
 import React, { useEffect, useState } from "react";
 import Container from "react-bootstrap/esm/Container";
 import Table from "react-bootstrap/Table";
-import axios from "axios";
 import MainLayout from "../../components/Layout/MainLayout";
 
 function Skills() {
   const [skills, setSkills] = useState();
   useEffect(() => {
-    axios
-      .get("/skills")
-      .then((res) => setSkills(res.data))
+    fetch("/skills")
+      .then((res) => res.json())
+      .then((skills) => setSkills(skills))
       .catch((err) => console.log(err));
   }, []);
   return (

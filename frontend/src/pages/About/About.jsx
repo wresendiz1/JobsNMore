@@ -4,7 +4,6 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import Spinner from "react-bootstrap/Spinner";
-import axios from "axios";
 import MainLayout from "../../components/Layout/MainLayout";
 import Img from "../../images/logos/png/logo-no-slogan.png";
 import AboutCard from "../../components/AboutCard/AboutCard";
@@ -15,9 +14,9 @@ function About() {
   // fetch data from backend and store in state
   const [data, setData] = useState();
   useEffect(() => {
-    axios
-      .get("/about")
-      .then((res) => setData(res.data))
+    fetch("/about")
+      .then((res) => res.json())
+      .then((gitlab) => setData(gitlab))
       .catch((err) => console.log(err));
   }, []);
   return (

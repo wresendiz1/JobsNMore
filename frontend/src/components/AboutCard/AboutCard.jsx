@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import React, { useEffect, useState } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -15,10 +14,19 @@ import "../Layout/custom.css";
 function AboutCard({ data }) {
   const [info, setInfo] = useState();
 
+  // useEffect(() => {
+  //   if (!info) {
+  //     fetch("/about.json")
+  //       .then((res) => res.json())
+  //       .then((aboutCard) => setInfo(aboutCard));
+  //   }
   useEffect(() => {
-    fetch("/about.json")
-      .then((res) => res.json())
-      .then((aboutCard) => setInfo(aboutCard));
+    if (!info) {
+      fetch("/about.json")
+        .then((res) => res.json())
+        .then((aboutCard) => setInfo(aboutCard))
+        .catch((err) => console.log(err));
+    }
   }, []);
 
   return (
@@ -64,7 +72,6 @@ function AboutCard({ data }) {
                     <ListGroup.Item>
                       Unit Tests:
                       <Badge pill bg="primary" className="ms-2">
-                        {" "}
                         1
                       </Badge>
                     </ListGroup.Item>

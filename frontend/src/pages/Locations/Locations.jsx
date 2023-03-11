@@ -1,15 +1,14 @@
 import React, { useEffect, useState } from "react";
 import Container from "react-bootstrap/esm/Container";
 import Table from "react-bootstrap/Table";
-import axios from "axios";
 import MainLayout from "../../components/Layout/MainLayout";
 
 function Locations() {
   const [locations, setLocations] = useState();
   useEffect(() => {
-    axios
-      .get("/locations")
-      .then((res) => setLocations(res.data))
+    fetch("/locations")
+      .then((res) => res.json())
+      .then((locations) => setLocations(locations))
       .catch((err) => console.log(err));
   }, []);
 

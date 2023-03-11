@@ -1,5 +1,4 @@
 import React, { useState, useMemo } from "react";
-import axios from "axios";
 import AboutCard from "./components/AboutCard/AboutCard";
 
 // backend data
@@ -9,9 +8,9 @@ import AboutCard from "./components/AboutCard/AboutCard";
 function App() {
   const [data, setData] = useState();
   useMemo(() => {
-    axios
-      .get("/about")
-      .then((res) => setData(res.data))
+    fetch("/about")
+      .then((res) => res.json())
+      .then((ex) => setData(ex))
       .catch((err) => console.log(err));
     return data;
   }, [data]);
