@@ -1,0 +1,4073 @@
+[
+  [
+    {
+      "JvId": "3A6C8C6120EC47D8969B3809106D5917206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Express Employment Professionals - Master Account",
+      "AccquisitionDate": "2023-3-11 8:18 PM",
+      "URL": "https://de.jobsyn.org/3A6C8C6120EC47D8969B3809106D5917206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8EB5207B0D37489CAA7A25FDB39862CF206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:09 AM",
+      "URL": "https://de.jobsyn.org/8EB5207B0D37489CAA7A25FDB39862CF206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A06849EDD9314E46960C9943F2A4634C206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:19 AM",
+      "URL": "https://de.jobsyn.org/A06849EDD9314E46960C9943F2A4634C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "34ECB3741FCA46D9B3F193BE76CDAB7D206",
+      "JobTitle": "Full Charge Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/34ECB3741FCA46D9B3F193BE76CDAB7D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "750E053FFF894AFD9D6A278C3E98248E206",
+      "JobTitle": "Full Charge Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/750E053FFF894AFD9D6A278C3E98248E206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8263321ADB8746BDB67DE64FA17DDB31206",
+      "JobTitle": "Full Charge Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:16 AM",
+      "URL": "https://de.jobsyn.org/8263321ADB8746BDB67DE64FA17DDB31206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A7E412A11B3A4952AA9DFF778AE9409A206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Select Energy Services",
+      "AccquisitionDate": "2023-3-7 7:04 AM",
+      "URL": "https://de.jobsyn.org/A7E412A11B3A4952AA9DFF778AE9409A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A1D1148E9D7D406EB00F6D430D977FF2206",
+      "JobTitle": "Bookkeeper 77027",
+      "Company": "Fifth Enterprises Inc",
+      "AccquisitionDate": "2023-3-7 8:56 PM",
+      "URL": "https://de.jobsyn.org/A1D1148E9D7D406EB00F6D430D977FF2206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E381E8CA3F304342947C094AEE31D24E206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:04 AM",
+      "URL": "https://de.jobsyn.org/E381E8CA3F304342947C094AEE31D24E206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "314513FEA2F54DE296D4D6D69FEE8CF8206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:28 AM",
+      "URL": "https://de.jobsyn.org/314513FEA2F54DE296D4D6D69FEE8CF8206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "075456BADBC9475098B5CF793E6305D5206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-3 12:07 AM",
+      "URL": "https://de.jobsyn.org/075456BADBC9475098B5CF793E6305D5206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CB54B46BB1BB4AB7BA31CE69F4D9B306206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-1 5:20 AM",
+      "URL": "https://de.jobsyn.org/CB54B46BB1BB4AB7BA31CE69F4D9B306206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "478C45B0E9DA48B1833B5620F855DC41206",
+      "JobTitle": "Bookkeeper",
+      "Company": "System One",
+      "AccquisitionDate": "2023-2-21 3:04 AM",
+      "URL": "https://de.jobsyn.org/478C45B0E9DA48B1833B5620F855DC41206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E04C34107996490EB75934EFDB3B59BE206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "U.S. LawShield",
+      "AccquisitionDate": "2023-2-8 10:22 PM",
+      "URL": "https://de.jobsyn.org/E04C34107996490EB75934EFDB3B59BE206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B5BBB06FB3A84D0590CD3C22403B53B8206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-1-12 1:16 AM",
+      "URL": "https://de.jobsyn.org/B5BBB06FB3A84D0590CD3C22403B53B8206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "116E529B84E949598FE1EFB9ED279480206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-12-20 12:33 AM",
+      "URL": "https://de.jobsyn.org/116E529B84E949598FE1EFB9ED279480206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3E5CDDDC47F04400BC3BC51AC5E8F9B7206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Crescent Hotels and Resorts",
+      "AccquisitionDate": "2022-12-9 11:25 PM",
+      "URL": "https://de.jobsyn.org/3E5CDDDC47F04400BC3BC51AC5E8F9B7206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4E4875CF4EBF4E6A904B0839A6BFC286206",
+      "JobTitle": "Auditing Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-12-8 12:42 AM",
+      "URL": "https://de.jobsyn.org/4E4875CF4EBF4E6A904B0839A6BFC286206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3DB48C4572DD4187B2CA80E759B1ED32206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-12-7 12:32 AM",
+      "URL": "https://de.jobsyn.org/3DB48C4572DD4187B2CA80E759B1ED32206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5398E5CB10184DB089815587B32617C4206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-11-3 12:05 AM",
+      "URL": "https://de.jobsyn.org/5398E5CB10184DB089815587B32617C4206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BF58DFB85618499B84088430E40928D5206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-10-25 12:23 AM",
+      "URL": "https://de.jobsyn.org/BF58DFB85618499B84088430E40928D5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EDC1421DDEEC44F49AF3D57EF7AAEDC6206",
+      "JobTitle": "957002 - Franchise - Bookkeeper - Internal",
+      "Company": "H&R Block",
+      "AccquisitionDate": "2022-10-11 7:19 AM",
+      "URL": "https://de.jobsyn.org/EDC1421DDEEC44F49AF3D57EF7AAEDC6206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE9E2381FD904BB4AA948E5E28DAE6DD206",
+      "JobTitle": "Entry-level Bookkeeper",
+      "Company": "Headworks, Inc.",
+      "AccquisitionDate": "2022-9-30 11:57 PM",
+      "URL": "https://de.jobsyn.org/CE9E2381FD904BB4AA948E5E28DAE6DD206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "89802912896642F0BA124CA8065114A0206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-9-24 12:40 AM",
+      "URL": "https://de.jobsyn.org/89802912896642F0BA124CA8065114A0206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D6AFCC1223B5460DB65C4A97ED27A67C206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-9-22 12:42 AM",
+      "URL": "https://de.jobsyn.org/D6AFCC1223B5460DB65C4A97ED27A67C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "824F9E40A8C344258B4620BB33FDAFE4206",
+      "JobTitle": "Communications Operator - Hilton Americas-Houston",
+      "Company": "Hilton",
+      "AccquisitionDate": "2023-2-24 4:51 AM",
+      "URL": "https://de.jobsyn.org/824F9E40A8C344258B4620BB33FDAFE4206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "1B99564A50BC4666B420D8215FF02063206",
+      "JobTitle": "Console Specialist (3rd Shift, Full-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/1B99564A50BC4666B420D8215FF02063206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E95DC9FADB44E41B0AC3E4BA176B939206",
+      "JobTitle": "Console Specialist (1st Shift, Full-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/7E95DC9FADB44E41B0AC3E4BA176B939206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FABE55CC7BFC49208425759E3CA93EC1206",
+      "JobTitle": "Console Specialist (2nd Shift, Full-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/FABE55CC7BFC49208425759E3CA93EC1206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D115B4C22B6430192CBF9A70F1262C8206",
+      "JobTitle": "Operator, Computer",
+      "Company": "Jack Henry & Associates",
+      "AccquisitionDate": "2023-3-9 6:02 AM",
+      "URL": "https://de.jobsyn.org/2D115B4C22B6430192CBF9A70F1262C8206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "17736879BC694CBC86E9D38066734074206",
+      "JobTitle": "Digital Print Production Operator",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-7 4:06 AM",
+      "URL": "https://de.jobsyn.org/17736879BC694CBC86E9D38066734074206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ADA866F7804743B683459343CFDF15F2206",
+      "JobTitle": "Reliability Operator -",
+      "Company": "Wood Group USA Inc.",
+      "AccquisitionDate": "2023-2-23 9:26 AM",
+      "URL": "https://de.jobsyn.org/ADA866F7804743B683459343CFDF15F2206",
+      "Location": "Houston, MN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2D406C735D624B698420CCBDDA60BE37206",
+      "JobTitle": "Console Specialist (3rd Shift, Part-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/2D406C735D624B698420CCBDDA60BE37206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7A63BCCF2FC24185A6B0C9A237B735FD206",
+      "JobTitle": "Control Center Operator",
+      "Company": "Pattern Energy Group",
+      "AccquisitionDate": "2023-2-16 2:13 AM",
+      "URL": "https://de.jobsyn.org/7A63BCCF2FC24185A6B0C9A237B735FD206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DD59B85883A94680BF903204BDABDDF0206",
+      "JobTitle": "Multimedia Coordinator Spacesuit #1744",
+      "Company": "Aeyon",
+      "AccquisitionDate": "2022-12-31 1:42 AM",
+      "URL": "https://de.jobsyn.org/DD59B85883A94680BF903204BDABDDF0206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5958BEF00DAD44E9B22FFF3E1F2608F8206",
+      "JobTitle": "Senior Data Center Operations Analyst \u2013 Unisys",
+      "Company": "Ensono",
+      "AccquisitionDate": "2022-12-29 5:42 AM",
+      "URL": "https://de.jobsyn.org/5958BEF00DAD44E9B22FFF3E1F2608F8206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "2063F6B638DA4E7BAA4354ADF560AEAF206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:17 PM",
+      "URL": "https://de.jobsyn.org/2063F6B638DA4E7BAA4354ADF560AEAF206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6DDBE53E32E646DC89B442E9A81CC26E206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:03 PM",
+      "URL": "https://de.jobsyn.org/6DDBE53E32E646DC89B442E9A81CC26E206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3BBC7C27F7DA41E986F409AE723139A9206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:03 PM",
+      "URL": "https://de.jobsyn.org/3BBC7C27F7DA41E986F409AE723139A9206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "739B2068C1B342C5B89EA6D409644F4F206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:03 PM",
+      "URL": "https://de.jobsyn.org/739B2068C1B342C5B89EA6D409644F4F206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D2371235C3254CC5A714E65D72D7D01F206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:05 PM",
+      "URL": "https://de.jobsyn.org/D2371235C3254CC5A714E65D72D7D01F206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "057B9700DBD742DCA4217469DD0F957D206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:02 PM",
+      "URL": "https://de.jobsyn.org/057B9700DBD742DCA4217469DD0F957D206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6E6F8B7B7D40493A8F37281FF7ED5425206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:18 PM",
+      "URL": "https://de.jobsyn.org/6E6F8B7B7D40493A8F37281FF7ED5425206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DFB3E83B880D42189EE5436D5981003F206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:20 PM",
+      "URL": "https://de.jobsyn.org/DFB3E83B880D42189EE5436D5981003F206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7428766E1F3B4ED2B57C2388831E196A206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:19 PM",
+      "URL": "https://de.jobsyn.org/7428766E1F3B4ED2B57C2388831E196A206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "768E81ABB23F4D7C90F3582F0B4CE5CA206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:19 PM",
+      "URL": "https://de.jobsyn.org/768E81ABB23F4D7C90F3582F0B4CE5CA206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EED3CBCA4D9C4F9D9A204A480F8CBB8C206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:20 PM",
+      "URL": "https://de.jobsyn.org/EED3CBCA4D9C4F9D9A204A480F8CBB8C206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C24B1DE2BCB24E318949D06CF4F386B6206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:05 PM",
+      "URL": "https://de.jobsyn.org/C24B1DE2BCB24E318949D06CF4F386B6206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0E5AFC3BC183435D8FE0F28524086BF5206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:17 PM",
+      "URL": "https://de.jobsyn.org/0E5AFC3BC183435D8FE0F28524086BF5206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4ADA4E7D885F41DD889EBCCD6FA7F9AD206",
+      "JobTitle": "Sr. Customer Service Representative",
+      "Company": "GPC - Genuine Parts Company ",
+      "AccquisitionDate": "2023-2-28 2:08 AM",
+      "URL": "https://de.jobsyn.org/4ADA4E7D885F41DD889EBCCD6FA7F9AD206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CC3179EB14594FBA8A84622F391AA9E3206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "The Shield Companies",
+      "AccquisitionDate": "2023-3-9 6:54 AM",
+      "URL": "https://de.jobsyn.org/CC3179EB14594FBA8A84622F391AA9E3206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8250C58FEFE840E38F0D35411057C868206",
+      "JobTitle": "Junior Customer Service Representative",
+      "Company": "Triple-S Steel",
+      "AccquisitionDate": "2023-3-4 7:33 AM",
+      "URL": "https://de.jobsyn.org/8250C58FEFE840E38F0D35411057C868206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4372CF4D726E4EC2B67EEF439828E95C206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "PLS FINANCIAL SERVICES INC",
+      "AccquisitionDate": "2023-3-4 8:46 PM",
+      "URL": "https://de.jobsyn.org/4372CF4D726E4EC2B67EEF439828E95C206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C570E2F92901421EBEBBF476D90BA08B206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-3 12:14 AM",
+      "URL": "https://de.jobsyn.org/C570E2F92901421EBEBBF476D90BA08B206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6B2D6CB569AC40A28F80485415411C25206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Select Energy Services",
+      "AccquisitionDate": "2023-3-4 6:02 AM",
+      "URL": "https://de.jobsyn.org/6B2D6CB569AC40A28F80485415411C25206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CF382F63B3074E38B1E818A79593A10D206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-12-23 11:41 AM",
+      "URL": "https://de.jobsyn.org/CF382F63B3074E38B1E818A79593A10D206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7671A913F2274A7AA8A9197D662D9FBD206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-12-4 5:59 AM",
+      "URL": "https://de.jobsyn.org/7671A913F2274A7AA8A9197D662D9FBD206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "78CE4E39BA4C4C659CABDA2374AF345F206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/78CE4E39BA4C4C659CABDA2374AF345F206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7A9F80403C954622BD58A331119C2479206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/7A9F80403C954622BD58A331119C2479206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B8ADA2D5371646D08D802F742DFD28A9206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/B8ADA2D5371646D08D802F742DFD28A9206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B00C8168443942569DE6E23628683895206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/B00C8168443942569DE6E23628683895206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "77D5C6BE0B6544C5A459A58405425E3A206",
+      "JobTitle": "Data Entry",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-11 5:28 AM",
+      "URL": "https://de.jobsyn.org/77D5C6BE0B6544C5A459A58405425E3A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22E2B79BEC404C6787C1B9FA4091C309206",
+      "JobTitle": "Data Entry Clerk",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/22E2B79BEC404C6787C1B9FA4091C309206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "492B439686484223AD1B61FE1BB84EFA206",
+      "JobTitle": "SENIOR DATA ENTRY OPERATOR (Seasonal)",
+      "Company": "The City of Houston",
+      "AccquisitionDate": "2023-2-10 12:41 AM",
+      "URL": "https://de.jobsyn.org/492B439686484223AD1B61FE1BB84EFA206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "263A58B8CA5F49F88C14435F1FE57E73206",
+      "JobTitle": "Clerk",
+      "Company": "A Better Bail Bond",
+      "AccquisitionDate": "2021-9-24 11:38 PM",
+      "URL": "https://de.jobsyn.org/263A58B8CA5F49F88C14435F1FE57E73206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "83D5259A10C445A39173C64239A1936A206",
+      "JobTitle": "Sr Internal Auditor, Project Accounting",
+      "Company": "Honeywell",
+      "AccquisitionDate": "2022-12-7 12:18 AM",
+      "URL": "https://de.jobsyn.org/83D5259A10C445A39173C64239A1936A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EEF21298A46D4796AEB477F81BACD1E0206",
+      "JobTitle": "Sr. Settlement Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-22 12:22 AM",
+      "URL": "https://de.jobsyn.org/EEF21298A46D4796AEB477F81BACD1E0206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "964D443D6CC54C31B0C7B4BF5950B46C206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-11-3 12:08 AM",
+      "URL": "https://de.jobsyn.org/964D443D6CC54C31B0C7B4BF5950B46C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6834FA18FA8440F885B278366579A3D4206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 4:01 AM",
+      "URL": "https://de.jobsyn.org/6834FA18FA8440F885B278366579A3D4206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0437131B1C8E416B86344A68F98D9E26206",
+      "JobTitle": "Internship - Internal Audit",
+      "Company": "Calpine",
+      "AccquisitionDate": "2023-1-20 12:27 AM",
+      "URL": "https://de.jobsyn.org/0437131B1C8E416B86344A68F98D9E26206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C1F53A1818C142998D12A5242A7BA8AD206",
+      "JobTitle": "Internal Auditor - Operations",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-2-1 4:20 AM",
+      "URL": "https://de.jobsyn.org/C1F53A1818C142998D12A5242A7BA8AD206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "95F25CB30DA84411A52D6EEB8729FBA5206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 4:21 AM",
+      "URL": "https://de.jobsyn.org/95F25CB30DA84411A52D6EEB8729FBA5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D8B85771C86C4C82BFA10D6F43B29EB8206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 2:10 AM",
+      "URL": "https://de.jobsyn.org/D8B85771C86C4C82BFA10D6F43B29EB8206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1978C2703638489BB0B26DA0C0C45D6A206",
+      "JobTitle": "Senior, Internal Auditor",
+      "Company": "Occidental Petroleum",
+      "AccquisitionDate": "2022-4-20 1:24 AM",
+      "URL": "https://de.jobsyn.org/1978C2703638489BB0B26DA0C0C45D6A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "56C7FCD0A32643CB90833BA8B36D7245206",
+      "JobTitle": "Staff Internal Auditor",
+      "Company": "Occidental Petroleum",
+      "AccquisitionDate": "2022-2-14 9:47 AM",
+      "URL": "https://de.jobsyn.org/56C7FCD0A32643CB90833BA8B36D7245206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5CD80E82A6B64C1DA363CA29335C3475206",
+      "JobTitle": "Sales, Use and Property Tax Consultant",
+      "Company": "Resources Global Professionals (RGP)",
+      "AccquisitionDate": "2020-1-19 6:40 AM",
+      "URL": "https://de.jobsyn.org/5CD80E82A6B64C1DA363CA29335C3475206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "86B21672519E458C92C88A3548A015A5206",
+      "JobTitle": "A268 Auditor IV (Senior Auditor) or V (Lead Auditor) - Internal Audit Division",
+      "Company": "TEXAS DEPARTMENT OF TRANSPORTATION",
+      "AccquisitionDate": "2023-1-24 9:08 PM",
+      "URL": "https://de.jobsyn.org/86B21672519E458C92C88A3548A015A5206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5C597A753E584572B335BA19DEA77296206",
+      "JobTitle": "Accountant",
+      "Company": "Occidental Petroleum",
+      "AccquisitionDate": "2023-1-5 1:31 AM",
+      "URL": "https://de.jobsyn.org/5C597A753E584572B335BA19DEA77296206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9EF4C68841F24018ADCC805A74D87275206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Occidental Petroleum",
+      "AccquisitionDate": "2022-5-5 9:00 AM",
+      "URL": "https://de.jobsyn.org/9EF4C68841F24018ADCC805A74D87275206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B2E9B90BFBBC4D3AAC64852DA11F0D03206",
+      "JobTitle": "Auditor ( I - IV )",
+      "Company": "City of San Antonio",
+      "AccquisitionDate": "2023-3-7 6:30 AM",
+      "URL": "https://de.jobsyn.org/B2E9B90BFBBC4D3AAC64852DA11F0D03206",
+      "Location": "100 W HOUSTON ST, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3D779C74983D4702A3ACBC6945A111D9206",
+      "JobTitle": "Accountant (Recent Graduates)",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2022-7-28 1:43 AM",
+      "URL": "https://de.jobsyn.org/3D779C74983D4702A3ACBC6945A111D9206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F44998DA03454154B7B13EEBBE89521A206",
+      "JobTitle": "Senior Auditor - Internal Audit",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-12-16 12:17 AM",
+      "URL": "https://de.jobsyn.org/F44998DA03454154B7B13EEBBE89521A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "73582C3936FD482DB592BE81F9FC921D206",
+      "JobTitle": "Sr. Internal Audit Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-9-10 12:09 AM",
+      "URL": "https://de.jobsyn.org/73582C3936FD482DB592BE81F9FC921D206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "54682A04CC5941CC92995AD1A3A0F6A6206",
+      "JobTitle": "IT Auditor",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-6-26 12:41 AM",
+      "URL": "https://de.jobsyn.org/54682A04CC5941CC92995AD1A3A0F6A6206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C60145B81A1141758015CF2C6E937245206",
+      "JobTitle": "Internal Auditor IV, IT Auditor",
+      "Company": "Calpine",
+      "AccquisitionDate": "2022-8-29 2:13 PM",
+      "URL": "https://de.jobsyn.org/C60145B81A1141758015CF2C6E937245206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1204825EA8024027A2E2257D4F402367206",
+      "JobTitle": "Project Quality Auditor",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-2-8 2:45 AM",
+      "URL": "https://de.jobsyn.org/1204825EA8024027A2E2257D4F402367206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C4B9930E13564A9CAF3CC2D76FE0BBBD206",
+      "JobTitle": "senior auditor",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-3 7:21 AM",
+      "URL": "https://de.jobsyn.org/C4B9930E13564A9CAF3CC2D76FE0BBBD206",
+      "Location": "houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "80DCE260CE80472894DCF4F1C6FBD125206",
+      "JobTitle": "Auditor, Internal",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2023-3-2 2:10 AM",
+      "URL": "https://de.jobsyn.org/80DCE260CE80472894DCF4F1C6FBD125206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "51F7E7E5BAF844DD836FE9940ED048B3206",
+      "JobTitle": "Senior IT Auditor Oil and Gas Client",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2021-10-30 12:13 AM",
+      "URL": "https://de.jobsyn.org/51F7E7E5BAF844DD836FE9940ED048B3206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5CCA78D10DFC430BAA68FD43FFBBF07E206",
+      "JobTitle": "Corporate Technical Accounting Manager (Hybrid Schedule)",
+      "Company": "Kinder Morgan",
+      "AccquisitionDate": "2023-3-10 1:38 AM",
+      "URL": "https://de.jobsyn.org/5CCA78D10DFC430BAA68FD43FFBBF07E206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "AEC4C2E7F1F44B5CB0278658662562F1206",
+      "JobTitle": "Remote Insurance Claims Collector",
+      "Company": "BCA Financial Services, Inc.",
+      "AccquisitionDate": "2023-3-8 12:36 AM",
+      "URL": "https://de.jobsyn.org/AEC4C2E7F1F44B5CB0278658662562F1206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "484EEA25412349068EFDD73DD939AA38206",
+      "JobTitle": "Collector",
+      "Company": "Schlumberger",
+      "AccquisitionDate": "2023-3-12 5:24 AM",
+      "URL": "https://de.jobsyn.org/484EEA25412349068EFDD73DD939AA38206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "082021A6422D41578F973D8848B53301206",
+      "JobTitle": "Remote Collections Specialist",
+      "Company": "BCA Financial Services, Inc.",
+      "AccquisitionDate": "2023-3-5 6:07 AM",
+      "URL": "https://de.jobsyn.org/082021A6422D41578F973D8848B53301206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "387B48C6236C47CBAA30FA74864120EC206",
+      "JobTitle": "Commercial Collector",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-1 5:42 AM",
+      "URL": "https://de.jobsyn.org/387B48C6236C47CBAA30FA74864120EC206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D9172FEA33804874BCDD7ECF5585D3F7206",
+      "JobTitle": "Senior Commercial Collector- Global",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-15 1:42 AM",
+      "URL": "https://de.jobsyn.org/D9172FEA33804874BCDD7ECF5585D3F7206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B36599C46C154D509416AF837EA57A03206",
+      "JobTitle": "Insurance Collector Physician Billing Representative- Medical Museum",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-1 5:43 AM",
+      "URL": "https://de.jobsyn.org/B36599C46C154D509416AF837EA57A03206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7A4B85D7087E4A878766A3019F33EFE1206",
+      "JobTitle": "Insurance Collector Physician Billing  Representative- Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-17 12:51 AM",
+      "URL": "https://de.jobsyn.org/7A4B85D7087E4A878766A3019F33EFE1206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F1278647C8C74C1DABBA366B2A99328F206",
+      "JobTitle": "Insurance Collector Physician Billing Representative - Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-17 12:51 AM",
+      "URL": "https://de.jobsyn.org/F1278647C8C74C1DABBA366B2A99328F206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "36E71F96A185485198171C87EDD1FFF3206",
+      "JobTitle": "Insurance Collector Physician Billing Representative - Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-8 11:37 PM",
+      "URL": "https://de.jobsyn.org/36E71F96A185485198171C87EDD1FFF3206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F26BF5F29E304226B6984B700C2D5BEE206",
+      "JobTitle": "Insurance  Collector Physician Billing Representative - Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-1-11 11:04 PM",
+      "URL": "https://de.jobsyn.org/F26BF5F29E304226B6984B700C2D5BEE206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1551C5841D3A473891F22EA5DB5711BB206",
+      "JobTitle": "Insurance Collector Physician Billing Representative-  Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-12-22 12:05 AM",
+      "URL": "https://de.jobsyn.org/1551C5841D3A473891F22EA5DB5711BB206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7863D21C483D47C3A4CB3F771DA655A6206",
+      "JobTitle": "Insurance Collector Physician Billing  Representative-  Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-12-15 1:35 AM",
+      "URL": "https://de.jobsyn.org/7863D21C483D47C3A4CB3F771DA655A6206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7F321F906F684C2AA39609E758773FFF206",
+      "JobTitle": "Insurance Collector Physician Billing Representative -Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-12-15 1:35 AM",
+      "URL": "https://de.jobsyn.org/7F321F906F684C2AA39609E758773FFF206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3602376EA33A4587ADA083A1166D6203206",
+      "JobTitle": "Insurance Collector Physician Billing Representative- Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-12-15 1:34 AM",
+      "URL": "https://de.jobsyn.org/3602376EA33A4587ADA083A1166D6203206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "48EBB8EBC137480CAAFC17FB8480A7E0206",
+      "JobTitle": "Insurance Collector Physician Billing Representative - Medical Museum Tower",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-12-15 1:34 AM",
+      "URL": "https://de.jobsyn.org/48EBB8EBC137480CAAFC17FB8480A7E0206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DAB0EF845D9443CB947F9EF168DD74F5206",
+      "JobTitle": "Collections Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/DAB0EF845D9443CB947F9EF168DD74F5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1912843CA81A46DB9B720EC127A40FCA206",
+      "JobTitle": "Credit Collections Rep/ Collections Specialist",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-9 4:48 AM",
+      "URL": "https://de.jobsyn.org/1912843CA81A46DB9B720EC127A40FCA206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "19F19A76DB4745C285324CD7EA7822CD206",
+      "JobTitle": "Collections Specialist (Bilingual)",
+      "Company": "Sunnova Energy International Inc.",
+      "AccquisitionDate": "2021-8-21 7:48 AM",
+      "URL": "https://de.jobsyn.org/19F19A76DB4745C285324CD7EA7822CD206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "321BB70C55DA4CCCB9110089C3B4E72A206",
+      "JobTitle": "Debt Collector",
+      "Company": "A Better Bail Bond",
+      "AccquisitionDate": "2021-3-18 9:04 AM",
+      "URL": "https://de.jobsyn.org/321BB70C55DA4CCCB9110089C3B4E72A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5D698FC5B505459BAAC2E3E2A3E21F63206",
+      "JobTitle": "Credit And Collections Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/5D698FC5B505459BAAC2E3E2A3E21F63206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "60DA7AD63C46468DB4823756BD9E5E7A206",
+      "JobTitle": "accounts payable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-11 5:36 AM",
+      "URL": "https://de.jobsyn.org/60DA7AD63C46468DB4823756BD9E5E7A206",
+      "Location": "houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CA85B6353AD24C3A9B97CEA25881B901206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Express Employment Professionals - Master Account",
+      "AccquisitionDate": "2023-3-11 8:18 PM",
+      "URL": "https://de.jobsyn.org/CA85B6353AD24C3A9B97CEA25881B901206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DA48B7155CB74DADAE37D01DD705E15A206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "Change Healthcare",
+      "AccquisitionDate": "2023-3-12 4:18 AM",
+      "URL": "https://de.jobsyn.org/DA48B7155CB74DADAE37D01DD705E15A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CA98DD02A58B46718ADECAEAC4EAA4A9206",
+      "JobTitle": "Account Specialist II",
+      "Company": "AON",
+      "AccquisitionDate": "2023-3-11 7:03 AM",
+      "URL": "https://de.jobsyn.org/CA98DD02A58B46718ADECAEAC4EAA4A9206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "721F5ADB1E234F869604BFEA3D09A609206",
+      "JobTitle": "Account Specialist",
+      "Company": "TDIndustries, Inc",
+      "AccquisitionDate": "2023-3-10 10:18 PM",
+      "URL": "https://de.jobsyn.org/721F5ADB1E234F869604BFEA3D09A609206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "DF188705AF1E4B999AC3D8D0E25D208C206",
+      "JobTitle": "Credit Analyst",
+      "Company": "Triple-S Steel",
+      "AccquisitionDate": "2023-2-17 11:49 PM",
+      "URL": "https://de.jobsyn.org/DF188705AF1E4B999AC3D8D0E25D208C206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E4F032E47093429193468D71A6927B4E206",
+      "JobTitle": "Analyst, Credit",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2023-1-24 6:15 AM",
+      "URL": "https://de.jobsyn.org/E4F032E47093429193468D71A6927B4E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "18C819B7A38D4807ABD42059EC636519206",
+      "JobTitle": "Credit Analyst",
+      "Company": "CITGO Petroleum Corporation",
+      "AccquisitionDate": "2023-2-19 1:00 AM",
+      "URL": "https://de.jobsyn.org/18C819B7A38D4807ABD42059EC636519206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "099BBF661F8640D9B9FC167382F0907B206",
+      "JobTitle": "Sr Credit Analyst",
+      "Company": "Sunnova Energy International Inc.",
+      "AccquisitionDate": "2023-2-24 7:39 AM",
+      "URL": "https://de.jobsyn.org/099BBF661F8640D9B9FC167382F0907B206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "40990543C0D94164A4AF3DF72BB639B7206",
+      "JobTitle": "Credit Analyst II/III",
+      "Company": "Williams Companies",
+      "AccquisitionDate": "2023-2-3 5:05 AM",
+      "URL": "https://de.jobsyn.org/40990543C0D94164A4AF3DF72BB639B7206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FC06CB2474C94B1DA9F41C74A1AEFB0D206",
+      "JobTitle": "M&TEFC Senior Credit Analyst",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2023-3-10 1:37 AM",
+      "URL": "https://de.jobsyn.org/FC06CB2474C94B1DA9F41C74A1AEFB0D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C27C7A85D0844AA78FC0D3308A5E324B206",
+      "JobTitle": "Credit Analyst II - Energy - Oil & Gas",
+      "Company": "Fifth Third Bank, N.A.",
+      "AccquisitionDate": "2023-3-11 5:29 AM",
+      "URL": "https://de.jobsyn.org/C27C7A85D0844AA78FC0D3308A5E324B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C615247BC473465DB605CC80768F143A206",
+      "JobTitle": "Senior Credit Data and Analytics",
+      "Company": "Shell",
+      "AccquisitionDate": "2023-3-9 3:12 AM",
+      "URL": "https://de.jobsyn.org/C615247BC473465DB605CC80768F143A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A2A689165D5746D589EEBE77B8BC9798206",
+      "JobTitle": "Commercial Bank Credit Risk- Associate",
+      "Company": "JPMorgan Chase",
+      "AccquisitionDate": "2023-2-12 2:24 AM",
+      "URL": "https://de.jobsyn.org/A2A689165D5746D589EEBE77B8BC9798206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ECFC4E9DEB41454692F3A35FB4FF358A206",
+      "JobTitle": "Commercial Bank Risk - Credit Risk - FIG Mortgage Finance, Vice President",
+      "Company": "JPMorgan Chase",
+      "AccquisitionDate": "2023-3-10 3:46 AM",
+      "URL": "https://de.jobsyn.org/ECFC4E9DEB41454692F3A35FB4FF358A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "588AA62966D144F890C3B0D28809A2CE206",
+      "JobTitle": "Credit Products Commercial Portfolio Management Leader",
+      "Company": "Regions Bank",
+      "AccquisitionDate": "2023-2-16 5:48 PM",
+      "URL": "https://de.jobsyn.org/588AA62966D144F890C3B0D28809A2CE206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FC1E96B6F3244E5199FEFC6102D8179B206",
+      "JobTitle": "Credit Risk & Portfolio Management, Associate, Auto, Transport, and Mobility",
+      "Company": "SMBC",
+      "AccquisitionDate": "2022-3-24 2:45 AM",
+      "URL": "https://de.jobsyn.org/FC1E96B6F3244E5199FEFC6102D8179B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A6D3A7ECC7341968E520EE738F4E81A206",
+      "JobTitle": "Industry Credit Lead - Renewable Energy",
+      "Company": "Fifth Third Bank, N.A.",
+      "AccquisitionDate": "2023-3-9 4:01 PM",
+      "URL": "https://de.jobsyn.org/0A6D3A7ECC7341968E520EE738F4E81A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6BE6E6805F53483793B355EA42C9ABCE206",
+      "JobTitle": "Credit Risk & Portfolio Management, Associate - Real Estate, Gaming, and Leisure",
+      "Company": "SMBC",
+      "AccquisitionDate": "2022-4-19 2:41 AM",
+      "URL": "https://de.jobsyn.org/6BE6E6805F53483793B355EA42C9ABCE206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A071BAB9711643D4ACA0BEE080A85BF9206",
+      "JobTitle": "Energy Credit Delivery- VP",
+      "Company": "Truist",
+      "AccquisitionDate": "2023-2-10 3:13 AM",
+      "URL": "https://de.jobsyn.org/A071BAB9711643D4ACA0BEE080A85BF9206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "471A1CE7D4AE470799B0DF429EED65EA206",
+      "JobTitle": "Corporate & Investment Bank Credit Risk - Vice President",
+      "Company": "JPMorgan Chase",
+      "AccquisitionDate": "2023-2-5 5:44 AM",
+      "URL": "https://de.jobsyn.org/471A1CE7D4AE470799B0DF429EED65EA206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5ABEBFB9D6B24C35AA50FB811215088E206",
+      "JobTitle": "Credit Risk & Portfolio Management, Associate - Diversified Industrials",
+      "Company": "SMBC",
+      "AccquisitionDate": "2022-11-23 3:21 AM",
+      "URL": "https://de.jobsyn.org/5ABEBFB9D6B24C35AA50FB811215088E206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "34A813A8798749399DECE5CC1299278A206",
+      "JobTitle": "Credit Risk & Portfolio Management, Associate - Technology",
+      "Company": "SMBC",
+      "AccquisitionDate": "2022-9-21 2:29 AM",
+      "URL": "https://de.jobsyn.org/34A813A8798749399DECE5CC1299278A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D0CDD10BF9C44184B2D9D45BB9EC7005206",
+      "JobTitle": "Credit Risk & Portfolio Management, Associate - Technology",
+      "Company": "SMBC",
+      "AccquisitionDate": "2022-9-1 2:28 AM",
+      "URL": "https://de.jobsyn.org/D0CDD10BF9C44184B2D9D45BB9EC7005206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3A7A81F5254A492490FF2B7AF2CE648D206",
+      "JobTitle": "Business Analyst",
+      "Company": "BrandSafway",
+      "AccquisitionDate": "2023-2-25 4:42 AM",
+      "URL": "https://de.jobsyn.org/3A7A81F5254A492490FF2B7AF2CE648D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "398275C9325F42159D89B2A1BD622A20206",
+      "JobTitle": "Corporate & Investment Bank Credit Risk Associate",
+      "Company": "JPMorgan Chase",
+      "AccquisitionDate": "2022-10-16 3:55 AM",
+      "URL": "https://de.jobsyn.org/398275C9325F42159D89B2A1BD622A20206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C3B9B7B95A1F4F9E83CA87EA2C125E10206",
+      "JobTitle": "NAM Commercial Banking, Summer Analyst - Houston (2023)",
+      "Company": "Citigroup",
+      "AccquisitionDate": "2023-2-10 6:43 AM",
+      "URL": "https://de.jobsyn.org/C3B9B7B95A1F4F9E83CA87EA2C125E10206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "15AF8254217A43959A92328464CA9D99206",
+      "JobTitle": "NAM Commercial Banking, Full-time Analyst - Houston (2023)",
+      "Company": "Citigroup",
+      "AccquisitionDate": "2023-2-10 6:40 AM",
+      "URL": "https://de.jobsyn.org/15AF8254217A43959A92328464CA9D99206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "30DC2A035D6A4109A1B02AD35539D31F206",
+      "JobTitle": "Credit Risk & Portfolio Management, Associate - Oil & Gas",
+      "Company": "SMBC",
+      "AccquisitionDate": "2022-9-7 3:27 AM",
+      "URL": "https://de.jobsyn.org/30DC2A035D6A4109A1B02AD35539D31F206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "69D75113D27C424D82BE03DBD100F04E206",
+      "JobTitle": "Commercial Bank Risk- CCBSI Risk Analyst",
+      "Company": "JPMorgan Chase",
+      "AccquisitionDate": "2022-10-3 7:02 AM",
+      "URL": "https://de.jobsyn.org/69D75113D27C424D82BE03DBD100F04E206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "B077322336524F5882C5844A0912BCAE206",
+      "JobTitle": "Credit Intern",
+      "Company": "ENGIE North America",
+      "AccquisitionDate": "2023-2-11 8:24 AM",
+      "URL": "https://de.jobsyn.org/B077322336524F5882C5844A0912BCAE206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DD297D18E6604426BE17AE20ABC08E3A206",
+      "JobTitle": "Credit Card Transactions Assistant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-9-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/DD297D18E6604426BE17AE20ABC08E3A206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "D79F1815F74B46FEA233FA706A88BA5E206",
+      "JobTitle": "Mortgage Loan Processor",
+      "Company": "M/I Homes",
+      "AccquisitionDate": "2023-3-11 7:10 AM",
+      "URL": "https://de.jobsyn.org/D79F1815F74B46FEA233FA706A88BA5E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F043CDF0443B47A7A3C79E48A576167E206",
+      "JobTitle": "Mortgage Underwriter",
+      "Company": "M/I Homes",
+      "AccquisitionDate": "2023-3-10 5:45 AM",
+      "URL": "https://de.jobsyn.org/F043CDF0443B47A7A3C79E48A576167E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D7986E93D0094D8E8A88EB4D735AB658206",
+      "JobTitle": "Accounting Closing Coordinator",
+      "Company": "FirstService Residential",
+      "AccquisitionDate": "2023-3-10 5:36 AM",
+      "URL": "https://de.jobsyn.org/D7986E93D0094D8E8A88EB4D735AB658206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BD1A69A4808A443E80B6D1A244BD13D3206",
+      "JobTitle": "Associate, Mortgage Entity Vesting - Remote Based",
+      "Company": "Morgan Stanley",
+      "AccquisitionDate": "2023-2-23 5:31 AM",
+      "URL": "https://de.jobsyn.org/BD1A69A4808A443E80B6D1A244BD13D3206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3A792FA03E064B95954978EE994BE371206",
+      "JobTitle": "Cash Application Processor",
+      "Company": "ICONMA, LLC",
+      "AccquisitionDate": "2023-2-18 5:20 AM",
+      "URL": "https://de.jobsyn.org/3A792FA03E064B95954978EE994BE371206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "93EA5F3D64EA4C469DDFB0339ED0BF42206",
+      "JobTitle": "Middle Office Loan Specialist - Amegy Tower/ Houston, TX",
+      "Company": "Zions Bancorporation",
+      "AccquisitionDate": "2023-2-11 4:06 AM",
+      "URL": "https://de.jobsyn.org/93EA5F3D64EA4C469DDFB0339ED0BF42206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8FC95E0A7B07401F9F6FD310592E145E206",
+      "JobTitle": "Representative, Loan Operations",
+      "Company": "Conn's HomePlus",
+      "AccquisitionDate": "2023-2-10 12:41 AM",
+      "URL": "https://de.jobsyn.org/8FC95E0A7B07401F9F6FD310592E145E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "80D362D5A9E94F29A38F043A4A9577BD206",
+      "JobTitle": "Representative, Loan Operations",
+      "Company": "Conn's HomePlus",
+      "AccquisitionDate": "2023-1-31 6:52 AM",
+      "URL": "https://de.jobsyn.org/80D362D5A9E94F29A38F043A4A9577BD206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "938945876EFC4BCFB558B24EA21FAF80206",
+      "JobTitle": "Representative, Loan Operations, LTO",
+      "Company": "Conn's HomePlus",
+      "AccquisitionDate": "2023-1-17 6:12 AM",
+      "URL": "https://de.jobsyn.org/938945876EFC4BCFB558B24EA21FAF80206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3BDCB1C6758F4D309D8A17FAA55E0CEB206",
+      "JobTitle": "Specialist, Loan Operations",
+      "Company": "Conn's HomePlus",
+      "AccquisitionDate": "2022-10-19 10:38 PM",
+      "URL": "https://de.jobsyn.org/3BDCB1C6758F4D309D8A17FAA55E0CEB206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AAE941FE8A0B481391E05CB2E7B29643206",
+      "JobTitle": "Community Mortgage Specialist",
+      "Company": "Truist",
+      "AccquisitionDate": "2022-8-7 12:39 AM",
+      "URL": "https://de.jobsyn.org/AAE941FE8A0B481391E05CB2E7B29643206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4C24816C8EE74C0E8348100FCB11EE8A206",
+      "JobTitle": "Senior Syndication Loan Admin",
+      "Company": "East West Bank",
+      "AccquisitionDate": "2022-4-10 10:09 AM",
+      "URL": "https://de.jobsyn.org/4C24816C8EE74C0E8348100FCB11EE8A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CF5D28ACDF3C405A8089E6ED654C25A2206",
+      "JobTitle": "Senior Loan Administrator",
+      "Company": "East West Bank",
+      "AccquisitionDate": "2022-4-10 10:10 AM",
+      "URL": "https://de.jobsyn.org/CF5D28ACDF3C405A8089E6ED654C25A2206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "49F45999BB90450798C28E16348AB427206",
+      "JobTitle": "Senior Loan Processor",
+      "Company": "East West Bank",
+      "AccquisitionDate": "2022-4-10 10:09 AM",
+      "URL": "https://de.jobsyn.org/49F45999BB90450798C28E16348AB427206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "100BADAF308D479EB9C51CF353F41ED2206",
+      "JobTitle": "Title Clerk - Houston, TX",
+      "Company": "Bruckner's Truck Sales",
+      "AccquisitionDate": "2021-10-10 10:05 AM",
+      "URL": "https://de.jobsyn.org/100BADAF308D479EB9C51CF353F41ED2206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "90CD71D931AF420C8FC0C111B6B45846206",
+      "JobTitle": "Loan Administrator II",
+      "Company": "East West Bank",
+      "AccquisitionDate": "2021-8-21 7:58 AM",
+      "URL": "https://de.jobsyn.org/90CD71D931AF420C8FC0C111B6B45846206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "56B37D9A7D1A45BCBA8BFF4A94063AF2206",
+      "JobTitle": "Intern - Systemic Bio",
+      "Company": "3D Systems, Inc.",
+      "AccquisitionDate": "2022-10-28 1:06 AM",
+      "URL": "https://de.jobsyn.org/56B37D9A7D1A45BCBA8BFF4A94063AF2206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8B1DB7865D524B3AAD560D1ED62205AD206",
+      "JobTitle": "Technical Professional - Artificial Lift",
+      "Company": "Halliburton",
+      "AccquisitionDate": "2023-3-9 6:10 AM",
+      "URL": "https://de.jobsyn.org/8B1DB7865D524B3AAD560D1ED62205AD206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DBAC0C1575374D55BDCE2E40998B7C01206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-3-7 4:55 PM",
+      "URL": "https://de.jobsyn.org/DBAC0C1575374D55BDCE2E40998B7C01206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "56E53E5BAB9F410D91EF2A2DE19259F9206",
+      "JobTitle": "Biomedical Technician II",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-4 12:07 AM",
+      "URL": "https://de.jobsyn.org/56E53E5BAB9F410D91EF2A2DE19259F9206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "09863B28E8704464B99C09440A940C17206",
+      "JobTitle": "Biomedical Technician I - Clinical Engineering",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-2 12:20 AM",
+      "URL": "https://de.jobsyn.org/09863B28E8704464B99C09440A940C17206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "50F499C567F04026AB4023BA62F19515206",
+      "JobTitle": "Senior Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:24 AM",
+      "URL": "https://de.jobsyn.org/50F499C567F04026AB4023BA62F19515206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1101C2B7A4324E4487774844B3848478206",
+      "JobTitle": "Senior Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:30 AM",
+      "URL": "https://de.jobsyn.org/1101C2B7A4324E4487774844B3848478206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CF72D1233B8C47A193011068A39196D1206",
+      "JobTitle": "Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:30 AM",
+      "URL": "https://de.jobsyn.org/CF72D1233B8C47A193011068A39196D1206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0D27B8E052242B2B596DD28C1595939206",
+      "JobTitle": "Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:24 AM",
+      "URL": "https://de.jobsyn.org/A0D27B8E052242B2B596DD28C1595939206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "591C127BD59647C6982303E233A77045206",
+      "JobTitle": "R&D Engineer - Instrumentation",
+      "Company": "Astrix Technology",
+      "AccquisitionDate": "2023-2-24 5:52 AM",
+      "URL": "https://de.jobsyn.org/591C127BD59647C6982303E233A77045206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "96DA5D7AA3374B3196CA03BD5414F023206",
+      "JobTitle": "Research Engineer - Clinical Orthopedics",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-18 6:12 AM",
+      "URL": "https://de.jobsyn.org/96DA5D7AA3374B3196CA03BD5414F023206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "46C7A3D048EC4A82984D2D22CD771024206",
+      "JobTitle": "Mechanical Engineer - Vessel Mechanical",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-2-15 3:25 AM",
+      "URL": "https://de.jobsyn.org/46C7A3D048EC4A82984D2D22CD771024206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A770F600CB214501855F6B47BEBF0CED206",
+      "JobTitle": "Technical Professional - Artificial Lift",
+      "Company": "Halliburton",
+      "AccquisitionDate": "2023-1-30 10:36 PM",
+      "URL": "https://de.jobsyn.org/A770F600CB214501855F6B47BEBF0CED206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EA872B6C59984D1183194463CAA35E78206",
+      "JobTitle": "Biomedical Engineer - Orthopedics - Biomechanics",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-1-26 11:19 PM",
+      "URL": "https://de.jobsyn.org/EA872B6C59984D1183194463CAA35E78206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "97C26B15BD5844EBB41C07BA41DEBCC2206",
+      "JobTitle": "Supervisor, Biomedical Technician",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-12-17 12:10 AM",
+      "URL": "https://de.jobsyn.org/97C26B15BD5844EBB41C07BA41DEBCC2206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "65703A8534844991A0A05BEA5C7B4E3C206",
+      "JobTitle": "Scientific Programmer II - School of Biomedical Informatics",
+      "Company": "UT Health",
+      "AccquisitionDate": "2022-11-15 12:07 AM",
+      "URL": "https://de.jobsyn.org/65703A8534844991A0A05BEA5C7B4E3C206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EF0837AEC2284E23B21A863343974B75206",
+      "JobTitle": "Staff Radiopharmacist / Ctr for Adv Biomedical Imaging - PER DIEM",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-10-21 12:04 AM",
+      "URL": "https://de.jobsyn.org/EF0837AEC2284E23B21A863343974B75206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55AEE8761E2345BA9A467AC1EC8033F9206",
+      "JobTitle": "Supervisor , Biomedical Technician",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-10-20 12:21 AM",
+      "URL": "https://de.jobsyn.org/55AEE8761E2345BA9A467AC1EC8033F9206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BA0F67D6D21540A594C8A03F7DE6960A206",
+      "JobTitle": "Bioengineer",
+      "Company": "3D Systems, Inc.",
+      "AccquisitionDate": "2022-9-28 11:26 PM",
+      "URL": "https://de.jobsyn.org/BA0F67D6D21540A594C8A03F7DE6960A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C81C9CADEED9456CBF4502FABD51F97F206",
+      "JobTitle": "Scientific Programmer II - School of Biomedical Informatics",
+      "Company": "UT Health",
+      "AccquisitionDate": "2022-5-6 12:08 AM",
+      "URL": "https://de.jobsyn.org/C81C9CADEED9456CBF4502FABD51F97F206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6422A76CAB4A4EE9BB86F7F9E9D5D723206",
+      "JobTitle": "Eng Artificial Lift Staff Sr",
+      "Company": "Occidental Petroleum",
+      "AccquisitionDate": "2022-4-30 9:38 AM",
+      "URL": "https://de.jobsyn.org/6422A76CAB4A4EE9BB86F7F9E9D5D723206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DE0EB94408334F6E8B415041C75AF714206",
+      "JobTitle": "Mechanical R&D Design Engineer I",
+      "Company": "Weatherford",
+      "AccquisitionDate": "2022-3-26 3:07 AM",
+      "URL": "https://de.jobsyn.org/DE0EB94408334F6E8B415041C75AF714206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AB86492843E14DB48AC67306E75035F8206",
+      "JobTitle": "Bio Engineer",
+      "Company": "3D Systems, Inc.",
+      "AccquisitionDate": "2022-3-7 10:57 PM",
+      "URL": "https://de.jobsyn.org/AB86492843E14DB48AC67306E75035F8206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "9FFE3560744842E4ACA91B84BCC70E4E206",
+      "JobTitle": "Postdoctoral Fellow-Cancer, Dr. Jing Yang",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-14 6:24 AM",
+      "URL": "https://de.jobsyn.org/9FFE3560744842E4ACA91B84BCC70E4E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E4F24ADF7F754C48BE8BBB1F3D05F701206",
+      "JobTitle": "Postdoctoral Fellow-Cancer, Dr. Yi",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-11 11:01 PM",
+      "URL": "https://de.jobsyn.org/E4F24ADF7F754C48BE8BBB1F3D05F701206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "30419660C52F4487B324070F47883621206",
+      "JobTitle": "Postdoctoral Fellow-Nanomedicine, Dr. Filgueira",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-9 5:21 AM",
+      "URL": "https://de.jobsyn.org/30419660C52F4487B324070F47883621206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "00EE779D6CBB49F3B3DE14C6748ADA9D206",
+      "JobTitle": "Postdoctoral Fellow - SMAB lab",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-7 7:31 AM",
+      "URL": "https://de.jobsyn.org/00EE779D6CBB49F3B3DE14C6748ADA9D206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CE4F1769224D45E0A705FB612D3AC386206",
+      "JobTitle": "Postdoctoral Fellow - SMAB lab",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-7 7:31 AM",
+      "URL": "https://de.jobsyn.org/CE4F1769224D45E0A705FB612D3AC386206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5C2A2DD2F2BC4B5790F68A7ACC82613E206",
+      "JobTitle": "Postdoctoral Fellow-Nanomedicine, Dr. Ozpolat",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-26 1:13 AM",
+      "URL": "https://de.jobsyn.org/5C2A2DD2F2BC4B5790F68A7ACC82613E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0024CF095CA141A18A1A088D3CB2C0D6206",
+      "JobTitle": "Postdoctoral Fellow-Neurology, Dr. Chung Lab",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-16 1:23 AM",
+      "URL": "https://de.jobsyn.org/0024CF095CA141A18A1A088D3CB2C0D6206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D86AC3FF0623453E903FADFBC4477719206",
+      "JobTitle": "Postdoctoral Fellow  - Structural Heart",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-15 1:42 AM",
+      "URL": "https://de.jobsyn.org/D86AC3FF0623453E903FADFBC4477719206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C41DD1CC9D1B4E55AFD88D2194A3C685206",
+      "JobTitle": "Postdoctoral Fellow-Medicine, Dr. Mylonakis",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-7 11:56 PM",
+      "URL": "https://de.jobsyn.org/C41DD1CC9D1B4E55AFD88D2194A3C685206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F2781B88E5934B4F89C4A3DFB43E3111206",
+      "JobTitle": "Postdoctoral Fellow-Medicine, Dr. Mylonakis",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-4 12:37 AM",
+      "URL": "https://de.jobsyn.org/F2781B88E5934B4F89C4A3DFB43E3111206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3B2031B94C1C44E69FB49E12BBF72456206",
+      "JobTitle": "Postdoctoral Fellow",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-2-4 12:18 AM",
+      "URL": "https://de.jobsyn.org/3B2031B94C1C44E69FB49E12BBF72456206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "430D3DDEEF454230A40E7FE51BE92CC1206",
+      "JobTitle": "Postdoctoral Fellow - Cancer - Yi lab",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-1 11:42 PM",
+      "URL": "https://de.jobsyn.org/430D3DDEEF454230A40E7FE51BE92CC1206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B569D6EE75D64A629489FF3DBC39FB77206",
+      "JobTitle": "Scientist-Neurology",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-1-24 11:23 PM",
+      "URL": "https://de.jobsyn.org/B569D6EE75D64A629489FF3DBC39FB77206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "16455DDD77A24F7296831E33E01BFBE2206",
+      "JobTitle": "Scientist-Neurology",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-1-24 11:23 PM",
+      "URL": "https://de.jobsyn.org/16455DDD77A24F7296831E33E01BFBE2206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EE2D2A4638FB49D4B2EA02793AD73B90206",
+      "JobTitle": "Scientist-Neurology",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-1-24 11:23 PM",
+      "URL": "https://de.jobsyn.org/EE2D2A4638FB49D4B2EA02793AD73B90206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D10B395197A843FA8BCE25C34AF27E0B206",
+      "JobTitle": "Postdoctoral Fellow - Cancer - Yong Lu lab",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-1-18 11:14 PM",
+      "URL": "https://de.jobsyn.org/D10B395197A843FA8BCE25C34AF27E0B206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DA62D87F3B414115B1C0E1199ADF0373206",
+      "JobTitle": "Postdoctoral Fellow-Neuromodulation and Recovery Lab, Dr. Sayenko",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-11-16 11:46 PM",
+      "URL": "https://de.jobsyn.org/DA62D87F3B414115B1C0E1199ADF0373206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "79FF74DBD3444FD4B1EAA08A10B2ED0E206",
+      "JobTitle": "Postdoctoral Fellow, Cancer- Dr. Shu-hsia Chen",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-11-10 1:05 AM",
+      "URL": "https://de.jobsyn.org/79FF74DBD3444FD4B1EAA08A10B2ED0E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0B9D1F94739C489D8F10853BF1458536206",
+      "JobTitle": "Postdoctoral Fellow RNA Therapeutics - Kiss",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-11-2 11:03 PM",
+      "URL": "https://de.jobsyn.org/0B9D1F94739C489D8F10853BF1458536206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EE131F760B944C4DA4B9E26B9D7EEDA3206",
+      "JobTitle": "Postdoctoral Fellow - SMAB",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-9-27 8:35 AM",
+      "URL": "https://de.jobsyn.org/EE131F760B944C4DA4B9E26B9D7EEDA3206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DD7FA89A335940D5821E744E2D52C636206",
+      "JobTitle": "Postdoctoral Fellow - Cancer",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-8-24 10:49 PM",
+      "URL": "https://de.jobsyn.org/DD7FA89A335940D5821E744E2D52C636206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "70261AC9E09D4366AB31B71C199C0659206",
+      "JobTitle": "Postdoctoral Fellow",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-8-6 12:13 AM",
+      "URL": "https://de.jobsyn.org/70261AC9E09D4366AB31B71C199C0659206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E0EF19D2164A4B738AB83B9A5E01CCC9206",
+      "JobTitle": "Postdoctoral Fellow, Imaging-Dr. Shah",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-7-24 2:06 AM",
+      "URL": "https://de.jobsyn.org/E0EF19D2164A4B738AB83B9A5E01CCC9206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E241EC96EBB7425391933C22E1D4C9DE206",
+      "JobTitle": "Postdoctoral Fellow - Preventative Cardiology",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-7-8 7:14 AM",
+      "URL": "https://de.jobsyn.org/E241EC96EBB7425391933C22E1D4C9DE206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F3E32A023E794166A97885FA1DA5EB55206",
+      "JobTitle": "Postdoctoral Fellow - Cancer",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-2-22 11:23 PM",
+      "URL": "https://de.jobsyn.org/F3E32A023E794166A97885FA1DA5EB55206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "68E2EF3CD0924F2E8A41D5214D1E3A47206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2022-12-20 12:12 AM",
+      "URL": "https://de.jobsyn.org/68E2EF3CD0924F2E8A41D5214D1E3A47206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8F0CCD4C8B5B4224B69C39D958379FBC206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-18 12:25 AM",
+      "URL": "https://de.jobsyn.org/8F0CCD4C8B5B4224B69C39D958379FBC206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9E5C764A70584B4CB9C78813DD86FBAD206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-1-20 12:17 AM",
+      "URL": "https://de.jobsyn.org/9E5C764A70584B4CB9C78813DD86FBAD206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B10C85A7DA07413B82C6486001FF4081206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2022-11-18 12:06 AM",
+      "URL": "https://de.jobsyn.org/B10C85A7DA07413B82C6486001FF4081206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5F0E90D213394D52A17D2CA4A7CD4E41206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-1-15 1:16 AM",
+      "URL": "https://de.jobsyn.org/5F0E90D213394D52A17D2CA4A7CD4E41206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4B71E801DA2E445CB348C5D5A88F2358206",
+      "JobTitle": "Cath Lab Technologist III",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2022-10-5 12:30 AM",
+      "URL": "https://de.jobsyn.org/4B71E801DA2E445CB348C5D5A88F2358206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D02BCA1310E542CD9A0E70F8377B975D206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-1-15 1:17 AM",
+      "URL": "https://de.jobsyn.org/D02BCA1310E542CD9A0E70F8377B975D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5140B2317BE14FF88C3764FA64FFCC3E206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-2-17 12:57 AM",
+      "URL": "https://de.jobsyn.org/5140B2317BE14FF88C3764FA64FFCC3E206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C3511A29885B4004B55C027E12B2D9E3206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-24 12:19 AM",
+      "URL": "https://de.jobsyn.org/C3511A29885B4004B55C027E12B2D9E3206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F01FAB8247434AC18358E89E20A076B4206",
+      "JobTitle": "Cath Lab Technologist II",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-1-20 1:31 AM",
+      "URL": "https://de.jobsyn.org/F01FAB8247434AC18358E89E20A076B4206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "80503E9D4BC04B9899C725419F553F0D206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2022-9-23 12:26 AM",
+      "URL": "https://de.jobsyn.org/80503E9D4BC04B9899C725419F553F0D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4A3A6C55C3FB4D9A8D431332E57721B0206",
+      "JobTitle": "Cath Lab Technologist III",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-1-15 1:16 AM",
+      "URL": "https://de.jobsyn.org/4A3A6C55C3FB4D9A8D431332E57721B0206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "13309C3BDEB24F1784FAC1FE48C3BC46206",
+      "JobTitle": "Registered Vascular Technician",
+      "Company": "Fresenius Medical Care North America",
+      "AccquisitionDate": "2023-1-12 2:33 AM",
+      "URL": "https://de.jobsyn.org/13309C3BDEB24F1784FAC1FE48C3BC46206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "979BAFBCBFB24C8C82154ACA6E413EDA206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-1-15 1:17 AM",
+      "URL": "https://de.jobsyn.org/979BAFBCBFB24C8C82154ACA6E413EDA206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D4D5CBC551EA4E8DB62E5BA070CB0472206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-2-23 1:12 AM",
+      "URL": "https://de.jobsyn.org/D4D5CBC551EA4E8DB62E5BA070CB0472206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "83BF743FA6334920A3CF3D9B42D7DC2E206",
+      "JobTitle": "EKG Technologist - Cardiology Laboratory",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-9 12:20 AM",
+      "URL": "https://de.jobsyn.org/83BF743FA6334920A3CF3D9B42D7DC2E206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EAC5C9276C9A4B5EB94A57C6D16471F9206",
+      "JobTitle": "Perfusionist I- Children's Heart Institute",
+      "Company": "UT Health",
+      "AccquisitionDate": "2022-9-3 12:06 AM",
+      "URL": "https://de.jobsyn.org/EAC5C9276C9A4B5EB94A57C6D16471F9206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "10814A3F660748FFAB49D8DB8BD6EFA5206",
+      "JobTitle": "Neuroendovascular Tech",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-14 12:16 AM",
+      "URL": "https://de.jobsyn.org/10814A3F660748FFAB49D8DB8BD6EFA5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "170481DD103D4E32A46077EE1BD19863206",
+      "JobTitle": "Exercise Physiologist - Cardiology Lab",
+      "Company": "Kelsey-Seybold Clinic",
+      "AccquisitionDate": "2023-3-14 3:28 AM",
+      "URL": "https://de.jobsyn.org/170481DD103D4E32A46077EE1BD19863206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D98082A7354411E970149973412B455206",
+      "JobTitle": "Cardiac Cath Lab Tech | Cardiac Cath Lab - Contract - Days",
+      "Company": "HealthTrust Workforce Solutions",
+      "AccquisitionDate": "2023-3-14 4:52 AM",
+      "URL": "https://de.jobsyn.org/2D98082A7354411E970149973412B455206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "51D100619B3C43B2ABA4851F18E36ACF206",
+      "JobTitle": "Echo Sonographer II - FT/Nights/Cardio Diagnostics-Echo",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-11 11:01 PM",
+      "URL": "https://de.jobsyn.org/51D100619B3C43B2ABA4851F18E36ACF206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4E802339590D43B1BEBF74A010362422206",
+      "JobTitle": "Ultrasound Technologist I - FT/Days",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-11 11:01 PM",
+      "URL": "https://de.jobsyn.org/4E802339590D43B1BEBF74A010362422206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "90C2C3E5A107475891761AF28FE5B641206",
+      "JobTitle": "Surgical Technologist Senior - Full Time, Days - $5,000 Sign On and Employee Referral Bonus",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-11 6:02 AM",
+      "URL": "https://de.jobsyn.org/90C2C3E5A107475891761AF28FE5B641206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7395C18C3225475F8EADCCBBFD7807AE206",
+      "JobTitle": "Cardiovascular Sonographer II/III - CV Surgery- Katy",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-3-11 12:05 AM",
+      "URL": "https://de.jobsyn.org/7395C18C3225475F8EADCCBBFD7807AE206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1068C765CB714E6E818A77EABB7427A0206",
+      "JobTitle": "Radiologic Technologist",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-3-10 11:35 PM",
+      "URL": "https://de.jobsyn.org/1068C765CB714E6E818A77EABB7427A0206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "B4CF57E4EC7A42208B4F4BD5A5D0209B206",
+      "JobTitle": "Cytogenetics Technologist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-8 2:49 AM",
+      "URL": "https://de.jobsyn.org/B4CF57E4EC7A42208B4F4BD5A5D0209B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "CF0CC7425F784CDFB521B1E2D8090F51206",
+      "JobTitle": "Cytotechnologist I/II - Part Time",
+      "Company": "UT Health",
+      "AccquisitionDate": "2022-11-2 12:34 AM",
+      "URL": "https://de.jobsyn.org/CF0CC7425F784CDFB521B1E2D8090F51206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "DD0D091E5C4244B8834E3CAE491008D2206",
+      "JobTitle": "Sonographer",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2022-11-19 12:28 AM",
+      "URL": "https://de.jobsyn.org/DD0D091E5C4244B8834E3CAE491008D2206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2C3F70455E5448FA861CCB58C55D9B62206",
+      "JobTitle": "Advanced Echo Sonographer - FT/Days",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-22 6:15 AM",
+      "URL": "https://de.jobsyn.org/2C3F70455E5448FA861CCB58C55D9B62206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B65BBF6CEA7B4BD9A70AF7BC67CDD20B206",
+      "JobTitle": "Sonographer",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-1-15 1:17 AM",
+      "URL": "https://de.jobsyn.org/B65BBF6CEA7B4BD9A70AF7BC67CDD20B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6C556840616D4C39862723A13519F813206",
+      "JobTitle": "Sonographer",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-1-14 12:30 AM",
+      "URL": "https://de.jobsyn.org/6C556840616D4C39862723A13519F813206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DA9C5B310ECE435BBFEE0A4887C235C6206",
+      "JobTitle": "Echo/Vascular Sonographer - PRN/Days",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-22 6:15 AM",
+      "URL": "https://de.jobsyn.org/DA9C5B310ECE435BBFEE0A4887C235C6206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D7A8C4B556594109ABAAAF6D61F5E683206",
+      "JobTitle": "Sonographer",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2022-10-12 12:28 AM",
+      "URL": "https://de.jobsyn.org/D7A8C4B556594109ABAAAF6D61F5E683206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "51D100619B3C43B2ABA4851F18E36ACF206",
+      "JobTitle": "Echo Sonographer II - FT/Nights/Cardio Diagnostics-Echo",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-11 11:01 PM",
+      "URL": "https://de.jobsyn.org/51D100619B3C43B2ABA4851F18E36ACF206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0AE693A75C1141258D07FC7A3FF0682F206",
+      "JobTitle": "Echo Sonographer II - FT/Days",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-22 6:15 AM",
+      "URL": "https://de.jobsyn.org/0AE693A75C1141258D07FC7A3FF0682F206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E04F317BFC8A401D95068334DEB2DFC9206",
+      "JobTitle": "Echo Sonographer II - PRN",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-12-17 7:37 AM",
+      "URL": "https://de.jobsyn.org/E04F317BFC8A401D95068334DEB2DFC9206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A1F229BF87F0461FA1BE2BF1B0EBF5F7206",
+      "JobTitle": "Echo Sonographer I (PRN) - Cardiology (Bellaire)",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-1 5:43 AM",
+      "URL": "https://de.jobsyn.org/A1F229BF87F0461FA1BE2BF1B0EBF5F7206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7395C18C3225475F8EADCCBBFD7807AE206",
+      "JobTitle": "Cardiovascular Sonographer II/III - CV Surgery- Katy",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-3-11 12:05 AM",
+      "URL": "https://de.jobsyn.org/7395C18C3225475F8EADCCBBFD7807AE206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2B52BA7E4707426C8010369DDC944604206",
+      "JobTitle": "Vascular Sonographer II-Cardiovascular Surgery (Katy)",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-8 11:33 PM",
+      "URL": "https://de.jobsyn.org/2B52BA7E4707426C8010369DDC944604206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E205860D7BB4450F8A65AE10D17534CB206",
+      "JobTitle": "Cardiovascular Sonographer II/III- Children's Heart Institute",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-1-12 12:31 AM",
+      "URL": "https://de.jobsyn.org/E205860D7BB4450F8A65AE10D17534CB206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6AAD27B1C94B4E9CA6BDCA193F9542AC206",
+      "JobTitle": "Cardiovascular Sonographer II (Bellaire Non-Invasive Cardiology)",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-3-7 12:21 AM",
+      "URL": "https://de.jobsyn.org/6AAD27B1C94B4E9CA6BDCA193F9542AC206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C3511A29885B4004B55C027E12B2D9E3206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-24 12:19 AM",
+      "URL": "https://de.jobsyn.org/C3511A29885B4004B55C027E12B2D9E3206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B29161B1830F4517ACFC77367DBAC375206",
+      "JobTitle": "Cardiac Ultrasound Tech - Cardiology Laboratory",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-11 12:23 AM",
+      "URL": "https://de.jobsyn.org/B29161B1830F4517ACFC77367DBAC375206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8E08D092678448BC866B814CB98A5EFD206",
+      "JobTitle": "Per Diem Cardiac Ultrasound Tech - Cardiology Laboratory",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-11-8 12:09 AM",
+      "URL": "https://de.jobsyn.org/8E08D092678448BC866B814CB98A5EFD206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "80503E9D4BC04B9899C725419F553F0D206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2022-9-23 12:26 AM",
+      "URL": "https://de.jobsyn.org/80503E9D4BC04B9899C725419F553F0D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2B148926FBD04FFC92302632870D6730206",
+      "JobTitle": "Per Diem Certified Echo/doppler Tech II",
+      "Company": "Kelsey-Seybold Clinic",
+      "AccquisitionDate": "2023-1-12 3:24 PM",
+      "URL": "https://de.jobsyn.org/2B148926FBD04FFC92302632870D6730206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9A34448D69EE4EC19A757FB51318BA52206",
+      "JobTitle": "Ultrasound Tech (Breast Imaging) - PER DIEM",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-2-16 12:03 AM",
+      "URL": "https://de.jobsyn.org/9A34448D69EE4EC19A757FB51318BA52206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D4D5CBC551EA4E8DB62E5BA070CB0472206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-2-23 1:12 AM",
+      "URL": "https://de.jobsyn.org/D4D5CBC551EA4E8DB62E5BA070CB0472206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "82B5777A78624D2DB79E77A83E7D0913206",
+      "JobTitle": "Per Diem Certified Echo/Doppler Tech II",
+      "Company": "Kelsey-Seybold Clinic",
+      "AccquisitionDate": "2023-1-12 3:24 PM",
+      "URL": "https://de.jobsyn.org/82B5777A78624D2DB79E77A83E7D0913206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "979BAFBCBFB24C8C82154ACA6E413EDA206",
+      "JobTitle": "Echo Technologist I",
+      "Company": "Catholic Health Initiatives",
+      "AccquisitionDate": "2023-1-15 1:17 AM",
+      "URL": "https://de.jobsyn.org/979BAFBCBFB24C8C82154ACA6E413EDA206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "13309C3BDEB24F1784FAC1FE48C3BC46206",
+      "JobTitle": "Registered Vascular Technician",
+      "Company": "Fresenius Medical Care North America",
+      "AccquisitionDate": "2023-1-12 2:33 AM",
+      "URL": "https://de.jobsyn.org/13309C3BDEB24F1784FAC1FE48C3BC46206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F74F561D8FAA4A7DB3AB64189763AEF8206",
+      "JobTitle": "Ultrasound Tech (TMC General US) - Per Diem",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-12-15 12:01 AM",
+      "URL": "https://de.jobsyn.org/F74F561D8FAA4A7DB3AB64189763AEF8206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "F5EE9ED0E71C4A338DFB38258AD2C7F3206",
+      "JobTitle": "IT Business Intelligence Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-28 12:17 AM",
+      "URL": "https://de.jobsyn.org/F5EE9ED0E71C4A338DFB38258AD2C7F3206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "81281B78F1CB4B48ADC6FFE494E9931F206",
+      "JobTitle": "Analyst, Business Intelligence",
+      "Company": "AES",
+      "AccquisitionDate": "2023-2-15 10:49 PM",
+      "URL": "https://de.jobsyn.org/81281B78F1CB4B48ADC6FFE494E9931F206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7793CD6DB68B4B3F90C3DC24865FDA37206",
+      "JobTitle": "Business Intelligence (BI) Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-11-9 12:16 AM",
+      "URL": "https://de.jobsyn.org/7793CD6DB68B4B3F90C3DC24865FDA37206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A7526C7D5C1840BC9AF0991942278D9D206",
+      "JobTitle": "Business Intelligence (BI) Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:02 AM",
+      "URL": "https://de.jobsyn.org/A7526C7D5C1840BC9AF0991942278D9D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3B60579B670340BA81A7DA96C8EDFB70206",
+      "JobTitle": "Business Intelligence Principal Analyst _3116",
+      "Company": "Sevita",
+      "AccquisitionDate": "2023-2-1 4:14 AM",
+      "URL": "https://de.jobsyn.org/3B60579B670340BA81A7DA96C8EDFB70206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3EA9139E0DF848AC921B1EF4BB269599206",
+      "JobTitle": "Business Intelligence Analyst - Ob/Gyn (Remote)",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-2-21 12:05 AM",
+      "URL": "https://de.jobsyn.org/3EA9139E0DF848AC921B1EF4BB269599206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DF9FA2AFB2F042E1861BF2C3530B4DDA206",
+      "JobTitle": "Senior/Lead Analyst, Market Intelligence & Business Analysis",
+      "Company": "ConocoPhillips",
+      "AccquisitionDate": "2023-3-7 12:01 AM",
+      "URL": "https://de.jobsyn.org/DF9FA2AFB2F042E1861BF2C3530B4DDA206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8DFB63FD7DA84B65A8EE95C26DCB78C5206",
+      "JobTitle": "Sr. Business Intelligence Analyst - Specialized Solutions (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:06 AM",
+      "URL": "https://de.jobsyn.org/8DFB63FD7DA84B65A8EE95C26DCB78C5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E1320C6CF6274DFE9122D1E0462CE5AB206",
+      "JobTitle": "Actuarial Analyst",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-21 1:43 AM",
+      "URL": "https://de.jobsyn.org/E1320C6CF6274DFE9122D1E0462CE5AB206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C7F4178CC5DA4814B0C5B7D1DE974BCB206",
+      "JobTitle": "Lead Business Analyst - Accelsior",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-5 6:58 AM",
+      "URL": "https://de.jobsyn.org/C7F4178CC5DA4814B0C5B7D1DE974BCB206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EBB7C16BFC4425B9799F1431F765AB2206",
+      "JobTitle": "Sr Philanthropy Reporting Analyst",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-9 12:20 AM",
+      "URL": "https://de.jobsyn.org/7EBB7C16BFC4425B9799F1431F765AB2206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "42C304E802054BCDB519921306F287CF206",
+      "JobTitle": "Business Intelligence Intern",
+      "Company": "CITGO Petroleum Corporation",
+      "AccquisitionDate": "2023-3-1 6:56 AM",
+      "URL": "https://de.jobsyn.org/42C304E802054BCDB519921306F287CF206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DB32C61841484255B453319A361BCA42206",
+      "JobTitle": "Principal Research Analyst: Plastics Sustainability",
+      "Company": "Dow Jones",
+      "AccquisitionDate": "2022-6-8 4:38 PM",
+      "URL": "https://de.jobsyn.org/DB32C61841484255B453319A361BCA42206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4B9980A0AA1F42D1A3784E1E2FA99C5E206",
+      "JobTitle": "Energy Industry Financial Analyst - Associate Director",
+      "Company": "S&P Global",
+      "AccquisitionDate": "2023-1-5 7:17 AM",
+      "URL": "https://de.jobsyn.org/4B9980A0AA1F42D1A3784E1E2FA99C5E206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7FA67CC776874B47A8450C75FB0A4A37206",
+      "JobTitle": "Part-Time Data Entry Analyst - Solvas Financial Technology",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-7-22 7:05 AM",
+      "URL": "https://de.jobsyn.org/7FA67CC776874B47A8450C75FB0A4A37206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F7EDE0AD502B4F90BF2165624F2EA6E4206",
+      "JobTitle": "Financial Analyst IV (Data Analyst)",
+      "Company": "The City of Houston",
+      "AccquisitionDate": "2022-7-27 8:11 AM",
+      "URL": "https://de.jobsyn.org/F7EDE0AD502B4F90BF2165624F2EA6E4206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "98A0EB7359C44131B7DCED8AD0D458AC206",
+      "JobTitle": "Senior Batteries and Energy Storage Market Analyst",
+      "Company": "S&P Global",
+      "AccquisitionDate": "2023-2-15 2:42 AM",
+      "URL": "https://de.jobsyn.org/98A0EB7359C44131B7DCED8AD0D458AC206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "16764EEA55FF4BC4B62AD4A964AA7906206",
+      "JobTitle": "Principal Analyst, Americas Inorganics",
+      "Company": "Dow Jones",
+      "AccquisitionDate": "2022-10-3 4:37 PM",
+      "URL": "https://de.jobsyn.org/16764EEA55FF4BC4B62AD4A964AA7906206",
+      "Location": "HOUSTON, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "80D8757EEC8641D0A3F11BD0342CEADB206",
+      "JobTitle": "Director of Market, Customer, and Competitive Intelligence",
+      "Company": "Sysco",
+      "AccquisitionDate": "2023-3-14 5:18 AM",
+      "URL": "https://de.jobsyn.org/80D8757EEC8641D0A3F11BD0342CEADB206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F6BD9159CC6743F6BECA7B5644C9EB0D206",
+      "JobTitle": "Business Intelligence (BI) Consultant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:11 AM",
+      "URL": "https://de.jobsyn.org/F6BD9159CC6743F6BECA7B5644C9EB0D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "411336879DF043D19D71D30D41AC96F9206",
+      "JobTitle": "Sr Developer - Looker - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:28 PM",
+      "URL": "https://de.jobsyn.org/411336879DF043D19D71D30D41AC96F9206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FB8C55583D9E467F9154E616AD2FB2BF206",
+      "JobTitle": "Sr Analyst, Operations Data Analytics",
+      "Company": "Sysco",
+      "AccquisitionDate": "2023-3-9 3:41 AM",
+      "URL": "https://de.jobsyn.org/FB8C55583D9E467F9154E616AD2FB2BF206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "12191DF232ED44AD9C284D3A28DF072C206",
+      "JobTitle": "Crude/Gas Marketing Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-9 12:02 AM",
+      "URL": "https://de.jobsyn.org/12191DF232ED44AD9C284D3A28DF072C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D4D17E93EC3C436186262C615AE43DF5206",
+      "JobTitle": "Sr Fin Info Data Anylst",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-3-5 2:08 AM",
+      "URL": "https://de.jobsyn.org/D4D17E93EC3C436186262C615AE43DF5206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FD0754E9C13A4221A2A0262DA274EE46206",
+      "JobTitle": "Audit Analytics Business Analyst",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-3-3 3:27 AM",
+      "URL": "https://de.jobsyn.org/FD0754E9C13A4221A2A0262DA274EE46206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "1B99564A50BC4666B420D8215FF02063206",
+      "JobTitle": "Console Specialist (3rd Shift, Full-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/1B99564A50BC4666B420D8215FF02063206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E95DC9FADB44E41B0AC3E4BA176B939206",
+      "JobTitle": "Console Specialist (1st Shift, Full-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/7E95DC9FADB44E41B0AC3E4BA176B939206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FABE55CC7BFC49208425759E3CA93EC1206",
+      "JobTitle": "Console Specialist (2nd Shift, Full-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/FABE55CC7BFC49208425759E3CA93EC1206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D115B4C22B6430192CBF9A70F1262C8206",
+      "JobTitle": "Operator, Computer",
+      "Company": "Jack Henry & Associates",
+      "AccquisitionDate": "2023-3-9 6:02 AM",
+      "URL": "https://de.jobsyn.org/2D115B4C22B6430192CBF9A70F1262C8206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "17736879BC694CBC86E9D38066734074206",
+      "JobTitle": "Digital Print Production Operator",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-7 4:06 AM",
+      "URL": "https://de.jobsyn.org/17736879BC694CBC86E9D38066734074206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ADA866F7804743B683459343CFDF15F2206",
+      "JobTitle": "Reliability Operator -",
+      "Company": "Wood Group USA Inc.",
+      "AccquisitionDate": "2023-2-23 9:26 AM",
+      "URL": "https://de.jobsyn.org/ADA866F7804743B683459343CFDF15F2206",
+      "Location": "Houston, MN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2D406C735D624B698420CCBDDA60BE37206",
+      "JobTitle": "Console Specialist (3rd Shift, Part-Time)  \u2013 CHAPEA Mars Mission Analog Control Center",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-17 4:45 AM",
+      "URL": "https://de.jobsyn.org/2D406C735D624B698420CCBDDA60BE37206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7A63BCCF2FC24185A6B0C9A237B735FD206",
+      "JobTitle": "Control Center Operator",
+      "Company": "Pattern Energy Group",
+      "AccquisitionDate": "2023-2-16 2:13 AM",
+      "URL": "https://de.jobsyn.org/7A63BCCF2FC24185A6B0C9A237B735FD206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DD59B85883A94680BF903204BDABDDF0206",
+      "JobTitle": "Multimedia Coordinator Spacesuit #1744",
+      "Company": "Aeyon",
+      "AccquisitionDate": "2022-12-31 1:42 AM",
+      "URL": "https://de.jobsyn.org/DD59B85883A94680BF903204BDABDDF0206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5958BEF00DAD44E9B22FFF3E1F2608F8206",
+      "JobTitle": "Senior Data Center Operations Analyst \u2013 Unisys",
+      "Company": "Ensono",
+      "AccquisitionDate": "2022-12-29 5:42 AM",
+      "URL": "https://de.jobsyn.org/5958BEF00DAD44E9B22FFF3E1F2608F8206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D1095595716A4B55A9CF133FFC367F20206",
+      "JobTitle": "Tier 2 - Systems Engineer",
+      "Company": "Centre Technologies",
+      "AccquisitionDate": "2022-12-13 1:02 AM",
+      "URL": "https://de.jobsyn.org/D1095595716A4B55A9CF133FFC367F20206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "11DC3E93AF4248A48619342679455699206",
+      "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-18 3:59 AM",
+      "URL": "https://de.jobsyn.org/11DC3E93AF4248A48619342679455699206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "50EB5F08112B4DB9A400EF015606F818206",
+      "JobTitle": "Sr Security Architect or Security Architect",
+      "Company": "Entergy",
+      "AccquisitionDate": "2022-10-24 7:51 PM",
+      "URL": "https://de.jobsyn.org/50EB5F08112B4DB9A400EF015606F818206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C04CB5445C7F45088EB9F465D6DB27DC206",
+      "JobTitle": "Senior Application Architect (Remote)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-11 12:34 AM",
+      "URL": "https://de.jobsyn.org/C04CB5445C7F45088EB9F465D6DB27DC206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B5B283072FF44B52946422A67377E641206",
+      "JobTitle": "Network Solutions Architect - Cyber Security (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-6-3 5:41 PM",
+      "URL": "https://de.jobsyn.org/B5B283072FF44B52946422A67377E641206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7C0E94197CD64ABEA8E1C21CC987E17E206",
+      "JobTitle": "LTE Core Architect - Networks, Integration, & Automation (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-3-7 3:47 PM",
+      "URL": "https://de.jobsyn.org/7C0E94197CD64ABEA8E1C21CC987E17E206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9E36CF87F90A42B6919002B8E3E86F1D206",
+      "JobTitle": "Cloud Architect - Secret Clearance",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-8 3:46 AM",
+      "URL": "https://de.jobsyn.org/9E36CF87F90A42B6919002B8E3E86F1D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "87E2DACD33AF4B91931B7CD2A9F8FAD5206",
+      "JobTitle": "Kafka Architect (Full-Time Remote Position)",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-7 4:09 AM",
+      "URL": "https://de.jobsyn.org/87E2DACD33AF4B91931B7CD2A9F8FAD5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F65FD7B4DE544E78975A291EA6B90479206",
+      "JobTitle": "Software Architect",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2022-11-15 11:45 PM",
+      "URL": "https://de.jobsyn.org/F65FD7B4DE544E78975A291EA6B90479206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A2F558BCF7AC4674AAE2C7E989FD7C38206",
+      "JobTitle": "Lead Solutions Architect Genesys PureCloud (Home office / Remote / Work from home eligible)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-11-3 12:34 AM",
+      "URL": "https://de.jobsyn.org/A2F558BCF7AC4674AAE2C7E989FD7C38206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F714CF7FC6674AFD9D2EF223E321EA0F206",
+      "JobTitle": "Networking Software Engineer-ADV0005OU",
+      "Company": "Mb Solutions, Inc.",
+      "AccquisitionDate": "2023-2-3 12:40 AM",
+      "URL": "https://de.jobsyn.org/F714CF7FC6674AFD9D2EF223E321EA0F206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "582A6622FB6C413590534AD10657B755206",
+      "JobTitle": "Senior Network Engineer",
+      "Company": "Moss Adams LLP",
+      "AccquisitionDate": "2023-3-7 3:25 AM",
+      "URL": "https://de.jobsyn.org/582A6622FB6C413590534AD10657B755206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "20FDF7740A2D46C1B739325ADE3BDD5D206",
+      "JobTitle": "AWS Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-4-21 3:36 AM",
+      "URL": "https://de.jobsyn.org/20FDF7740A2D46C1B739325ADE3BDD5D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D97FAB33D427485CAD816F253C30CFBB206",
+      "JobTitle": "IT Security Staff Architect",
+      "Company": "ConocoPhillips",
+      "AccquisitionDate": "2023-3-3 12:02 AM",
+      "URL": "https://de.jobsyn.org/D97FAB33D427485CAD816F253C30CFBB206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "83B4B1E30C0843B0922B790D7FA9EB0D206",
+      "JobTitle": "Systems Engineer III (Citrix)",
+      "Company": "Old Dominion Freight Line",
+      "AccquisitionDate": "2023-1-25 6:27 AM",
+      "URL": "https://de.jobsyn.org/83B4B1E30C0843B0922B790D7FA9EB0D206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7177431AE4424FF58B7AD8E13B3158F5206",
+      "JobTitle": "SAP S4 HANA Enterprise Asset Management",
+      "Company": "Chevron Corporation",
+      "AccquisitionDate": "2023-3-11 3:35 AM",
+      "URL": "https://de.jobsyn.org/7177431AE4424FF58B7AD8E13B3158F5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BAF0D6983CFF4C16B51280AE0A6DBCC6206",
+      "JobTitle": "Senior Data Engineer - SFL Scientific",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-16 4:02 AM",
+      "URL": "https://de.jobsyn.org/BAF0D6983CFF4C16B51280AE0A6DBCC6206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55C42169FF4D46ACB0FECC7CC3B7F1D3206",
+      "JobTitle": "Software and Integration Engineer",
+      "Company": "Stress Engineering Services",
+      "AccquisitionDate": "2013-11-5 6:48 AM",
+      "URL": "https://de.jobsyn.org/55C42169FF4D46ACB0FECC7CC3B7F1D3206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A11452E4AB7349DD8066CED7A850CC1C206",
+      "JobTitle": "E2E System Architect for New Business Models",
+      "Company": "HP Inc.",
+      "AccquisitionDate": "2023-2-7 5:58 AM",
+      "URL": "https://de.jobsyn.org/A11452E4AB7349DD8066CED7A850CC1C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F09C6F4BDAE54A4AA2A1DC461C3D9720206",
+      "JobTitle": "LTE Core Architect - Networks, Integration, & Automation (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2021-10-13 3:42 PM",
+      "URL": "https://de.jobsyn.org/F09C6F4BDAE54A4AA2A1DC461C3D9720206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3237019CEAFF46CD8C0EB788A9E83FED206",
+      "JobTitle": "AWS DevOps Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-1-29 1:59 AM",
+      "URL": "https://de.jobsyn.org/3237019CEAFF46CD8C0EB788A9E83FED206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "91EAAB7C0222490AB17E7286EF3D9B4A206",
+      "JobTitle": "Network Principle Architect",
+      "Company": "Sysco",
+      "AccquisitionDate": "2023-3-11 5:25 AM",
+      "URL": "https://de.jobsyn.org/91EAAB7C0222490AB17E7286EF3D9B4A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EEE2C250CF2F4137A48F2DFA5C821B75206",
+      "JobTitle": "Lead Analyst, Data Architect",
+      "Company": "AES",
+      "AccquisitionDate": "2023-2-15 10:49 PM",
+      "URL": "https://de.jobsyn.org/EEE2C250CF2F4137A48F2DFA5C821B75206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6FD6495349CE49CCA41ABEEDA1132268206",
+      "JobTitle": "Cloud Native Engineer - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 3:54 AM",
+      "URL": "https://de.jobsyn.org/6FD6495349CE49CCA41ABEEDA1132268206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EDC34D039EF42179F761C6EE5D90226206",
+      "JobTitle": "Avionics Network Lab Engineer  #1523",
+      "Company": "Aeyon",
+      "AccquisitionDate": "2022-9-8 7:35 AM",
+      "URL": "https://de.jobsyn.org/7EDC34D039EF42179F761C6EE5D90226206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "6A14BD9E395848DDB4608448947B56E7206",
+      "JobTitle": "Technology Support Specialist III",
+      "Company": "University of Houston - Clear Lake",
+      "AccquisitionDate": "2023-3-10 7:21 AM",
+      "URL": "https://de.jobsyn.org/6A14BD9E395848DDB4608448947B56E7206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E45E8950D7840DAA097962C13A20107206",
+      "JobTitle": "Specialist, Senior Systems",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2023-3-14 6:13 AM",
+      "URL": "https://de.jobsyn.org/7E45E8950D7840DAA097962C13A20107206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C7AEB2D9C2844D2BACFDBEFDD9519D64206",
+      "JobTitle": "System Specialist, Building Automation",
+      "Company": "Digital Air Control, Inc.",
+      "AccquisitionDate": "2019-9-12 1:27 AM",
+      "URL": "https://de.jobsyn.org/C7AEB2D9C2844D2BACFDBEFDD9519D64206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "371BC496D9064BDBB9923EF9F713F642206",
+      "JobTitle": "IT Support Specialist",
+      "Company": "CanACRE",
+      "AccquisitionDate": "2023-1-27 1:38 AM",
+      "URL": "https://de.jobsyn.org/371BC496D9064BDBB9923EF9F713F642206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "05C15CD8F5324066BCBF34BF41D39BA6206",
+      "JobTitle": "Help Desk Specialist II",
+      "Company": "Hargrove Engineers & Constructors",
+      "AccquisitionDate": "2023-3-1 5:02 AM",
+      "URL": "https://de.jobsyn.org/05C15CD8F5324066BCBF34BF41D39BA6206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1B7567145F6E4A629B633AEE008087E1206",
+      "JobTitle": "Senior Desktop Architecture Specialist",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2023-1-19 11:56 PM",
+      "URL": "https://de.jobsyn.org/1B7567145F6E4A629B633AEE008087E1206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7AFE69C7DBAC42F6A69AC11A51933565206",
+      "JobTitle": "Specialist, Senior Systems",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2022-6-20 10:03 PM",
+      "URL": "https://de.jobsyn.org/7AFE69C7DBAC42F6A69AC11A51933565206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5E9DD3A6B2B1429487423103BAFF05C5206",
+      "JobTitle": "Specialist, Lead Systems",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2022-9-14 1:02 AM",
+      "URL": "https://de.jobsyn.org/5E9DD3A6B2B1429487423103BAFF05C5206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FAFED6E6450049DE88033636521EFDF5206",
+      "JobTitle": "Information Technology Specialist (Customer Support)",
+      "Company": "U.S. Army Accession Command",
+      "AccquisitionDate": "2023-3-14 5:39 AM",
+      "URL": "https://de.jobsyn.org/FAFED6E6450049DE88033636521EFDF5206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "63B9DD41C3FA4CE8804BCEB48E4BBCB9206",
+      "JobTitle": "IT Support Specialist- Entry Level",
+      "Company": "Woz U",
+      "AccquisitionDate": "2022-1-20 7:41 AM",
+      "URL": "https://de.jobsyn.org/63B9DD41C3FA4CE8804BCEB48E4BBCB9206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C6638569A4344CB5A6B8F717060CB7EC206",
+      "JobTitle": "Computer Network Support Specialist",
+      "Company": "Leader Communications Inc.",
+      "AccquisitionDate": "2023-3-14 12:40 AM",
+      "URL": "https://de.jobsyn.org/C6638569A4344CB5A6B8F717060CB7EC206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CCD7CAD4F8C04F5C9D3A9120E03D27A2206",
+      "JobTitle": "Linux Product Support Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-9-27 12:36 AM",
+      "URL": "https://de.jobsyn.org/CCD7CAD4F8C04F5C9D3A9120E03D27A2206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2F5C8CE5012449BCA7B06924CCD454B0206",
+      "JobTitle": "IT PROFESSIONAL - CLIENT SUPPORT-(IT/DO)",
+      "Company": "The City of Houston",
+      "AccquisitionDate": "2023-2-28 10:08 PM",
+      "URL": "https://de.jobsyn.org/2F5C8CE5012449BCA7B06924CCD454B0206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "00CEAFAA067A4F96BEB5172C074DB07F206",
+      "JobTitle": "Information Technology Specialist (Computer Specialist)",
+      "Company": "Justice, Bureau of Prisons/Federal Prison System",
+      "AccquisitionDate": "2023-2-25 10:30 PM",
+      "URL": "https://de.jobsyn.org/00CEAFAA067A4F96BEB5172C074DB07F206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D0E2E730A54142A987F3E55311A7E048206",
+      "JobTitle": "EUC Offboarding Specialist - In Office",
+      "Company": "NRG Energy, Inc.",
+      "AccquisitionDate": "2023-2-22 2:27 AM",
+      "URL": "https://de.jobsyn.org/D0E2E730A54142A987F3E55311A7E048206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "09F10DDC76DF4AAB985BD3848D717E62206",
+      "JobTitle": "Associate Customer Service Technical Specialist",
+      "Company": "Wolters Kluwer",
+      "AccquisitionDate": "2022-12-20 6:10 AM",
+      "URL": "https://de.jobsyn.org/09F10DDC76DF4AAB985BD3848D717E62206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8810B86F1CE947FF998306FD14B6FFFB206",
+      "JobTitle": "Specialist, Lead Systems",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2022-3-16 10:16 PM",
+      "URL": "https://de.jobsyn.org/8810B86F1CE947FF998306FD14B6FFFB206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "218370ECCD914DEDA1F3BFF283691300206",
+      "JobTitle": "Systems & Applications Specialist / Desktop Support - Medical School",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-2-2 12:05 AM",
+      "URL": "https://de.jobsyn.org/218370ECCD914DEDA1F3BFF283691300206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8CF110CBC2134F50A0092BFD99AB7390206",
+      "JobTitle": "Systems & Applications Specialist II for OBGYN Clinics / Desktop Support",
+      "Company": "UT Health",
+      "AccquisitionDate": "2022-11-1 12:04 AM",
+      "URL": "https://de.jobsyn.org/8CF110CBC2134F50A0092BFD99AB7390206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A52F6200CE5F4E66A6B012BE8CB94010206",
+      "JobTitle": "Manager, Software Solutions Specialist - DAS GPS",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-23 2:04 AM",
+      "URL": "https://de.jobsyn.org/A52F6200CE5F4E66A6B012BE8CB94010206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6317CC40F34B4B7686888FC64E0C4CD4206",
+      "JobTitle": "Tier 1 / Help Desk Task Lead",
+      "Company": "GovCIO",
+      "AccquisitionDate": "2023-2-10 5:17 AM",
+      "URL": "https://de.jobsyn.org/6317CC40F34B4B7686888FC64E0C4CD4206",
+      "Location": "Ft Sam Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A2DE60DB01A4A1E8DB4B04F192800BD206",
+      "JobTitle": "Client Support Analyst (Children's Learning  Institute)",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-2-2 12:05 AM",
+      "URL": "https://de.jobsyn.org/0A2DE60DB01A4A1E8DB4B04F192800BD206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6F81781F7CE54379B9F776FA350AA01B206",
+      "JobTitle": "Application Support Specialist",
+      "Company": "Emerson",
+      "AccquisitionDate": "2022-6-29 3:00 AM",
+      "URL": "https://de.jobsyn.org/6F81781F7CE54379B9F776FA350AA01B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B3AC4E88C3004883B29CB7E61706330B206",
+      "JobTitle": "Ambulatory / Healthy Planet Epic Application Specialist (Remote)",
+      "Company": "UT Health",
+      "AccquisitionDate": "2023-1-28 12:24 AM",
+      "URL": "https://de.jobsyn.org/B3AC4E88C3004883B29CB7E61706330B206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E0E96E0070444BBF86FA26BE9AA8DE2C206",
+      "JobTitle": "Genius (Houston Galleria R058)",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-1 3:06 AM",
+      "URL": "https://de.jobsyn.org/E0E96E0070444BBF86FA26BE9AA8DE2C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "AA43A865DE88422090B84A50D8DCC0B5206",
+      "JobTitle": "Associate Director, Information Architecture",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-2-15 3:46 AM",
+      "URL": "https://de.jobsyn.org/AA43A865DE88422090B84A50D8DCC0B5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "5937A01AB80545E4946CD6BA3504ABDC206",
+      "JobTitle": "Specialist, Lead Document Control",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2023-1-25 2:01 AM",
+      "URL": "https://de.jobsyn.org/5937A01AB80545E4946CD6BA3504ABDC206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A6D38AC6D05846299CD86DC2C5184D4C206",
+      "JobTitle": "Specialist, Document Control",
+      "Company": "Epco, Inc.",
+      "AccquisitionDate": "2022-12-22 11:13 PM",
+      "URL": "https://de.jobsyn.org/A6D38AC6D05846299CD86DC2C5184D4C206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A0650F9C43394BDA96E11485AB405966206",
+      "JobTitle": "construction document control specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-9 6:16 AM",
+      "URL": "https://de.jobsyn.org/A0650F9C43394BDA96E11485AB405966206",
+      "Location": "houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "F7E1AC2835DA48B2B34F8CF6E207EC70206",
+      "JobTitle": "Aerospace Engineer, AST- Aerospace Flight Systems",
+      "Company": "Lyndon B. Johnson Space Center",
+      "AccquisitionDate": "2023-3-11 2:07 AM",
+      "URL": "https://de.jobsyn.org/F7E1AC2835DA48B2B34F8CF6E207EC70206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8F859BF5D8EA484389860C48BB135582206",
+      "JobTitle": "Aerospace Engineer, AST, Aerospace Flight Systems",
+      "Company": "Lyndon B. Johnson Space Center",
+      "AccquisitionDate": "2023-3-11 2:07 AM",
+      "URL": "https://de.jobsyn.org/8F859BF5D8EA484389860C48BB135582206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BE0998E612D74D65BCBA9AB9479DBB76206",
+      "JobTitle": "Aerospace and Software Engineer  77058",
+      "Company": "Odyssey Space Research LLC",
+      "AccquisitionDate": "2023-2-15 9:07 PM",
+      "URL": "https://de.jobsyn.org/BE0998E612D74D65BCBA9AB9479DBB76206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7C1D7F41B5944F67B4147F592ACD7275206",
+      "JobTitle": "Aerospace Engineer #1685",
+      "Company": "Aeyon",
+      "AccquisitionDate": "2022-10-22 11:56 AM",
+      "URL": "https://de.jobsyn.org/7C1D7F41B5944F67B4147F592ACD7275206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8BF7E3036CF441F6945D396F28E3436B206",
+      "JobTitle": "Space/Avionics/Aerospace Engineers & Technicians Openings in TX and CO",
+      "Company": "Fresh Consulting",
+      "AccquisitionDate": "2023-3-2 11:48 PM",
+      "URL": "https://de.jobsyn.org/8BF7E3036CF441F6945D396F28E3436B206",
+      "Location": "Onsite Houston, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C0FB56F141FB405FB0F29003C63488DD206",
+      "JobTitle": "Spacecraft Aerodynamics Engineer",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2022-10-8 6:20 AM",
+      "URL": "https://de.jobsyn.org/C0FB56F141FB405FB0F29003C63488DD206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0028470C8CB14AAB85A4B6F0B6E9214A206",
+      "JobTitle": "Flight Hardware Systems Engineer (NASA)",
+      "Company": "MEI Technologies, Inc",
+      "AccquisitionDate": "2023-2-18 9:31 AM",
+      "URL": "https://de.jobsyn.org/0028470C8CB14AAB85A4B6F0B6E9214A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9173F80E5EF84F41A0838B1C309ED2C7206",
+      "JobTitle": "Spacesuit Lead Systems Engineer (Hybrid)",
+      "Company": "Raytheon Technologies",
+      "AccquisitionDate": "2022-12-17 2:57 AM",
+      "URL": "https://de.jobsyn.org/9173F80E5EF84F41A0838B1C309ED2C7206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8CD8861BA7A5471588564A11ACDBC447206",
+      "JobTitle": "Vibro-Acoustic Analysis Engineer",
+      "Company": "Barrios Technology",
+      "AccquisitionDate": "2023-3-4 6:17 AM",
+      "URL": "https://de.jobsyn.org/8CD8861BA7A5471588564A11ACDBC447206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D213898B24A24B119F17714F9C267739206",
+      "JobTitle": "Spacesuit Avionics Integration IPT Lead (Hybrid)",
+      "Company": "Raytheon Technologies",
+      "AccquisitionDate": "2022-12-17 2:58 AM",
+      "URL": "https://de.jobsyn.org/D213898B24A24B119F17714F9C267739206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7294D04BE1154022848EFCBC37DAF5A5206",
+      "JobTitle": "Senior Engineering Project Assistant (Hybrid)",
+      "Company": "Raytheon Technologies",
+      "AccquisitionDate": "2023-3-1 3:43 AM",
+      "URL": "https://de.jobsyn.org/7294D04BE1154022848EFCBC37DAF5A5206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BDBEC11CC62D4343981FDC8CB4FCF9D7206",
+      "JobTitle": "NASA Lunar Gateway Spacecraft Operations Data Systems Engineer",
+      "Company": "CACI International",
+      "AccquisitionDate": "2023-3-14 4:14 AM",
+      "URL": "https://de.jobsyn.org/BDBEC11CC62D4343981FDC8CB4FCF9D7206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B80261EDC2834F63AC7B40362A50232A206",
+      "JobTitle": "Entry Level Engineer/Analyst",
+      "Company": "Stress Engineering Services",
+      "AccquisitionDate": "2022-10-19 2:15 AM",
+      "URL": "https://de.jobsyn.org/B80261EDC2834F63AC7B40362A50232A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E25AE2AFA3434447A79E984EDB79DA6B206",
+      "JobTitle": "Space Architect",
+      "Company": "MEI Technologies, Inc",
+      "AccquisitionDate": "2023-2-18 9:31 AM",
+      "URL": "https://de.jobsyn.org/E25AE2AFA3434447A79E984EDB79DA6B206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "744DF9B345AD48368CBD3061FCFB2A22206",
+      "JobTitle": "Vibro-acoustic Analysis Engineer (ADV00053F)",
+      "Company": "Oasis Systems, LLC",
+      "AccquisitionDate": "2023-2-2 6:41 AM",
+      "URL": "https://de.jobsyn.org/744DF9B345AD48368CBD3061FCFB2A22206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7F29750CEB514E609C6A5FE2E4A7C642206",
+      "JobTitle": "NASA Virtual Reality Software and Simulation Engineer",
+      "Company": "CACI International",
+      "AccquisitionDate": "2023-2-28 4:52 AM",
+      "URL": "https://de.jobsyn.org/7F29750CEB514E609C6A5FE2E4A7C642206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE66A8BB8BFC4CA6811BB9A86B5C58C1206",
+      "JobTitle": "Vibro-acoustic Analysis Engineer",
+      "Company": "Mb Solutions, Inc.",
+      "AccquisitionDate": "2022-11-21 4:15 PM",
+      "URL": "https://de.jobsyn.org/CE66A8BB8BFC4CA6811BB9A86B5C58C1206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B5ED4A081F2445DDBFF64D14DF00784E206",
+      "JobTitle": "Mechanical Design Engineer",
+      "Company": "Barrios Technology",
+      "AccquisitionDate": "2023-2-17 10:44 PM",
+      "URL": "https://de.jobsyn.org/B5ED4A081F2445DDBFF64D14DF00784E206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "672847AD39344964B874852A9E0DB411206",
+      "JobTitle": "NASA Program Integrator",
+      "Company": "MEI Technologies, Inc",
+      "AccquisitionDate": "2023-3-4 6:38 AM",
+      "URL": "https://de.jobsyn.org/672847AD39344964B874852A9E0DB411206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B5C9E17EDF024F63B7601E786648971D206",
+      "JobTitle": "Lunar Terrain Vehicle Systems Engineer  #1519",
+      "Company": "Aeyon",
+      "AccquisitionDate": "2022-9-8 7:35 AM",
+      "URL": "https://de.jobsyn.org/B5C9E17EDF024F63B7601E786648971D206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "32854BA8E5234408848DD2232236B02D206",
+      "JobTitle": "NASA EVA Integrated Hazard Analysis Engineer",
+      "Company": "SAIC",
+      "AccquisitionDate": "2023-2-16 6:15 AM",
+      "URL": "https://de.jobsyn.org/32854BA8E5234408848DD2232236B02D206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3632424ACF084270A5680C9AB0AC636A206",
+      "JobTitle": "Test Engineer for NASA Parachute Airdrop Test Project (ADV0005XX)",
+      "Company": "Oasis Systems, LLC",
+      "AccquisitionDate": "2023-3-1 11:12 PM",
+      "URL": "https://de.jobsyn.org/3632424ACF084270A5680C9AB0AC636A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2F3350ED6F434761B8E86C8FDFCA23CC206",
+      "JobTitle": "Human Spaceflight Systems Safety Engineer",
+      "Company": "SAIC",
+      "AccquisitionDate": "2023-3-7 2:29 AM",
+      "URL": "https://de.jobsyn.org/2F3350ED6F434761B8E86C8FDFCA23CC206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F1BF6772D3E744098BD55CBF4CDE5560206",
+      "JobTitle": "NASA Space Exploration Report Author",
+      "Company": "SAIC",
+      "AccquisitionDate": "2023-2-16 6:16 AM",
+      "URL": "https://de.jobsyn.org/F1BF6772D3E744098BD55CBF4CDE5560206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0F5EBCD612C846EEB5439D90BDA8F12D206",
+      "JobTitle": "Human Spaceflight System Safety Engineer",
+      "Company": "SAIC",
+      "AccquisitionDate": "2023-3-7 2:29 AM",
+      "URL": "https://de.jobsyn.org/0F5EBCD612C846EEB5439D90BDA8F12D206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D08422A025004011862EABCBDE78C17B206",
+      "JobTitle": "Infrastructure Platform Manager",
+      "Company": "BP Americas, Inc.",
+      "AccquisitionDate": "2023-2-22 2:25 AM",
+      "URL": "https://de.jobsyn.org/D08422A025004011862EABCBDE78C17B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E3D1DD62966C40F783B23B37DF7913FD206",
+      "JobTitle": "Project Architect",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-5 5:15 AM",
+      "URL": "https://de.jobsyn.org/E3D1DD62966C40F783B23B37DF7913FD206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5A9F94F9B4674FE6B28A64B527DFC4F0206",
+      "JobTitle": "Project Control Engineer",
+      "Company": "AHS Residential",
+      "AccquisitionDate": "2023-3-12 1:07 AM",
+      "URL": "https://de.jobsyn.org/5A9F94F9B4674FE6B28A64B527DFC4F0206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "13DF8DD221604C3FAF77BDE4DB0C6928206",
+      "JobTitle": "Senior Mechanical Engineer",
+      "Company": "Page Southerland Page, Inc.",
+      "AccquisitionDate": "2023-1-25 11:32 PM",
+      "URL": "https://de.jobsyn.org/13DF8DD221604C3FAF77BDE4DB0C6928206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9E063F953524451EBB239C10D224C4EB206",
+      "JobTitle": "Healthcare Project Manager",
+      "Company": "Page Southerland Page, Inc.",
+      "AccquisitionDate": "2022-8-3 1:04 AM",
+      "URL": "https://de.jobsyn.org/9E063F953524451EBB239C10D224C4EB206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0474636D8E6A4F90AF237FE9AD70BDAB206",
+      "JobTitle": "Chief Engineer - Civil/Structural/Architectural",
+      "Company": "Bechtel Corporation",
+      "AccquisitionDate": "2023-3-11 4:58 AM",
+      "URL": "https://de.jobsyn.org/0474636D8E6A4F90AF237FE9AD70BDAB206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3B796ACC21FD4E3BA344BF593D26A2FA206",
+      "JobTitle": "SENIOR PROJECT MANAGER",
+      "Company": "The City of Houston",
+      "AccquisitionDate": "2023-3-9 10:43 PM",
+      "URL": "https://de.jobsyn.org/3B796ACC21FD4E3BA344BF593D26A2FA206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CFAFBF72EF064AC38237430CC4581D80206",
+      "JobTitle": "Practice Leader - Architecture",
+      "Company": "Huitt-Zollars, Inc.",
+      "AccquisitionDate": "2023-3-2 5:29 AM",
+      "URL": "https://de.jobsyn.org/CFAFBF72EF064AC38237430CC4581D80206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DFCF8F8CA3164E7A9FE7832D0DF78805206",
+      "JobTitle": "Project Engineer / Project Manager (Hybrid) - Houston, TX",
+      "Company": "S&B Engineers and Constructors, Ltd.",
+      "AccquisitionDate": "2023-1-10 2:03 AM",
+      "URL": "https://de.jobsyn.org/DFCF8F8CA3164E7A9FE7832D0DF78805206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4CA217482AEA4C45AB9259F3F191B53B206",
+      "JobTitle": "Senior Process Architect - Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:43 PM",
+      "URL": "https://de.jobsyn.org/4CA217482AEA4C45AB9259F3F191B53B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "62DBCB46A46A40569F2CE1079CDE9DA2206",
+      "JobTitle": "Senior Director - Enterprise Architecture & Planning",
+      "Company": "Sysco",
+      "AccquisitionDate": "2023-3-12 3:10 AM",
+      "URL": "https://de.jobsyn.org/62DBCB46A46A40569F2CE1079CDE9DA2206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A07AD1BD49D42B480F68D6C74EEA9A7206",
+      "JobTitle": "PRINCIPAL INDUSTRIAL ARCHITECTURAL ENGINEER",
+      "Company": "Air Products and Chemicals, Inc.",
+      "AccquisitionDate": "2022-12-8 8:18 PM",
+      "URL": "https://de.jobsyn.org/0A07AD1BD49D42B480F68D6C74EEA9A7206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C0D34F7B988D455C99D43C0D430CB403206",
+      "JobTitle": "National Process Architecture Leader \u2013 Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:44 PM",
+      "URL": "https://de.jobsyn.org/C0D34F7B988D455C99D43C0D430CB403206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F2626FBC0F0A477BAD420888DDBA5FE7206",
+      "JobTitle": "Building Design Project Manager (Building Lead)- Industrial Buildings Group",
+      "Company": "Kiewit",
+      "AccquisitionDate": "2022-12-31 4:12 AM",
+      "URL": "https://de.jobsyn.org/F2626FBC0F0A477BAD420888DDBA5FE7206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D6837332FF544CE8D8D70741A67FE50206",
+      "JobTitle": "Constuction Manager",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-3-14 4:22 AM",
+      "URL": "https://de.jobsyn.org/2D6837332FF544CE8D8D70741A67FE50206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F4E2E7E07CF64C4199AEB7E09C69FEF8206",
+      "JobTitle": "Mechanical/Architectural Engineer - (Buildings/BSME)",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-2-21 4:37 AM",
+      "URL": "https://de.jobsyn.org/F4E2E7E07CF64C4199AEB7E09C69FEF8206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "42E0230B12FF4FE38D0A9589595BA75C206",
+      "JobTitle": "Project Manager - Substation (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-2-11 1:45 AM",
+      "URL": "https://de.jobsyn.org/42E0230B12FF4FE38D0A9589595BA75C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F678AEA5F1234F16935F49F1E74D10A7206",
+      "JobTitle": "Lead Naval Architect (Hybrid) - Houston, TX",
+      "Company": "S&B Engineers and Constructors, Ltd.",
+      "AccquisitionDate": "2023-1-10 2:03 AM",
+      "URL": "https://de.jobsyn.org/F678AEA5F1234F16935F49F1E74D10A7206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F7CB7DFB516E4A878D05771818B816A2206",
+      "JobTitle": "R&D Electrical Engineer - Principal Electrical Engineer",
+      "Company": "Halliburton",
+      "AccquisitionDate": "2023-1-26 8:03 AM",
+      "URL": "https://de.jobsyn.org/F7CB7DFB516E4A878D05771818B816A2206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "723D01A46C43446C9B19D35F09F752DA206",
+      "JobTitle": "CSA Engineering Lead",
+      "Company": "Bechtel Corporation",
+      "AccquisitionDate": "2023-3-8 5:23 AM",
+      "URL": "https://de.jobsyn.org/723D01A46C43446C9B19D35F09F752DA206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AD51E1CC52C941289A467BB36773EE23206",
+      "JobTitle": "PROJECT AUTOMATION MANAGER",
+      "Company": "Air Products and Chemicals, Inc.",
+      "AccquisitionDate": "2023-3-4 6:08 AM",
+      "URL": "https://de.jobsyn.org/AD51E1CC52C941289A467BB36773EE23206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FE8965F5547B44E299CD8228F296AAA2206",
+      "JobTitle": "Senior Environmental Manager",
+      "Company": "Langan Engineering, Environmental, Surveying and Landscape Architecture, D.P.C.",
+      "AccquisitionDate": "2023-3-8 7:17 AM",
+      "URL": "https://de.jobsyn.org/FE8965F5547B44E299CD8228F296AAA2206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D71AFF2581AF4D1494BC05C427E0ADE2206",
+      "JobTitle": "Lead Mechanical/Architectural Engineer - (Buildings/BSME)",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-2-21 4:37 AM",
+      "URL": "https://de.jobsyn.org/D71AFF2581AF4D1494BC05C427E0ADE2206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "66DAE2DD385C4A9CA453F6C73E551F51206",
+      "JobTitle": "Senior Mechanical Engineer - Federal HVAC/Plumbing - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:08 AM",
+      "URL": "https://de.jobsyn.org/66DAE2DD385C4A9CA453F6C73E551F51206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D0259FCC0704491B8ECC19330001494B206",
+      "JobTitle": "Life Sciences Manager (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:44 PM",
+      "URL": "https://de.jobsyn.org/D0259FCC0704491B8ECC19330001494B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "0A1BCDBD43EF4709B9DFF3C6BE038E7C206",
+      "JobTitle": "Transmission Line Engineering Manager 5 - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-4 5:41 AM",
+      "URL": "https://de.jobsyn.org/0A1BCDBD43EF4709B9DFF3C6BE038E7C206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "56B37D9A7D1A45BCBA8BFF4A94063AF2206",
+      "JobTitle": "Intern - Systemic Bio",
+      "Company": "3D Systems, Inc.",
+      "AccquisitionDate": "2022-10-28 1:06 AM",
+      "URL": "https://de.jobsyn.org/56B37D9A7D1A45BCBA8BFF4A94063AF2206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8B1DB7865D524B3AAD560D1ED62205AD206",
+      "JobTitle": "Technical Professional - Artificial Lift",
+      "Company": "Halliburton",
+      "AccquisitionDate": "2023-3-9 6:10 AM",
+      "URL": "https://de.jobsyn.org/8B1DB7865D524B3AAD560D1ED62205AD206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DBAC0C1575374D55BDCE2E40998B7C01206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-3-7 4:55 PM",
+      "URL": "https://de.jobsyn.org/DBAC0C1575374D55BDCE2E40998B7C01206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "56E53E5BAB9F410D91EF2A2DE19259F9206",
+      "JobTitle": "Biomedical Technician II",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-4 12:07 AM",
+      "URL": "https://de.jobsyn.org/56E53E5BAB9F410D91EF2A2DE19259F9206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "09863B28E8704464B99C09440A940C17206",
+      "JobTitle": "Biomedical Technician I - Clinical Engineering",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2023-3-2 12:20 AM",
+      "URL": "https://de.jobsyn.org/09863B28E8704464B99C09440A940C17206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "50F499C567F04026AB4023BA62F19515206",
+      "JobTitle": "Senior Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:24 AM",
+      "URL": "https://de.jobsyn.org/50F499C567F04026AB4023BA62F19515206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1101C2B7A4324E4487774844B3848478206",
+      "JobTitle": "Senior Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:30 AM",
+      "URL": "https://de.jobsyn.org/1101C2B7A4324E4487774844B3848478206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CF72D1233B8C47A193011068A39196D1206",
+      "JobTitle": "Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:30 AM",
+      "URL": "https://de.jobsyn.org/CF72D1233B8C47A193011068A39196D1206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0D27B8E052242B2B596DD28C1595939206",
+      "JobTitle": "Biomedical Technician",
+      "Company": "CommonSpirit Health",
+      "AccquisitionDate": "2023-2-25 12:24 AM",
+      "URL": "https://de.jobsyn.org/A0D27B8E052242B2B596DD28C1595939206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "591C127BD59647C6982303E233A77045206",
+      "JobTitle": "R&D Engineer - Instrumentation",
+      "Company": "Astrix Technology",
+      "AccquisitionDate": "2023-2-24 5:52 AM",
+      "URL": "https://de.jobsyn.org/591C127BD59647C6982303E233A77045206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "96DA5D7AA3374B3196CA03BD5414F023206",
+      "JobTitle": "Research Engineer - Clinical Orthopedics",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-2-18 6:12 AM",
+      "URL": "https://de.jobsyn.org/96DA5D7AA3374B3196CA03BD5414F023206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "46C7A3D048EC4A82984D2D22CD771024206",
+      "JobTitle": "Mechanical Engineer - Vessel Mechanical",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-2-15 3:25 AM",
+      "URL": "https://de.jobsyn.org/46C7A3D048EC4A82984D2D22CD771024206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A770F600CB214501855F6B47BEBF0CED206",
+      "JobTitle": "Technical Professional - Artificial Lift",
+      "Company": "Halliburton",
+      "AccquisitionDate": "2023-1-30 10:36 PM",
+      "URL": "https://de.jobsyn.org/A770F600CB214501855F6B47BEBF0CED206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EA872B6C59984D1183194463CAA35E78206",
+      "JobTitle": "Biomedical Engineer - Orthopedics - Biomechanics",
+      "Company": "Houston Methodist",
+      "AccquisitionDate": "2023-1-26 11:19 PM",
+      "URL": "https://de.jobsyn.org/EA872B6C59984D1183194463CAA35E78206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "97C26B15BD5844EBB41C07BA41DEBCC2206",
+      "JobTitle": "Supervisor, Biomedical Technician",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-12-17 12:10 AM",
+      "URL": "https://de.jobsyn.org/97C26B15BD5844EBB41C07BA41DEBCC2206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "65703A8534844991A0A05BEA5C7B4E3C206",
+      "JobTitle": "Scientific Programmer II - School of Biomedical Informatics",
+      "Company": "UT Health",
+      "AccquisitionDate": "2022-11-15 12:07 AM",
+      "URL": "https://de.jobsyn.org/65703A8534844991A0A05BEA5C7B4E3C206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EF0837AEC2284E23B21A863343974B75206",
+      "JobTitle": "Staff Radiopharmacist / Ctr for Adv Biomedical Imaging - PER DIEM",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-10-21 12:04 AM",
+      "URL": "https://de.jobsyn.org/EF0837AEC2284E23B21A863343974B75206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55AEE8761E2345BA9A467AC1EC8033F9206",
+      "JobTitle": "Supervisor , Biomedical Technician",
+      "Company": "MD Anderson Cancer Center",
+      "AccquisitionDate": "2022-10-20 12:21 AM",
+      "URL": "https://de.jobsyn.org/55AEE8761E2345BA9A467AC1EC8033F9206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BA0F67D6D21540A594C8A03F7DE6960A206",
+      "JobTitle": "Bioengineer",
+      "Company": "3D Systems, Inc.",
+      "AccquisitionDate": "2022-9-28 11:26 PM",
+      "URL": "https://de.jobsyn.org/BA0F67D6D21540A594C8A03F7DE6960A206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C81C9CADEED9456CBF4502FABD51F97F206",
+      "JobTitle": "Scientific Programmer II - School of Biomedical Informatics",
+      "Company": "UT Health",
+      "AccquisitionDate": "2022-5-6 12:08 AM",
+      "URL": "https://de.jobsyn.org/C81C9CADEED9456CBF4502FABD51F97F206",
+      "Location": "Texas Medical Center-Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6422A76CAB4A4EE9BB86F7F9E9D5D723206",
+      "JobTitle": "Eng Artificial Lift Staff Sr",
+      "Company": "Occidental Petroleum",
+      "AccquisitionDate": "2022-4-30 9:38 AM",
+      "URL": "https://de.jobsyn.org/6422A76CAB4A4EE9BB86F7F9E9D5D723206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DE0EB94408334F6E8B415041C75AF714206",
+      "JobTitle": "Mechanical R&D Design Engineer I",
+      "Company": "Weatherford",
+      "AccquisitionDate": "2022-3-26 3:07 AM",
+      "URL": "https://de.jobsyn.org/DE0EB94408334F6E8B415041C75AF714206",
+      "Location": "HOUSTON, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AB86492843E14DB48AC67306E75035F8206",
+      "JobTitle": "Bio Engineer",
+      "Company": "3D Systems, Inc.",
+      "AccquisitionDate": "2022-3-7 10:57 PM",
+      "URL": "https://de.jobsyn.org/AB86492843E14DB48AC67306E75035F8206",
+      "Location": "Houston, TX",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "94B45ACBE0F0479AB772495216872B06206",
+      "JobTitle": "Chemical Systems Design Engineer",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-4 5:24 AM",
+      "URL": "https://de.jobsyn.org/94B45ACBE0F0479AB772495216872B06206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6AE5B5C99F1E4159A41A6C70EA8D0975206",
+      "JobTitle": "Chemist/Chemical Engineer",
+      "Company": "Schlumberger",
+      "AccquisitionDate": "2023-3-9 5:08 AM",
+      "URL": "https://de.jobsyn.org/6AE5B5C99F1E4159A41A6C70EA8D0975206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0345F3AF2175436EBE06E5A506AE8ABC206",
+      "JobTitle": "Senior Chemical Process Engineer",
+      "Company": "Power Engineers",
+      "AccquisitionDate": "2023-3-4 3:14 AM",
+      "URL": "https://de.jobsyn.org/0345F3AF2175436EBE06E5A506AE8ABC206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8CA74E672AA349198ED2DF15C798818E206",
+      "JobTitle": "sr chemical process engineer",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-23 7:28 AM",
+      "URL": "https://de.jobsyn.org/8CA74E672AA349198ED2DF15C798818E206",
+      "Location": "houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "344B173731374E4DAD29E1B13D29F1C4206",
+      "JobTitle": "Chemical HVAC Engineer",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-14 3:03 AM",
+      "URL": "https://de.jobsyn.org/344B173731374E4DAD29E1B13D29F1C4206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C343CBDF53484CD8B568CB5C1D7F53A9206",
+      "JobTitle": "Chemical Engineer Intern",
+      "Company": "Indorama Ventures",
+      "AccquisitionDate": "2023-2-17 3:05 AM",
+      "URL": "https://de.jobsyn.org/C343CBDF53484CD8B568CB5C1D7F53A9206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "783539DA4A9C4A69BC24DD56C6094613206",
+      "JobTitle": "Chemical HVAC Engineer",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-3 2:24 AM",
+      "URL": "https://de.jobsyn.org/783539DA4A9C4A69BC24DD56C6094613206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B4A039A92702464FAF61DA6A13FD28FE206",
+      "JobTitle": "Chemical Engineer 1",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-1-28 5:34 AM",
+      "URL": "https://de.jobsyn.org/B4A039A92702464FAF61DA6A13FD28FE206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7619ADC075448C0B113BA880E19ACE1206",
+      "JobTitle": "Mid-Level Chemical Process Engineer",
+      "Company": "Power Engineers",
+      "AccquisitionDate": "2023-3-4 3:13 AM",
+      "URL": "https://de.jobsyn.org/B7619ADC075448C0B113BA880E19ACE1206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CBE1883403AF47B7811CE644027EEF09206",
+      "JobTitle": "Junior Level Chemical Process Engineer",
+      "Company": "Power Engineers",
+      "AccquisitionDate": "2023-3-4 3:13 AM",
+      "URL": "https://de.jobsyn.org/CBE1883403AF47B7811CE644027EEF09206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B2273E9057974EA189E72483826026D1206",
+      "JobTitle": "Staff Chemical Engineer - Oil, Gas & Chemical (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-7-14 8:42 PM",
+      "URL": "https://de.jobsyn.org/B2273E9057974EA189E72483826026D1206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1EEC3DB0145F493EBA8669F26ACFDB6A206",
+      "JobTitle": "Senior Chemical Engineer - Oil, Gas & Chemical (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-7-14 8:41 PM",
+      "URL": "https://de.jobsyn.org/1EEC3DB0145F493EBA8669F26ACFDB6A206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "936D94BB325744198D304C9143C3A289206",
+      "JobTitle": "Chemical Engineer 7 (Hydrogen Process Engineer)",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-1 2:54 AM",
+      "URL": "https://de.jobsyn.org/936D94BB325744198D304C9143C3A289206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7D688CA11C3F45DF96414298B7AE4459206",
+      "JobTitle": "Project Engineer - Oil, Gas, & Chemical",
+      "Company": "Kiewit",
+      "AccquisitionDate": "2023-2-7 3:25 AM",
+      "URL": "https://de.jobsyn.org/7D688CA11C3F45DF96414298B7AE4459206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DA4CE0DB997E45D8AAE8E0FD5A0F4551206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:46 AM",
+      "URL": "https://de.jobsyn.org/DA4CE0DB997E45D8AAE8E0FD5A0F4551206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4212BDF0D3054E77BF8C8E61665BA482206",
+      "JobTitle": "Process Engineer - Oil, Gas, & Chemical",
+      "Company": "Kiewit",
+      "AccquisitionDate": "2022-11-10 5:02 AM",
+      "URL": "https://de.jobsyn.org/4212BDF0D3054E77BF8C8E61665BA482206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4504C2F8C33C4619A69F424B67C96E38206",
+      "JobTitle": "Chemical Engineer - Modeling & Simulation",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2022-7-1 2:45 AM",
+      "URL": "https://de.jobsyn.org/4504C2F8C33C4619A69F424B67C96E38206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "20C8379EA02F471DA2D545E74BEBDF91206",
+      "JobTitle": "Senior Project Engineer - Oil, Gas & Chemical (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-1-16 11:41 PM",
+      "URL": "https://de.jobsyn.org/20C8379EA02F471DA2D545E74BEBDF91206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E678FE9376E4CF1A8CFE51E1CF00D6B206",
+      "JobTitle": "Senior Piping Engineer - Oil, Gas & Chemical (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-3-1 3:42 PM",
+      "URL": "https://de.jobsyn.org/7E678FE9376E4CF1A8CFE51E1CF00D6B206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "65E6A150806849138DFDC5D874940D15206",
+      "JobTitle": "Staff Electrical Engineer - Oil, Gas & Chemical (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-21 3:44 PM",
+      "URL": "https://de.jobsyn.org/65E6A150806849138DFDC5D874940D15206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "465D60568EA14BD6B934349F4C7736B6206",
+      "JobTitle": "Senior Electrical Engineer - Oil, Gas & Chemical (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-7-8 3:43 PM",
+      "URL": "https://de.jobsyn.org/465D60568EA14BD6B934349F4C7736B6206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7D1266FEC8004266875AC11BB40452BF206",
+      "JobTitle": "Electrical Engineer 3 - Oil, Gas & Chemical (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-11 4:09 AM",
+      "URL": "https://de.jobsyn.org/7D1266FEC8004266875AC11BB40452BF206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "56C5F32371C54D429895CF89603CE8DB206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals-OKC",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/56C5F32371C54D429895CF89603CE8DB206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C2874EB3FBD24F0E92270C9C23690AE0206",
+      "JobTitle": "Process Engineer 6 - Fertilizer - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:33 AM",
+      "URL": "https://de.jobsyn.org/C2874EB3FBD24F0E92270C9C23690AE0206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8DDA121706E648A8A5540ADF8F137BC8206",
+      "JobTitle": "Staff Piping Engineer - Oil, Gas & Chemical (Houston)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-9-1 3:45 PM",
+      "URL": "https://de.jobsyn.org/8DDA121706E648A8A5540ADF8F137BC8206",
+      "Location": "Houston, TX",
+      "Fc": "True"
+    }
+  ]
+]

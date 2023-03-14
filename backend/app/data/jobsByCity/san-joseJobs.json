@@ -1,0 +1,2156 @@
+[
+  [
+    {
+      "JvId": "2188F50E2E7C4F99B45158469BCBBDA9206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-2-11 1:15 AM",
+      "URL": "https://de.jobsyn.org/2188F50E2E7C4F99B45158469BCBBDA9206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "556946F544BB4E2E8E0AFD0FD6F2CC19206",
+      "JobTitle": "Block Advisors Bookkeeper",
+      "Company": "H&R Block",
+      "AccquisitionDate": "2022-11-30 12:17 PM",
+      "URL": "https://de.jobsyn.org/556946F544BB4E2E8E0AFD0FD6F2CC19206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3EF1E009DB864A2585613CB8882B2A0F206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Joby Aviation",
+      "AccquisitionDate": "2022-10-7 10:34 PM",
+      "URL": "https://de.jobsyn.org/3EF1E009DB864A2585613CB8882B2A0F206",
+      "Location": "San Jose",
+      "Fc": "False"
+    },
+    {
+      "JvId": "82AC44DD10994AF5867A3E759E02773A206",
+      "JobTitle": "Payroll Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/82AC44DD10994AF5867A3E759E02773A206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BA88F3CDC3A54EB4921F1C7D62F42485206",
+      "JobTitle": "Payroll Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/BA88F3CDC3A54EB4921F1C7D62F42485206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3C7F2103AC3C420BAE9E651550B2A0DF206",
+      "JobTitle": "Accountant II",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-12 4:51 AM",
+      "URL": "https://de.jobsyn.org/3C7F2103AC3C420BAE9E651550B2A0DF206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D08B7E0D315D4429A8B84B75B18758EC206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/D08B7E0D315D4429A8B84B75B18758EC206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F07A67523B0E46E7B04963E677218379206",
+      "JobTitle": "accounting analyst- mandarin",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-9 5:21 AM",
+      "URL": "https://de.jobsyn.org/F07A67523B0E46E7B04963E677218379206",
+      "Location": "san jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A99AB325D2484A05BB6264122D61B465206",
+      "JobTitle": "Associate Project Accountant",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-3-9 3:42 AM",
+      "URL": "https://de.jobsyn.org/A99AB325D2484A05BB6264122D61B465206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A7BA48DBCCA744A187E5A08B8CF7A0E8206",
+      "JobTitle": "Property Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:15 AM",
+      "URL": "https://de.jobsyn.org/A7BA48DBCCA744A187E5A08B8CF7A0E8206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CBFEEE6794D943F097636B290488E244206",
+      "JobTitle": "Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:04 AM",
+      "URL": "https://de.jobsyn.org/CBFEEE6794D943F097636B290488E244206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F1A9FBBC84C245FBA871CEA5DC06B856206",
+      "JobTitle": "Property Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-5 12:07 AM",
+      "URL": "https://de.jobsyn.org/F1A9FBBC84C245FBA871CEA5DC06B856206",
+      "Location": "SAN JOSE, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0D762EC1016E4181AAE517950C5337E1206",
+      "JobTitle": "Payroll Administrator",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-4 12:24 AM",
+      "URL": "https://de.jobsyn.org/0D762EC1016E4181AAE517950C5337E1206",
+      "Location": "SAN JOSE, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "038CC1FBF8D8493B8F16AF5BC29EBAA4206",
+      "JobTitle": "Tax Preparer",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-1 12:25 AM",
+      "URL": "https://de.jobsyn.org/038CC1FBF8D8493B8F16AF5BC29EBAA4206",
+      "Location": "SAN JOSE, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2FCAA90A556740FE819F9BA2A9600733206",
+      "JobTitle": "Accounts Payable Supervisor/Manager",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-1 12:25 AM",
+      "URL": "https://de.jobsyn.org/2FCAA90A556740FE819F9BA2A9600733206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2533F97A9E7648B1A6EC7484DCCEB852206",
+      "JobTitle": "Project Finance Assistant I",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-2-24 12:14 AM",
+      "URL": "https://de.jobsyn.org/2533F97A9E7648B1A6EC7484DCCEB852206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F9B76A723F804C7FB9DA0F54B9135A46206",
+      "JobTitle": "Accounts Payable Lead (Hybrid)",
+      "Company": "Cupertino Electric",
+      "AccquisitionDate": "2023-2-23 3:16 PM",
+      "URL": "https://de.jobsyn.org/F9B76A723F804C7FB9DA0F54B9135A46206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C11E0E5648924068B0F1066D47D1D325206",
+      "JobTitle": "Project Finance Assistant II",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-2-23 9:56 PM",
+      "URL": "https://de.jobsyn.org/C11E0E5648924068B0F1066D47D1D325206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A3754BD08964A72AC87C9ECAFDBCCC0206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-24 12:32 AM",
+      "URL": "https://de.jobsyn.org/0A3754BD08964A72AC87C9ECAFDBCCC0206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E2F3CA4A12E34DE696C4A9BA59A63C54206",
+      "JobTitle": "Project Finance Assistant II",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-2-24 12:14 AM",
+      "URL": "https://de.jobsyn.org/E2F3CA4A12E34DE696C4A9BA59A63C54206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "976B6583203D468A8BFC6353B19110FC206",
+      "JobTitle": "Project Finance Assistant I",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-2-23 9:56 PM",
+      "URL": "https://de.jobsyn.org/976B6583203D468A8BFC6353B19110FC206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AD2DDDA8A35D4A67BF9654F3891F98C8206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-24 12:33 AM",
+      "URL": "https://de.jobsyn.org/AD2DDDA8A35D4A67BF9654F3891F98C8206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5D654E0FD520458DB9B29404275DD691206",
+      "JobTitle": "Night Auditor/Front Desk Agent",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-2-23 12:48 AM",
+      "URL": "https://de.jobsyn.org/5D654E0FD520458DB9B29404275DD691206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ED74CB90B7624857BB23B70C27EF7B74206",
+      "JobTitle": "staff accountant",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-22 7:56 AM",
+      "URL": "https://de.jobsyn.org/ED74CB90B7624857BB23B70C27EF7B74206",
+      "Location": "san jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9325A889CEF043599499ED9EF2268037206",
+      "JobTitle": "Night Auditor",
+      "Company": "Highgate Hotels",
+      "AccquisitionDate": "2023-2-22 11:22 PM",
+      "URL": "https://de.jobsyn.org/9325A889CEF043599499ED9EF2268037206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [],
+  [],
+  [
+    {
+      "JvId": "672B4AA660A7442FA6C7D5FF40B38077206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:09 AM",
+      "URL": "https://de.jobsyn.org/672B4AA660A7442FA6C7D5FF40B38077206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D785A44228C4B32BACAF727E78B2DBA206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Suburban Propane",
+      "AccquisitionDate": "2023-2-17 8:11 AM",
+      "URL": "https://de.jobsyn.org/2D785A44228C4B32BACAF727E78B2DBA206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7737C9764B1A477EAE8BEADBB9DDC7DB206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-2-25 6:13 AM",
+      "URL": "https://de.jobsyn.org/7737C9764B1A477EAE8BEADBB9DDC7DB206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EBEFF7D5EC034A05B94EFD46366FCB8D206",
+      "JobTitle": "Representative, Customer Service - Skilled",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-18 12:19 AM",
+      "URL": "https://de.jobsyn.org/EBEFF7D5EC034A05B94EFD46366FCB8D206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "938BE4E9ACE64DF7AA279DECDACECCA4206",
+      "JobTitle": "CS - Customer Service Representative (SJC) -$1,500 Sign-On Bonus!!!",
+      "Company": "Atlantic Aviation",
+      "AccquisitionDate": "2022-3-3 10:10 AM",
+      "URL": "https://de.jobsyn.org/938BE4E9ACE64DF7AA279DECDACECCA4206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "13C3D1E87EEB484BB00D1E5BBAE68C63206",
+      "JobTitle": "Customer Service Associate",
+      "Company": "The Hertz Corporation",
+      "AccquisitionDate": "2023-3-10 5:24 AM",
+      "URL": "https://de.jobsyn.org/13C3D1E87EEB484BB00D1E5BBAE68C63206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2E66054F9D3A44B3AC029F86AA64B0C1206",
+      "JobTitle": "Customer Support Coordinator",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-1 12:08 AM",
+      "URL": "https://de.jobsyn.org/2E66054F9D3A44B3AC029F86AA64B0C1206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "286F1B2A27504F13879D98D4D0A58EB3206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-12 2:24 AM",
+      "URL": "https://de.jobsyn.org/286F1B2A27504F13879D98D4D0A58EB3206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3ED1871CE1DB481FA232C4764A17994D206",
+      "JobTitle": "Customer Experience Representative /Office Administrator/Receptionist - San Jose",
+      "Company": "Service King",
+      "AccquisitionDate": "2023-1-23 12:16 AM",
+      "URL": "https://de.jobsyn.org/3ED1871CE1DB481FA232C4764A17994D206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9B541164DCCC49429BA6C9130E930D6F206",
+      "JobTitle": "Field Service Representative",
+      "Company": "Stiles Machinery",
+      "AccquisitionDate": "2023-2-3 1:30 AM",
+      "URL": "https://de.jobsyn.org/9B541164DCCC49429BA6C9130E930D6F206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2691F81F736B47B787C23FEABDA806DD206",
+      "JobTitle": "Customer Service Sales Associate",
+      "Company": "The Hertz Corporation",
+      "AccquisitionDate": "2023-3-5 2:37 AM",
+      "URL": "https://de.jobsyn.org/2691F81F736B47B787C23FEABDA806DD206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F5D2AEA3B9B2464EA3BF368FC2F31251206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-11 4:05 AM",
+      "URL": "https://de.jobsyn.org/F5D2AEA3B9B2464EA3BF368FC2F31251206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A3F65A48DD224F08A4803D7C565F560D206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-11 4:05 AM",
+      "URL": "https://de.jobsyn.org/A3F65A48DD224F08A4803D7C565F560D206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "93B18F0A1C3A427AB4B8AAAD13801AB3206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-11 4:05 AM",
+      "URL": "https://de.jobsyn.org/93B18F0A1C3A427AB4B8AAAD13801AB3206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "13364131D77E46BC8C1FF66A69334D25206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-10 3:47 AM",
+      "URL": "https://de.jobsyn.org/13364131D77E46BC8C1FF66A69334D25206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EE4B7EC46FB04605BFA5555F27FB7510206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-10 3:47 AM",
+      "URL": "https://de.jobsyn.org/EE4B7EC46FB04605BFA5555F27FB7510206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D4B0D00D41614596BF1F8F9E4A7C22E9206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-10 3:47 AM",
+      "URL": "https://de.jobsyn.org/D4B0D00D41614596BF1F8F9E4A7C22E9206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2690ECE394094F7683437A672E201E52206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-9 4:24 AM",
+      "URL": "https://de.jobsyn.org/2690ECE394094F7683437A672E201E52206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "40ED744C2D964B67B0EDA33ED96A0211206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-8 3:58 AM",
+      "URL": "https://de.jobsyn.org/40ED744C2D964B67B0EDA33ED96A0211206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9BDCCDF6B4D34ECC9683892EF3E9E16A206",
+      "JobTitle": "Retail Associate",
+      "Company": "Ross Stores, Inc.",
+      "AccquisitionDate": "2023-3-8 12:18 AM",
+      "URL": "https://de.jobsyn.org/9BDCCDF6B4D34ECC9683892EF3E9E16A206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "389F5BBAC5A74F4886A651FEDD7D73FC206",
+      "JobTitle": "Retail Associate",
+      "Company": "Ross Stores, Inc.",
+      "AccquisitionDate": "2023-3-8 12:21 AM",
+      "URL": "https://de.jobsyn.org/389F5BBAC5A74F4886A651FEDD7D73FC206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "990E716E1A674E31ACE55B14C4D8A514206",
+      "JobTitle": "Retail Associate",
+      "Company": "Ross Stores, Inc.",
+      "AccquisitionDate": "2023-3-8 12:21 AM",
+      "URL": "https://de.jobsyn.org/990E716E1A674E31ACE55B14C4D8A514206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7EBEE289B2E54118938360BFF405FC88206",
+      "JobTitle": "Retail Associate",
+      "Company": "Ross Stores, Inc.",
+      "AccquisitionDate": "2023-3-8 12:19 AM",
+      "URL": "https://de.jobsyn.org/7EBEE289B2E54118938360BFF405FC88206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0755247F41894F5B9CB2DC2665803989206",
+      "JobTitle": "Store Associate",
+      "Company": "CVS Health",
+      "AccquisitionDate": "2023-3-8 3:58 AM",
+      "URL": "https://de.jobsyn.org/0755247F41894F5B9CB2DC2665803989206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9DC50F1CF78845B3A1621E4D1CA0231C206",
+      "JobTitle": "Retail Associate",
+      "Company": "Ross Stores, Inc.",
+      "AccquisitionDate": "2023-3-8 12:21 AM",
+      "URL": "https://de.jobsyn.org/9DC50F1CF78845B3A1621E4D1CA0231C206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "7805376F3E3D42D898FCF22844DEDC95206",
+      "JobTitle": "Auditor - Assurance - Financial Accounting Advisory Services - Manager - MP - 1403731",
+      "Company": "EY",
+      "AccquisitionDate": "2023-2-2 1:03 AM",
+      "URL": "https://de.jobsyn.org/7805376F3E3D42D898FCF22844DEDC95206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3FD2ECF7DAC04D92AEDBFA600673D579206",
+      "JobTitle": "Auditor - Financial Accounting Advisory Services - FAAS - Manager - Multiple Positions - 1392890",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-11 1:02 PM",
+      "URL": "https://de.jobsyn.org/3FD2ECF7DAC04D92AEDBFA600673D579206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "15265BEBB3D34E3CBEC64CEFFD5B263C206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 3:59 AM",
+      "URL": "https://de.jobsyn.org/15265BEBB3D34E3CBEC64CEFFD5B263C206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B29D6902F8D54195B58DA671212CEB6E206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2024 (NYC, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 6:31 AM",
+      "URL": "https://de.jobsyn.org/B29D6902F8D54195B58DA671212CEB6E206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DF802679D6E747CB9716DC2479EE8696206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024 (NY, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 2:07 AM",
+      "URL": "https://de.jobsyn.org/DF802679D6E747CB9716DC2479EE8696206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2A31C80452654F0BAE84A1BD997CEBDB206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023 (NY, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 2:03 AM",
+      "URL": "https://de.jobsyn.org/2A31C80452654F0BAE84A1BD997CEBDB206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "75992C662E8B4260A2693B8AF8FE66A3206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025 (NY, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 2:05 AM",
+      "URL": "https://de.jobsyn.org/75992C662E8B4260A2693B8AF8FE66A3206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CBFEEE6794D943F097636B290488E244206",
+      "JobTitle": "Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:04 AM",
+      "URL": "https://de.jobsyn.org/CBFEEE6794D943F097636B290488E244206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CA4A95CDB5C74C7AB071361A66C9CD5C206",
+      "JobTitle": "Internal Auditor",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-3-1 12:56 AM",
+      "URL": "https://de.jobsyn.org/CA4A95CDB5C74C7AB071361A66C9CD5C206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F5BD015EE78F47C78D703DA1F7B85B9A206",
+      "JobTitle": "Information Technology Auditor - Senior Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/F5BD015EE78F47C78D703DA1F7B85B9A206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8719488F90F6433D9AC9C5201F456503206",
+      "JobTitle": "Information Technology Auditor - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 1:57 AM",
+      "URL": "https://de.jobsyn.org/8719488F90F6433D9AC9C5201F456503206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7AAFF75C3FD54E5B8DCBE44538D13FC5206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:15 AM",
+      "URL": "https://de.jobsyn.org/7AAFF75C3FD54E5B8DCBE44538D13FC5206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B77F73F99B8F478080C178BD75EE8BB7206",
+      "JobTitle": "SEC Reporting Manager",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-2 12:01 AM",
+      "URL": "https://de.jobsyn.org/B77F73F99B8F478080C178BD75EE8BB7206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D6C9183E5B0045FD9A1F324D8BC1F775206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-24 12:33 AM",
+      "URL": "https://de.jobsyn.org/D6C9183E5B0045FD9A1F324D8BC1F775206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EA6F3F735E844EA39D14E2E2A3868F61206",
+      "JobTitle": "Risk Manager - SOX IT Controls & Compliance",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-2-15 12:54 AM",
+      "URL": "https://de.jobsyn.org/EA6F3F735E844EA39D14E2E2A3868F61206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B83E45547C30499BB0BFF073DFEBF919206",
+      "JobTitle": "Risk Manager - SOX IT Controls & Compliance",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-2-10 12:54 AM",
+      "URL": "https://de.jobsyn.org/B83E45547C30499BB0BFF073DFEBF919206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7FCBAC3160F24FE092B936343C9D22C2206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-27 12:15 AM",
+      "URL": "https://de.jobsyn.org/7FCBAC3160F24FE092B936343C9D22C2206",
+      "Location": "SAN JOSE, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B8352E8BCCC843BC9063D7F4E015E8A6206",
+      "JobTitle": "Controller",
+      "Company": "ZL Technologies",
+      "AccquisitionDate": "2022-9-8 8:35 AM",
+      "URL": "https://de.jobsyn.org/B8352E8BCCC843BC9063D7F4E015E8A6206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "43FFFF3063194D388B7E6AA7C6B6C26C206",
+      "JobTitle": "Credits and Incentives Tax Senior - Multistate",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/43FFFF3063194D388B7E6AA7C6B6C26C206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "47BAA95FFE184212B26D3E8C3B8086B1206",
+      "JobTitle": "Financial Analyst - Entry Level",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-3 12:07 AM",
+      "URL": "https://de.jobsyn.org/47BAA95FFE184212B26D3E8C3B8086B1206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "595CCA1627CF4B70801CCACD5565EFCC206",
+      "JobTitle": "Accounting & Reporting Advisory - Manager, SOX",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-7 9:14 AM",
+      "URL": "https://de.jobsyn.org/595CCA1627CF4B70801CCACD5565EFCC206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6AF62EF50823428AA5918E22E4836F47206",
+      "JobTitle": "Tax Manager, Unclaimed Property Tax; State and Local Tax (SALT)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-8-19 2:03 AM",
+      "URL": "https://de.jobsyn.org/6AF62EF50823428AA5918E22E4836F47206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0D3B92BD9D7A45E9BD5ECD53232B80DF206",
+      "JobTitle": "Digital Assurance & Transparency (DAT) Intern - Summer 2024",
+      "Company": "PwC",
+      "AccquisitionDate": "2023-3-11 3:16 AM",
+      "URL": "https://de.jobsyn.org/0D3B92BD9D7A45E9BD5ECD53232B80DF206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9325A889CEF043599499ED9EF2268037206",
+      "JobTitle": "Night Auditor",
+      "Company": "Highgate Hotels",
+      "AccquisitionDate": "2023-2-22 11:22 PM",
+      "URL": "https://de.jobsyn.org/9325A889CEF043599499ED9EF2268037206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2D5676E314E6404DA9BE8032560AF784206",
+      "JobTitle": "Tax Senior, Unclaimed Property Tax; State and Local Tax (SALT)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-9 1:59 AM",
+      "URL": "https://de.jobsyn.org/2D5676E314E6404DA9BE8032560AF784206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D08B7E0D315D4429A8B84B75B18758EC206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/D08B7E0D315D4429A8B84B75B18758EC206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A3754BD08964A72AC87C9ECAFDBCCC0206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-24 12:32 AM",
+      "URL": "https://de.jobsyn.org/0A3754BD08964A72AC87C9ECAFDBCCC0206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "05FAFC4119464974B2A165E597ECBD28206",
+      "JobTitle": "Collections Clerk",
+      "Company": "Waste Connections",
+      "AccquisitionDate": "2023-2-8 11:02 AM",
+      "URL": "https://de.jobsyn.org/05FAFC4119464974B2A165E597ECBD28206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B8F27886F78F4E29B67628A3E7BC2A49206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Waste Connections",
+      "AccquisitionDate": "2023-2-8 11:02 AM",
+      "URL": "https://de.jobsyn.org/B8F27886F78F4E29B67628A3E7BC2A49206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BCF47D3D93424283B307C74B5DED4C0D206",
+      "JobTitle": "Sr. Credit & Collections Specialist",
+      "Company": "Cadence Design Systems, Inc.",
+      "AccquisitionDate": "2022-12-20 6:12 AM",
+      "URL": "https://de.jobsyn.org/BCF47D3D93424283B307C74B5DED4C0D206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "626750ECDC754DDAA2A5F71549D56E67206",
+      "JobTitle": "Senior Financial Analyst",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-3-14 7:54 PM",
+      "URL": "https://de.jobsyn.org/626750ECDC754DDAA2A5F71549D56E67206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "1F2D909FC9A444D3A11E13D0A540F1EF206",
+      "JobTitle": "Mortgage Lender- San Jose, CA",
+      "Company": "Zions Bancorporation",
+      "AccquisitionDate": "2023-3-9 4:48 AM",
+      "URL": "https://de.jobsyn.org/1F2D909FC9A444D3A11E13D0A540F1EF206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "06B38A1754D842D58C7A52B376641FAE206",
+      "JobTitle": "Loan Closing Officer",
+      "Company": "Comerica",
+      "AccquisitionDate": "2023-2-28 2:11 AM",
+      "URL": "https://de.jobsyn.org/06B38A1754D842D58C7A52B376641FAE206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "08D575C6BCB14295AD824D98BF5E8BCB206",
+      "JobTitle": "loan processor",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-23 7:27 AM",
+      "URL": "https://de.jobsyn.org/08D575C6BCB14295AD824D98BF5E8BCB206",
+      "Location": "san jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9006311EDA2944258D4E7F138F5F6579206",
+      "JobTitle": "Loan Officer",
+      "Company": "Paramount Residential Mortgage Group",
+      "AccquisitionDate": "2020-7-2 1:59 AM",
+      "URL": "https://de.jobsyn.org/9006311EDA2944258D4E7F138F5F6579206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "989772467AD6405E86F7777597772502206",
+      "JobTitle": "Project Engineer - Entry Level (Multiple Locations)",
+      "Company": "Cupertino Electric",
+      "AccquisitionDate": "2023-2-23 3:16 PM",
+      "URL": "https://de.jobsyn.org/989772467AD6405E86F7777597772502206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E73F0F3270CB44AA8059D8774DAD707C206",
+      "JobTitle": "JAVA Engineer- Biotech",
+      "Company": "Motion Recruitment Partners",
+      "AccquisitionDate": "2023-1-25 2:15 AM",
+      "URL": "https://de.jobsyn.org/E73F0F3270CB44AA8059D8774DAD707C206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D8B9751692754E7CB2236CD7F5F8E3A9206",
+      "JobTitle": "Biomedical Equipment Planner",
+      "Company": "Planate Management Group LLC",
+      "AccquisitionDate": "2023-1-19 10:32 PM",
+      "URL": "https://de.jobsyn.org/D8B9751692754E7CB2236CD7F5F8E3A9206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "1D62204C88684AE8B6813B5550602453206",
+      "JobTitle": "Field Clinical Specialist, Transcatheter Mitral & Tricuspid Therapies",
+      "Company": "Edwards Lifesciences",
+      "AccquisitionDate": "2023-3-10 12:05 AM",
+      "URL": "https://de.jobsyn.org/1D62204C88684AE8B6813B5550602453206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9CEC895ECC57474C909387720036EFBA206",
+      "JobTitle": "Clinical Laboratory Scientist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/9CEC895ECC57474C909387720036EFBA206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BD2F0E784D214477AA5822AF42846C97206",
+      "JobTitle": "Senior Clinical Laboratory Scientist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/BD2F0E784D214477AA5822AF42846C97206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FCD9FADAC9A94EB5A2DB981F4B969960206",
+      "JobTitle": "Clinical Trial Research Coordinator I",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/FCD9FADAC9A94EB5A2DB981F4B969960206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "482A7C45E4854DAE82584BFC4D1DFF6F206",
+      "JobTitle": "Senior Clinical Laboratory Scientist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-5 12:21 AM",
+      "URL": "https://de.jobsyn.org/482A7C45E4854DAE82584BFC4D1DFF6F206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7318FDDDE4A34A2B98FE9BBCD03D6C45206",
+      "JobTitle": "Flow Cytometry Clinical Applications Scientist - Central Midwest",
+      "Company": "BD (Becton, Dickinson and Company)",
+      "AccquisitionDate": "2023-3-5 3:02 AM",
+      "URL": "https://de.jobsyn.org/7318FDDDE4A34A2B98FE9BBCD03D6C45206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "458A9CB69FBA4884AE6BF97BE9C4B45A206",
+      "JobTitle": "Senior Clinical Laboratory Scientist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-3 12:08 AM",
+      "URL": "https://de.jobsyn.org/458A9CB69FBA4884AE6BF97BE9C4B45A206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EEC526CAE0E4089BFA63D9207D8D574206",
+      "JobTitle": "Clinical Laboratory Scientist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-2 12:13 AM",
+      "URL": "https://de.jobsyn.org/7EEC526CAE0E4089BFA63D9207D8D574206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7B9CC0A7B6C846CD968E5DF1AFCDDD64206",
+      "JobTitle": "Clinical Team Lead (Latin America)",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-1 3:34 AM",
+      "URL": "https://de.jobsyn.org/7B9CC0A7B6C846CD968E5DF1AFCDDD64206",
+      "Location": "San Jose",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A78276106254A48AC2B1CC31FA1781C206",
+      "JobTitle": "Clinical Team Lead - Oncology",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-2-28 4:32 AM",
+      "URL": "https://de.jobsyn.org/0A78276106254A48AC2B1CC31FA1781C206",
+      "Location": "San Jose",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B2B72475FA6B41C49BBC245E3B025FAA206",
+      "JobTitle": "Clinical Laboratory Scientist I",
+      "Company": "Sutter Health",
+      "AccquisitionDate": "2023-2-23 2:29 AM",
+      "URL": "https://de.jobsyn.org/B2B72475FA6B41C49BBC245E3B025FAA206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D2FB8BC9BD694A8885E03750EF1D0EFA206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2023-2-16 8:43 AM",
+      "URL": "https://de.jobsyn.org/D2FB8BC9BD694A8885E03750EF1D0EFA206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4760ADE5ED9C4AAB98276F092A7C2007206",
+      "JobTitle": "Sr R&D Scientist",
+      "Company": "BioFire Diagnostics, LLC.",
+      "AccquisitionDate": "2023-2-16 11:09 PM",
+      "URL": "https://de.jobsyn.org/4760ADE5ED9C4AAB98276F092A7C2007206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6177EED7DEC145C3944736BB6D5E9A4C206",
+      "JobTitle": "Business Leader, Translation Medicine-West",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-2-14 4:31 AM",
+      "URL": "https://de.jobsyn.org/6177EED7DEC145C3944736BB6D5E9A4C206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FDE26D3A371C4CCCAA7E25FC7939D5D3206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology - Morning",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2023-2-1 11:28 PM",
+      "URL": "https://de.jobsyn.org/FDE26D3A371C4CCCAA7E25FC7939D5D3206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "103623D1A7C6465B87A9FB48C8986DD4206",
+      "JobTitle": "Flow Cytometry Applications Scientist",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-1-19 2:49 AM",
+      "URL": "https://de.jobsyn.org/103623D1A7C6465B87A9FB48C8986DD4206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E89D6B5486B4A9EBE9CBF3B91DACBB5206",
+      "JobTitle": "Senior Centralized Study Associate",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-1-12 5:08 AM",
+      "URL": "https://de.jobsyn.org/7E89D6B5486B4A9EBE9CBF3B91DACBB5206",
+      "Location": "San Jose",
+      "Fc": "True"
+    },
+    {
+      "JvId": "01CCEB5B12EC41B7A60F051BFE6522E2206",
+      "JobTitle": "Lab Supervisor - Outpatient Labs - Full Time, Days - (8-HR)",
+      "Company": "Stanford Health Care",
+      "AccquisitionDate": "2023-1-10 4:00 AM",
+      "URL": "https://de.jobsyn.org/01CCEB5B12EC41B7A60F051BFE6522E2206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E12BA341EE854725A5DA53FCA0B7C9CE206",
+      "JobTitle": "Project Manager - Medical Imaging Equipment - San Francisco/San Jose",
+      "Company": "Siemens Healthineers",
+      "AccquisitionDate": "2022-12-28 2:58 AM",
+      "URL": "https://de.jobsyn.org/E12BA341EE854725A5DA53FCA0B7C9CE206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "253BBBF0DBC940FC8C21858DD68A4975206",
+      "JobTitle": "Manager, Clinical Pharmacology",
+      "Company": "Bausch Health",
+      "AccquisitionDate": "2022-12-14 10:06 PM",
+      "URL": "https://de.jobsyn.org/253BBBF0DBC940FC8C21858DD68A4975206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A9C06964E65D468BA88770722840F725206",
+      "JobTitle": "Therapy Development Manager--South Bay-- Transcatheter Heart Valve",
+      "Company": "Edwards Lifesciences",
+      "AccquisitionDate": "2022-12-13 12:06 AM",
+      "URL": "https://de.jobsyn.org/A9C06964E65D468BA88770722840F725206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1F193EE2CCC240EA9BDB12EEBA655C32206",
+      "JobTitle": "Clinical Laboratory Scientist I",
+      "Company": "Sutter Health",
+      "AccquisitionDate": "2022-12-9 7:06 AM",
+      "URL": "https://de.jobsyn.org/1F193EE2CCC240EA9BDB12EEBA655C32206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F2F3A1CEADE8402C98E64ECEC44EE40F206",
+      "JobTitle": "Senior/Principal Medical Writer - Regulatory CSR/Protocol/IBs  (Remote)",
+      "Company": "IQVIA",
+      "AccquisitionDate": "2022-11-30 6:45 AM",
+      "URL": "https://de.jobsyn.org/F2F3A1CEADE8402C98E64ECEC44EE40F206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "115A84CF05934121B67EA09282F3890E206",
+      "JobTitle": "Microbiology R&D Director/Sr Director",
+      "Company": "BioFire Diagnostics, LLC.",
+      "AccquisitionDate": "2022-11-18 1:59 AM",
+      "URL": "https://de.jobsyn.org/115A84CF05934121B67EA09282F3890E206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E5B83399A5444AC8A566D55C1934CFCF206",
+      "JobTitle": "Research Scientist II Investigator",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-11-6 12:37 AM",
+      "URL": "https://de.jobsyn.org/E5B83399A5444AC8A566D55C1934CFCF206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "1D62204C88684AE8B6813B5550602453206",
+      "JobTitle": "Field Clinical Specialist, Transcatheter Mitral & Tricuspid Therapies",
+      "Company": "Edwards Lifesciences",
+      "AccquisitionDate": "2023-3-10 12:05 AM",
+      "URL": "https://de.jobsyn.org/1D62204C88684AE8B6813B5550602453206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DF85AE569893413490B5410F9E822A44206",
+      "JobTitle": "CT tech",
+      "Company": "Stanford Health Care",
+      "AccquisitionDate": "2023-2-14 4:29 AM",
+      "URL": "https://de.jobsyn.org/DF85AE569893413490B5410F9E822A44206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BDD5BE8915D345A69CC614FB26F64C72206",
+      "JobTitle": "Invasive Cardiovascular Specialist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-1-12 12:13 AM",
+      "URL": "https://de.jobsyn.org/BDD5BE8915D345A69CC614FB26F64C72206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "79B88F126971497CBB88EDCAC389D690206",
+      "JobTitle": "Invasive Cardiovascular Specialist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-12-21 12:35 AM",
+      "URL": "https://de.jobsyn.org/79B88F126971497CBB88EDCAC389D690206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F56E0CFE03940D7BD49610FCC4C46D4206",
+      "JobTitle": "Monitor Technician",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-9-17 12:16 AM",
+      "URL": "https://de.jobsyn.org/6F56E0CFE03940D7BD49610FCC4C46D4206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3AA3637920BB4BA6BE71D2276FF1113D206",
+      "JobTitle": "Certified Nuclear Medicine Technologist - Full -Time (No. CA-9/2021)",
+      "Company": "Cardiac Imaging, Inc.",
+      "AccquisitionDate": "2021-9-10 9:15 AM",
+      "URL": "https://de.jobsyn.org/3AA3637920BB4BA6BE71D2276FF1113D206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "88A3E570D5B24DD69878532D07D902A2206",
+      "JobTitle": "Cytogenetic Technologist II",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-8 12:22 AM",
+      "URL": "https://de.jobsyn.org/88A3E570D5B24DD69878532D07D902A2206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3E2EF88C9B844FA9BE18416A32358EBB206",
+      "JobTitle": "Cytogenetic Technologist II",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-2-4 12:24 AM",
+      "URL": "https://de.jobsyn.org/3E2EF88C9B844FA9BE18416A32358EBB206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "64105CEA8EC849C1A0413C6882229E62206",
+      "JobTitle": "Cytogenetic Technologist II",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2021-12-31 12:13 AM",
+      "URL": "https://de.jobsyn.org/64105CEA8EC849C1A0413C6882229E62206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "488E749004B846FAAFCE9C23BBFBEFA1206",
+      "JobTitle": "Echo Sonographer I",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-4-23 12:18 AM",
+      "URL": "https://de.jobsyn.org/488E749004B846FAAFCE9C23BBFBEFA1206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "882F6147979D45FBAB69FAF1FE32626E206",
+      "JobTitle": "Sonographer II",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-11-12 12:27 AM",
+      "URL": "https://de.jobsyn.org/882F6147979D45FBAB69FAF1FE32626E206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BBFFD3FAC26441F5A2A7F5AF21EE306B206",
+      "JobTitle": "Sonographer II",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-8-11 12:45 AM",
+      "URL": "https://de.jobsyn.org/BBFFD3FAC26441F5A2A7F5AF21EE306B206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "83E478CF7A964108894A2310838072D3206",
+      "JobTitle": "Mammography Tech",
+      "Company": "Stanford Health Care",
+      "AccquisitionDate": "2022-7-26 4:38 AM",
+      "URL": "https://de.jobsyn.org/83E478CF7A964108894A2310838072D3206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "67581155CC0648018AF2557929D12441206",
+      "JobTitle": "Veterinary Technician",
+      "Company": "Petco",
+      "AccquisitionDate": "2022-5-13 8:57 AM",
+      "URL": "https://de.jobsyn.org/67581155CC0648018AF2557929D12441206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "D4655A5AE68F4BE7996276F35AF1654A206",
+      "JobTitle": "Lead Business Analyst - Accelsior",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-5 6:58 AM",
+      "URL": "https://de.jobsyn.org/D4655A5AE68F4BE7996276F35AF1654A206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9CED94216C5C48EDB5956B6A0EC231A9206",
+      "JobTitle": "IT Advisor - Tech Cons - Data and Analytics - Data Science - Manager - Multiple Positions - 1414727",
+      "Company": "EY",
+      "AccquisitionDate": "2023-3-14 12:57 AM",
+      "URL": "https://de.jobsyn.org/9CED94216C5C48EDB5956B6A0EC231A9206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5C6F9957CB8D435EBB47D31FEE4D34B6206",
+      "JobTitle": "4082 HDD Marketing Intern",
+      "Company": "Toshiba America Electronic Components, Inc",
+      "AccquisitionDate": "2023-2-22 7:44 AM",
+      "URL": "https://de.jobsyn.org/5C6F9957CB8D435EBB47D31FEE4D34B6206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7CD0A70D9E0A4033BB7BA8069EBA8A68206",
+      "JobTitle": "Senior Data Analyst - Health Technology",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-3 5:19 AM",
+      "URL": "https://de.jobsyn.org/7CD0A70D9E0A4033BB7BA8069EBA8A68206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "653883A5BE55476A96F857C8DC9ABACA206",
+      "JobTitle": "Senior Data Warehouse Analytics Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-3 2:01 AM",
+      "URL": "https://de.jobsyn.org/653883A5BE55476A96F857C8DC9ABACA206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "48D7309D6D0B4718A0A2F00EAA334E38206",
+      "JobTitle": "Health Technology Data Analyst",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-2 2:29 AM",
+      "URL": "https://de.jobsyn.org/48D7309D6D0B4718A0A2F00EAA334E38206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DE094342FABA429D8042D6F02F2963BB206",
+      "JobTitle": "Data Warehouse Analytics Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-2 4:00 AM",
+      "URL": "https://de.jobsyn.org/DE094342FABA429D8042D6F02F2963BB206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9038C660E791490F88641E52F67A4811206",
+      "JobTitle": "Data Analytics Professional",
+      "Company": "Cogent Infotech",
+      "AccquisitionDate": "2023-1-9 10:01 PM",
+      "URL": "https://de.jobsyn.org/9038C660E791490F88641E52F67A4811206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "58279F71A6224917AB740C2C72901393206",
+      "JobTitle": "Data Analyst",
+      "Company": "BioFire Diagnostics, LLC.",
+      "AccquisitionDate": "2022-8-17 12:45 AM",
+      "URL": "https://de.jobsyn.org/58279F71A6224917AB740C2C72901393206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2FFCD0C185B141459478104E521A87EE206",
+      "JobTitle": "IT Data and Analytics Leader",
+      "Company": "Cadence Design Systems, Inc.",
+      "AccquisitionDate": "2022-2-1 6:05 AM",
+      "URL": "https://de.jobsyn.org/2FFCD0C185B141459478104E521A87EE206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "14F9D7226D3844B295948B41426B1B87206",
+      "JobTitle": "Senior Software Engineer - ABAP",
+      "Company": "Cogent Infotech",
+      "AccquisitionDate": "2022-1-14 4:17 PM",
+      "URL": "https://de.jobsyn.org/14F9D7226D3844B295948B41426B1B87206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ADBFE33D04E344A283AB45184740B961206",
+      "JobTitle": "Cybersecurity Architect II: Embedded Systems Engineer",
+      "Company": "BAE Systems",
+      "AccquisitionDate": "2023-3-10 8:52 AM",
+      "URL": "https://de.jobsyn.org/ADBFE33D04E344A283AB45184740B961206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2976940B9749457785BDDCFA758A65CB206",
+      "JobTitle": "3D Simulation Solutions Architect",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/2976940B9749457785BDDCFA758A65CB206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "28385BD569E6407A94A40CC6ED8847AF206",
+      "JobTitle": "Sr. Lead System IP Micro Architect/Logic Designer",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-14 5:11 AM",
+      "URL": "https://de.jobsyn.org/28385BD569E6407A94A40CC6ED8847AF206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D4FC53EC9C6F462693E8AB6642F6DBDF206",
+      "JobTitle": "Sr. System IP Micro Architect/Logic Designer",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-11 2:54 AM",
+      "URL": "https://de.jobsyn.org/D4FC53EC9C6F462693E8AB6642F6DBDF206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ED455B7C251A47A9A19270787B0BC243206",
+      "JobTitle": "System Architect - Core Production Network, Google/WEB",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-2-8 12:55 AM",
+      "URL": "https://de.jobsyn.org/ED455B7C251A47A9A19270787B0BC243206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "48483AABF80C465ABC0A19855BDC7263206",
+      "JobTitle": "Systems Engineer III (Citrix)",
+      "Company": "Old Dominion Freight Line",
+      "AccquisitionDate": "2023-1-25 6:26 AM",
+      "URL": "https://de.jobsyn.org/48483AABF80C465ABC0A19855BDC7263206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "886AABB9F03F4F7AA10950952588EA66206",
+      "JobTitle": "Sr. Coherent Interconnect Micro Architect/Logic Designer",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-11 2:54 AM",
+      "URL": "https://de.jobsyn.org/886AABB9F03F4F7AA10950952588EA66206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DBEB54C639FD4C92BF7CADF086440E23206",
+      "JobTitle": "GPU Performance Architect",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-1-28 2:44 AM",
+      "URL": "https://de.jobsyn.org/DBEB54C639FD4C92BF7CADF086440E23206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D1EBF56A4EE940CB96659ACD669C1F5B206",
+      "JobTitle": "Staff Engineer- GPU Memory System Architect",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-2-4 5:46 AM",
+      "URL": "https://de.jobsyn.org/D1EBF56A4EE940CB96659ACD669C1F5B206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D61BD3C8D2DF42B2B457C7C0796E65B1206",
+      "JobTitle": "cloud architect",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-17 7:28 AM",
+      "URL": "https://de.jobsyn.org/D61BD3C8D2DF42B2B457C7C0796E65B1206",
+      "Location": "san jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5E1FA8FB0AA54A38928B7C699CC8592E206",
+      "JobTitle": "Principal Engineer, Emerging Technologies and Incubations team",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-3-14 12:53 AM",
+      "URL": "https://de.jobsyn.org/5E1FA8FB0AA54A38928B7C699CC8592E206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2FEABB1F230D4AE9A2440ED84307FE23206",
+      "JobTitle": "Senior Devops Engineer Contract",
+      "Company": "Motion Recruitment Partners",
+      "AccquisitionDate": "2023-2-7 5:15 AM",
+      "URL": "https://de.jobsyn.org/2FEABB1F230D4AE9A2440ED84307FE23206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1FA45203F2134FEE9DA422DC57905C74206",
+      "JobTitle": "GPU Architecture Research Engineer",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-11 2:50 AM",
+      "URL": "https://de.jobsyn.org/1FA45203F2134FEE9DA422DC57905C74206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4AADF566A8B14F1598D46FE13E79AC13206",
+      "JobTitle": "SoC Memory Subsystem Architect",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-10 3:09 AM",
+      "URL": "https://de.jobsyn.org/4AADF566A8B14F1598D46FE13E79AC13206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D48217B625784460A8D4A74DBCC506D8206",
+      "JobTitle": "Hardware Engineer Technical Leader",
+      "Company": "Cisco",
+      "AccquisitionDate": "2022-12-23 12:54 AM",
+      "URL": "https://de.jobsyn.org/D48217B625784460A8D4A74DBCC506D8206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "00155069D9C8485099BA434C51B278BE206",
+      "JobTitle": "Security Architect - Government and Public Sector",
+      "Company": "EY",
+      "AccquisitionDate": "2023-3-9 12:58 AM",
+      "URL": "https://de.jobsyn.org/00155069D9C8485099BA434C51B278BE206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A034FA0B9949422D8F49B95525CF5B57206",
+      "JobTitle": "Principal SoC Architect",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-8 2:47 AM",
+      "URL": "https://de.jobsyn.org/A034FA0B9949422D8F49B95525CF5B57206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "54E5B174B41842C3B831BDC85F44850F206",
+      "JobTitle": "Intern \u2013 GPU Architecture Research Engineer",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-3 2:49 AM",
+      "URL": "https://de.jobsyn.org/54E5B174B41842C3B831BDC85F44850F206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "34EDE5C80F614178B9AB039CCA5CAEEF206",
+      "JobTitle": "Financial Force Solution Architect",
+      "Company": "Stralynn Consulting Services, Inc.",
+      "AccquisitionDate": "2023-2-23 1:47 AM",
+      "URL": "https://de.jobsyn.org/34EDE5C80F614178B9AB039CCA5CAEEF206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7DF220F36EED464CB338B133965C0201206",
+      "JobTitle": "Software Engineer",
+      "Company": "LightForce Ortho",
+      "AccquisitionDate": "2022-10-5 8:42 AM",
+      "URL": "https://de.jobsyn.org/7DF220F36EED464CB338B133965C0201206",
+      "Location": "San Jose",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3ED69D4214C44092901292B222062966206",
+      "JobTitle": "CPU Design Architect",
+      "Company": "Cadence Design Systems, Inc.",
+      "AccquisitionDate": "2022-6-29 2:24 AM",
+      "URL": "https://de.jobsyn.org/3ED69D4214C44092901292B222062966206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F6611C1CA1174D71806ECA21BA8598EC206",
+      "JobTitle": "Senior Software Engineer",
+      "Company": "LightForce Ortho",
+      "AccquisitionDate": "2022-10-2 7:18 AM",
+      "URL": "https://de.jobsyn.org/F6611C1CA1174D71806ECA21BA8598EC206",
+      "Location": "San Jose",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B7A63C566F834B37B37E1C8C01460400206",
+      "JobTitle": "Software Engineer(1396356)",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-3-10 12:53 AM",
+      "URL": "https://de.jobsyn.org/B7A63C566F834B37B37E1C8C01460400206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "525F515F2AE24186B5E5978FE5680D01206",
+      "JobTitle": "Staff System IP Design Verification Engineer \u2013 Coherent Interconnect",
+      "Company": "Samsung Electronics America",
+      "AccquisitionDate": "2023-3-10 3:09 AM",
+      "URL": "https://de.jobsyn.org/525F515F2AE24186B5E5978FE5680D01206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "AAFC1A9B6A334CC2AB03747FEBCBE263206",
+      "JobTitle": "IT Support Specialist - Therma",
+      "Company": "Therma LLC",
+      "AccquisitionDate": "2022-12-23 2:52 AM",
+      "URL": "https://de.jobsyn.org/AAFC1A9B6A334CC2AB03747FEBCBE263206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "63B14FD8891D4077928293B1EC958BB2206",
+      "JobTitle": "ATI and Web Specialist",
+      "Company": "San Jose State University",
+      "AccquisitionDate": "2021-11-11 11:26 PM",
+      "URL": "https://de.jobsyn.org/63B14FD8891D4077928293B1EC958BB2206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "77E377535C9940548AF05D34FBD39C93206",
+      "JobTitle": "Manager, Software Solutions Specialist - DAS GPS",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-23 2:03 AM",
+      "URL": "https://de.jobsyn.org/77E377535C9940548AF05D34FBD39C93206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "825B2CF1610643A693695C13C0EFFC4A206",
+      "JobTitle": "Customer Service Specialist II",
+      "Company": "San Jose State University",
+      "AccquisitionDate": "2022-11-17 1:28 AM",
+      "URL": "https://de.jobsyn.org/825B2CF1610643A693695C13C0EFFC4A206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5C89A9DE09B74676822008FA854DE68C206",
+      "JobTitle": "Business System Specialist",
+      "Company": "San Jose State University",
+      "AccquisitionDate": "2021-10-19 8:05 PM",
+      "URL": "https://de.jobsyn.org/5C89A9DE09B74676822008FA854DE68C206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "21C97CC7D7CD43928FBF94DD0F2F2E5A206",
+      "JobTitle": "Customer Service Specialist",
+      "Company": "San Jose State University",
+      "AccquisitionDate": "2022-11-17 11:32 PM",
+      "URL": "https://de.jobsyn.org/21C97CC7D7CD43928FBF94DD0F2F2E5A206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "729E30D5463C43C2B7D953B1B05D4648206",
+      "JobTitle": "Genius (Oakridge R105)",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-1 3:06 AM",
+      "URL": "https://de.jobsyn.org/729E30D5463C43C2B7D953B1B05D4648206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "712979F9F50E46129553B4F180BBBEC1206",
+      "JobTitle": "PC Deskside Tech 1, EFO - San Jose, CA",
+      "Company": "ABBTECH Professional Resources, Inc.",
+      "AccquisitionDate": "2023-1-13 3:07 AM",
+      "URL": "https://de.jobsyn.org/712979F9F50E46129553B4F180BBBEC1206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EF8635C3F81B4F26B2BA881BB03AACC5206",
+      "JobTitle": "DC Lab Engineer - GPU",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-14 3:20 AM",
+      "URL": "https://de.jobsyn.org/EF8635C3F81B4F26B2BA881BB03AACC5206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BA7ECBB371954D4F94C4E2F7CF88953A206",
+      "JobTitle": "Manager, Systems & Infrastructure Administration - Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/BA7ECBB371954D4F94C4E2F7CF88953A206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C14B49608DE644848E46E1830640005E206",
+      "JobTitle": "Workday HCM Functional Configuration Lead",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/C14B49608DE644848E46E1830640005E206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F7ECE41CD6DF4BACB7F5BF4B1850A0F9206",
+      "JobTitle": "Senior Systems Administrator",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-11 4:17 AM",
+      "URL": "https://de.jobsyn.org/F7ECE41CD6DF4BACB7F5BF4B1850A0F9206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E3768EDE829A4A0ABC31821E789D5F8F206",
+      "JobTitle": "Field Service Technician -South San Francisco, San Jose, Pleasanton, CA",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-11 2:21 AM",
+      "URL": "https://de.jobsyn.org/E3768EDE829A4A0ABC31821E789D5F8F206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E85927ACC6E5450199FCF153416CE891206",
+      "JobTitle": "Senior Systems Administrator",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-10 5:03 AM",
+      "URL": "https://de.jobsyn.org/E85927ACC6E5450199FCF153416CE891206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AE78755322144127A5F050F87CACFE13206",
+      "JobTitle": "Pega Service Delivery Center Analyst - Tech Consulting - Staff II - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-3-11 12:58 AM",
+      "URL": "https://de.jobsyn.org/AE78755322144127A5F050F87CACFE13206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D2186089AE8E485980451480927EEE24206",
+      "JobTitle": "Senior IT Enterprise Service Specialist",
+      "Company": "Thermo Fisher Scientific",
+      "AccquisitionDate": "2023-3-9 5:03 AM",
+      "URL": "https://de.jobsyn.org/D2186089AE8E485980451480927EEE24206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E529ABF604D478C8B5978DAE58FE2E4206",
+      "JobTitle": "2023 Internship - Mainframe Technical Support",
+      "Company": "IBM",
+      "AccquisitionDate": "2023-3-9 3:51 AM",
+      "URL": "https://de.jobsyn.org/7E529ABF604D478C8B5978DAE58FE2E4206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "95F5B572D6584A968D103A28D556B246206",
+      "JobTitle": "HelpZone Support Engineer 1399192",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-3-9 12:54 AM",
+      "URL": "https://de.jobsyn.org/95F5B572D6584A968D103A28D556B246206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "54DD9373917D4BE59E4F2466400C628F206",
+      "JobTitle": "Business Installation and Repair Technician",
+      "Company": "Ledcor Group of Companies",
+      "AccquisitionDate": "2023-3-2 6:15 AM",
+      "URL": "https://de.jobsyn.org/54DD9373917D4BE59E4F2466400C628F206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "477ED81859A442B2938BF0D799629A72206",
+      "JobTitle": "National Applications Specialist - Western United States",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-3 3:58 AM",
+      "URL": "https://de.jobsyn.org/477ED81859A442B2938BF0D799629A72206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "81850B4CF11946FA8D625C240A52D773206",
+      "JobTitle": "Call Center Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-3 12:14 AM",
+      "URL": "https://de.jobsyn.org/81850B4CF11946FA8D625C240A52D773206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "85FD1FDEE08D4B67BA758CEA1C6E1E23206",
+      "JobTitle": "IT Services- Cyber Incident Response Analyst - Manager (US Remote)",
+      "Company": "PwC IT Services Co.",
+      "AccquisitionDate": "2023-3-2 3:19 AM",
+      "URL": "https://de.jobsyn.org/85FD1FDEE08D4B67BA758CEA1C6E1E23206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E23DBAEF701E488ABC695FE6854B1A37206",
+      "JobTitle": "Information Technology Consultant",
+      "Company": "San Jose State University",
+      "AccquisitionDate": "2023-3-1 1:22 AM",
+      "URL": "https://de.jobsyn.org/E23DBAEF701E488ABC695FE6854B1A37206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3A34ED8AFE34477BBC85E937767A19E3206",
+      "JobTitle": "Workday Time & Absence Configuration Lead",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-1 2:43 AM",
+      "URL": "https://de.jobsyn.org/3A34ED8AFE34477BBC85E937767A19E3206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AF07234839CC497D879849E66052BDA2206",
+      "JobTitle": "Senior Systems Administrator",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-1 3:25 AM",
+      "URL": "https://de.jobsyn.org/AF07234839CC497D879849E66052BDA2206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "249FCFB8D6B944E7A2EC06D843CE265E206",
+      "JobTitle": "Aerospace Engineering Lecturer Pool",
+      "Company": "San Jose State University",
+      "AccquisitionDate": "2021-10-19 8:05 PM",
+      "URL": "https://de.jobsyn.org/249FCFB8D6B944E7A2EC06D843CE265E206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9A106CFFF9734C00AE01BA6BED0625C5206",
+      "JobTitle": "Modeling Engineer, Advanced Packaging - (E4)",
+      "Company": "Applied Materials",
+      "AccquisitionDate": "2023-3-11 4:57 AM",
+      "URL": "https://de.jobsyn.org/9A106CFFF9734C00AE01BA6BED0625C5206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D23FF336155947058F52F191E809FA53206",
+      "JobTitle": "WASS Aircraft Mech III Lead (King Air 250) OCONUS",
+      "Company": "AAR CORP",
+      "AccquisitionDate": "2023-2-18 3:26 AM",
+      "URL": "https://de.jobsyn.org/D23FF336155947058F52F191E809FA53206",
+      "Location": "SAN JOSE",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7B30F9DB108642FB9D564EC6E557CFB4206",
+      "JobTitle": "Senior Interior Designer (Palo Alto CA)",
+      "Company": "Planate Management Group LLC",
+      "AccquisitionDate": "2023-2-8 1:04 AM",
+      "URL": "https://de.jobsyn.org/7B30F9DB108642FB9D564EC6E557CFB4206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "24CC36A8F36149D091DF167F8471FBC8206",
+      "JobTitle": "Mechanical Test Engineer II",
+      "Company": "BAE Systems",
+      "AccquisitionDate": "2023-2-2 8:55 AM",
+      "URL": "https://de.jobsyn.org/24CC36A8F36149D091DF167F8471FBC8206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AC5CB9B400024CF2A3DC4A529B051D25206",
+      "JobTitle": "Aviation Engineering PM / Local Practice Lead",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-1-21 12:02 AM",
+      "URL": "https://de.jobsyn.org/AC5CB9B400024CF2A3DC4A529B051D25206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A090AC4796A1435E9653B5DAAB1F1DEC206",
+      "JobTitle": "Aviation Engineering PM / Local Practice Lead",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-1-20 9:57 PM",
+      "URL": "https://de.jobsyn.org/A090AC4796A1435E9653B5DAAB1F1DEC206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CDE9A029994548B4AD4083D395C41424206",
+      "JobTitle": "Sr. Engineer, Electric Motor & BEV Simulation",
+      "Company": "Tula Technology, Inc.",
+      "AccquisitionDate": "2022-12-16 10:27 PM",
+      "URL": "https://de.jobsyn.org/CDE9A029994548B4AD4083D395C41424206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4AE9EE312E034A2888C3D23CCB56FCA4206",
+      "JobTitle": "Global Product Support (GPS) Engineer V - (E5)",
+      "Company": "Applied Materials",
+      "AccquisitionDate": "2022-12-7 3:45 AM",
+      "URL": "https://de.jobsyn.org/4AE9EE312E034A2888C3D23CCB56FCA4206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6E4178FF5AA749118F90846303F3B21B206",
+      "JobTitle": "Research Scientist/Engineer - Speech Recognition",
+      "Company": "Pearson",
+      "AccquisitionDate": "2022-12-7 1:24 AM",
+      "URL": "https://de.jobsyn.org/6E4178FF5AA749118F90846303F3B21B206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0ACB4FD771C8419E8885EBA3D8997688206",
+      "JobTitle": "Systems Engineer or Principal Systems Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-10-5 7:41 AM",
+      "URL": "https://de.jobsyn.org/0ACB4FD771C8419E8885EBA3D8997688206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7B636E7ED3B4629B7173327DF967999206",
+      "JobTitle": "Tunnel Engineer",
+      "Company": "Traylor Bros., Inc.",
+      "AccquisitionDate": "2022-9-24 9:18 AM",
+      "URL": "https://de.jobsyn.org/B7B636E7ED3B4629B7173327DF967999206",
+      "Location": "San Jose",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "1C2AE15A05BE4A1587E6B8316C1D2895206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "Planate Management Group LLC",
+      "AccquisitionDate": "2023-2-17 11:27 PM",
+      "URL": "https://de.jobsyn.org/1C2AE15A05BE4A1587E6B8316C1D2895206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "43A8BD4ED29C4B0A95F264BFCAFEBEEB206",
+      "JobTitle": "Engineering Services Manager",
+      "Company": "Jabil",
+      "AccquisitionDate": "2023-3-13 11:20 PM",
+      "URL": "https://de.jobsyn.org/43A8BD4ED29C4B0A95F264BFCAFEBEEB206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A6AF8A9C87BD4604B1BFD8FA08F26908206",
+      "JobTitle": "Construction Project Manager - San Jose",
+      "Company": "Hudson Pacific Properties",
+      "AccquisitionDate": "2023-2-10 4:02 AM",
+      "URL": "https://de.jobsyn.org/A6AF8A9C87BD4604B1BFD8FA08F26908206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D41674DF3E8B4321B4E3FBFC0107F7B1206",
+      "JobTitle": "Engineering Manager (React Technical Lead)",
+      "Company": "ProKarma",
+      "AccquisitionDate": "2022-4-16 2:13 AM",
+      "URL": "https://de.jobsyn.org/D41674DF3E8B4321B4E3FBFC0107F7B1206",
+      "Location": "San Jose",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1603B375C0FB4F5DB09E9A9C72E69FD4206",
+      "JobTitle": "Power & Utilities Delivery Lead - Senior Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-15 5:09 AM",
+      "URL": "https://de.jobsyn.org/1603B375C0FB4F5DB09E9A9C72E69FD4206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "925A292D616F413CA2B1BABC1CF32F75206",
+      "JobTitle": "Healthcare Architecture Project Manager",
+      "Company": "Stantec",
+      "AccquisitionDate": "2023-3-9 2:03 AM",
+      "URL": "https://de.jobsyn.org/925A292D616F413CA2B1BABC1CF32F75206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CBE186488AAF47EF8B75E1BC81DF2BFE206",
+      "JobTitle": "Pre-Sales Engineer (WAM) - Senior Manager - Consulting - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-26 1:00 AM",
+      "URL": "https://de.jobsyn.org/CBE186488AAF47EF8B75E1BC81DF2BFE206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "31A4116A37044A67945CB409188E868B206",
+      "JobTitle": "Sr Principal Systems Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-10-5 7:41 AM",
+      "URL": "https://de.jobsyn.org/31A4116A37044A67945CB409188E868B206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EE4E5367883F48C8974D88DDBEBAE93A206",
+      "JobTitle": "Sr Principal Systems Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-10-5 7:44 AM",
+      "URL": "https://de.jobsyn.org/EE4E5367883F48C8974D88DDBEBAE93A206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AC5CB9B400024CF2A3DC4A529B051D25206",
+      "JobTitle": "Aviation Engineering PM / Local Practice Lead",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-1-21 12:02 AM",
+      "URL": "https://de.jobsyn.org/AC5CB9B400024CF2A3DC4A529B051D25206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A090AC4796A1435E9653B5DAAB1F1DEC206",
+      "JobTitle": "Aviation Engineering PM / Local Practice Lead",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-1-20 9:57 PM",
+      "URL": "https://de.jobsyn.org/A090AC4796A1435E9653B5DAAB1F1DEC206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6FA5C48BF6BC4C5DBF7EE6EE9F987CA9206",
+      "JobTitle": "Solutions Architect - Global Supplier Management",
+      "Company": "Cisco",
+      "AccquisitionDate": "2023-3-3 12:52 AM",
+      "URL": "https://de.jobsyn.org/6FA5C48BF6BC4C5DBF7EE6EE9F987CA9206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "188E7DDC27F740BAA48D50DB8C9A0125206",
+      "JobTitle": "Project Manager",
+      "Company": "Cumming",
+      "AccquisitionDate": "2022-12-14 12:21 PM",
+      "URL": "https://de.jobsyn.org/188E7DDC27F740BAA48D50DB8C9A0125206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "82C5DEBB06D44C96BFE271300C13BBDD206",
+      "JobTitle": "Senior Program Manager",
+      "Company": "Cumming",
+      "AccquisitionDate": "2023-1-14 10:42 PM",
+      "URL": "https://de.jobsyn.org/82C5DEBB06D44C96BFE271300C13BBDD206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0878B3724BEC4EBB896F6B19D3E34580206",
+      "JobTitle": "Senior Construction Manager",
+      "Company": "San Jose State University",
+      "AccquisitionDate": "2021-10-19 8:05 PM",
+      "URL": "https://de.jobsyn.org/0878B3724BEC4EBB896F6B19D3E34580206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "635E94D2A2B64F6396156173AD2F673D206",
+      "JobTitle": "Project Manager, New Equipment",
+      "Company": "Otis Elevator Company",
+      "AccquisitionDate": "2023-2-23 4:51 AM",
+      "URL": "https://de.jobsyn.org/635E94D2A2B64F6396156173AD2F673D206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C7A3105D9CAA4294A4CB43A5CAA4B2B4206",
+      "JobTitle": "Sr. Project Manager- Water Business - Northern California",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-2 2:24 AM",
+      "URL": "https://de.jobsyn.org/C7A3105D9CAA4294A4CB43A5CAA4B2B4206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9FEE639EA2264F769FF180F111CE1388206",
+      "JobTitle": "Client Director- Water Business - Northern California",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2022-12-15 11:21 AM",
+      "URL": "https://de.jobsyn.org/9FEE639EA2264F769FF180F111CE1388206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EA3D73FF698D469180FF5699600FF151206",
+      "JobTitle": "Grid Modernization Project Manager",
+      "Company": "PwC",
+      "AccquisitionDate": "2023-2-1 5:28 AM",
+      "URL": "https://de.jobsyn.org/EA3D73FF698D469180FF5699600FF151206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "03B78E0B2B63480296334BC6AAB57B95206",
+      "JobTitle": "Structures Department Manager",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-14 12:09 AM",
+      "URL": "https://de.jobsyn.org/03B78E0B2B63480296334BC6AAB57B95206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "889D36D779FF45C3A6704D89A7ADDB73206",
+      "JobTitle": "Program Manager - Residential",
+      "Company": "ICF Consulting Group, Inc.",
+      "AccquisitionDate": "2023-3-14 12:11 AM",
+      "URL": "https://de.jobsyn.org/889D36D779FF45C3A6704D89A7ADDB73206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "19FA3611E29446E297662D77D889B85D206",
+      "JobTitle": "Structures Department Manager",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-13 6:52 PM",
+      "URL": "https://de.jobsyn.org/19FA3611E29446E297662D77D889B85D206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E704685A21D545E0AAC6CCEE63013AF6206",
+      "JobTitle": "Deloitte Greenhouse Experience Breakthrough Site Leader, Senior Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/E704685A21D545E0AAC6CCEE63013AF6206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F183B9A85F04A03AE5DABD6B22C7DD0206",
+      "JobTitle": "Power, Utilities & Renewables- Next Gen AMI Exploration/Strategy Senior Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 4:08 AM",
+      "URL": "https://de.jobsyn.org/6F183B9A85F04A03AE5DABD6B22C7DD0206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EC4396B44CD641F28B110AE632AFDBEC206",
+      "JobTitle": "Project Manager (Commercial Construction)",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-11 3:01 AM",
+      "URL": "https://de.jobsyn.org/EC4396B44CD641F28B110AE632AFDBEC206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "989772467AD6405E86F7777597772502206",
+      "JobTitle": "Project Engineer - Entry Level (Multiple Locations)",
+      "Company": "Cupertino Electric",
+      "AccquisitionDate": "2023-2-23 3:16 PM",
+      "URL": "https://de.jobsyn.org/989772467AD6405E86F7777597772502206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E73F0F3270CB44AA8059D8774DAD707C206",
+      "JobTitle": "JAVA Engineer- Biotech",
+      "Company": "Motion Recruitment Partners",
+      "AccquisitionDate": "2023-1-25 2:15 AM",
+      "URL": "https://de.jobsyn.org/E73F0F3270CB44AA8059D8774DAD707C206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D8B9751692754E7CB2236CD7F5F8E3A9206",
+      "JobTitle": "Biomedical Equipment Planner",
+      "Company": "Planate Management Group LLC",
+      "AccquisitionDate": "2023-1-19 10:32 PM",
+      "URL": "https://de.jobsyn.org/D8B9751692754E7CB2236CD7F5F8E3A9206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "2570F838514D405EB280A45FEFD876BF206",
+      "JobTitle": "Americas Chemical Program Manager - San Jose, CA",
+      "Company": "IBM",
+      "AccquisitionDate": "2023-2-18 2:19 AM",
+      "URL": "https://de.jobsyn.org/2570F838514D405EB280A45FEFD876BF206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D1A161C31B5A4ADC894F84FCD97A9E05206",
+      "JobTitle": "Engineer II",
+      "Company": "Olympus Corporation of the Americas",
+      "AccquisitionDate": "2023-2-8 3:44 AM",
+      "URL": "https://de.jobsyn.org/D1A161C31B5A4ADC894F84FCD97A9E05206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DEA98BF3C27943928D9F598306E79B4B206",
+      "JobTitle": "Part-time Engineer I - West Div (For current/previous HNTB Interns ONLY)",
+      "Company": "HNTB",
+      "AccquisitionDate": "2022-11-8 12:12 AM",
+      "URL": "https://de.jobsyn.org/DEA98BF3C27943928D9F598306E79B4B206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E954DB851B9246A898E36313EF1860BE206",
+      "JobTitle": "Part-time Engineer I - West Div (For current/previous HNTB Interns ONLY)",
+      "Company": "HNTB",
+      "AccquisitionDate": "2022-11-8 12:12 AM",
+      "URL": "https://de.jobsyn.org/E954DB851B9246A898E36313EF1860BE206",
+      "Location": "San Jose, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "045901FE7B804006833C85B3FFB0CD00206",
+      "JobTitle": "Part-time Engineer I - West Div (For current/previous HNTB Interns ONLY)",
+      "Company": "HNTB",
+      "AccquisitionDate": "2022-11-8 1:21 AM",
+      "URL": "https://de.jobsyn.org/045901FE7B804006833C85B3FFB0CD00206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B56C5931D74E481A9D2FFB5A634E4687206",
+      "JobTitle": "ER&I - Oil, Gas, & Chemicals - SAP Finance - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-5-31 5:50 PM",
+      "URL": "https://de.jobsyn.org/B56C5931D74E481A9D2FFB5A634E4687206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "881945CF84E746128FA361C64044A174206",
+      "JobTitle": "Engineer II",
+      "Company": "Olympus Corporation of the Americas",
+      "AccquisitionDate": "2021-7-9 5:31 AM",
+      "URL": "https://de.jobsyn.org/881945CF84E746128FA361C64044A174206",
+      "Location": "San Jose, CA",
+      "Fc": "True"
+    }
+  ]
+]
