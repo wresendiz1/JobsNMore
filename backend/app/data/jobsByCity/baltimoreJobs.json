@@ -1,0 +1,3331 @@
+[
+  [
+    {
+      "JvId": "FFF9CBEA476D4631BD94EC1EB5C8A58B206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/FFF9CBEA476D4631BD94EC1EB5C8A58B206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5570FE4C38004565A80F17A3709B76F3206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-21 12:28 AM",
+      "URL": "https://de.jobsyn.org/5570FE4C38004565A80F17A3709B76F3206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9C92649E804A4B9DAEF7827F084473AE206",
+      "JobTitle": "Accounting Specialist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-14 2:24 AM",
+      "URL": "https://de.jobsyn.org/9C92649E804A4B9DAEF7827F084473AE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F73C2611D800497AA2ACD93A30E3BC83206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/F73C2611D800497AA2ACD93A30E3BC83206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "20E42DBA879340E1876073A49A5FB06A206",
+      "JobTitle": "Accounting Specialist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-14 2:24 AM",
+      "URL": "https://de.jobsyn.org/20E42DBA879340E1876073A49A5FB06A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EB5C08486C634453AD37BFCB9775E3B7206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/EB5C08486C634453AD37BFCB9775E3B7206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2E6479D3795A4FA08D05CC09117C6DB1206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/2E6479D3795A4FA08D05CC09117C6DB1206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8ACA7741EFD14081B9B1F9E6D5D97794206",
+      "JobTitle": "Accounting Coordinator I",
+      "Company": "ARAMARK",
+      "AccquisitionDate": "2023-3-14 4:30 AM",
+      "URL": "https://de.jobsyn.org/8ACA7741EFD14081B9B1F9E6D5D97794206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D04777154C9B467E9F43744DB350590B206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/D04777154C9B467E9F43744DB350590B206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BBB866B555584CB0842F90EF886D74C1206",
+      "JobTitle": "Balance & Control Associate - Wealth Management Operations",
+      "Company": "Morgan Stanley",
+      "AccquisitionDate": "2023-3-10 11:26 PM",
+      "URL": "https://de.jobsyn.org/BBB866B555584CB0842F90EF886D74C1206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DE1E00F034FB45E4AB1A891FE5B989C5206",
+      "JobTitle": "Billing Specialist (Remote)",
+      "Company": "Learn It Systems",
+      "AccquisitionDate": "2023-3-11 1:14 AM",
+      "URL": "https://de.jobsyn.org/DE1E00F034FB45E4AB1A891FE5B989C5206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CF12C28D4C3F4C4E9F6C1A0D8628AD41206",
+      "JobTitle": "Accountant SGWS MD",
+      "Company": "Southern Glazer's Wine and Spirits",
+      "AccquisitionDate": "2023-3-9 8:52 AM",
+      "URL": "https://de.jobsyn.org/CF12C28D4C3F4C4E9F6C1A0D8628AD41206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DEE73E1D0F66499CBEFC7DDFC2363C06206",
+      "JobTitle": "Mgr Accounting SGWS MD",
+      "Company": "Southern Glazer's Wine and Spirits",
+      "AccquisitionDate": "2023-3-9 8:52 AM",
+      "URL": "https://de.jobsyn.org/DEE73E1D0F66499CBEFC7DDFC2363C06206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EBFB48F0BD084DAFAC6FE504D727DAE2206",
+      "JobTitle": "Accounts Receivable Associate",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-9 2:55 AM",
+      "URL": "https://de.jobsyn.org/EBFB48F0BD084DAFAC6FE504D727DAE2206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B201FF06C61B4A2F87699CC13391AD57206",
+      "JobTitle": "Cash Apps",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-8 5:21 AM",
+      "URL": "https://de.jobsyn.org/B201FF06C61B4A2F87699CC13391AD57206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F872F759D1CA47E49978BB07CF5BE880206",
+      "JobTitle": "Accounts Payable Assistant",
+      "Company": "Maryland Treatment Centers, Inc.",
+      "AccquisitionDate": "2023-3-8 10:14 PM",
+      "URL": "https://de.jobsyn.org/F872F759D1CA47E49978BB07CF5BE880206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E708FEBEFCBD453E9B314FEC6900D7A2206",
+      "JobTitle": "Accounts Receivable Insurance Claims Specialist",
+      "Company": "Cayuga Centers",
+      "AccquisitionDate": "2023-3-8 10:41 PM",
+      "URL": "https://de.jobsyn.org/E708FEBEFCBD453E9B314FEC6900D7A2206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "78ED79E74B7F4015B9CDD91F309958E9206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:27 AM",
+      "URL": "https://de.jobsyn.org/78ED79E74B7F4015B9CDD91F309958E9206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "529E99394AEE49CDBBDDF23BC5BBC293206",
+      "JobTitle": "Billing Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-7 2:21 AM",
+      "URL": "https://de.jobsyn.org/529E99394AEE49CDBBDDF23BC5BBC293206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0EE06067733249CEACCDC023D4C4C671206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-4 4:10 AM",
+      "URL": "https://de.jobsyn.org/0EE06067733249CEACCDC023D4C4C671206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BE90549402B24C73B2F492E5881EDE26206",
+      "JobTitle": "Budget Analyst",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-4 3:29 AM",
+      "URL": "https://de.jobsyn.org/BE90549402B24C73B2F492E5881EDE26206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "235B0E5B89284505A9E0B0E0E2D2A883206",
+      "JobTitle": "Budget Specialist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-4 3:29 AM",
+      "URL": "https://de.jobsyn.org/235B0E5B89284505A9E0B0E0E2D2A883206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5D1EA9A8F9F64360914A37E8647C49B8206",
+      "JobTitle": "Payroll/Accounts Payable Administrator",
+      "Company": "Worcester Eisenbrandt Construction",
+      "AccquisitionDate": "2023-3-3 6:08 AM",
+      "URL": "https://de.jobsyn.org/5D1EA9A8F9F64360914A37E8647C49B8206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "53D6AC67DD644BB28BBDC13951658406206",
+      "JobTitle": "Audit Associate - Winter 2024",
+      "Company": "PwC",
+      "AccquisitionDate": "2023-3-2 5:14 AM",
+      "URL": "https://de.jobsyn.org/53D6AC67DD644BB28BBDC13951658406206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "66DABD8350B54023A37126CAF761E821206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-3 2:20 AM",
+      "URL": "https://de.jobsyn.org/66DABD8350B54023A37126CAF761E821206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "FB4E32601C2D4057BF49D68731F0DC46206",
+      "JobTitle": "Computer Braillist",
+      "Company": "The Maryland School for the Blind (MSB)",
+      "AccquisitionDate": "2023-2-17 10:15 PM",
+      "URL": "https://de.jobsyn.org/FB4E32601C2D4057BF49D68731F0DC46206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "0D4C89C8D5FE42B8B51BAAA135D87930206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "American Leak Detection, Inc",
+      "AccquisitionDate": "2023-3-12 2:06 AM",
+      "URL": "https://de.jobsyn.org/0D4C89C8D5FE42B8B51BAAA135D87930206",
+      "Location": "Greater Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4187970CA0A64C3A81088512A989C31E206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Fortive Corporation",
+      "AccquisitionDate": "2023-3-14 5:16 AM",
+      "URL": "https://de.jobsyn.org/4187970CA0A64C3A81088512A989C31E206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "265A5089678A4D5CA33822ED11CEADB5206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2022-12-30 6:32 AM",
+      "URL": "https://de.jobsyn.org/265A5089678A4D5CA33822ED11CEADB5206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0AB9DF4A556C491CA23221D5B307B107206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0AB9DF4A556C491CA23221D5B307B107206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0FD54120942247C88656731C16423361206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0FD54120942247C88656731C16423361206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1293886BB5C446A38072532FC8815CCB206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/1293886BB5C446A38072532FC8815CCB206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "172895268A6C47739B3BB6DFD2004CD6206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/172895268A6C47739B3BB6DFD2004CD6206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FF119271CDE64C24A7A7B0FAC20FEAEA206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FF119271CDE64C24A7A7B0FAC20FEAEA206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "19318D6683244918831F94C5C2506F6B206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/19318D6683244918831F94C5C2506F6B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FD11298E06844AEABB3DD232D78E8162206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FD11298E06844AEABB3DD232D78E8162206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AAB6F92CE4724C2CA3BD7B519DC8A554206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/AAB6F92CE4724C2CA3BD7B519DC8A554206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B5864B1A9C63449BA25B4648907F8C1D206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/B5864B1A9C63449BA25B4648907F8C1D206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CE41B68E3F8443E09AD33F1E4BE41365206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/CE41B68E3F8443E09AD33F1E4BE41365206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "33529E32A9464B399489D2F4A568ECEA206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/33529E32A9464B399489D2F4A568ECEA206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3B7A3424369D46269031AD91E3A171E3206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/3B7A3424369D46269031AD91E3A171E3206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D07BD5CDAF1944E98996A6B634B390E0206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/D07BD5CDAF1944E98996A6B634B390E0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "996E2E31D6E24E9EA88C52DB7DB10624206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/996E2E31D6E24E9EA88C52DB7DB10624206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9ECF2B14020D42DE9B33CC56D8315394206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/9ECF2B14020D42DE9B33CC56D8315394206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "72FB2D8E49C9409CA767F89EC4813787206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/72FB2D8E49C9409CA767F89EC4813787206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FA499115134048A2B2D5B2110E78A58B206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FA499115134048A2B2D5B2110E78A58B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "169B0D6A0FB84EDE96A48DDEE2EC8BA3206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/169B0D6A0FB84EDE96A48DDEE2EC8BA3206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "23FA2E4C9B1546099CD563C300881247206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/23FA2E4C9B1546099CD563C300881247206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C335AF2D711D4E2993EE8A661DEA6986206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/C335AF2D711D4E2993EE8A661DEA6986206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "38BF75F77C3544B0AC62BD4D542F2C3B206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/38BF75F77C3544B0AC62BD4D542F2C3B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5894A3371FD94FB3B1EE6BAF9FD1184D206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/5894A3371FD94FB3B1EE6BAF9FD1184D206",
+      "Location": "New Baltimore, MI",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "F6908EB07FB145C985E3AAC5246A289E206",
+      "JobTitle": "Data Entry Associate, Licensing",
+      "Company": "Element Fleet Management",
+      "AccquisitionDate": "2023-3-9 1:17 AM",
+      "URL": "https://de.jobsyn.org/F6908EB07FB145C985E3AAC5246A289E206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8CF770845D614E269E4B3301D0E106C2206",
+      "JobTitle": "Data Entry Associate, Licensing",
+      "Company": "Element Fleet Management",
+      "AccquisitionDate": "2023-2-22 9:28 AM",
+      "URL": "https://de.jobsyn.org/8CF770845D614E269E4B3301D0E106C2206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "91EE97C374434086B5A4D1DCF1D0A3FC206",
+      "JobTitle": "Data Entry Clerk",
+      "Company": "Baltimore City Community College",
+      "AccquisitionDate": "2023-2-1 2:00 AM",
+      "URL": "https://de.jobsyn.org/91EE97C374434086B5A4D1DCF1D0A3FC206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "10C209AA03504AC9B6A88D1316E5E2CA206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 3:58 AM",
+      "URL": "https://de.jobsyn.org/10C209AA03504AC9B6A88D1316E5E2CA206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "52F4B213C5664BEEBB2353142D32B9C7206",
+      "JobTitle": "Internal Auditor - Operations",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-2-1 4:17 AM",
+      "URL": "https://de.jobsyn.org/52F4B213C5664BEEBB2353142D32B9C7206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0BDDE0470C8B471FA33C444702874805206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 2:02 AM",
+      "URL": "https://de.jobsyn.org/0BDDE0470C8B471FA33C444702874805206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8355206400854E79B4F7678EDD71CA28206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 4:20 AM",
+      "URL": "https://de.jobsyn.org/8355206400854E79B4F7678EDD71CA28206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C443DBF1B3D54F229706CCC48FA2F1DC206",
+      "JobTitle": "Auditor 3, Internal Audit",
+      "Company": "Comcast",
+      "AccquisitionDate": "2023-3-11 3:31 AM",
+      "URL": "https://de.jobsyn.org/C443DBF1B3D54F229706CCC48FA2F1DC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DC763967E83B45CAAEA28EFC4E65DA14206",
+      "JobTitle": "Internal Audit - Operations Associate",
+      "Company": "Morgan Stanley",
+      "AccquisitionDate": "2023-2-15 6:46 AM",
+      "URL": "https://de.jobsyn.org/DC763967E83B45CAAEA28EFC4E65DA14206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FA7AD6D7060641BB9417A4D094D003F0206",
+      "JobTitle": "Senior Accountant - All Roads",
+      "Company": "All Roads",
+      "AccquisitionDate": "2023-3-8 11:04 PM",
+      "URL": "https://de.jobsyn.org/FA7AD6D7060641BB9417A4D094D003F0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BE54D4FE5BB543DAAD5679510A1C5ACD206",
+      "JobTitle": "Internal Audit - Institutional Securities Technology Associate",
+      "Company": "Morgan Stanley",
+      "AccquisitionDate": "2023-2-24 5:18 AM",
+      "URL": "https://de.jobsyn.org/BE54D4FE5BB543DAAD5679510A1C5ACD206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "038D17924CC04913B35027F4C3C77CF3206",
+      "JobTitle": "Sr. Internal Auditor",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-11-30 4:31 AM",
+      "URL": "https://de.jobsyn.org/038D17924CC04913B35027F4C3C77CF3206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "28E7A3A5F5E34DB081B58994D41BFCAF206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:01 AM",
+      "URL": "https://de.jobsyn.org/28E7A3A5F5E34DB081B58994D41BFCAF206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1A80B52130B44BD89FAB16A0C8E1C1FE206",
+      "JobTitle": "Internal Auditor II",
+      "Company": "Maryland Department of Transportation",
+      "AccquisitionDate": "2022-8-5 1:43 AM",
+      "URL": "https://de.jobsyn.org/1A80B52130B44BD89FAB16A0C8E1C1FE206",
+      "Location": "Baltimore City, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8ACA7741EFD14081B9B1F9E6D5D97794206",
+      "JobTitle": "Accounting Coordinator I",
+      "Company": "ARAMARK",
+      "AccquisitionDate": "2023-3-14 4:30 AM",
+      "URL": "https://de.jobsyn.org/8ACA7741EFD14081B9B1F9E6D5D97794206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "805F9C12E6624399A82191103D4A880D206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:15 AM",
+      "URL": "https://de.jobsyn.org/805F9C12E6624399A82191103D4A880D206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A1D313D2EBFC46088465590A13D0B8EA206",
+      "JobTitle": "Sr. Billing Compliance Auditor Trainer",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-2-4 4:34 AM",
+      "URL": "https://de.jobsyn.org/A1D313D2EBFC46088465590A13D0B8EA206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A6D6591F55174F6E9AEE36D8B0940EB0206",
+      "JobTitle": "Sr. Billing Compliance Auditor Trainer",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-2-4 4:34 AM",
+      "URL": "https://de.jobsyn.org/A6D6591F55174F6E9AEE36D8B0940EB0206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "39AFAD91B93A423B8BC49B650C9AE57B206",
+      "JobTitle": "CFO",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-21 12:34 AM",
+      "URL": "https://de.jobsyn.org/39AFAD91B93A423B8BC49B650C9AE57B206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F6AEB283EC6A4F3E8388C1BF9A391618206",
+      "JobTitle": "Accounts Receivable Senior Analyst",
+      "Company": "Sevita",
+      "AccquisitionDate": "2023-2-26 3:43 AM",
+      "URL": "https://de.jobsyn.org/F6AEB283EC6A4F3E8388C1BF9A391618206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7A00EF5A5B0B4B1EA2D9544BB7EAF948206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-2 12:07 AM",
+      "URL": "https://de.jobsyn.org/7A00EF5A5B0B4B1EA2D9544BB7EAF948206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CB320BF9AFB1484FA97CB3672C493260206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-7 12:09 AM",
+      "URL": "https://de.jobsyn.org/CB320BF9AFB1484FA97CB3672C493260206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B58F90D0A60E439A80C9F05C193DA80E206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-26 12:13 AM",
+      "URL": "https://de.jobsyn.org/B58F90D0A60E439A80C9F05C193DA80E206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B5C6A95E7150487A839AD37E3718E1E1206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Baltimore City Community College",
+      "AccquisitionDate": "2023-2-9 1:32 AM",
+      "URL": "https://de.jobsyn.org/B5C6A95E7150487A839AD37E3718E1E1206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CE59C8337168499CA8A638A82932BD10206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-28 12:19 AM",
+      "URL": "https://de.jobsyn.org/CE59C8337168499CA8A638A82932BD10206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5AAC64319CBC4D048823B6214A27C7D4206",
+      "JobTitle": "Staff Accountant - BGE (Hybrid)",
+      "Company": "Exelon",
+      "AccquisitionDate": "2023-3-7 3:34 AM",
+      "URL": "https://de.jobsyn.org/5AAC64319CBC4D048823B6214A27C7D4206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "78ED79E74B7F4015B9CDD91F309958E9206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:27 AM",
+      "URL": "https://de.jobsyn.org/78ED79E74B7F4015B9CDD91F309958E9206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EBDAA89361CC4014808796A1648F107B206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-11-21 12:32 AM",
+      "URL": "https://de.jobsyn.org/EBDAA89361CC4014808796A1648F107B206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "9C92649E804A4B9DAEF7827F084473AE206",
+      "JobTitle": "Accounting Specialist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-14 2:24 AM",
+      "URL": "https://de.jobsyn.org/9C92649E804A4B9DAEF7827F084473AE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EB5C08486C634453AD37BFCB9775E3B7206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/EB5C08486C634453AD37BFCB9775E3B7206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2E6479D3795A4FA08D05CC09117C6DB1206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/2E6479D3795A4FA08D05CC09117C6DB1206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "88D30F0D948E4B3792C6CA4FDE9A9D3C206",
+      "JobTitle": "Collections Manager",
+      "Company": "Element Fleet Management",
+      "AccquisitionDate": "2023-3-14 1:06 AM",
+      "URL": "https://de.jobsyn.org/88D30F0D948E4B3792C6CA4FDE9A9D3C206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D04777154C9B467E9F43744DB350590B206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/D04777154C9B467E9F43744DB350590B206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1FF82DF25611470BBC207038CC2D7297206",
+      "JobTitle": "REMOTE Medical Billing & Collections Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-9 2:56 AM",
+      "URL": "https://de.jobsyn.org/1FF82DF25611470BBC207038CC2D7297206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EBFB48F0BD084DAFAC6FE504D727DAE2206",
+      "JobTitle": "Accounts Receivable Associate",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-9 2:55 AM",
+      "URL": "https://de.jobsyn.org/EBFB48F0BD084DAFAC6FE504D727DAE2206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EA7ACB293D114BE3A4F09A8D44E5E6EA206",
+      "JobTitle": "Medical Billing Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-8 5:23 AM",
+      "URL": "https://de.jobsyn.org/EA7ACB293D114BE3A4F09A8D44E5E6EA206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E708FEBEFCBD453E9B314FEC6900D7A2206",
+      "JobTitle": "Accounts Receivable Insurance Claims Specialist",
+      "Company": "Cayuga Centers",
+      "AccquisitionDate": "2023-3-8 10:41 PM",
+      "URL": "https://de.jobsyn.org/E708FEBEFCBD453E9B314FEC6900D7A2206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1B0D26C82A7D4766AF0F123B9857ADB6206",
+      "JobTitle": "Medical Billing Specialist- FULLY REMOTE",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-8 5:23 AM",
+      "URL": "https://de.jobsyn.org/1B0D26C82A7D4766AF0F123B9857ADB6206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "529E99394AEE49CDBBDDF23BC5BBC293206",
+      "JobTitle": "Billing Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-7 2:21 AM",
+      "URL": "https://de.jobsyn.org/529E99394AEE49CDBBDDF23BC5BBC293206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0EE06067733249CEACCDC023D4C4C671206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-4 4:10 AM",
+      "URL": "https://de.jobsyn.org/0EE06067733249CEACCDC023D4C4C671206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "66DABD8350B54023A37126CAF761E821206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-3 2:20 AM",
+      "URL": "https://de.jobsyn.org/66DABD8350B54023A37126CAF761E821206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D761BD5546B421F938B193A1B0342F1206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-3 2:20 AM",
+      "URL": "https://de.jobsyn.org/2D761BD5546B421F938B193A1B0342F1206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6DB7760FF2314A3B9C829CFEE9DB4B1D206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-1 2:31 AM",
+      "URL": "https://de.jobsyn.org/6DB7760FF2314A3B9C829CFEE9DB4B1D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B2C50960472745B78764B72D0FD802FE206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-1 2:31 AM",
+      "URL": "https://de.jobsyn.org/B2C50960472745B78764B72D0FD802FE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C900A071F0004E04960249E2C1ED5895206",
+      "JobTitle": "Credit & Collections Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-25 12:43 AM",
+      "URL": "https://de.jobsyn.org/C900A071F0004E04960249E2C1ED5895206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "88BCDF94C537415AB55F22C113923D89206",
+      "JobTitle": "Collections Representative",
+      "Company": "Element Fleet Management",
+      "AccquisitionDate": "2023-2-24 10:36 PM",
+      "URL": "https://de.jobsyn.org/88BCDF94C537415AB55F22C113923D89206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2808DA4EE5EA47F0B40E56D21A3199A7206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "Cintas",
+      "AccquisitionDate": "2023-2-10 5:00 AM",
+      "URL": "https://de.jobsyn.org/2808DA4EE5EA47F0B40E56D21A3199A7206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "79AE1835A9084217975B77F2C6DD345E206",
+      "JobTitle": "Sr Client Accounts Specialist",
+      "Company": "DLA Piper",
+      "AccquisitionDate": "2023-2-10 3:19 AM",
+      "URL": "https://de.jobsyn.org/79AE1835A9084217975B77F2C6DD345E206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5C549A812F35470DBE18E675408CF4F7206",
+      "JobTitle": "Accounts Receivable Clerk - Oriole Park",
+      "Company": "Compass Group, North America",
+      "AccquisitionDate": "2023-2-7 3:09 AM",
+      "URL": "https://de.jobsyn.org/5C549A812F35470DBE18E675408CF4F7206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3E89436619B6436399B14FE994297A23206",
+      "JobTitle": "Accounts Receivable Coordinator",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-2-1 4:50 AM",
+      "URL": "https://de.jobsyn.org/3E89436619B6436399B14FE994297A23206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D62F29A36E6C423C926CB4391D590727206",
+      "JobTitle": "Collection Specialist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-12-21 7:58 AM",
+      "URL": "https://de.jobsyn.org/D62F29A36E6C423C926CB4391D590727206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B8122CDB1FCD409CA3EC817BC77D5661206",
+      "JobTitle": "Collection Specialist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-12-17 2:24 AM",
+      "URL": "https://de.jobsyn.org/B8122CDB1FCD409CA3EC817BC77D5661206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0F076BDA66BB49DE8762A24083097443206",
+      "JobTitle": "Accounts Receivable Analyst",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-22 6:10 AM",
+      "URL": "https://de.jobsyn.org/0F076BDA66BB49DE8762A24083097443206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "36FFFC4ADCEE46C7AE2CC7E2BBF7E750206",
+      "JobTitle": "Credit Analyst",
+      "Company": "T. Rowe Price",
+      "AccquisitionDate": "2022-4-20 10:07 PM",
+      "URL": "https://de.jobsyn.org/36FFFC4ADCEE46C7AE2CC7E2BBF7E750206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0F00E0AD5CEF4C039D12F5A3F89362C7206",
+      "JobTitle": "Analyst, Credit Rsk",
+      "Company": "Constellation",
+      "AccquisitionDate": "2023-2-16 4:04 AM",
+      "URL": "https://de.jobsyn.org/0F00E0AD5CEF4C039D12F5A3F89362C7206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "93255304EAEA4EDE83FE3E34466F8ADB206",
+      "JobTitle": "Credit Analyst III (US)",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:53 PM",
+      "URL": "https://de.jobsyn.org/93255304EAEA4EDE83FE3E34466F8ADB206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7A5741A420934BC8A3F6001D0398A39B206",
+      "JobTitle": "Commercial Credit Analyst - Portfolio Management",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2022-12-8 3:27 PM",
+      "URL": "https://de.jobsyn.org/7A5741A420934BC8A3F6001D0398A39B206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "274365EA3EF14C2A86C2BBC77DD704FE206",
+      "JobTitle": "Commercial Credit Analyst - Portfolio Management/Underwriting",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2022-12-8 3:27 PM",
+      "URL": "https://de.jobsyn.org/274365EA3EF14C2A86C2BBC77DD704FE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5A75F29110784EC9A4F211715E65FAD7206",
+      "JobTitle": "Investment Banking Analyst (Financial Sponsors Group)",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2023-2-22 1:37 AM",
+      "URL": "https://de.jobsyn.org/5A75F29110784EC9A4F211715E65FAD7206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CCD55DAF216649F8957F973C24AACEAC206",
+      "JobTitle": "Sr Manager Business Analysis \u2013 CCUL US Credit Cards",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-2-23 5:04 AM",
+      "URL": "https://de.jobsyn.org/CCD55DAF216649F8957F973C24AACEAC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "25BF2D81D7B44184A0487C18BA9B9545206",
+      "JobTitle": "Unsecured Personal Lending - Senior Group Risk Analyst (US)",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:40 PM",
+      "URL": "https://de.jobsyn.org/25BF2D81D7B44184A0487C18BA9B9545206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D2B0C05BC9974AF7AB754A5390A76C0E206",
+      "JobTitle": "Treasury Analyst",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-8-2 5:44 AM",
+      "URL": "https://de.jobsyn.org/D2B0C05BC9974AF7AB754A5390A76C0E206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0F4E5E24674C4A1D960F4F1BF8511C62206",
+      "JobTitle": "VP: Retail Partner Credit Card, Risk Manager I",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-3-9 4:20 AM",
+      "URL": "https://de.jobsyn.org/0F4E5E24674C4A1D960F4F1BF8511C62206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A5415D543B09480AADE4A2D45989BFCA206",
+      "JobTitle": "Senior Financial Analyst",
+      "Company": "Constellation",
+      "AccquisitionDate": "2023-3-7 3:54 AM",
+      "URL": "https://de.jobsyn.org/A5415D543B09480AADE4A2D45989BFCA206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A9AE4A7C49F845539910452A6254CC8C206",
+      "JobTitle": "Senior Financial Analyst",
+      "Company": "Cornerstone onDemand",
+      "AccquisitionDate": "2023-3-3 2:58 AM",
+      "URL": "https://de.jobsyn.org/A9AE4A7C49F845539910452A6254CC8C206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F6AEB283EC6A4F3E8388C1BF9A391618206",
+      "JobTitle": "Accounts Receivable Senior Analyst",
+      "Company": "Sevita",
+      "AccquisitionDate": "2023-2-26 3:43 AM",
+      "URL": "https://de.jobsyn.org/F6AEB283EC6A4F3E8388C1BF9A391618206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AA18325A6AD848D49943C366B2A71CBD206",
+      "JobTitle": "Financial Analyst IV",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-2-25 11:13 AM",
+      "URL": "https://de.jobsyn.org/AA18325A6AD848D49943C366B2A71CBD206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2640821079A0475F9D83935AC2D17664206",
+      "JobTitle": "Financial Analyst II - Liquidity Risk",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-25 5:22 AM",
+      "URL": "https://de.jobsyn.org/2640821079A0475F9D83935AC2D17664206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AFFDBB1C3FC3497CA2E8D5EA1D314145206",
+      "JobTitle": "Loan Review Portfolio Specialist (US)",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:53 PM",
+      "URL": "https://de.jobsyn.org/AFFDBB1C3FC3497CA2E8D5EA1D314145206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C92F5DA61AFB4F57B1291E0F530343FD206",
+      "JobTitle": "Loan Review Portfolio Specialist (US)",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:40 PM",
+      "URL": "https://de.jobsyn.org/C92F5DA61AFB4F57B1291E0F530343FD206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3106EA0BC3B74AA999085F8DF6CB4007206",
+      "JobTitle": "VP; Credit Risk Manager I - Retail Partnership",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:39 PM",
+      "URL": "https://de.jobsyn.org/3106EA0BC3B74AA999085F8DF6CB4007206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C33DF2D974204064A9968E877F721F82206",
+      "JobTitle": "Loan Review Senior Portfolio Examiner (US)",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:40 PM",
+      "URL": "https://de.jobsyn.org/C33DF2D974204064A9968E877F721F82206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E7052864E66C41F09E6E2A6734612E6E206",
+      "JobTitle": "Fair Lending Credit Product Manager - Consumer Lending",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:53 PM",
+      "URL": "https://de.jobsyn.org/E7052864E66C41F09E6E2A6734612E6E206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F00F9E527B654BBF92A42F48837E475C206",
+      "JobTitle": "Analyst II - Check Image Processing",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-23 9:53 PM",
+      "URL": "https://de.jobsyn.org/F00F9E527B654BBF92A42F48837E475C206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "15427D4EFC9D46A4ACB0A1314F6C8FF1206",
+      "JobTitle": "Analyst 3, Finance & Accounting",
+      "Company": "Comcast",
+      "AccquisitionDate": "2023-1-21 2:19 AM",
+      "URL": "https://de.jobsyn.org/15427D4EFC9D46A4ACB0A1314F6C8FF1206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "636EE3EE87704926A39F190950BCBA16206",
+      "JobTitle": "Commercial Credit Underwriter - Private Banking",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2022-10-12 1:42 AM",
+      "URL": "https://de.jobsyn.org/636EE3EE87704926A39F190950BCBA16206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "89856B602C9A45BF9C3BD76D67CC7B03206",
+      "JobTitle": "Commercial Credit Senior Underwriter I - Not for Profit",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2022-5-21 1:43 AM",
+      "URL": "https://de.jobsyn.org/89856B602C9A45BF9C3BD76D67CC7B03206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F45ED616FB1640238DFD7C898694ADE0206",
+      "JobTitle": "Commercial Credit Senior Underwriter I - CRE",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2022-5-21 1:43 AM",
+      "URL": "https://de.jobsyn.org/F45ED616FB1640238DFD7C898694ADE0206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "455E85CDDCC24FCEB4B835CBC84248A2206",
+      "JobTitle": "SB Loan Doc Spec III",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-3-14 2:32 AM",
+      "URL": "https://de.jobsyn.org/455E85CDDCC24FCEB4B835CBC84248A2206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F127BA3A241C4C0781ECC30738150EED206",
+      "JobTitle": "Interlibrary Loan Specialist",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-7 7:22 AM",
+      "URL": "https://de.jobsyn.org/F127BA3A241C4C0781ECC30738150EED206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E9C92EAFDB6848D6A52617AC3334046D206",
+      "JobTitle": "RESIDENT FUND LIAISON",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-3-1 10:40 PM",
+      "URL": "https://de.jobsyn.org/E9C92EAFDB6848D6A52617AC3334046D206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "03558349098049D5A13A55E01C3DE0CE206",
+      "JobTitle": "Retail Community Mortgage Specialist",
+      "Company": "Truist",
+      "AccquisitionDate": "2023-1-26 4:35 AM",
+      "URL": "https://de.jobsyn.org/03558349098049D5A13A55E01C3DE0CE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6BEF8B78DC7C4672A4881BAD1D974B6D206",
+      "JobTitle": "Banking Services Operations Associate IV - Commercial Document Preparation",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2023-1-24 1:40 AM",
+      "URL": "https://de.jobsyn.org/6BEF8B78DC7C4672A4881BAD1D974B6D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6DA22D1AFD0B4B65A5DB9F99D70267AF206",
+      "JobTitle": "Loan Officer",
+      "Company": "Paramount Residential Mortgage Group",
+      "AccquisitionDate": "2022-12-21 2:03 PM",
+      "URL": "https://de.jobsyn.org/6DA22D1AFD0B4B65A5DB9F99D70267AF206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "163D5DDEA6F9416F82A59DA2F6E9B4BE206",
+      "JobTitle": "Loan Officer",
+      "Company": "Paramount Residential Mortgage Group",
+      "AccquisitionDate": "2022-12-21 2:03 PM",
+      "URL": "https://de.jobsyn.org/163D5DDEA6F9416F82A59DA2F6E9B4BE206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7F5FC574371949E592B3804B3A55B69B206",
+      "JobTitle": "Loan Officer",
+      "Company": "Paramount Residential Mortgage Group",
+      "AccquisitionDate": "2022-8-13 9:11 AM",
+      "URL": "https://de.jobsyn.org/7F5FC574371949E592B3804B3A55B69B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "45A9FCF5ADA0479892D0952A91F71120206",
+      "JobTitle": "Retail Community Mortgage Specialist",
+      "Company": "Truist",
+      "AccquisitionDate": "2022-8-13 12:08 AM",
+      "URL": "https://de.jobsyn.org/45A9FCF5ADA0479892D0952A91F71120206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1D47C931D7EE4648B220CF8A0EC9A4F3206",
+      "JobTitle": "Lockbox Processor II",
+      "Company": "M&T Bank",
+      "AccquisitionDate": "2022-3-3 1:40 AM",
+      "URL": "https://de.jobsyn.org/1D47C931D7EE4648B220CF8A0EC9A4F3206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "975BAACE2EA14D0CACBCD2DEDEA9B7D0206",
+      "JobTitle": "Loan Officer",
+      "Company": "Paramount Residential Mortgage Group",
+      "AccquisitionDate": "2021-6-12 9:03 AM",
+      "URL": "https://de.jobsyn.org/975BAACE2EA14D0CACBCD2DEDEA9B7D0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "3CE110808453419C9531C85013296E9B206",
+      "JobTitle": "Healthcare Engineer (CAP)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-6 11:02 PM",
+      "URL": "https://de.jobsyn.org/3CE110808453419C9531C85013296E9B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5959AFDB966F49DCA665D3FD3E624C29206",
+      "JobTitle": "Supervisory Healthcare Engineer",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-1 6:06 AM",
+      "URL": "https://de.jobsyn.org/5959AFDB966F49DCA665D3FD3E624C29206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0B0877AE81DC4BF3BB5CDFF47C5C52BE206",
+      "JobTitle": "Post-Doctoral Fellow in Advanced Ophthalmic Imaging at Johns Hopkins",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-8-7 5:32 AM",
+      "URL": "https://de.jobsyn.org/0B0877AE81DC4BF3BB5CDFF47C5C52BE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "89A4D89D4EA84C3B8E718253F6CBC2D0206",
+      "JobTitle": "ASPIRE Postdoctoral Fellowship Position - Department of Biomedical Engineering",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2021-1-1 3:05 AM",
+      "URL": "https://de.jobsyn.org/89A4D89D4EA84C3B8E718253F6CBC2D0206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "06B6A37EFA974970BC3481E94D1E6CAC206",
+      "JobTitle": "Post-Doctoral Position in biomedical data mining",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2020-6-18 4:42 AM",
+      "URL": "https://de.jobsyn.org/06B6A37EFA974970BC3481E94D1E6CAC206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "94EB9EC0074242F594DDA4A7A7228638206",
+      "JobTitle": "Post-Doctoral Position in Biomedical Data Mining",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2018-4-25 7:20 AM",
+      "URL": "https://de.jobsyn.org/94EB9EC0074242F594DDA4A7A7228638206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "942573AE87354BAC9242DF9050FDC37D206",
+      "JobTitle": "Senior Associate Director of Development, Department of Medicine",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-7 4:58 AM",
+      "URL": "https://de.jobsyn.org/942573AE87354BAC9242DF9050FDC37D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3CA389699A6C43FF820B4B3707E12F0D206",
+      "JobTitle": "Postdoctoral Fellowship in Vaccine Immunology",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2022-2-7 11:59 PM",
+      "URL": "https://de.jobsyn.org/3CA389699A6C43FF820B4B3707E12F0D206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "117A722FEE904E088AF1CFFE594FD4D1206",
+      "JobTitle": "Post-Doctoral Fellow: Immunology, Vaccine",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2022-2-1 10:12 PM",
+      "URL": "https://de.jobsyn.org/117A722FEE904E088AF1CFFE594FD4D1206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3B48EA4B2C3D4FD1B15C0D52C0F8EC7D206",
+      "JobTitle": "Post-Doctoral Position - Neuroimaging & Focused Ultrasound",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2021-7-14 10:13 AM",
+      "URL": "https://de.jobsyn.org/3B48EA4B2C3D4FD1B15C0D52C0F8EC7D206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D0763E8BF8DA4941BE09F4946C60787A206",
+      "JobTitle": "Postdoctoral Position studying Local Group Galaxies",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2020-11-10 2:46 AM",
+      "URL": "https://de.jobsyn.org/D0763E8BF8DA4941BE09F4946C60787A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "53D148102D5D43DAAB50EE89BF210C69206",
+      "JobTitle": "Post-doctoral fellow in the Adamo Lab",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2020-9-19 3:01 AM",
+      "URL": "https://de.jobsyn.org/53D148102D5D43DAAB50EE89BF210C69206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B36F80919AE9405CA121B343123985C9206",
+      "JobTitle": "Postdoctoral Position - Bladder cancer biomarker research",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2019-8-3 4:44 AM",
+      "URL": "https://de.jobsyn.org/B36F80919AE9405CA121B343123985C9206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BDC3B0B1F389472C9DF4E60469A73E7A206",
+      "JobTitle": "Research Technologist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-14 2:24 AM",
+      "URL": "https://de.jobsyn.org/BDC3B0B1F389472C9DF4E60469A73E7A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8EB3AFF542F04F7CAE532481DC9B686E206",
+      "JobTitle": "Research Program Coordinator",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-14 2:24 AM",
+      "URL": "https://de.jobsyn.org/8EB3AFF542F04F7CAE532481DC9B686E206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "33D8382B579C4F218F4E82103BF60482206",
+      "JobTitle": "PALLIATIVE MEDICINE PHYSICIAN (3-309-1149)",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-14 2:01 AM",
+      "URL": "https://de.jobsyn.org/33D8382B579C4F218F4E82103BF60482206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D965ED197623416E9278661C865CA518206",
+      "JobTitle": "PSYCHOLOGY ASSOCIATE (RESEARCH) - DEVELOPMENTAL NEUROLOGY",
+      "Company": "Kennedy Krieger Institute",
+      "AccquisitionDate": "2023-3-10 5:15 AM",
+      "URL": "https://de.jobsyn.org/D965ED197623416E9278661C865CA518206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F7681B988021490DBEAB93A4FB3028F5206",
+      "JobTitle": "Medical Lab Scientist",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-11 3:01 AM",
+      "URL": "https://de.jobsyn.org/F7681B988021490DBEAB93A4FB3028F5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A71284A5466442548DC3653870FB5C9D206",
+      "JobTitle": "Laboratory Animal Research Specialist",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-10 10:18 PM",
+      "URL": "https://de.jobsyn.org/A71284A5466442548DC3653870FB5C9D206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "71E18AC92D704AEC9BF942E1BDAD2597206",
+      "JobTitle": "Sr. Research Program Coordinator",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-11 3:20 AM",
+      "URL": "https://de.jobsyn.org/71E18AC92D704AEC9BF942E1BDAD2597206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AC9BDDB65EF141C9B3DA18064673FDCC206",
+      "JobTitle": "Medical Lab Scientist",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-11 3:00 AM",
+      "URL": "https://de.jobsyn.org/AC9BDDB65EF141C9B3DA18064673FDCC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B0318AED756C46E3B60E26B069B56003206",
+      "JobTitle": "Postdoctoral Fellowship: Pharmacoepidemiology & Health Outcomes Research",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-10 2:02 AM",
+      "URL": "https://de.jobsyn.org/B0318AED756C46E3B60E26B069B56003206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6552BF8AE5FF42B4B15B0B7FA91F946B206",
+      "JobTitle": "Sr. Research Program Coordinator II",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-10 2:24 AM",
+      "URL": "https://de.jobsyn.org/6552BF8AE5FF42B4B15B0B7FA91F946B206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4ADA848CCFD84B329E63B5A8B8323BD9206",
+      "JobTitle": "Sr. Research Compliance Monitoring Specialist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-10 2:25 AM",
+      "URL": "https://de.jobsyn.org/4ADA848CCFD84B329E63B5A8B8323BD9206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5681EFC3ED094D1A8D0298557F026626206",
+      "JobTitle": "Postdoctoral Fellowship: Health Economics Outcomes Research",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-10 2:02 AM",
+      "URL": "https://de.jobsyn.org/5681EFC3ED094D1A8D0298557F026626206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "28FF3E7E6D614C559EEE7E5847F785D0206",
+      "JobTitle": "Post-Doctoral Fellowship: Population Health and Data Science",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-10 2:02 AM",
+      "URL": "https://de.jobsyn.org/28FF3E7E6D614C559EEE7E5847F785D0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D0CE8D74662D4EECA2F5790F89B25B0E206",
+      "JobTitle": "Clinical Research Specialist",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-10 2:03 AM",
+      "URL": "https://de.jobsyn.org/D0CE8D74662D4EECA2F5790F89B25B0E206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FC5E67D01E3F417AA288B2590D13E8D7206",
+      "JobTitle": "Postdoctoral Fellowships in Community-Engaged Research (CEnR)",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-10 2:02 AM",
+      "URL": "https://de.jobsyn.org/FC5E67D01E3F417AA288B2590D13E8D7206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3DB62925DA9240FF97B53A7708F33252206",
+      "JobTitle": "Senior Medical Director Kidney Solutions - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:35 PM",
+      "URL": "https://de.jobsyn.org/3DB62925DA9240FF97B53A7708F33252206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "647D7F6803AB4F32AB4EE5194791A110206",
+      "JobTitle": "Behavioral Medical Director - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:37 PM",
+      "URL": "https://de.jobsyn.org/647D7F6803AB4F32AB4EE5194791A110206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "067E13B415444C0BBB305A20EF83F265206",
+      "JobTitle": "Senior Medical Director Musculoskeletal Care - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:35 PM",
+      "URL": "https://de.jobsyn.org/067E13B415444C0BBB305A20EF83F265206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "3B5467EE8E8840EEBA9B878D30329FAF206",
+      "JobTitle": "Certified Cardiovascular Surgical Technician - Baltimore Maryland",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-3-1 3:08 AM",
+      "URL": "https://de.jobsyn.org/3B5467EE8E8840EEBA9B878D30329FAF206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "80793A6A336047768AD4756E51A4D7BC206",
+      "JobTitle": "Technologist-Vascular, PRN",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-14 5:03 AM",
+      "URL": "https://de.jobsyn.org/80793A6A336047768AD4756E51A4D7BC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E421C30DB7D94C7BACF65E6ACF6F7C32206",
+      "JobTitle": "GENERAL DIAGNOSTIC TECH",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-3-10 11:36 PM",
+      "URL": "https://de.jobsyn.org/E421C30DB7D94C7BACF65E6ACF6F7C32206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "040A855C6822438382A03526629762D0206",
+      "JobTitle": "Radiologic Technologist",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-3-10 11:35 PM",
+      "URL": "https://de.jobsyn.org/040A855C6822438382A03526629762D0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "32014A88D8714943A70C3C34025802F5206",
+      "JobTitle": "Cardiac Cath Lab Technologist - ST",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-3-11 3:15 AM",
+      "URL": "https://de.jobsyn.org/32014A88D8714943A70C3C34025802F5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DE420484308F40B78341DA0CABA44C74206",
+      "JobTitle": "Computed Tomography Technologist",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2023-3-10 2:09 AM",
+      "URL": "https://de.jobsyn.org/DE420484308F40B78341DA0CABA44C74206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8BA075242CBA4116997A779738E0BB4C206",
+      "JobTitle": "Nuclear Medicine Technologist",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2023-3-10 2:09 AM",
+      "URL": "https://de.jobsyn.org/8BA075242CBA4116997A779738E0BB4C206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0716CEE287F8471B89F9DFC050670FBB206",
+      "JobTitle": "Technologist-Echocardiography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:38 AM",
+      "URL": "https://de.jobsyn.org/0716CEE287F8471B89F9DFC050670FBB206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B34D97129648496FA3B721C9838C33EA206",
+      "JobTitle": "Technologist-Multimodality, Night",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/B34D97129648496FA3B721C9838C33EA206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C1B94C43B1AF4E7E8C5E56059F65B07C206",
+      "JobTitle": "Technologist-CT",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/C1B94C43B1AF4E7E8C5E56059F65B07C206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3D9DE463C51049A4AEF03F158CAB1609206",
+      "JobTitle": "Technologist-Multimodality",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:43 AM",
+      "URL": "https://de.jobsyn.org/3D9DE463C51049A4AEF03F158CAB1609206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A41C690BD6884E04BA3634C372A29148206",
+      "JobTitle": "Technologist-CT",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:38 AM",
+      "URL": "https://de.jobsyn.org/A41C690BD6884E04BA3634C372A29148206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9C839BDFC0BC496C902DAEF15529878A206",
+      "JobTitle": "Technologist-Sonography/Ultrasound",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:43 AM",
+      "URL": "https://de.jobsyn.org/9C839BDFC0BC496C902DAEF15529878A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B06AA9550D2542868A5024F4BCB582D8206",
+      "JobTitle": "Technologist-Vascular",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/B06AA9550D2542868A5024F4BCB582D8206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "695D5CC267C74C259DB0E356279F2549206",
+      "JobTitle": "Cardiac Monitor Technician - Telemetry N",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:38 AM",
+      "URL": "https://de.jobsyn.org/695D5CC267C74C259DB0E356279F2549206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BB523336E5F34605B32734510904B6F8206",
+      "JobTitle": "EEG Technician",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-2-28 2:34 AM",
+      "URL": "https://de.jobsyn.org/BB523336E5F34605B32734510904B6F8206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2C02AFF4FB5749CCA2491980142D4883206",
+      "JobTitle": "Cardiovascular Technician",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-2-28 2:34 AM",
+      "URL": "https://de.jobsyn.org/2C02AFF4FB5749CCA2491980142D4883206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5C070FEE54AF420B85A1ED49B98F0CF4206",
+      "JobTitle": "Computed Tomography Technologist Supplemental A",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2023-2-25 6:52 AM",
+      "URL": "https://de.jobsyn.org/5C070FEE54AF420B85A1ED49B98F0CF4206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "902A4665DB5A46AF82E735C429E17CC3206",
+      "JobTitle": "PEDIATRIC ECHOCARDIOGRAPHER",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-2-23 10:03 AM",
+      "URL": "https://de.jobsyn.org/902A4665DB5A46AF82E735C429E17CC3206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B51CAABB55F6401FB94C565CD3633E5A206",
+      "JobTitle": "Cardiology Device Technologist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-2-24 2:46 AM",
+      "URL": "https://de.jobsyn.org/B51CAABB55F6401FB94C565CD3633E5A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B005AA0604CE4715A87205B92081FC57206",
+      "JobTitle": "SR CT TECHNOLOGIST",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-2-20 11:19 PM",
+      "URL": "https://de.jobsyn.org/B005AA0604CE4715A87205B92081FC57206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "399813E3A37B4303A65F7EA15D561CEB206",
+      "JobTitle": "Computed Tomography Technologist",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2023-2-17 6:24 AM",
+      "URL": "https://de.jobsyn.org/399813E3A37B4303A65F7EA15D561CEB206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E63D2CF5ACD243C3B2E75C9D8379ADCC206",
+      "JobTitle": "CAT Scan Technologist (CT Tech)",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-2-16 2:24 AM",
+      "URL": "https://de.jobsyn.org/E63D2CF5ACD243C3B2E75C9D8379ADCC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5AB884230EC148C98E47E95BC23ABE54206",
+      "JobTitle": "Cardiovascular Technician",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-2-16 2:24 AM",
+      "URL": "https://de.jobsyn.org/5AB884230EC148C98E47E95BC23ABE54206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "023AEA4B477D47039922D75EC0904F8F206",
+      "JobTitle": "MONITOR TECHNICIAN",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-2-9 11:15 PM",
+      "URL": "https://de.jobsyn.org/023AEA4B477D47039922D75EC0904F8F206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "1A1DF253A9824F7EB7FC0B36ED3A8F25206",
+      "JobTitle": "Immunogenetics Technologist II",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-1-27 4:11 AM",
+      "URL": "https://de.jobsyn.org/1A1DF253A9824F7EB7FC0B36ED3A8F25206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9E8AAC4F8F304F6D96822CD4B1922842206",
+      "JobTitle": "Laboratory  Technologist",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-1-6 5:41 AM",
+      "URL": "https://de.jobsyn.org/9E8AAC4F8F304F6D96822CD4B1922842206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "4EFEC7A687084417A20418D9F33E1FAE206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-4 3:32 AM",
+      "URL": "https://de.jobsyn.org/4EFEC7A687084417A20418D9F33E1FAE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "593BC5CBF795479C96A0085000F126EC206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2022-2-11 10:08 PM",
+      "URL": "https://de.jobsyn.org/593BC5CBF795479C96A0085000F126EC206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "4009F02FAF914CD5AB96D142A12BAF55206",
+      "JobTitle": "Sonographer Supp Tier A",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2023-3-10 2:09 AM",
+      "URL": "https://de.jobsyn.org/4009F02FAF914CD5AB96D142A12BAF55206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3AA35419D1DE41458D21B918ED5472DD206",
+      "JobTitle": "Sonographer Supp Tier A",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2023-3-10 2:09 AM",
+      "URL": "https://de.jobsyn.org/3AA35419D1DE41458D21B918ED5472DD206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4F49220439584490975734AA73D779AB206",
+      "JobTitle": "Sonographer Supp Tier A",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2021-11-23 1:21 AM",
+      "URL": "https://de.jobsyn.org/4F49220439584490975734AA73D779AB206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F01200746D1A476AB4E23CC7905A4358206",
+      "JobTitle": "CO Vascular Sonographer",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-10-18 5:35 AM",
+      "URL": "https://de.jobsyn.org/F01200746D1A476AB4E23CC7905A4358206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0716CEE287F8471B89F9DFC050670FBB206",
+      "JobTitle": "Technologist-Echocardiography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:38 AM",
+      "URL": "https://de.jobsyn.org/0716CEE287F8471B89F9DFC050670FBB206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DA25AF6957174866B85618E7C2390020206",
+      "JobTitle": "Research Sonographer",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-2-24 2:46 AM",
+      "URL": "https://de.jobsyn.org/DA25AF6957174866B85618E7C2390020206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "75235CAD1C12499DB7057BA42703445A206",
+      "JobTitle": "Sonographer (MFM)",
+      "Company": "Greater Baltimore Medical Center",
+      "AccquisitionDate": "2023-3-1 5:29 AM",
+      "URL": "https://de.jobsyn.org/75235CAD1C12499DB7057BA42703445A206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "80793A6A336047768AD4756E51A4D7BC206",
+      "JobTitle": "Technologist-Vascular, PRN",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-14 5:03 AM",
+      "URL": "https://de.jobsyn.org/80793A6A336047768AD4756E51A4D7BC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B06AA9550D2542868A5024F4BCB582D8206",
+      "JobTitle": "Technologist-Vascular",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/B06AA9550D2542868A5024F4BCB582D8206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9C839BDFC0BC496C902DAEF15529878A206",
+      "JobTitle": "Technologist-Sonography/Ultrasound",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:43 AM",
+      "URL": "https://de.jobsyn.org/9C839BDFC0BC496C902DAEF15529878A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "77267C3037F64745A344619460E7E498206",
+      "JobTitle": "Cardiac Sonographer",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-2-24 10:56 PM",
+      "URL": "https://de.jobsyn.org/77267C3037F64745A344619460E7E498206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E421C30DB7D94C7BACF65E6ACF6F7C32206",
+      "JobTitle": "GENERAL DIAGNOSTIC TECH",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-3-10 11:36 PM",
+      "URL": "https://de.jobsyn.org/E421C30DB7D94C7BACF65E6ACF6F7C32206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "32014A88D8714943A70C3C34025802F5206",
+      "JobTitle": "Cardiac Cath Lab Technologist - ST",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-3-11 3:15 AM",
+      "URL": "https://de.jobsyn.org/32014A88D8714943A70C3C34025802F5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2C02AFF4FB5749CCA2491980142D4883206",
+      "JobTitle": "Cardiovascular Technician",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-2-28 2:34 AM",
+      "URL": "https://de.jobsyn.org/2C02AFF4FB5749CCA2491980142D4883206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "902A4665DB5A46AF82E735C429E17CC3206",
+      "JobTitle": "PEDIATRIC ECHOCARDIOGRAPHER",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-2-23 10:03 AM",
+      "URL": "https://de.jobsyn.org/902A4665DB5A46AF82E735C429E17CC3206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5AB884230EC148C98E47E95BC23ABE54206",
+      "JobTitle": "Cardiovascular Technician",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-2-16 2:24 AM",
+      "URL": "https://de.jobsyn.org/5AB884230EC148C98E47E95BC23ABE54206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "04152E221BC94A49B132E832BCD87B7B206",
+      "JobTitle": "CARDIOLOGY TECHNICIAN B",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-1-18 6:17 AM",
+      "URL": "https://de.jobsyn.org/04152E221BC94A49B132E832BCD87B7B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ED8FB54AD1094BDFA940C4651C98F812206",
+      "JobTitle": "DIAG MEDICAL SONOGRAPHER-PRN",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2023-1-14 1:27 AM",
+      "URL": "https://de.jobsyn.org/ED8FB54AD1094BDFA940C4651C98F812206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D040A9F0E8BE4D5DB7A3CFE9B61E6569206",
+      "JobTitle": "GENERAL DIAGNOSTIC TECH",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2022-12-3 8:11 AM",
+      "URL": "https://de.jobsyn.org/D040A9F0E8BE4D5DB7A3CFE9B61E6569206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A9B1980E341F439C9527897D6F700116206",
+      "JobTitle": "GENERAL DIAGNOSTIC TECH",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2022-12-3 8:11 AM",
+      "URL": "https://de.jobsyn.org/A9B1980E341F439C9527897D6F700116206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "071BC5B784764B7689ED6B3D10E948D2206",
+      "JobTitle": "ECHOCARDIOGRAPHER-PRN",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2022-11-24 8:31 AM",
+      "URL": "https://de.jobsyn.org/071BC5B784764B7689ED6B3D10E948D2206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "54CC36D0D8B142B1860A5F687FA38414206",
+      "JobTitle": "ULTRASOUND TECHNOLOGIST",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2022-11-11 1:49 AM",
+      "URL": "https://de.jobsyn.org/54CC36D0D8B142B1860A5F687FA38414206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "35E688A9F639400FA6ABFFCED0CF28E0206",
+      "JobTitle": "ECHOCARDIOGRAPHER SINAI",
+      "Company": "LifeBridge Health, Inc.",
+      "AccquisitionDate": "2022-9-20 8:05 AM",
+      "URL": "https://de.jobsyn.org/35E688A9F639400FA6ABFFCED0CF28E0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8FB81319D5D1416D8083436101C3B6BA206",
+      "JobTitle": "Ultrasound Technologist",
+      "Company": "Life Line Screening",
+      "AccquisitionDate": "2022-4-29 10:46 AM",
+      "URL": "https://de.jobsyn.org/8FB81319D5D1416D8083436101C3B6BA206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B008784455804B1F94893A488E2D55BD206",
+      "JobTitle": "Ultrasound Fellow",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2018-11-28 10:27 PM",
+      "URL": "https://de.jobsyn.org/B008784455804B1F94893A488E2D55BD206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "A480A3860A0444B89E5663610181BC19206",
+      "JobTitle": "Sr. Business Intelligence Analyst",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-4-14 4:08 AM",
+      "URL": "https://de.jobsyn.org/A480A3860A0444B89E5663610181BC19206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "277F0302367D48C5AB25C1B4EC4B2E53206",
+      "JobTitle": "Sr. Business Intelligence Analyst II",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-10-12 4:09 AM",
+      "URL": "https://de.jobsyn.org/277F0302367D48C5AB25C1B4EC4B2E53206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "25C04150E68947D5AF474EB718A70F35206",
+      "JobTitle": "Business Intelligence Principal Analyst _3116",
+      "Company": "Sevita",
+      "AccquisitionDate": "2023-2-1 4:14 AM",
+      "URL": "https://de.jobsyn.org/25C04150E68947D5AF474EB718A70F35206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "62008B0E8E944E6394909B03EC115819206",
+      "JobTitle": "Actuarial Analyst",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-21 1:40 AM",
+      "URL": "https://de.jobsyn.org/62008B0E8E944E6394909B03EC115819206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ECC695577F4D4FEDB0C5BA49E6297807206",
+      "JobTitle": "Market Data Analyst",
+      "Company": "Brightview Senior Living",
+      "AccquisitionDate": "2023-2-14 12:37 AM",
+      "URL": "https://de.jobsyn.org/ECC695577F4D4FEDB0C5BA49E6297807206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C3788BAF64F343039E035E74DE5AC689206",
+      "JobTitle": "Lead Analyst, Data Analytics - Efficiency and Efficacy",
+      "Company": "T. Rowe Price",
+      "AccquisitionDate": "2023-2-4 1:37 AM",
+      "URL": "https://de.jobsyn.org/C3788BAF64F343039E035E74DE5AC689206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E901FB16BE8D41FFAE040FB0B2E377F9206",
+      "JobTitle": "E15 Analytics Intern - Baltimore Orioles",
+      "Company": "Compass Group, North America",
+      "AccquisitionDate": "2023-3-14 3:13 AM",
+      "URL": "https://de.jobsyn.org/E901FB16BE8D41FFAE040FB0B2E377F9206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5BAF997833B1448B96D5D20580384E93206",
+      "JobTitle": "Data Analytics Manager Legal Operations",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-9 3:35 AM",
+      "URL": "https://de.jobsyn.org/5BAF997833B1448B96D5D20580384E93206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8A234448988E40868A1B7945157BE17F206",
+      "JobTitle": "Senior Manager 2, Business Analytics",
+      "Company": "Sodexo",
+      "AccquisitionDate": "2023-3-4 5:16 AM",
+      "URL": "https://de.jobsyn.org/8A234448988E40868A1B7945157BE17F206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7102E30212B4A3D8A37A6E03C539B69206",
+      "JobTitle": "Audit Analytics Business Analyst",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-3-3 3:27 AM",
+      "URL": "https://de.jobsyn.org/B7102E30212B4A3D8A37A6E03C539B69206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E539BC106224413FBD9099F85358C317206",
+      "JobTitle": "Business Intelligence/Power BI",
+      "Company": "All Roads",
+      "AccquisitionDate": "2023-2-25 5:27 AM",
+      "URL": "https://de.jobsyn.org/E539BC106224413FBD9099F85358C317206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9ED262459F0D4B818D00E3831E6F8F50206",
+      "JobTitle": "Business Intelligence Report Writer for Data Analytics and Reporting (Partial Remote Schedule)",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-2-24 6:29 AM",
+      "URL": "https://de.jobsyn.org/9ED262459F0D4B818D00E3831E6F8F50206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E92361A58D3F4C849D4D5063FCC99545206",
+      "JobTitle": "Senior Associate, Learning Measurement & Evaluation",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-2-23 2:36 AM",
+      "URL": "https://de.jobsyn.org/E92361A58D3F4C849D4D5063FCC99545206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FC3887725BDA42AA973F484E6FAB87BA206",
+      "JobTitle": "Competitive & Market Intelligence Manager",
+      "Company": "Renaissance",
+      "AccquisitionDate": "2023-2-18 2:55 AM",
+      "URL": "https://de.jobsyn.org/FC3887725BDA42AA973F484E6FAB87BA206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B5183AC1CB8B4031B6894D6CA12EDB45206",
+      "JobTitle": "business analyst ii",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-15 7:15 AM",
+      "URL": "https://de.jobsyn.org/B5183AC1CB8B4031B6894D6CA12EDB45206",
+      "Location": "baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "124A61F2E67A4E7F83E3844C6797235E206",
+      "JobTitle": "Sr. Research Data Analyst",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-2-9 5:09 AM",
+      "URL": "https://de.jobsyn.org/124A61F2E67A4E7F83E3844C6797235E206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A352086CD7340D3B8EE546817C45ACA206",
+      "JobTitle": "Lead Analyst, Strategic and Business Insights",
+      "Company": "T. Rowe Price",
+      "AccquisitionDate": "2023-2-2 5:37 AM",
+      "URL": "https://de.jobsyn.org/0A352086CD7340D3B8EE546817C45ACA206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "42FBC73EC41D41B8AA534502892EE1F6206",
+      "JobTitle": "Business Data Insights: Retail Marketing Analytics",
+      "Company": "TD Bank",
+      "AccquisitionDate": "2023-1-26 6:04 AM",
+      "URL": "https://de.jobsyn.org/42FBC73EC41D41B8AA534502892EE1F6206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "37909ED36F87462188DE314415AC197C206",
+      "JobTitle": "Research Data Analyst",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-10-12 4:09 AM",
+      "URL": "https://de.jobsyn.org/37909ED36F87462188DE314415AC197C206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "37C2B0AC235143CD9E2804EEAA4EF490206",
+      "JobTitle": "Transportation Data and Analytics Leader",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2021-8-26 3:16 AM",
+      "URL": "https://de.jobsyn.org/37C2B0AC235143CD9E2804EEAA4EF490206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "FB4E32601C2D4057BF49D68731F0DC46206",
+      "JobTitle": "Computer Braillist",
+      "Company": "The Maryland School for the Blind (MSB)",
+      "AccquisitionDate": "2023-2-17 10:15 PM",
+      "URL": "https://de.jobsyn.org/FB4E32601C2D4057BF49D68731F0DC46206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "8F2CC812C01343E496F43A3957D5C234206",
+      "JobTitle": "AWS Cloud Architect",
+      "Company": "OneMain Financial",
+      "AccquisitionDate": "2023-2-25 4:02 AM",
+      "URL": "https://de.jobsyn.org/8F2CC812C01343E496F43A3957D5C234206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "994ED19E3EAD470A9BA4A5D4D0160D29206",
+      "JobTitle": "3D Simulation Solutions Architect",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/994ED19E3EAD470A9BA4A5D4D0160D29206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FAC8727D86244B1EBC6816FD440B79A5206",
+      "JobTitle": "Senior Application Architect (Remote)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-11 12:36 AM",
+      "URL": "https://de.jobsyn.org/FAC8727D86244B1EBC6816FD440B79A5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "735B49737F774C0E92CA14ED3CFDAEB1206",
+      "JobTitle": "Cloud Architect - Secret Clearance",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-8 3:45 AM",
+      "URL": "https://de.jobsyn.org/735B49737F774C0E92CA14ED3CFDAEB1206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D9CB952FDD2141F6A585F56E3A341BF7206",
+      "JobTitle": "Design Architect",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-1 2:36 AM",
+      "URL": "https://de.jobsyn.org/D9CB952FDD2141F6A585F56E3A341BF7206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "38E0E3C0C6A74B64B6493CEF5F69BA93206",
+      "JobTitle": "AWS Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-4-21 3:39 AM",
+      "URL": "https://de.jobsyn.org/38E0E3C0C6A74B64B6493CEF5F69BA93206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "914A203272814679B126BA88D351ACDC206",
+      "JobTitle": "Sr. Architect - IT",
+      "Company": "Exelon",
+      "AccquisitionDate": "2023-3-11 2:57 AM",
+      "URL": "https://de.jobsyn.org/914A203272814679B126BA88D351ACDC206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3948926D4FBE411792722BF293F38910206",
+      "JobTitle": "Information System Security Officer",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-2-22 5:21 AM",
+      "URL": "https://de.jobsyn.org/3948926D4FBE411792722BF293F38910206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BD6832616416494EBA0C103CF98223B9206",
+      "JobTitle": "Senior Endpoint Software Engineer (Windows) - Opportunity for Working Remotely",
+      "Company": "VMware",
+      "AccquisitionDate": "2023-1-20 2:45 AM",
+      "URL": "https://de.jobsyn.org/BD6832616416494EBA0C103CF98223B9206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1C4B0ED1E8DD44999D52BEDA06BCA15F206",
+      "JobTitle": "Security Architect - Government and Public Sector",
+      "Company": "EY",
+      "AccquisitionDate": "2023-3-9 12:58 AM",
+      "URL": "https://de.jobsyn.org/1C4B0ED1E8DD44999D52BEDA06BCA15F206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F1715B12F7ED4BC4B32530E024803E15206",
+      "JobTitle": "Cloud Solutions Engineer",
+      "Company": "Guidehouse",
+      "AccquisitionDate": "2023-2-17 5:26 AM",
+      "URL": "https://de.jobsyn.org/F1715B12F7ED4BC4B32530E024803E15206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FFA1CED6E1454E52ABD4D07FF9D054F6206",
+      "JobTitle": "Solution Architect",
+      "Company": "Leidos",
+      "AccquisitionDate": "2023-3-11 4:51 AM",
+      "URL": "https://de.jobsyn.org/FFA1CED6E1454E52ABD4D07FF9D054F6206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FAE02A9009164C7D93EB29A67A909C70206",
+      "JobTitle": "RabbitMQ Solution Architect - Opportunity for Working Remotely",
+      "Company": "VMware",
+      "AccquisitionDate": "2023-2-14 3:01 AM",
+      "URL": "https://de.jobsyn.org/FAE02A9009164C7D93EB29A67A909C70206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7303335CAAA249AC95BBB73F6616482B206",
+      "JobTitle": "IAM Lead (ForgeRock)- Remote/Delivery Center Role",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-1-29 3:35 AM",
+      "URL": "https://de.jobsyn.org/7303335CAAA249AC95BBB73F6616482B206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4CC2CBF7EF7F458B8772F903BC4E20B6206",
+      "JobTitle": "Okta Engineer Consultant (Remote/Delivery Center)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-9 3:23 AM",
+      "URL": "https://de.jobsyn.org/4CC2CBF7EF7F458B8772F903BC4E20B6206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9DB2F569F0194273A0881C93227CD4C4206",
+      "JobTitle": "AWS Cloud Engineer",
+      "Company": "Capgemini",
+      "AccquisitionDate": "2020-9-26 3:20 AM",
+      "URL": "https://de.jobsyn.org/9DB2F569F0194273A0881C93227CD4C4206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FC5A7DDD2CE84A90B3D829753C8FAD03206",
+      "JobTitle": "IAM Engineer Senior Consultant (Remote/Delivery Center)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-1 5:01 AM",
+      "URL": "https://de.jobsyn.org/FC5A7DDD2CE84A90B3D829753C8FAD03206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D3315781D9BB487DB9FDBF2F06FF7BDE206",
+      "JobTitle": "IAM Engineer Senior Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-1 4:49 AM",
+      "URL": "https://de.jobsyn.org/D3315781D9BB487DB9FDBF2F06FF7BDE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A6EA2D5994344FCF8B3803D6F5949537206",
+      "JobTitle": "Cloud Native Engineer",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-1 3:54 AM",
+      "URL": "https://de.jobsyn.org/A6EA2D5994344FCF8B3803D6F5949537206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "878E0C7959AB4BF2A2C89E1506D2777F206",
+      "JobTitle": "IAM ForgeRock Engineer Senior Consultant (Remote - Delivery Center)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-10 2:02 AM",
+      "URL": "https://de.jobsyn.org/878E0C7959AB4BF2A2C89E1506D2777F206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7CC4299B15DC481D8758A57E5288AADE206",
+      "JobTitle": "Architect",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-12-6 8:03 AM",
+      "URL": "https://de.jobsyn.org/7CC4299B15DC481D8758A57E5288AADE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E8C590702C444B5192E2CEEB42BD3C47206",
+      "JobTitle": "Software Engineer II",
+      "Company": "System One",
+      "AccquisitionDate": "2023-2-21 3:04 AM",
+      "URL": "https://de.jobsyn.org/E8C590702C444B5192E2CEEB42BD3C47206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "571C97B8D60942CCB30851F0E23564DA206",
+      "JobTitle": "SalesForce Solution Architect",
+      "Company": "Capgemini",
+      "AccquisitionDate": "2017-10-12 7:18 PM",
+      "URL": "https://de.jobsyn.org/571C97B8D60942CCB30851F0E23564DA206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FADA18B4C6A84AFD9D93F16AE7BFCB24206",
+      "JobTitle": "Identity & Access Management Solution Consultant - Remote/Delivery Center role",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-9-24 5:36 AM",
+      "URL": "https://de.jobsyn.org/FADA18B4C6A84AFD9D93F16AE7BFCB24206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A3A3AB7FFCD046A4B038371D3DEECA50206",
+      "JobTitle": "IAM Senior Consultant - Remote/Delivery Center role",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-9-24 4:03 AM",
+      "URL": "https://de.jobsyn.org/A3A3AB7FFCD046A4B038371D3DEECA50206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "4DDC0F767CC8406B84ACB20D0EA6C891206",
+      "JobTitle": "Senior HelpDesk - Onsite",
+      "Company": "MSys Inc.",
+      "AccquisitionDate": "2023-3-14 2:07 AM",
+      "URL": "https://de.jobsyn.org/4DDC0F767CC8406B84ACB20D0EA6C891206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "822E75E8A4CF45BCAAA108698DC7501B206",
+      "JobTitle": "Help Desk Specialist",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2023-3-10 2:03 AM",
+      "URL": "https://de.jobsyn.org/822E75E8A4CF45BCAAA108698DC7501B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F534766BD339484084EFA3D8369F98B3206",
+      "JobTitle": "Telecom and Communications Specialist",
+      "Company": "Baltimore City Community College",
+      "AccquisitionDate": "2022-1-21 3:29 PM",
+      "URL": "https://de.jobsyn.org/F534766BD339484084EFA3D8369F98B3206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "19293DB598904A6B9AD2991A3642B710206",
+      "JobTitle": "Maximo Specialist",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-18 6:06 AM",
+      "URL": "https://de.jobsyn.org/19293DB598904A6B9AD2991A3642B710206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FFB4BAE68B9D484B9A5A91CA7FAFE74C206",
+      "JobTitle": "Opers Cmptr Spec (Hybrid)",
+      "Company": "Exelon",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/FFB4BAE68B9D484B9A5A91CA7FAFE74C206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "69FA3E5828AE4495861D0CBFC5AC7DF8206",
+      "JobTitle": "DoD SkillBridge Internship -System Specialist- Automation- (Baltimore, MD)",
+      "Company": "Siemens",
+      "AccquisitionDate": "2023-2-11 12:00 AM",
+      "URL": "https://de.jobsyn.org/69FA3E5828AE4495861D0CBFC5AC7DF8206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BEE6651317414856BBF89EE47EA0B2CC206",
+      "JobTitle": "Business Process Specialist",
+      "Company": "Catalent Pharma Solutions",
+      "AccquisitionDate": "2022-11-10 1:47 PM",
+      "URL": "https://de.jobsyn.org/BEE6651317414856BBF89EE47EA0B2CC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "088970E183F14DFA8F449AF4AAC0747C206",
+      "JobTitle": "Operations Admin IFA",
+      "Company": "H&R Block",
+      "AccquisitionDate": "2022-8-20 8:18 AM",
+      "URL": "https://de.jobsyn.org/088970E183F14DFA8F449AF4AAC0747C206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "41614FEF520540AC94069B27C25C340D206",
+      "JobTitle": "Federal Z Workstation Specialist",
+      "Company": "HP Inc.",
+      "AccquisitionDate": "2023-1-28 3:59 AM",
+      "URL": "https://de.jobsyn.org/41614FEF520540AC94069B27C25C340D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "080E5D76F0354091808AC730477A4AAE206",
+      "JobTitle": "IT SPECIALIST (PLCYPLN)",
+      "Company": "Air National Guard Units",
+      "AccquisitionDate": "2022-11-20 9:32 AM",
+      "URL": "https://de.jobsyn.org/080E5D76F0354091808AC730477A4AAE206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6A028F38B40948C1B21BA9BE6A7B63B4206",
+      "JobTitle": "Manager, Software Solutions Specialist - DAS GPS",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-23 2:03 AM",
+      "URL": "https://de.jobsyn.org/6A028F38B40948C1B21BA9BE6A7B63B4206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EC52BF4879E24E81A70BBD006CA0186C206",
+      "JobTitle": "IT SPECIALIST (CUSTSPT)",
+      "Company": "Air National Guard Units",
+      "AccquisitionDate": "2022-7-6 7:09 AM",
+      "URL": "https://de.jobsyn.org/EC52BF4879E24E81A70BBD006CA0186C206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "845EE1A3F04B4598A797A31C53CC040F206",
+      "JobTitle": "Information Technology Help Desk Technician",
+      "Company": "Koniag Government Services",
+      "AccquisitionDate": "2023-2-16 6:14 PM",
+      "URL": "https://de.jobsyn.org/845EE1A3F04B4598A797A31C53CC040F206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E5AEAFF64693493AA7B3510DF06DC7D6206",
+      "JobTitle": "Helpdesk Analyst",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-7 4:09 AM",
+      "URL": "https://de.jobsyn.org/E5AEAFF64693493AA7B3510DF06DC7D6206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "41EB70B4906C4B3CB34B3051B9DA191A206",
+      "JobTitle": "Software Order Management Specialist",
+      "Company": "HP Inc.",
+      "AccquisitionDate": "2023-3-14 4:20 AM",
+      "URL": "https://de.jobsyn.org/41EB70B4906C4B3CB34B3051B9DA191A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B8A79423CDAC48E8BE5F90FBD82E27B9206",
+      "JobTitle": "Onsite Services Installer I - Baltimore",
+      "Company": "Shift4 Payments- Allentown",
+      "AccquisitionDate": "2023-3-13 10:21 PM",
+      "URL": "https://de.jobsyn.org/B8A79423CDAC48E8BE5F90FBD82E27B9206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6FA24D767B0F4C97A852848933A6D9E3206",
+      "JobTitle": "Manager, Systems & Infrastructure Administration - Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/6FA24D767B0F4C97A852848933A6D9E3206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9D9726DE49594FBEB73AF5DD6DFB3815206",
+      "JobTitle": "Sr. Principal Windows Systems Administrator",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-11 11:43 AM",
+      "URL": "https://de.jobsyn.org/9D9726DE49594FBEB73AF5DD6DFB3815206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E4632A859E864E049ACACD0264979E1D206",
+      "JobTitle": "Tax Tech Support II-Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/E4632A859E864E049ACACD0264979E1D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CD9260794F224A8D9DB3005203953D0F206",
+      "JobTitle": "Workday HCM Functional Configuration Lead",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/CD9260794F224A8D9DB3005203953D0F206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6A96C6E4046149508F21FBF5D1B1433C206",
+      "JobTitle": "Help Desk 2",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:10 AM",
+      "URL": "https://de.jobsyn.org/6A96C6E4046149508F21FBF5D1B1433C206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "13428731BE2B461A9982E5250056A9FA206",
+      "JobTitle": "Client Success Specialist- Hybrid",
+      "Company": "Element Fleet Management",
+      "AccquisitionDate": "2023-3-11 2:05 AM",
+      "URL": "https://de.jobsyn.org/13428731BE2B461A9982E5250056A9FA206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4884F06220C84A83ACEA7251FDC58FA6206",
+      "JobTitle": "Knowledge Technology Analyst",
+      "Company": "DLA Piper",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/4884F06220C84A83ACEA7251FDC58FA6206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C57F3090225441959C01A6F10A238E14206",
+      "JobTitle": "Pega Service Delivery Center Analyst - Tech Consulting - Staff II - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-3-11 12:58 AM",
+      "URL": "https://de.jobsyn.org/C57F3090225441959C01A6F10A238E14206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "37CFC299FF5E48CDA707CA0DF2CA154D206",
+      "JobTitle": "Senior Director, IT Service Desk",
+      "Company": "Sodexo",
+      "AccquisitionDate": "2023-3-10 4:45 AM",
+      "URL": "https://de.jobsyn.org/37CFC299FF5E48CDA707CA0DF2CA154D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "5F19C48FF7EB4D409C7FD7024B60CCF1206",
+      "JobTitle": "Construction Administration/Field Document Control Specialist",
+      "Company": "WHITMAN, REQUARDT & ASSOCIATES, LLP",
+      "AccquisitionDate": "2023-3-2 2:29 PM",
+      "URL": "https://de.jobsyn.org/5F19C48FF7EB4D409C7FD7024B60CCF1206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "33A5B88AA635407F840CCB5AAC1C4BD9206",
+      "JobTitle": "Senior Mechanical Structural Engineer",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-3-10 2:28 AM",
+      "URL": "https://de.jobsyn.org/33A5B88AA635407F840CCB5AAC1C4BD9206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "85A7EC4D20674096A66CFE66CCD13158206",
+      "JobTitle": "Principal / Sr. Principal Thermal Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-10-28 7:43 AM",
+      "URL": "https://de.jobsyn.org/85A7EC4D20674096A66CFE66CCD13158206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "98975C2EA0D2444EB5D9FACD6469BAD5206",
+      "JobTitle": "Design Engineer",
+      "Company": "TAD PGS, Inc.",
+      "AccquisitionDate": "2023-3-10 10:50 PM",
+      "URL": "https://de.jobsyn.org/98975C2EA0D2444EB5D9FACD6469BAD5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6A114115FE1E4B44BCBDBB89F0FF04EF206",
+      "JobTitle": "Mid-Level Mechanical Engineer",
+      "Company": "KBR",
+      "AccquisitionDate": "2022-12-16 2:50 AM",
+      "URL": "https://de.jobsyn.org/6A114115FE1E4B44BCBDBB89F0FF04EF206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A98D4E7291E946CEB0720947BB06EBC5206",
+      "JobTitle": "Mechanical-Structural Analysis Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-10-19 7:46 AM",
+      "URL": "https://de.jobsyn.org/A98D4E7291E946CEB0720947BB06EBC5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4773BAF7EE914DF6824D855E38868CE8206",
+      "JobTitle": "Systems Engineer - NASA Missions",
+      "Company": "Space Telescope Science Institute",
+      "AccquisitionDate": "2023-2-28 3:49 AM",
+      "URL": "https://de.jobsyn.org/4773BAF7EE914DF6824D855E38868CE8206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "13A3D769698947519303EB2BE138E47B206",
+      "JobTitle": "Systems Engineer - Aircraft and Land-Based Systems",
+      "Company": "Kratos Defense & Security Solutions, Inc.",
+      "AccquisitionDate": "2022-12-7 10:02 AM",
+      "URL": "https://de.jobsyn.org/13A3D769698947519303EB2BE138E47B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "596AE5C894F640F79F81FB8EE4DDF3E6206",
+      "JobTitle": "Quality Engineer",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-2-2 2:27 AM",
+      "URL": "https://de.jobsyn.org/596AE5C894F640F79F81FB8EE4DDF3E6206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "31DF11A3CC29457CB251F9C551185ECF206",
+      "JobTitle": "2023 Associate Test Engineer \u2013Baltimore, MD",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-2-2 7:45 AM",
+      "URL": "https://de.jobsyn.org/31DF11A3CC29457CB251F9C551185ECF206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "52ED5572175F46B69A061C730F200431206",
+      "JobTitle": "Lead Modeling, Simulation, Analysis Engineer (Top Secret Clearance required) \u2013 Space Sector ModSim",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-7-26 7:39 AM",
+      "URL": "https://de.jobsyn.org/52ED5572175F46B69A061C730F200431206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "645FFB9C09FB4FACA0C4CBC644C6C6E5206",
+      "JobTitle": "Consulting Mission Architect Engineer \u2013 Space Sector ModSim (Top Secret Clearance Required)",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-7-26 7:39 AM",
+      "URL": "https://de.jobsyn.org/645FFB9C09FB4FACA0C4CBC644C6C6E5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "493203D7411E468CB32E6468521E88F1206",
+      "JobTitle": "Sr Staff Mission Architect Engineer \u2013 Space Sector ModSim (Top Secret Clearance Required)",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-7-26 7:39 AM",
+      "URL": "https://de.jobsyn.org/493203D7411E468CB32E6468521E88F1206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "462AD6F013CB47A9B2EB7007C98C0DB2206",
+      "JobTitle": "Staff Modeling, Simulation, Analysis Engineer \u2013 Space Sector ModSim (Top Secret Clearance Required)",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-7-21 7:39 AM",
+      "URL": "https://de.jobsyn.org/462AD6F013CB47A9B2EB7007C98C0DB2206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "683274A11E274CA084746B213302B066206",
+      "JobTitle": "RF Microwave Design Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-14 7:30 AM",
+      "URL": "https://de.jobsyn.org/683274A11E274CA084746B213302B066206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8A0E9BD031FF4AA3ACD4CE868198412A206",
+      "JobTitle": "Sr. Instrument Designer",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-14 2:24 AM",
+      "URL": "https://de.jobsyn.org/8A0E9BD031FF4AA3ACD4CE868198412A206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5FCF77B11FE847BAA2436E724DB35D2C206",
+      "JobTitle": "Contamination Control Engineer",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-3-14 2:54 AM",
+      "URL": "https://de.jobsyn.org/5FCF77B11FE847BAA2436E724DB35D2C206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "649D7B08AD15438987B15413D6E3ABAB206",
+      "JobTitle": "Research Engineer",
+      "Company": "Jensen Hughes Inc.",
+      "AccquisitionDate": "2023-3-11 2:49 AM",
+      "URL": "https://de.jobsyn.org/649D7B08AD15438987B15413D6E3ABAB206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE369C04749E492D8F8EE89C095E1552206",
+      "JobTitle": "Senior Principal Manufacturing Process Engineer - Space Assembly",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-9 7:47 AM",
+      "URL": "https://de.jobsyn.org/CE369C04749E492D8F8EE89C095E1552206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5FDCBDF187334FC2A00E46B9162BEE8F206",
+      "JobTitle": "Space Payload AI&T Lead - Staff Systems Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-9 7:51 AM",
+      "URL": "https://de.jobsyn.org/5FDCBDF187334FC2A00E46B9162BEE8F206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F638E666722040DC8F02208FD1866FA2206",
+      "JobTitle": "Manufacturing Process Engineer/Principal Manufacturing Process Engineer - Space Assembly",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-9 7:49 AM",
+      "URL": "https://de.jobsyn.org/F638E666722040DC8F02208FD1866FA2206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8E670EA735DF4DF5BEA664583C6ABBA9206",
+      "JobTitle": "Engineer Electronics 2",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-8 4:16 AM",
+      "URL": "https://de.jobsyn.org/8E670EA735DF4DF5BEA664583C6ABBA9206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C195DBFC05624D2C8B6298FBF4B88183206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "Field Operating Offices of the Office of the Secretary of the Army",
+      "AccquisitionDate": "2023-3-8 12:30 AM",
+      "URL": "https://de.jobsyn.org/C195DBFC05624D2C8B6298FBF4B88183206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A69D2EE696CE4493815C26CE5B075CFE206",
+      "JobTitle": "Environmental Engineer",
+      "Company": "Field Operating Offices of the Office of the Secretary of the Army",
+      "AccquisitionDate": "2023-3-8 12:30 AM",
+      "URL": "https://de.jobsyn.org/A69D2EE696CE4493815C26CE5B075CFE206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "11F0CE16FD6044F0A08F7FD835C0A173206",
+      "JobTitle": "Electrical Engineer, GS-0850-11/12/13",
+      "Company": "U.S. Coast Guard",
+      "AccquisitionDate": "2023-3-5 12:39 AM",
+      "URL": "https://de.jobsyn.org/11F0CE16FD6044F0A08F7FD835C0A173206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6D016C97CFC047B58041428D25E4453D206",
+      "JobTitle": "Early Career Structural Engineer",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-3-3 4:39 AM",
+      "URL": "https://de.jobsyn.org/6D016C97CFC047B58041428D25E4453D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "46E2AAB2F66C47DF83AD6B736EBAB433206",
+      "JobTitle": "Sr. Project Manager - Aviation",
+      "Company": "Urban Engineers, Inc.",
+      "AccquisitionDate": "2023-3-14 6:11 AM",
+      "URL": "https://de.jobsyn.org/46E2AAB2F66C47DF83AD6B736EBAB433206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C3CC83C714664DA5B80D02B19FE6EF78206",
+      "JobTitle": "Senior Process Architect - Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:44 PM",
+      "URL": "https://de.jobsyn.org/C3CC83C714664DA5B80D02B19FE6EF78206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F10D7DD8DEF945B88C82F8EE5243D871206",
+      "JobTitle": "National Process Architecture Leader \u2013 Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:44 PM",
+      "URL": "https://de.jobsyn.org/F10D7DD8DEF945B88C82F8EE5243D871206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "73E8B37B7C6E4699924C1F849C1BC382206",
+      "JobTitle": "VP / Senior Managing Director of Product Architecture",
+      "Company": "OneMain Financial",
+      "AccquisitionDate": "2023-3-3 5:32 AM",
+      "URL": "https://de.jobsyn.org/73E8B37B7C6E4699924C1F849C1BC382206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "893B08B6B6174871B7F7D6CCD9750DF0206",
+      "JobTitle": "Project Manager",
+      "Company": "WORCESTER EISENBRANDT, INC",
+      "AccquisitionDate": "2023-2-24 2:36 PM",
+      "URL": "https://de.jobsyn.org/893B08B6B6174871B7F7D6CCD9750DF0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "24F6ED7BCD8C4DF7A609B1779FAEC7BA206",
+      "JobTitle": "Director Facilities Engineering 1",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-14 7:24 AM",
+      "URL": "https://de.jobsyn.org/24F6ED7BCD8C4DF7A609B1779FAEC7BA206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4471ACA2DF164C159990B1D8652AB083206",
+      "JobTitle": "Architect Project Manager(Transportation Engineering Manager II)",
+      "Company": "Maryland Department of Transportation",
+      "AccquisitionDate": "2022-12-13 11:17 PM",
+      "URL": "https://de.jobsyn.org/4471ACA2DF164C159990B1D8652AB083206",
+      "Location": "Baltimore City, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "93DA1917291D40B1B963A05E67414EBB206",
+      "JobTitle": "Facilities Project Manager (Transportation Engineer IV)",
+      "Company": "Maryland Department of Transportation",
+      "AccquisitionDate": "2023-3-8 7:03 AM",
+      "URL": "https://de.jobsyn.org/93DA1917291D40B1B963A05E67414EBB206",
+      "Location": "Baltimore City, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3332136C09294ADFA1A61B19D7036340206",
+      "JobTitle": "Project Manager",
+      "Company": "Worcester Eisenbrandt Construction",
+      "AccquisitionDate": "2023-2-19 6:11 AM",
+      "URL": "https://de.jobsyn.org/3332136C09294ADFA1A61B19D7036340206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9CFDF48F20664A86ABD73D0F7739C775206",
+      "JobTitle": "Project Manager - Distribution (Mid Atlantic Region)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-10 1:43 PM",
+      "URL": "https://de.jobsyn.org/9CFDF48F20664A86ABD73D0F7739C775206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3C7968F0F4EB4A08A3B31851460E974D206",
+      "JobTitle": "Pre-Sales Engineer (WAM) - Senior Manager - Consulting - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-26 1:00 AM",
+      "URL": "https://de.jobsyn.org/3C7968F0F4EB4A08A3B31851460E974D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "49082CEF79524FC5BA3C1E22ECD6E206206",
+      "JobTitle": "Sr. Architect",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-1-31 4:02 AM",
+      "URL": "https://de.jobsyn.org/49082CEF79524FC5BA3C1E22ECD6E206206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "96CE6A052C494A4B91568D83645D7D83206",
+      "JobTitle": "Software Engineering Director",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2023-3-8 5:57 AM",
+      "URL": "https://de.jobsyn.org/96CE6A052C494A4B91568D83645D7D83206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FBB4D2F0ACC945DB933A245481E7848D206",
+      "JobTitle": "Senior Systems Engineering Manager - Healthcare and Law Enforcement",
+      "Company": "World Wide Technology",
+      "AccquisitionDate": "2023-3-8 4:53 AM",
+      "URL": "https://de.jobsyn.org/FBB4D2F0ACC945DB933A245481E7848D206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "395CD264744E4498A2BA16250E6846EC206",
+      "JobTitle": "Assistant Division Chief, Engineering Resources (Administrator VI)",
+      "Company": "Maryland Department of Transportation",
+      "AccquisitionDate": "2022-11-15 2:12 AM",
+      "URL": "https://de.jobsyn.org/395CD264744E4498A2BA16250E6846EC206",
+      "Location": "Baltimore City, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BD79603AE50E440FA7F1456ED19F94BC206",
+      "JobTitle": "Principal Systems Engineer (Transportation Engineering Manager I)",
+      "Company": "Maryland Department of Transportation",
+      "AccquisitionDate": "2022-5-7 1:38 AM",
+      "URL": "https://de.jobsyn.org/BD79603AE50E440FA7F1456ED19F94BC206",
+      "Location": "Baltimore City, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "49CE03EFCCB34ADCBA7CF5AF1246B1FD206",
+      "JobTitle": "Design & Construction Project Manager",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2021-6-23 3:46 AM",
+      "URL": "https://de.jobsyn.org/49CE03EFCCB34ADCBA7CF5AF1246B1FD206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8FACACE3DE3F436BA64546BDD08C30C2206",
+      "JobTitle": "Program Management Director - Transit",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-3-3 10:56 PM",
+      "URL": "https://de.jobsyn.org/8FACACE3DE3F436BA64546BDD08C30C2206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D142E14EA1A5469EBBFB5136B3460E4F206",
+      "JobTitle": "Project Manager- Aviation",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-1-19 5:04 AM",
+      "URL": "https://de.jobsyn.org/D142E14EA1A5469EBBFB5136B3460E4F206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FC212CF26D42435FB468EC620A445705206",
+      "JobTitle": "Construction Project Manager",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2022-12-24 6:35 AM",
+      "URL": "https://de.jobsyn.org/FC212CF26D42435FB468EC620A445705206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3050DAFFCDE242E2838281712B0B6002206",
+      "JobTitle": "Sr Project Manager - Facilities",
+      "Company": "Exelon",
+      "AccquisitionDate": "2022-11-18 5:44 AM",
+      "URL": "https://de.jobsyn.org/3050DAFFCDE242E2838281712B0B6002206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "14771523D9A64169ABFA1077062A9BD0206",
+      "JobTitle": "Sr. Product Manager - Payments",
+      "Company": "OneMain Financial",
+      "AccquisitionDate": "2023-1-19 2:35 AM",
+      "URL": "https://de.jobsyn.org/14771523D9A64169ABFA1077062A9BD0206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FC7E54F2BA40499B8969172AA938E1CE206",
+      "JobTitle": "Senior Program Manager, Rail Programs",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-2-1 5:27 PM",
+      "URL": "https://de.jobsyn.org/FC7E54F2BA40499B8969172AA938E1CE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D620FC26EC2445D18E04BDF1EE84A858206",
+      "JobTitle": "Senior Design Manager",
+      "Company": "Clark Construction Group, LLC",
+      "AccquisitionDate": "2022-9-30 3:05 AM",
+      "URL": "https://de.jobsyn.org/D620FC26EC2445D18E04BDF1EE84A858206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AFE641B7AA85407C8A74D1282F532CAE206",
+      "JobTitle": "Senior Superintendent (Water Group)",
+      "Company": "Clark Construction Group, LLC",
+      "AccquisitionDate": "2022-7-16 4:56 AM",
+      "URL": "https://de.jobsyn.org/AFE641B7AA85407C8A74D1282F532CAE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "3CE110808453419C9531C85013296E9B206",
+      "JobTitle": "Healthcare Engineer (CAP)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-6 11:02 PM",
+      "URL": "https://de.jobsyn.org/3CE110808453419C9531C85013296E9B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5959AFDB966F49DCA665D3FD3E624C29206",
+      "JobTitle": "Supervisory Healthcare Engineer",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-1 6:06 AM",
+      "URL": "https://de.jobsyn.org/5959AFDB966F49DCA665D3FD3E624C29206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0B0877AE81DC4BF3BB5CDFF47C5C52BE206",
+      "JobTitle": "Post-Doctoral Fellow in Advanced Ophthalmic Imaging at Johns Hopkins",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-8-7 5:32 AM",
+      "URL": "https://de.jobsyn.org/0B0877AE81DC4BF3BB5CDFF47C5C52BE206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "89A4D89D4EA84C3B8E718253F6CBC2D0206",
+      "JobTitle": "ASPIRE Postdoctoral Fellowship Position - Department of Biomedical Engineering",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2021-1-1 3:05 AM",
+      "URL": "https://de.jobsyn.org/89A4D89D4EA84C3B8E718253F6CBC2D0206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "06B6A37EFA974970BC3481E94D1E6CAC206",
+      "JobTitle": "Post-Doctoral Position in biomedical data mining",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2020-6-18 4:42 AM",
+      "URL": "https://de.jobsyn.org/06B6A37EFA974970BC3481E94D1E6CAC206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "94EB9EC0074242F594DDA4A7A7228638206",
+      "JobTitle": "Post-Doctoral Position in Biomedical Data Mining",
+      "Company": "University of Maryland, Baltimore",
+      "AccquisitionDate": "2018-4-25 7:20 AM",
+      "URL": "https://de.jobsyn.org/94EB9EC0074242F594DDA4A7A7228638206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "9BDCA63DEDD8474F997F0419831FF07B206",
+      "JobTitle": "Chemical Engineer 7 (Hydrogen Process Engineer)",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-1 2:54 AM",
+      "URL": "https://de.jobsyn.org/9BDCA63DEDD8474F997F0419831FF07B206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D840F0EAD9F84E31BC9492919F1567D5206",
+      "JobTitle": "Graduate Development Program Engineer",
+      "Company": "ASR Group/Domino Sugar",
+      "AccquisitionDate": "2023-3-14 6:43 AM",
+      "URL": "https://de.jobsyn.org/D840F0EAD9F84E31BC9492919F1567D5206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "05711530D87046458B5887222AA5FC51206",
+      "JobTitle": "Graduate Development Program Engineer",
+      "Company": "Florida Crystals Corporation",
+      "AccquisitionDate": "2023-3-13 10:10 PM",
+      "URL": "https://de.jobsyn.org/05711530D87046458B5887222AA5FC51206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1676E3174FBA490BAD01A87A7409BF61206",
+      "JobTitle": "R&D Positions in Sustainable Energy",
+      "Company": "Johns Hopkins University",
+      "AccquisitionDate": "2022-10-18 3:40 AM",
+      "URL": "https://de.jobsyn.org/1676E3174FBA490BAD01A87A7409BF61206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "85DF8B70A5054F72A59631DD44055EA5206",
+      "JobTitle": "Engineer II, Manufacturing Science and Technology (MS&T)",
+      "Company": "Catalent Pharma Solutions",
+      "AccquisitionDate": "2023-3-8 6:14 AM",
+      "URL": "https://de.jobsyn.org/85DF8B70A5054F72A59631DD44055EA5206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8B5D16BAA79B47F9AD83F92793FEE6EF206",
+      "JobTitle": "Process Engineer III",
+      "Company": "GAF",
+      "AccquisitionDate": "2023-2-11 2:40 AM",
+      "URL": "https://de.jobsyn.org/8B5D16BAA79B47F9AD83F92793FEE6EF206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EAE8D15D6DA142C8A1AE5A974E84D3CC206",
+      "JobTitle": "Senior Engineer, Manufacturing Science and Technology (MS&T)",
+      "Company": "Catalent Pharma Solutions",
+      "AccquisitionDate": "2022-12-9 5:17 AM",
+      "URL": "https://de.jobsyn.org/EAE8D15D6DA142C8A1AE5A974E84D3CC206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5A9C4F0321C64F89B8D5914DC3187773206",
+      "JobTitle": "Lead Continuous Improvement Engineer",
+      "Company": "Ryder System",
+      "AccquisitionDate": "2023-3-4 3:55 PM",
+      "URL": "https://de.jobsyn.org/5A9C4F0321C64F89B8D5914DC3187773206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5959AFDB966F49DCA665D3FD3E624C29206",
+      "JobTitle": "Supervisory Healthcare Engineer",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-1 6:06 AM",
+      "URL": "https://de.jobsyn.org/5959AFDB966F49DCA665D3FD3E624C29206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "95E07A30687949A5B18CE6A458EA00B3206",
+      "JobTitle": "Continuous Improvement Engineer",
+      "Company": "GAF",
+      "AccquisitionDate": "2023-2-14 5:46 AM",
+      "URL": "https://de.jobsyn.org/95E07A30687949A5B18CE6A458EA00B3206",
+      "Location": "Baltimore, MD",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BC8E1A47A30041D1AADD3DB5F3E97F35206",
+      "JobTitle": "Associate Engineer - Transmission & Substation",
+      "Company": "Exelon",
+      "AccquisitionDate": "2022-11-5 5:44 AM",
+      "URL": "https://de.jobsyn.org/BC8E1A47A30041D1AADD3DB5F3E97F35206",
+      "Location": "BALTIMORE, MD",
+      "Fc": "True"
+    }
+  ]
+]
