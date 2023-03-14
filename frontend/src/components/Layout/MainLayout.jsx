@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import React from "react";
 import "./custom.css";
 import CustomBar from "../Navbar/Navbar";

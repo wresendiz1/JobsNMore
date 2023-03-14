@@ -1,47 +1,76 @@
-import React from "react";
+import React, { lazy, Suspense } from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import App from "./App";
-import Home from "./pages/Home/Home";
-import About from "./pages/About/About";
-import Contact from "./pages/Contact/Contact";
-import Jobs from "./pages/Jobs/Jobs";
-import Courses from "./pages/Courses/Courses";
-import Skills from "./pages/Skills/Skills";
-import Locations from "./pages/Locations/Locations";
+import Load from "./pages/Load/Load";
+
+const Home = lazy(() => import("./pages/Home/Home"));
+const About = lazy(() => import("./pages/About/About"));
+const Contact = lazy(() => import("./pages/Contact/Contact"));
+const Jobs = lazy(() => import("./pages/Jobs/Jobs"));
+const Courses = lazy(() => import("./pages/Courses/Courses"));
+const Skills = lazy(() => import("./pages/Skills/Skills"));
+const Locations = lazy(() => import("./pages/Locations/Locations"));
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home />,
+    element: (
+      <Suspense fallback={<Load />}>
+        <Home />
+      </Suspense>
+    ),
   },
   {
     path: "/About",
-    element: <About />,
+    element: (
+      <Suspense fallback={<Load />}>
+        <About />
+      </Suspense>
+    ),
   },
   {
     path: "/Jobs",
-    element: <Jobs />,
+    element: (
+      <Suspense fallback={<Load />}>
+        <Jobs />
+      </Suspense>
+    ),
   },
   {
     path: "/Skills",
-    element: <Skills />,
+    element: (
+      <Suspense fallback={<Load />}>
+        <Skills />
+      </Suspense>
+    ),
   },
   {
     path: "/Courses",
-    element: <Courses />,
+    element: (
+      <Suspense fallback={<Load />}>
+        <Courses />
+      </Suspense>
+    ),
   },
   {
     path: "/Locations",
-    element: <Locations />,
+    element: (
+      <Suspense fallback={<Load />}>
+        <Locations />
+      </Suspense>
+    ),
   },
   {
     path: "/Contact",
-    element: <Contact />,
+    element: (
+      <Suspense fallback={<Load />}>
+        <Contact />
+      </Suspense>
+    ),
   },
   {
-    path: "/Test",
-    element: <App />,
+    path: "/Load",
+    element: <Load />,
   },
 ]);
 
