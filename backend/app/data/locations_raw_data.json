@@ -1,0 +1,242 @@
+[
+  {
+    "City": "New York",
+    "State": "New York State",
+    "Population": 8175133,
+    "Budget": "Extreme",
+    "Safety": "High",
+    "Average Rating": 4.2
+  },
+  {
+    "City": "Los Angeles",
+    "State": "California",
+    "Population": 3792621,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 3.84444444444444
+  },
+  {
+    "City": "Chicago",
+    "State": "Illinois",
+    "Population": 2695598,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 4.28571428571429
+  },
+  {
+    "City": "Houston",
+    "State": "Texas",
+    "Population": 2099451,
+    "Budget": "High",
+    "Safety": "Medium",
+    "Average Rating": 2.92857142857143
+  },
+  {
+    "City": "Phoenix",
+    "State": "Arizona",
+    "Population": 1445632,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 4.0
+  },
+  {
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Population": 1526006,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 3.76923076923077
+  },
+  {
+    "City": "San Antonio",
+    "State": "Texas",
+    "Population": 1327407,
+    "Budget": "Medium High",
+    "Safety": "High",
+    "Average Rating": 4.07142857142857
+  },
+  {
+    "City": "San Diego",
+    "State": "California",
+    "Population": 1307402,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 4.15384615384615
+  },
+  {
+    "City": "Dallas",
+    "State": "Texas",
+    "Population": 1197816,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 3.5
+  },
+  {
+    "City": "San Jose",
+    "State": "California",
+    "Population": 945942,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 3.4
+  },
+  {
+    "City": "Austin",
+    "State": "Texas",
+    "Population": 790390,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 4.27272727272727
+  },
+  {
+    "City": "Jacksonville",
+    "State": "Florida",
+    "Population": 821784,
+    "Budget": "Medium High",
+    "Safety": "High",
+    "Average Rating": 3.66666666666667
+  },
+  {
+    "City": "Fort Worth",
+    "State": "Texas",
+    "Population": 741206,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 3.9
+  },
+  {
+    "City": "Columbus",
+    "State": "Ohio",
+    "Population": 787033,
+    "Budget": "High",
+    "Safety": "Medium",
+    "Average Rating": 4.0
+  },
+  {
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Population": 829718,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 2.85714285714286
+  },
+  {
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "Population": 731424,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 3.44444444444444
+  },
+  {
+    "City": "San Francisco",
+    "State": "California",
+    "Population": 805235,
+    "Budget": "Extreme",
+    "Safety": "High",
+    "Average Rating": 4.36585365853659
+  },
+  {
+    "City": "Seattle",
+    "State": "Washington",
+    "Population": 608660,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 4.38461538461539
+  },
+  {
+    "City": "Denver",
+    "State": "Colorado",
+    "Population": 600158,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 4.11111111111111
+  },
+  {
+    "City": "Oklahoma City",
+    "State": "Oklahoma",
+    "Population": 579999,
+    "Budget": "Medium High",
+    "Safety": "High",
+    "Average Rating": 3.33333333333333
+  },
+  {
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Population": 530852,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 4.07692307692308
+  },
+  {
+    "City": "El Paso",
+    "State": "Texas",
+    "Population": 649121,
+    "Budget": "Medium",
+    "Safety": "High",
+    "Average Rating": 3.33333333333333
+  },
+  {
+    "City": "Washington DC",
+    "State": "Washington",
+    "Population": 601723,
+    "Budget": "Very High",
+    "Safety": "High",
+    "Average Rating": 4.18918918918919
+  },
+  {
+    "City": "Boston",
+    "State": "Massachusetts",
+    "Population": 617594,
+    "Budget": "Extreme",
+    "Safety": "Very High",
+    "Average Rating": 4.25
+  },
+  {
+    "City": "Las Vegas",
+    "State": "Nevada",
+    "Population": 583756,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 3.83333333333333
+  },
+  {
+    "City": "Portland",
+    "State": "Oregon",
+    "Population": 583776,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 4.5
+  },
+  {
+    "City": "Detroit",
+    "State": "Michigan",
+    "Population": 713777,
+    "Budget": "Very High",
+    "Safety": "Medium",
+    "Average Rating": 2.55555555555556
+  },
+  {
+    "City": "Louisville",
+    "State": "Kentucky",
+    "Population": 243639,
+    "Budget": "High",
+    "Safety": "High",
+    "Average Rating": 4.0
+  },
+  {
+    "City": "Memphis",
+    "State": "Tennessee",
+    "Population": 646889,
+    "Budget": "Medium High",
+    "Safety": "High",
+    "Average Rating": 3.0
+  },
+  {
+    "City": "Baltimore",
+    "State": "Maryland",
+    "Population": 620961,
+    "Budget": "Very High",
+    "Safety": "Medium",
+    "Average Rating": 3.38095238095238
+  }
+]
