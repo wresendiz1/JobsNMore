@@ -1,0 +1,3386 @@
+[
+  [
+    {
+      "JvId": "48581E36A4A74C40BD87388B924DA841206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:08 AM",
+      "URL": "https://de.jobsyn.org/48581E36A4A74C40BD87388B924DA841206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B13AD474EA4546FF931B993DA99F7911206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-17 12:30 AM",
+      "URL": "https://de.jobsyn.org/B13AD474EA4546FF931B993DA99F7911206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F733ED8DA33A4A1489C00B8BD692CC0E206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "J&J Worldwide Services",
+      "AccquisitionDate": "2023-1-24 4:47 AM",
+      "URL": "https://de.jobsyn.org/F733ED8DA33A4A1489C00B8BD692CC0E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5DAB0B0803424A4AA353670FBF38ED17206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-7 12:37 AM",
+      "URL": "https://de.jobsyn.org/5DAB0B0803424A4AA353670FBF38ED17206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "62C7556E58F64A5A97BC9784C3E1FEB8206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-10-22 3:53 AM",
+      "URL": "https://de.jobsyn.org/62C7556E58F64A5A97BC9784C3E1FEB8206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "29E12715E3214F54ADD0C70906886419206",
+      "JobTitle": "Job #2627: Healthcare",
+      "Company": "ComputerWorksTech.com",
+      "AccquisitionDate": "2018-9-20 12:59 PM",
+      "URL": "https://de.jobsyn.org/29E12715E3214F54ADD0C70906886419206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "438239223A6B41CAA3E24692B5A59EED206",
+      "JobTitle": "Property Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/438239223A6B41CAA3E24692B5A59EED206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9F11F45FA50C44E78FE0FBF6C4BB3940206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/9F11F45FA50C44E78FE0FBF6C4BB3940206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "16BECD7B78DE48C6AC383FA416E9B4B2206",
+      "JobTitle": "Staff Accountant",
+      "Company": "HEI Hotels",
+      "AccquisitionDate": "2023-3-11 10:00 PM",
+      "URL": "https://de.jobsyn.org/16BECD7B78DE48C6AC383FA416E9B4B2206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "70AC3E583832436CAE2FBF8D90127A82206",
+      "JobTitle": "Cost Accountant - Inventory Controls - 14966542-3470",
+      "Company": "Dexcom, Inc",
+      "AccquisitionDate": "2023-3-10 1:23 PM",
+      "URL": "https://de.jobsyn.org/70AC3E583832436CAE2FBF8D90127A82206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C8D72FEA4C3C4D999E84E0EA79E19389206",
+      "JobTitle": "Accounting Technician",
+      "Company": "San Diego Community College District",
+      "AccquisitionDate": "2023-3-9 5:54 AM",
+      "URL": "https://de.jobsyn.org/C8D72FEA4C3C4D999E84E0EA79E19389206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E5A323EC1C444787BF3C2FADDF2A9051206",
+      "JobTitle": "Assistant Controller",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:19 AM",
+      "URL": "https://de.jobsyn.org/E5A323EC1C444787BF3C2FADDF2A9051206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FFD6EF21B817450CACDB6069D93BE68A206",
+      "JobTitle": "Accounting Technician",
+      "Company": "San Diego Community College District",
+      "AccquisitionDate": "2023-3-9 5:54 AM",
+      "URL": "https://de.jobsyn.org/FFD6EF21B817450CACDB6069D93BE68A206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3EA7EF9EB61C45C7845FEE35E84F3ED5206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:19 AM",
+      "URL": "https://de.jobsyn.org/3EA7EF9EB61C45C7845FEE35E84F3ED5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "566A417C135A463D9F47C47AD492CC02206",
+      "JobTitle": "District Office Accounting Specialist",
+      "Company": "San Diego Community College District",
+      "AccquisitionDate": "2023-3-9 5:54 AM",
+      "URL": "https://de.jobsyn.org/566A417C135A463D9F47C47AD492CC02206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "94552FF5D0124BA2B861FF8A5B48385F206",
+      "JobTitle": "Billing Coordinator",
+      "Company": "Sheppard Mullin Richter & Hampton LLP",
+      "AccquisitionDate": "2023-3-9 11:34 PM",
+      "URL": "https://de.jobsyn.org/94552FF5D0124BA2B861FF8A5B48385F206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "30EDE492D9F546C895593933C327F9C3206",
+      "JobTitle": "Payroll Lead",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-9 7:22 AM",
+      "URL": "https://de.jobsyn.org/30EDE492D9F546C895593933C327F9C3206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6131CA7634734AD7A2969ADF3AE41B16206",
+      "JobTitle": "Government Reimbursement Specialist / PFS Revenue Integrity / Full Time / Kearny Mesa",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-10 3:50 AM",
+      "URL": "https://de.jobsyn.org/6131CA7634734AD7A2969ADF3AE41B16206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "43CF5D71DBEA4FA1AEDF0FB706A7E6A5206",
+      "JobTitle": "Acct Analyst II-Cash Posting - 3416",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/43CF5D71DBEA4FA1AEDF0FB706A7E6A5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "05F6DBFAE9EC4722A250E80EA8DFC360206",
+      "JobTitle": "Associate Project Accountant",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-3-9 3:42 AM",
+      "URL": "https://de.jobsyn.org/05F6DBFAE9EC4722A250E80EA8DFC360206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22192875A1A84234A35DA4667858C7F1206",
+      "JobTitle": "Account Analyst II Full Time",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/22192875A1A84234A35DA4667858C7F1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0EBE1AAE45414F7CAC2C8DC07A04ED43206",
+      "JobTitle": "Account Analyst II Full Time",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/0EBE1AAE45414F7CAC2C8DC07A04ED43206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "947EEBC2D7FA44BE8076C4EA76C9C904206",
+      "JobTitle": "Accountant I",
+      "Company": "USE Credit Union",
+      "AccquisitionDate": "2023-3-8 2:13 AM",
+      "URL": "https://de.jobsyn.org/947EEBC2D7FA44BE8076C4EA76C9C904206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "21662F80270D47BA82A4A7320B1AE160206",
+      "JobTitle": "General Accountant",
+      "Company": "Marriott",
+      "AccquisitionDate": "2023-3-8 2:52 AM",
+      "URL": "https://de.jobsyn.org/21662F80270D47BA82A4A7320B1AE160206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "05C2FE33D9B64E429B1DC37DA42161B0206",
+      "JobTitle": "Accounts Payable Specialist \\ Accounting",
+      "Company": "Atria Wealth Solutions",
+      "AccquisitionDate": "2023-3-8 2:06 AM",
+      "URL": "https://de.jobsyn.org/05C2FE33D9B64E429B1DC37DA42161B0206",
+      "Location": "San Diego - Hybrid, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "C4126A122EDD46B3A07B25A3E819CF28206",
+      "JobTitle": "Digital Radio Managment SME",
+      "Company": "ManTech",
+      "AccquisitionDate": "2023-1-5 5:21 AM",
+      "URL": "https://de.jobsyn.org/C4126A122EDD46B3A07B25A3E819CF28206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "209FB59B75C24B11AF317B5B2167F8AD206",
+      "JobTitle": "Data Entry Operator II",
+      "Company": "J&J Worldwide Services",
+      "AccquisitionDate": "2023-1-21 3:40 AM",
+      "URL": "https://de.jobsyn.org/209FB59B75C24B11AF317B5B2167F8AD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6C1298963002485686C1F325D8DB5AD6206",
+      "JobTitle": "Computer Technician",
+      "Company": "Goodwill Industries of San Diego County",
+      "AccquisitionDate": "2022-12-21 2:26 PM",
+      "URL": "https://de.jobsyn.org/6C1298963002485686C1F325D8DB5AD6206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "65F0DE78903A461FA8CC8D450F3164DC206",
+      "JobTitle": "Computer Operator IV",
+      "Company": "INDUS TECHNOLOGY, INC.",
+      "AccquisitionDate": "2019-7-30 10:50 AM",
+      "URL": "https://de.jobsyn.org/65F0DE78903A461FA8CC8D450F3164DC206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "CACF4F2EF61C4F6BB1DCA22319BC598F206",
+      "JobTitle": "Logistics Customer Service Representative",
+      "Company": "The Dewitt Companies",
+      "AccquisitionDate": "2023-3-10 7:00 AM",
+      "URL": "https://de.jobsyn.org/CACF4F2EF61C4F6BB1DCA22319BC598F206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D6261B61C682465AAF9A03572655203A206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:25 AM",
+      "URL": "https://de.jobsyn.org/D6261B61C682465AAF9A03572655203A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F21C2ED7E20446C993E25E265275364206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/6F21C2ED7E20446C993E25E265275364206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CD61A4B94CFF4291952D0D502DD70008206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/CD61A4B94CFF4291952D0D502DD70008206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "83598798701D48B1B6C785F00AED6E72206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/83598798701D48B1B6C785F00AED6E72206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "33C2BC3CC78D438BA27E4F22AF708585206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/33C2BC3CC78D438BA27E4F22AF708585206",
+      "Location": "San Diego, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2302E85107AB4F6EB512C771C9FC290B206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Liberty Military Housing",
+      "AccquisitionDate": "2023-3-10 12:58 AM",
+      "URL": "https://de.jobsyn.org/2302E85107AB4F6EB512C771C9FC290B206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5AAEA8B62EB34202B9625CB8CCB16156206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Liberty Military Housing",
+      "AccquisitionDate": "2023-3-8 8:45 AM",
+      "URL": "https://de.jobsyn.org/5AAEA8B62EB34202B9625CB8CCB16156206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DCF6322B8D4846AABB50A47BEB91682A206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "The Michaels Organization",
+      "AccquisitionDate": "2023-3-2 11:18 PM",
+      "URL": "https://de.jobsyn.org/DCF6322B8D4846AABB50A47BEB91682A206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "94BFCFA83BE743F39D9CA8A01876E30B206",
+      "JobTitle": "Customer Service Representative I",
+      "Company": "Berkley",
+      "AccquisitionDate": "2022-12-29 10:17 PM",
+      "URL": "https://de.jobsyn.org/94BFCFA83BE743F39D9CA8A01876E30B206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2E9E2294C8E4484E8ED11270CBDFC98E206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Liberty Military Housing",
+      "AccquisitionDate": "2023-2-9 11:47 PM",
+      "URL": "https://de.jobsyn.org/2E9E2294C8E4484E8ED11270CBDFC98E206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1E8B3F3A99FA4F7085239C2E14FDD922206",
+      "JobTitle": "Customer Service Instant Return Representative",
+      "Company": "The Hertz Corporation",
+      "AccquisitionDate": "2023-3-7 5:15 AM",
+      "URL": "https://de.jobsyn.org/1E8B3F3A99FA4F7085239C2E14FDD922206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CA4EBDD13C6E447E8E993E3C582283EE206",
+      "JobTitle": "Customer Service Representative Fueler/Washer",
+      "Company": "Penske",
+      "AccquisitionDate": "2023-1-26 8:12 PM",
+      "URL": "https://de.jobsyn.org/CA4EBDD13C6E447E8E993E3C582283EE206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5D959A7A8CB4499286E839D31F514291206",
+      "JobTitle": "Customer Service Representative -Foresight (2)",
+      "Company": "Vista Outdoor",
+      "AccquisitionDate": "2022-12-17 3:00 AM",
+      "URL": "https://de.jobsyn.org/5D959A7A8CB4499286E839D31F514291206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "913D3A5DE8544A1AA35BF9C10672CCA2206",
+      "JobTitle": "Customer Service  Representative - CHOC MSO",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-11 5:04 AM",
+      "URL": "https://de.jobsyn.org/913D3A5DE8544A1AA35BF9C10672CCA2206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "407135C1EF69476B80259A41CFEF1F61206",
+      "JobTitle": "Customer Service Representative Fueler/Washer - Part Time",
+      "Company": "Penske",
+      "AccquisitionDate": "2023-2-9 1:05 AM",
+      "URL": "https://de.jobsyn.org/407135C1EF69476B80259A41CFEF1F61206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3FBF2D55D8C445F3B8F855BA400C3B82206",
+      "JobTitle": "Financial Services Representative",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/3FBF2D55D8C445F3B8F855BA400C3B82206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F8DF53138A9C4D9B87E6BB78DBEB6414206",
+      "JobTitle": "Financial Services Representative",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/F8DF53138A9C4D9B87E6BB78DBEB6414206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3C177B01E810448A8F4D4695FC7E848C206",
+      "JobTitle": "Financial Services Opening",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/3C177B01E810448A8F4D4695FC7E848C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BA8DF45062E54C39A8942A7C188E30EA206",
+      "JobTitle": "PART-TIME (20 - 34.5 HRS) - CUSTOMER SERVICE CLERK - FLEET STORE - NAVAL BASE SAN DIEGO",
+      "Company": "Navy Exchange Services (NEX)",
+      "AccquisitionDate": "2023-3-14 2:09 AM",
+      "URL": "https://de.jobsyn.org/BA8DF45062E54C39A8942A7C188E30EA206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DCA794D2B7EA4875A8DF5D43CCFC9CDD206",
+      "JobTitle": "Financial Services - Room To Grow",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/DCA794D2B7EA4875A8DF5D43CCFC9CDD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EE29F56E3D6A4BB4B42D851194885A11206",
+      "JobTitle": "Financial Services Opening",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/EE29F56E3D6A4BB4B42D851194885A11206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0ED83C8BB0374F9AA6341D00420E6A7C206",
+      "JobTitle": "Financial Services Representative - Onsite",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-12 4:51 AM",
+      "URL": "https://de.jobsyn.org/0ED83C8BB0374F9AA6341D00420E6A7C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7AAE5E44A9074FEBA75B01EAFBD03F1E206",
+      "JobTitle": "Financial Services Representative",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/7AAE5E44A9074FEBA75B01EAFBD03F1E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EAC81E949AC843DBA87C039BF3BC7E7A206",
+      "JobTitle": "Financial Services Representative",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-12 4:51 AM",
+      "URL": "https://de.jobsyn.org/EAC81E949AC843DBA87C039BF3BC7E7A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "CB4344FC457644019FBFFC0D47C9428F206",
+      "JobTitle": "Data Entry Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:18 AM",
+      "URL": "https://de.jobsyn.org/CB4344FC457644019FBFFC0D47C9428F206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DDEEA3CC917B4CA18781D1DFBE694E20206",
+      "JobTitle": "account services rep/data entry",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-4 7:42 AM",
+      "URL": "https://de.jobsyn.org/DDEEA3CC917B4CA18781D1DFBE694E20206",
+      "Location": "san diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FB8115CC229F4F1D8B936B1761BD3425206",
+      "JobTitle": "data entry operator",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-2 7:40 AM",
+      "URL": "https://de.jobsyn.org/FB8115CC229F4F1D8B936B1761BD3425206",
+      "Location": "san diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A20E382B3B8A412AB64F707F650D4B65206",
+      "JobTitle": "Data Entry Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-22 12:28 AM",
+      "URL": "https://de.jobsyn.org/A20E382B3B8A412AB64F707F650D4B65206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "209FB59B75C24B11AF317B5B2167F8AD206",
+      "JobTitle": "Data Entry Operator II",
+      "Company": "J&J Worldwide Services",
+      "AccquisitionDate": "2023-1-21 3:40 AM",
+      "URL": "https://de.jobsyn.org/209FB59B75C24B11AF317B5B2167F8AD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "3C68B867162B4FAE845C3D51F10A488C206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 4:00 AM",
+      "URL": "https://de.jobsyn.org/3C68B867162B4FAE845C3D51F10A488C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CF7CF2CFB30E40B6AE77AE4C5C5B0E92206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2024 (NYC, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 6:32 AM",
+      "URL": "https://de.jobsyn.org/CF7CF2CFB30E40B6AE77AE4C5C5B0E92206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "434FD0FB791D4882966D980D18A5C183206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023 (NY, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 2:04 AM",
+      "URL": "https://de.jobsyn.org/434FD0FB791D4882966D980D18A5C183206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E8DA978E3334460581EBD3F5B2645F96206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024 (NY, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 2:07 AM",
+      "URL": "https://de.jobsyn.org/E8DA978E3334460581EBD3F5B2645F96206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "42590F5056304C07A22E20E0C5B950BA206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025 (NY, CA, WA)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-12-14 2:03 AM",
+      "URL": "https://de.jobsyn.org/42590F5056304C07A22E20E0C5B950BA206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "704A97627CB7497E9307A3C232B33163206",
+      "JobTitle": "Internal Auditor - Operations",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-2-1 4:18 AM",
+      "URL": "https://de.jobsyn.org/704A97627CB7497E9307A3C232B33163206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8055150760A24D2F8A2462E897DC82A1206",
+      "JobTitle": "SUPERVISORY AUDITOR",
+      "Company": "Defense Contract Audit Agency",
+      "AccquisitionDate": "2023-3-7 12:59 AM",
+      "URL": "https://de.jobsyn.org/8055150760A24D2F8A2462E897DC82A1206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B60975BAAF2243AABF11D9A96EF925EE206",
+      "JobTitle": "Senior Accountant - Payments Money Movement",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-2-23 3:15 AM",
+      "URL": "https://de.jobsyn.org/B60975BAAF2243AABF11D9A96EF925EE206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "204CEE2526C84CC49A3851E4084EC20C206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-2-9 3:14 AM",
+      "URL": "https://de.jobsyn.org/204CEE2526C84CC49A3851E4084EC20C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CEF875EECF5B4D8787AE33802E645EB6206",
+      "JobTitle": "Sr. Auditor",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-7 12:11 AM",
+      "URL": "https://de.jobsyn.org/CEF875EECF5B4D8787AE33802E645EB6206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CCE73D05EA2F48BBBE0CE8931C7A6190206",
+      "JobTitle": "Sr. Information Systems Auditor",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-1-13 7:27 AM",
+      "URL": "https://de.jobsyn.org/CCE73D05EA2F48BBBE0CE8931C7A6190206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "654B0FE0927F4BA3BAC4EB3220B9F016206",
+      "JobTitle": "Senior Accountant",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-1-6 4:21 AM",
+      "URL": "https://de.jobsyn.org/654B0FE0927F4BA3BAC4EB3220B9F016206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "46B079B06C67495CBAE36F5B7BAAECE9206",
+      "JobTitle": "Accountant",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-3-2 4:09 AM",
+      "URL": "https://de.jobsyn.org/46B079B06C67495CBAE36F5B7BAAECE9206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5854C32F07EF4C2FAD25E19561DB9734206",
+      "JobTitle": "Technical Accounting and Close Principal",
+      "Company": "Intuit",
+      "AccquisitionDate": "2022-7-20 3:09 AM",
+      "URL": "https://de.jobsyn.org/5854C32F07EF4C2FAD25E19561DB9734206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ADBFCC2AC22943A088573840DE6578E4206",
+      "JobTitle": "Lead Accountant",
+      "Company": "Intuit",
+      "AccquisitionDate": "2022-8-19 5:07 AM",
+      "URL": "https://de.jobsyn.org/ADBFCC2AC22943A088573840DE6578E4206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9F11F45FA50C44E78FE0FBF6C4BB3940206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/9F11F45FA50C44E78FE0FBF6C4BB3940206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3D91348F8C5549C0B4E1528E31273ADD206",
+      "JobTitle": "Accountant",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-2-9 11:17 AM",
+      "URL": "https://de.jobsyn.org/3D91348F8C5549C0B4E1528E31273ADD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "438239223A6B41CAA3E24692B5A59EED206",
+      "JobTitle": "Property Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/438239223A6B41CAA3E24692B5A59EED206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7D8D1BF5800A45A7AF215B7082DF9538206",
+      "JobTitle": "Information Technology Auditor - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 1:57 AM",
+      "URL": "https://de.jobsyn.org/7D8D1BF5800A45A7AF215B7082DF9538206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AF992D87B0974F33AE63A83059FCF5AF206",
+      "JobTitle": "Information Technology Auditor - Senior Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/AF992D87B0974F33AE63A83059FCF5AF206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE9978E5BDDD4FC39AE337CEAC8C5748206",
+      "JobTitle": "Associate Director, Budget & Finance",
+      "Company": "SDSU Research Foundation",
+      "AccquisitionDate": "2023-3-4 6:08 AM",
+      "URL": "https://de.jobsyn.org/CE9978E5BDDD4FC39AE337CEAC8C5748206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0EDA53DEF1674821BFD2F3CE86F9A7ED206",
+      "JobTitle": "Senior Accountant (Aerospace)",
+      "Company": "Chromalloy",
+      "AccquisitionDate": "2023-3-14 12:32 AM",
+      "URL": "https://de.jobsyn.org/0EDA53DEF1674821BFD2F3CE86F9A7ED206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6B6EFE87DB1F4319B7F06AE676CB5F11206",
+      "JobTitle": "Financial Reporting Manager",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2021-4-3 12:26 AM",
+      "URL": "https://de.jobsyn.org/6B6EFE87DB1F4319B7F06AE676CB5F11206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EC81A5551422410C81BED8AC38299932206",
+      "JobTitle": "Manager, Technical Accounting and Reporting",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-12-31 12:44 AM",
+      "URL": "https://de.jobsyn.org/EC81A5551422410C81BED8AC38299932206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "947EEBC2D7FA44BE8076C4EA76C9C904206",
+      "JobTitle": "Accountant I",
+      "Company": "USE Credit Union",
+      "AccquisitionDate": "2023-3-8 2:13 AM",
+      "URL": "https://de.jobsyn.org/947EEBC2D7FA44BE8076C4EA76C9C904206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "0EE0567B0E684D75BFD396518F56676B206",
+      "JobTitle": "Professional Services Collector (Self Pay Collector, Medical Billing & Collections Specialist) - Patient Financial Services RCSSD",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-10-3 2:20 AM",
+      "URL": "https://de.jobsyn.org/0EE0567B0E684D75BFD396518F56676B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4771C9570C434B6CB24E92A97AE413C3206",
+      "JobTitle": "Collector/ Revenue Cycle Consumer Center / Sharp Corporate / Day Shift / Full Time / Onsite / San Diego",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-1 4:07 AM",
+      "URL": "https://de.jobsyn.org/4771C9570C434B6CB24E92A97AE413C3206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7F40CFDD8BAD4D23AF49FE7732EF6DB8206",
+      "JobTitle": "Collector/ Revenue Cycle Consumer Center / Sharp Corporate / Day Shift / Full Time",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-2-22 2:44 AM",
+      "URL": "https://de.jobsyn.org/7F40CFDD8BAD4D23AF49FE7732EF6DB8206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B38F390E688F4419ADE09FBEE5E571A3206",
+      "JobTitle": "Collector, Revenue Cycle Consumer Center/ Full Time / Onsite / Kearny Mesa",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-2-24 3:39 AM",
+      "URL": "https://de.jobsyn.org/B38F390E688F4419ADE09FBEE5E571A3206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8CF0BDE4F02C41A5AE6F25916C331C7D206",
+      "JobTitle": "Medical AR Specialist",
+      "Company": "Hologic",
+      "AccquisitionDate": "2023-3-11 5:07 AM",
+      "URL": "https://de.jobsyn.org/8CF0BDE4F02C41A5AE6F25916C331C7D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "222619FF65B04C88B6B810BCDDBAD729206",
+      "JobTitle": "Loss Mitigation Coordinator I",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-11 5:20 AM",
+      "URL": "https://de.jobsyn.org/222619FF65B04C88B6B810BCDDBAD729206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DA2FE4599C0A4141BC62C669E742CB0D206",
+      "JobTitle": "Loss Mitigation Coordinator",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/DA2FE4599C0A4141BC62C669E742CB0D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "43CF5D71DBEA4FA1AEDF0FB706A7E6A5206",
+      "JobTitle": "Acct Analyst II-Cash Posting - 3416",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/43CF5D71DBEA4FA1AEDF0FB706A7E6A5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22192875A1A84234A35DA4667858C7F1206",
+      "JobTitle": "Account Analyst II Full Time",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/22192875A1A84234A35DA4667858C7F1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0EBE1AAE45414F7CAC2C8DC07A04ED43206",
+      "JobTitle": "Account Analyst II Full Time",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/0EBE1AAE45414F7CAC2C8DC07A04ED43206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A176C1059D5D4019A05D5AE6841706E5206",
+      "JobTitle": "Reimbursement Specialist I (Revenue Cycle Specialist, Medical Biller, Billing & Claims Specialist) - Patient Financial Services",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-3-6 3:33 AM",
+      "URL": "https://de.jobsyn.org/A176C1059D5D4019A05D5AE6841706E5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "17BBCC0D65BB4008AE1003E38EDA749C206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-5 12:07 AM",
+      "URL": "https://de.jobsyn.org/17BBCC0D65BB4008AE1003E38EDA749C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4C8BF7627ED44BD3833E1630C20EB55F206",
+      "JobTitle": "Acct Analyst II",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-2-23 3:02 AM",
+      "URL": "https://de.jobsyn.org/4C8BF7627ED44BD3833E1630C20EB55F206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4DC27EB83F404750BA35CF23480F6604206",
+      "JobTitle": "Accounts Receivable",
+      "Company": "HEI Hotels",
+      "AccquisitionDate": "2023-2-22 9:57 PM",
+      "URL": "https://de.jobsyn.org/4DC27EB83F404750BA35CF23480F6604206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9DF202903C1F4959A7127FBD88A34D78206",
+      "JobTitle": "Patient AR Representative - Remote *$17.00 - $18.00/hr* (022023)",
+      "Company": "Sleep Data",
+      "AccquisitionDate": "2023-2-21 6:13 AM",
+      "URL": "https://de.jobsyn.org/9DF202903C1F4959A7127FBD88A34D78206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2BD50DDF00CC46D9A56435EBFEF8AEAF206",
+      "JobTitle": "Billing Associate",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-21 12:23 AM",
+      "URL": "https://de.jobsyn.org/2BD50DDF00CC46D9A56435EBFEF8AEAF206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4B8976889FB24EA2AD26D0640C4DCA53206",
+      "JobTitle": "NHATS 2023 - Bilingual Data Collector",
+      "Company": "Westat",
+      "AccquisitionDate": "2023-2-21 3:01 AM",
+      "URL": "https://de.jobsyn.org/4B8976889FB24EA2AD26D0640C4DCA53206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "783033A8969B4A6AA8081180175B3D10206",
+      "JobTitle": "NHATS 2023 - Data Collector",
+      "Company": "Westat",
+      "AccquisitionDate": "2023-2-21 3:01 AM",
+      "URL": "https://de.jobsyn.org/783033A8969B4A6AA8081180175B3D10206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1ADB35502D6D438AA88117358F65A5E1206",
+      "JobTitle": "Customer Service Specialist I - Customer Service",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-2-17 4:41 AM",
+      "URL": "https://de.jobsyn.org/1ADB35502D6D438AA88117358F65A5E1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FF8CDC98F16E4B93A7A73B1839DC4DAD206",
+      "JobTitle": "Accounts Payable Specialist, Hybrid",
+      "Company": "SDSU Research Foundation",
+      "AccquisitionDate": "2023-2-15 9:42 AM",
+      "URL": "https://de.jobsyn.org/FF8CDC98F16E4B93A7A73B1839DC4DAD206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "89E754C7593347759AB3838BA2175384206",
+      "JobTitle": "Bilingual Account Representative - 3rd Party",
+      "Company": "GC Services",
+      "AccquisitionDate": "2023-2-13 11:57 PM",
+      "URL": "https://de.jobsyn.org/89E754C7593347759AB3838BA2175384206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4AD7BCA843C341C3870CA48310ECD64B206",
+      "JobTitle": "Reimbursement Specialist I - Patient Financial Services",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-2-13 2:45 AM",
+      "URL": "https://de.jobsyn.org/4AD7BCA843C341C3870CA48310ECD64B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "76631791E070409893C32712020427D5206",
+      "JobTitle": "Accounts Receivable - HOSPICE",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2023-2-7 7:56 AM",
+      "URL": "https://de.jobsyn.org/76631791E070409893C32712020427D5206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2B7A88C8B309430BA7783CF3A7AC2CA8206",
+      "JobTitle": "Sr. Accounts Payable Specialist",
+      "Company": "NuVasive, Inc.",
+      "AccquisitionDate": "2023-2-7 4:33 AM",
+      "URL": "https://de.jobsyn.org/2B7A88C8B309430BA7783CF3A7AC2CA8206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D1A34175B7E44D08920B6D1C6D99A52C206",
+      "JobTitle": "Billing & Collections Rep II - PFS - RCSSD",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-1-29 5:28 AM",
+      "URL": "https://de.jobsyn.org/D1A34175B7E44D08920B6D1C6D99A52C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "39797295F2DB4B7C992E6B6DD8AF0B64206",
+      "JobTitle": "Senior Commercial Credit Analyst",
+      "Company": "USE Credit Union",
+      "AccquisitionDate": "2020-8-5 6:35 AM",
+      "URL": "https://de.jobsyn.org/39797295F2DB4B7C992E6B6DD8AF0B64206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "93B0CA305AF14CEEA0E009B5A3F91C08206",
+      "JobTitle": "MUFG Investment Banking Aviation Finance Analyst (Los Angeles, CA)",
+      "Company": "MUFG",
+      "AccquisitionDate": "2022-10-13 2:51 AM",
+      "URL": "https://de.jobsyn.org/93B0CA305AF14CEEA0E009B5A3F91C08206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AAF62A886E7E46D082C167F2A444548E206",
+      "JobTitle": "Portfolio Manager - San Diego, CA",
+      "Company": "Zions Bancorporation",
+      "AccquisitionDate": "2022-10-8 6:48 AM",
+      "URL": "https://de.jobsyn.org/AAF62A886E7E46D082C167F2A444548E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "42B9D8E8E805461AB2C799199F17EA65206",
+      "JobTitle": "Portfolio Manager - San Diego, CA",
+      "Company": "Zions Bancorporation",
+      "AccquisitionDate": "2022-7-7 6:18 AM",
+      "URL": "https://de.jobsyn.org/42B9D8E8E805461AB2C799199F17EA65206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EDF4D8CE2287417190740460AD80990E206",
+      "JobTitle": "Transaction Analyst - Commercial Real Estate (Hybrid or Remote)",
+      "Company": "CBRE",
+      "AccquisitionDate": "2023-2-14 6:07 AM",
+      "URL": "https://de.jobsyn.org/EDF4D8CE2287417190740460AD80990E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4730AD6D346642EF867176D08F0EE1DA206",
+      "JobTitle": "Advertising Compliance Analyst / FINRA Licensed",
+      "Company": "Atria Wealth Solutions",
+      "AccquisitionDate": "2023-2-3 1:22 AM",
+      "URL": "https://de.jobsyn.org/4730AD6D346642EF867176D08F0EE1DA206",
+      "Location": "San Diego- Hybrid, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "90043CC4A00E433FA109D11DB844F044206",
+      "JobTitle": "Commercial Surety Underwriter - Southern California",
+      "Company": "Merchants Bonding Co",
+      "AccquisitionDate": "2023-1-20 6:36 AM",
+      "URL": "https://de.jobsyn.org/90043CC4A00E433FA109D11DB844F044206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1F269E210C3A411D920C29869F927553206",
+      "JobTitle": "Principal OR Senior Principal Financial Analyst",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-9-14 7:40 AM",
+      "URL": "https://de.jobsyn.org/1F269E210C3A411D920C29869F927553206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D3F04235F15C4B24A4BD706E48872953206",
+      "JobTitle": "Commercial Real Estate Originator",
+      "Company": "USE Credit Union",
+      "AccquisitionDate": "2022-4-28 2:08 AM",
+      "URL": "https://de.jobsyn.org/D3F04235F15C4B24A4BD706E48872953206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "E1E9CF8AEC84401090B44C0B243CFFA6206",
+      "JobTitle": "Data Entry Coordinator",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/E1E9CF8AEC84401090B44C0B243CFFA6206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C964B4F706E1439FA730AECED6D421C0206",
+      "JobTitle": "Loan Call Center Processor",
+      "Company": "USE Credit Union",
+      "AccquisitionDate": "2023-3-1 5:13 AM",
+      "URL": "https://de.jobsyn.org/C964B4F706E1439FA730AECED6D421C0206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "50275DCB15BB49E08DDFBA282D28453E206",
+      "JobTitle": "Loan Officer In-House",
+      "Company": "Paramount Residential Mortgage Group",
+      "AccquisitionDate": "2021-9-16 10:21 PM",
+      "URL": "https://de.jobsyn.org/50275DCB15BB49E08DDFBA282D28453E206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "90F6D51D4F634DAAA63FEE2059C13249206",
+      "JobTitle": "Associate Field Service Engineer (Medical Instrumentation), San Diego, CA or Denver, CO",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-8 2:18 AM",
+      "URL": "https://de.jobsyn.org/90F6D51D4F634DAAA63FEE2059C13249206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "668C8BE7850444A390481B8A19E71326206",
+      "JobTitle": "Protein Engineering Group Lead",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-2-15 12:33 AM",
+      "URL": "https://de.jobsyn.org/668C8BE7850444A390481B8A19E71326206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E088F074ABDC42988964366013D4CEE1206",
+      "JobTitle": "Internship, Electrical Engineer R&D Medical Device",
+      "Company": "Instrumentation Laboratory - Bedford",
+      "AccquisitionDate": "2023-2-5 12:58 AM",
+      "URL": "https://de.jobsyn.org/E088F074ABDC42988964366013D4CEE1206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B80D66D0AACE431A8B987388FCD006F4206",
+      "JobTitle": "Internship, Hardware Engineer R&D Medical Device",
+      "Company": "Instrumentation Laboratory - Bedford",
+      "AccquisitionDate": "2023-2-5 12:58 AM",
+      "URL": "https://de.jobsyn.org/B80D66D0AACE431A8B987388FCD006F4206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3EB0787B04324A2099F981355DD7A854206",
+      "JobTitle": "BioMed Tech II",
+      "Company": "Prime Healthcare",
+      "AccquisitionDate": "2022-12-7 11:19 AM",
+      "URL": "https://de.jobsyn.org/3EB0787B04324A2099F981355DD7A854206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2738188558404EDC9652C47B4AF50665206",
+      "JobTitle": "Engineer II, Software Developer R&D - Medical Device",
+      "Company": "Instrumentation Laboratory - Bedford",
+      "AccquisitionDate": "2022-11-24 9:21 AM",
+      "URL": "https://de.jobsyn.org/2738188558404EDC9652C47B4AF50665206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C2947AA9D3684CF6A946E9356878DF9B206",
+      "JobTitle": "Bio Med Tech II or III - Biomed",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-10-20 2:23 AM",
+      "URL": "https://de.jobsyn.org/C2947AA9D3684CF6A946E9356878DF9B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6B93E8E957384AD9A3A2EC54EEB51F69206",
+      "JobTitle": "Computational Display/Optics Engineer",
+      "Company": "Apple",
+      "AccquisitionDate": "2022-10-19 11:39 AM",
+      "URL": "https://de.jobsyn.org/6B93E8E957384AD9A3A2EC54EEB51F69206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6FF171B7322944BEBBB7326E90CC842B206",
+      "JobTitle": "Health Optical Sensors Architect",
+      "Company": "Renesas",
+      "AccquisitionDate": "2022-8-16 4:34 AM",
+      "URL": "https://de.jobsyn.org/6FF171B7322944BEBBB7326E90CC842B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D49E08DA6D56416AA557B4483561C205206",
+      "JobTitle": "Neuroscience TA La Jolla",
+      "Company": "J&J Family of Companies",
+      "AccquisitionDate": "2023-2-24 2:21 AM",
+      "URL": "https://de.jobsyn.org/D49E08DA6D56416AA557B4483561C205206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E07B5261C74E4FCCB228AD7A22A00849206",
+      "JobTitle": "Posdoctoral Fellow - Immunology",
+      "Company": "J&J Family of Companies",
+      "AccquisitionDate": "2022-12-14 4:35 AM",
+      "URL": "https://de.jobsyn.org/E07B5261C74E4FCCB228AD7A22A00849206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C31C6F92205F4F1EB2AF8AADB72A9ECE206",
+      "JobTitle": "Clinical Trial Educator-Renal-West-IAB17606",
+      "Company": "IQVIA",
+      "AccquisitionDate": "2023-3-14 3:13 AM",
+      "URL": "https://de.jobsyn.org/C31C6F92205F4F1EB2AF8AADB72A9ECE206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B0AF0C5398A94B0DA499F0D2FB6C00B8206",
+      "JobTitle": "Clinical Research Coordinator",
+      "Company": "General Dynamics Information Technology",
+      "AccquisitionDate": "2023-3-14 12:07 AM",
+      "URL": "https://de.jobsyn.org/B0AF0C5398A94B0DA499F0D2FB6C00B8206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "91E4B43293C74DA6AE9E449C63F67F8D206",
+      "JobTitle": "Research Associate",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-14 3:32 AM",
+      "URL": "https://de.jobsyn.org/91E4B43293C74DA6AE9E449C63F67F8D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE1D194687384A7D857B438B528689F0206",
+      "JobTitle": "Research Associate",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-14 3:31 AM",
+      "URL": "https://de.jobsyn.org/CE1D194687384A7D857B438B528689F0206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "31594D69627947DAB7AD96CED8847AA8206",
+      "JobTitle": "Associate Director, Bioanalysis",
+      "Company": "WuXi AppTec",
+      "AccquisitionDate": "2023-3-14 3:12 AM",
+      "URL": "https://de.jobsyn.org/31594D69627947DAB7AD96CED8847AA8206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2822EF4358FA40359B208C3473048407206",
+      "JobTitle": "Clinical Research Associate II",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-14 3:05 AM",
+      "URL": "https://de.jobsyn.org/2822EF4358FA40359B208C3473048407206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B72713D6BADD4891A1727A179948A14A206",
+      "JobTitle": "Research Associate",
+      "Company": "Hologic",
+      "AccquisitionDate": "2023-3-11 5:07 AM",
+      "URL": "https://de.jobsyn.org/B72713D6BADD4891A1727A179948A14A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8888671ABC6D4DD2A5BF8B515DB230D1206",
+      "JobTitle": "Research Associate",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-12 3:49 AM",
+      "URL": "https://de.jobsyn.org/8888671ABC6D4DD2A5BF8B515DB230D1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DD66550AE2234614BC8D22D0263F47DD206",
+      "JobTitle": "Postdoctoral Research Scholar",
+      "Company": "SDSU Research Foundation",
+      "AccquisitionDate": "2023-3-11 11:09 PM",
+      "URL": "https://de.jobsyn.org/DD66550AE2234614BC8D22D0263F47DD206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2E13157EF67B423DACCBD42A135BDBEE206",
+      "JobTitle": "Senior Associate Scientist, Neuropharmacology",
+      "Company": "J&J Family of Companies",
+      "AccquisitionDate": "2023-3-11 4:49 AM",
+      "URL": "https://de.jobsyn.org/2E13157EF67B423DACCBD42A135BDBEE206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0CDEC25C488140E9894314D6487E0F39206",
+      "JobTitle": "Research Associate, Medicinal Chemistry",
+      "Company": "Bristol Myers Squibb",
+      "AccquisitionDate": "2023-3-11 2:25 AM",
+      "URL": "https://de.jobsyn.org/0CDEC25C488140E9894314D6487E0F39206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BD59F717F87942BBB9C4428607EE96B9206",
+      "JobTitle": "Senior Research Associate",
+      "Company": "Astrix Technology",
+      "AccquisitionDate": "2023-3-10 2:48 AM",
+      "URL": "https://de.jobsyn.org/BD59F717F87942BBB9C4428607EE96B9206",
+      "Location": "san diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7842BFFD4E9E48179AE500067DDA7ADB206",
+      "JobTitle": "Clin Research Coord (Non-RN) - Research Resources",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-3-9 4:39 AM",
+      "URL": "https://de.jobsyn.org/7842BFFD4E9E48179AE500067DDA7ADB206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C3A28A29F53F4C6EA7B0684F057369A2206",
+      "JobTitle": "Sr. Clinical Research Associate, Sponsor-Dedicated",
+      "Company": "IQVIA",
+      "AccquisitionDate": "2023-3-9 3:21 AM",
+      "URL": "https://de.jobsyn.org/C3A28A29F53F4C6EA7B0684F057369A2206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F2C569842F0F48BDA30E63504FD5E3B7206",
+      "JobTitle": "Senior Medical Director Kidney Solutions - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:35 PM",
+      "URL": "https://de.jobsyn.org/F2C569842F0F48BDA30E63504FD5E3B7206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "927A11ED6A3C4450B8E70C807C04CD6A206",
+      "JobTitle": "Clinical Research Coordinator (Non-RN) - Research Resources",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-3-9 4:39 AM",
+      "URL": "https://de.jobsyn.org/927A11ED6A3C4450B8E70C807C04CD6A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "52B0AA728DE042EEB0ABD3F9F04E694A206",
+      "JobTitle": "Director of Toxicology",
+      "Company": "Astrix Technology",
+      "AccquisitionDate": "2023-3-9 4:18 AM",
+      "URL": "https://de.jobsyn.org/52B0AA728DE042EEB0ABD3F9F04E694A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E7C575E6BDD041B18D8C6060F7A0BAE1206",
+      "JobTitle": "Appeals and Grievances Medical Director - Family Medicine - West Coast Time Zone Preferred - Virtual",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:32 PM",
+      "URL": "https://de.jobsyn.org/E7C575E6BDD041B18D8C6060F7A0BAE1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C2C09315A8A64B85AAB27F912B310B4F206",
+      "JobTitle": "Clinical Research Associate",
+      "Company": "University of Southern California",
+      "AccquisitionDate": "2023-3-7 11:58 PM",
+      "URL": "https://de.jobsyn.org/C2C09315A8A64B85AAB27F912B310B4F206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FA5229A6BC0540BC8C505EA293B0E81F206",
+      "JobTitle": "Exercise Physiologist - Cardiac Rehab",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-8 1:28 AM",
+      "URL": "https://de.jobsyn.org/FA5229A6BC0540BC8C505EA293B0E81F206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F560FEB03D24414E9BCB55B0B6A86AE8206",
+      "JobTitle": "Clinical Research Psychologist",
+      "Company": "Leidos",
+      "AccquisitionDate": "2023-3-8 4:50 AM",
+      "URL": "https://de.jobsyn.org/F560FEB03D24414E9BCB55B0B6A86AE8206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F3A9431D58E84DA1BD0C577D9D9891CF206",
+      "JobTitle": "Scientist II, Systems Biology",
+      "Company": "Takeda Pharmaceuticals",
+      "AccquisitionDate": "2023-3-8 3:02 AM",
+      "URL": "https://de.jobsyn.org/F3A9431D58E84DA1BD0C577D9D9891CF206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C6A394890E3B46EDB9D536157436D508206",
+      "JobTitle": "Scientist - Diagnostics",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2023-3-8 4:40 AM",
+      "URL": "https://de.jobsyn.org/C6A394890E3B46EDB9D536157436D508206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "ABB15B36E2EC40A6B910EC07600253D5206",
+      "JobTitle": "Cardiovascular Radiologic Technologist I / Cardiac Cath Lab / Sharp Memorial Hospital / $10,000 SIGN ON BONUS for External Candidates / Day Shift / Full Time (10 hour shifts) / On-Call Required",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-1-8 3:34 AM",
+      "URL": "https://de.jobsyn.org/ABB15B36E2EC40A6B910EC07600253D5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0BCBC5A1C33E445AB63106DB14AD9EAA206",
+      "JobTitle": "Non-Invasive Cardiology Technician II / Cardiology / Sharp Rees-Stealy San Diego Main / Day Shift / Full-Time (8 hour shifts)",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-10 3:50 AM",
+      "URL": "https://de.jobsyn.org/0BCBC5A1C33E445AB63106DB14AD9EAA206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "663F56A83CC0406A9CC2EFDBCCBAC2E6206",
+      "JobTitle": "Non-invasive Cardiology Technician I / Non-invasive Cardio / Sharp Memorial Hospital / Variable Shift / Per Diem (8 hour shifts)",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/663F56A83CC0406A9CC2EFDBCCBAC2E6206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "56674C1D301D48F2B0AD99C493AC4FC4206",
+      "JobTitle": "Non-invasive Cardiology Technician I / Non-invasive Cardio / Sharp Memorial Hospital / Variable Shift / Per Diem (8 hour shifts)",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-3-8 5:06 AM",
+      "URL": "https://de.jobsyn.org/56674C1D301D48F2B0AD99C493AC4FC4206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "81D4CA1513624AF4A942B6A954AD244F206",
+      "JobTitle": "CV/EP Tech - 4K New Hire Retention Bonus!",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-2-4 1:19 AM",
+      "URL": "https://de.jobsyn.org/81D4CA1513624AF4A942B6A954AD244F206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "37BBE3B92EB3498F945FD17BDB15A42B206",
+      "JobTitle": "Non-Invasive Cardiology Technician II / Cardiology / Sharp Rees-Stealy San Diego Main / Day Shift / Per Diem (8 hour shifts)",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-1-27 5:03 AM",
+      "URL": "https://de.jobsyn.org/37BBE3B92EB3498F945FD17BDB15A42B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9AD0811A3EF8483C92569EBB585F6D1B206",
+      "JobTitle": "CV/EP Tech - 4K New Hire Retention Bonus!",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2022-12-28 10:29 AM",
+      "URL": "https://de.jobsyn.org/9AD0811A3EF8483C92569EBB585F6D1B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6FFDFC233E8B44D487C1CE9ED59D396E206",
+      "JobTitle": "CV/EP Tech - 4K New Hire Retention Bonus!",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2022-12-28 10:29 AM",
+      "URL": "https://de.jobsyn.org/6FFDFC233E8B44D487C1CE9ED59D396E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C5898291446643158C15830C4A4E72EF206",
+      "JobTitle": "Paramedic",
+      "Company": "Cardiac Imaging, Inc.",
+      "AccquisitionDate": "2019-7-11 11:26 PM",
+      "URL": "https://de.jobsyn.org/C5898291446643158C15830C4A4E72EF206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "92F7AAFBB2BC427B841AA52DBD1AB195206",
+      "JobTitle": "Telemetry/Monitoring Tech (Nights)",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-10 5:25 AM",
+      "URL": "https://de.jobsyn.org/92F7AAFBB2BC427B841AA52DBD1AB195206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "225B77B5E4B94A85A6A43B81E8498B05206",
+      "JobTitle": "CT Tech - 8K New Hire Incentive",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-11 1:41 AM",
+      "URL": "https://de.jobsyn.org/225B77B5E4B94A85A6A43B81E8498B05206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "82A2EFACE02D4A50B7BFF6C4F03CBA37206",
+      "JobTitle": "Surgical Technologist - New Hire Incentive Eligible",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-10 5:25 AM",
+      "URL": "https://de.jobsyn.org/82A2EFACE02D4A50B7BFF6C4F03CBA37206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4CD83534A9B64C4C81F3039743AD1C6F206",
+      "JobTitle": "Telemetry/Monitoring Tech (Part Time Nights)",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-11 1:41 AM",
+      "URL": "https://de.jobsyn.org/4CD83534A9B64C4C81F3039743AD1C6F206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AD07F8D9FC6F4C2397AFC8C7BF7E9021206",
+      "JobTitle": "Monitor Technician",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-10 12:01 AM",
+      "URL": "https://de.jobsyn.org/AD07F8D9FC6F4C2397AFC8C7BF7E9021206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ACFABB5E9F2E40B5BE1EC673FB237A91206",
+      "JobTitle": "Monitor Technician",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-10 12:01 AM",
+      "URL": "https://de.jobsyn.org/ACFABB5E9F2E40B5BE1EC673FB237A91206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CACC69FA613E448290DC6C919F5C93A0206",
+      "JobTitle": "Surgical Technologist Per Diem San Diego, CA",
+      "Company": "Fresenius Medical Care North America",
+      "AccquisitionDate": "2023-3-9 3:25 AM",
+      "URL": "https://de.jobsyn.org/CACC69FA613E448290DC6C919F5C93A0206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C6F1D9D596C24B78ADED2661DE1BF8CD206",
+      "JobTitle": "Nuclear Medicine Tech",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/C6F1D9D596C24B78ADED2661DE1BF8CD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D70A3E92151D41D8B314DF9A679A546C206",
+      "JobTitle": "Radiographic Technologist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/D70A3E92151D41D8B314DF9A679A546C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "51CF0958C4874ACE91B9F05726AF01E0206",
+      "JobTitle": "Surgical Tech Certified, Part Time - Racho Bernardo Surgery Center",
+      "Company": "Surgery Care Affiliates",
+      "AccquisitionDate": "2023-3-9 1:17 AM",
+      "URL": "https://de.jobsyn.org/51CF0958C4874ACE91B9F05726AF01E0206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "638E8AAB9DB44828845B7F39F5B4025F206",
+      "JobTitle": "Interventional Cardiology Rad Tech Transition Program - June 2023",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-5 10:15 PM",
+      "URL": "https://de.jobsyn.org/638E8AAB9DB44828845B7F39F5B4025F206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C23E07D4571F466C87F57B9CC5BE918D206",
+      "JobTitle": "Surgical Technologist - New Hire Incentive Eligible",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-3-4 1:14 AM",
+      "URL": "https://de.jobsyn.org/C23E07D4571F466C87F57B9CC5BE918D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F122D09888D44879E27A3C4913A9220206",
+      "JobTitle": "CT Tech - Per Diem",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-2-27 10:09 PM",
+      "URL": "https://de.jobsyn.org/6F122D09888D44879E27A3C4913A9220206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CA18CCEAEE644698B3387C5AEDFCA252206",
+      "JobTitle": "Rad Tech -  Part Time - 4K New Hire Incentive",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-2-27 10:09 PM",
+      "URL": "https://de.jobsyn.org/CA18CCEAEE644698B3387C5AEDFCA252206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "54F3290734014DE98394EB33280AFCA1206",
+      "JobTitle": "Supervisory Health Technician",
+      "Company": "MEDCOM",
+      "AccquisitionDate": "2023-2-24 1:13 AM",
+      "URL": "https://de.jobsyn.org/54F3290734014DE98394EB33280AFCA1206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CE89BAAE524949CEB912D2C2F1F37826206",
+      "JobTitle": "Computer Tomography Technologist",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-2-24 12:14 AM",
+      "URL": "https://de.jobsyn.org/CE89BAAE524949CEB912D2C2F1F37826206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "B72BF65F8A664EF49523295339322585206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Ansible Government Solutions",
+      "AccquisitionDate": "2022-2-24 12:36 AM",
+      "URL": "https://de.jobsyn.org/B72BF65F8A664EF49523295339322585206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0F2018D4C8254C65ACAC37E304E8D4FC206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2022-12-20 3:28 AM",
+      "URL": "https://de.jobsyn.org/0F2018D4C8254C65ACAC37E304E8D4FC206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F11A21651AF542628F090803EB41A995206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2022-12-20 3:29 AM",
+      "URL": "https://de.jobsyn.org/F11A21651AF542628F090803EB41A995206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B13D31B37AF74066AA577BBDBE4CA510206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2022-12-20 3:29 AM",
+      "URL": "https://de.jobsyn.org/B13D31B37AF74066AA577BBDBE4CA510206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9FF212740F8F4B9E8415D3892C4B4B30206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2022-12-20 3:29 AM",
+      "URL": "https://de.jobsyn.org/9FF212740F8F4B9E8415D3892C4B4B30206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6C09BE902F0743E78DA822DCEB2129D4206",
+      "JobTitle": "Cytotechnologist ** Relocation Assistance Available***",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2022-12-20 3:28 AM",
+      "URL": "https://de.jobsyn.org/6C09BE902F0743E78DA822DCEB2129D4206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FFC78939BDA3468FA096352986C520AF206",
+      "JobTitle": "California Cytotechnologist *** Full-Time/Part-Time/ Per DIem***",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2022-12-16 6:49 AM",
+      "URL": "https://de.jobsyn.org/FFC78939BDA3468FA096352986C520AF206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "08E2528D3CB0458980262A9C78E6BF5A206",
+      "JobTitle": "Sonographer - Perinatology (CSSD) Per Diem",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-3-3 5:21 AM",
+      "URL": "https://de.jobsyn.org/08E2528D3CB0458980262A9C78E6BF5A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DFC148052AD94C6D819C91C85F179A79206",
+      "JobTitle": "Ultrasound Technologist (Echo Tech) / Non-Invasive Cardio / Sharp Memorial Hospital / Day Shift / Per Diem (12 hour shifts) / On-Call Required",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2022-11-11 5:57 AM",
+      "URL": "https://de.jobsyn.org/DFC148052AD94C6D819C91C85F179A79206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "79A0169343A84C5196C01374640FE005206",
+      "JobTitle": "Echo Technician / Staffing Resource Network / Sharp HealthCare / Variable Shift / Per Diem (8 hour shifts)",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2022-12-15 3:10 AM",
+      "URL": "https://de.jobsyn.org/79A0169343A84C5196C01374640FE005206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "99BA84EB6E9848A1A9DF5F23E8F87DB9206",
+      "JobTitle": "Echocardiogram Technologist I",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-1-6 12:14 AM",
+      "URL": "https://de.jobsyn.org/99BA84EB6E9848A1A9DF5F23E8F87DB9206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AD85F37958444B39A2D2E4E929879CAE206",
+      "JobTitle": "Supervisor Diagnostic Imaging Services",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-12-22 12:31 AM",
+      "URL": "https://de.jobsyn.org/AD85F37958444B39A2D2E4E929879CAE206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CF90ADD2679F4A4DABE77E1B2FF1B8CC206",
+      "JobTitle": "Job #2914: Healthcare",
+      "Company": "ComputerWorksTech.com",
+      "AccquisitionDate": "2019-9-8 2:04 AM",
+      "URL": "https://de.jobsyn.org/CF90ADD2679F4A4DABE77E1B2FF1B8CC206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BE01B16E4C8447A9926BB6C93B5E413C206",
+      "JobTitle": "Ultrasound Technologist",
+      "Company": "Ansible Government Solutions",
+      "AccquisitionDate": "2022-2-24 12:36 AM",
+      "URL": "https://de.jobsyn.org/BE01B16E4C8447A9926BB6C93B5E413C206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C78D02C4FCF2450D8CBC09B85A14A125206",
+      "JobTitle": "Perinatal Sonographer - Bonus Eligible!",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-2-25 6:33 AM",
+      "URL": "https://de.jobsyn.org/C78D02C4FCF2450D8CBC09B85A14A125206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6FAA94F6F365429488678EF01AAEC1D1206",
+      "JobTitle": "MRI Technologist - Cardiac MRI/Interventional CMR",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-2-11 2:18 AM",
+      "URL": "https://de.jobsyn.org/6FAA94F6F365429488678EF01AAEC1D1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B3E9511CF3294CD6A52D9AECF7D9BC9B206",
+      "JobTitle": "Emergency Medical Technician (EMT)",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-1-26 3:59 AM",
+      "URL": "https://de.jobsyn.org/B3E9511CF3294CD6A52D9AECF7D9BC9B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E8EAA89F79C3458C83FF158A3ACD77CF206",
+      "JobTitle": "Vascular Technician - Cath Lab",
+      "Company": "Prime Healthcare",
+      "AccquisitionDate": "2023-1-15 1:31 AM",
+      "URL": "https://de.jobsyn.org/E8EAA89F79C3458C83FF158A3ACD77CF206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "04B9610D8F3D4B8F9BAF0B33896774A7206",
+      "JobTitle": "Ultrasound Technologist (RVT) / Vascular Lab / Sharp Memorial Hospital / Variable Shift / Per Diem (10 hour shifts) / On-Call Required",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-1-12 5:34 AM",
+      "URL": "https://de.jobsyn.org/04B9610D8F3D4B8F9BAF0B33896774A7206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DBE52D072AA2413A876B8F655C8F3C29206",
+      "JobTitle": "Medical Technologist (Core Lab)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-1-6 1:34 AM",
+      "URL": "https://de.jobsyn.org/DBE52D072AA2413A876B8F655C8F3C29206",
+      "Location": "San Diego County, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E39D722E49348A38F368BA4CBB2378E206",
+      "JobTitle": "Ultrasonographer - Ultrasonography/Ultrasound",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-1-2 5:15 AM",
+      "URL": "https://de.jobsyn.org/7E39D722E49348A38F368BA4CBB2378E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C663E07894E34AF9B6B2596C09F391A6206",
+      "JobTitle": "Perinatal Sonographer Educator - Per Diem",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2022-12-29 9:52 AM",
+      "URL": "https://de.jobsyn.org/C663E07894E34AF9B6B2596C09F391A6206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "70F9D27CEE104014AC8AA5F7DC3B9F99206",
+      "JobTitle": "Registered Vascular Tech Per Diem",
+      "Company": "Fresenius Medical Care North America",
+      "AccquisitionDate": "2022-12-19 8:42 PM",
+      "URL": "https://de.jobsyn.org/70F9D27CEE104014AC8AA5F7DC3B9F99206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "96C72B0CD9124AEE96BF56DC693FE1BC206",
+      "JobTitle": "Pediatric Cardiac Sonographer - Echocardiogram Dept., Per Diem",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-11 5:04 AM",
+      "URL": "https://de.jobsyn.org/96C72B0CD9124AEE96BF56DC693FE1BC206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "777734B28007448C910BE2D2F04B1DCA206",
+      "JobTitle": "Pediatric Cardiac Sonographer - Echocardiogram Dept., Per Diem",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-11 5:04 AM",
+      "URL": "https://de.jobsyn.org/777734B28007448C910BE2D2F04B1DCA206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AA7EBBB4F2254AD29DEBC12CCBAB10BC206",
+      "JobTitle": "Pediatric Cardiac Sonographer- Echocardiogram Department",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-11 5:04 AM",
+      "URL": "https://de.jobsyn.org/AA7EBBB4F2254AD29DEBC12CCBAB10BC206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "33EA05CE79AE4B7AB160C87EFA7C632B206",
+      "JobTitle": "Pediatric Cardiac Sonographer - Echocardiogram Dept., Part-Time",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-11 5:04 AM",
+      "URL": "https://de.jobsyn.org/33EA05CE79AE4B7AB160C87EFA7C632B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "31BF0DB505BE40DEBC9A10091153357A206",
+      "JobTitle": "Educator/QI Coordinator, Echo Lab - Echocardiogram",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-11 5:04 AM",
+      "URL": "https://de.jobsyn.org/31BF0DB505BE40DEBC9A10091153357A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B93EBAFD2FCF4F59BEBD88A820537807206",
+      "JobTitle": "Ultrasound Technologist (RVT) / Vascular Lab / Sharp Memorial Hospital / Variable Shift / Per Diem (10 hour shifts) / On-Call Required",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2022-11-3 2:47 AM",
+      "URL": "https://de.jobsyn.org/B93EBAFD2FCF4F59BEBD88A820537807206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6593560558E7444DA39AF6C1FD88CEDB206",
+      "JobTitle": "Computer Tomography Tech",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2022-6-3 12:19 AM",
+      "URL": "https://de.jobsyn.org/6593560558E7444DA39AF6C1FD88CEDB206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "F19039355A9B473A89045EDE29F222F5206",
+      "JobTitle": "Business Intelligence Analyst I",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2022-2-2 4:31 AM",
+      "URL": "https://de.jobsyn.org/F19039355A9B473A89045EDE29F222F5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A6B1ACEC350B4CCC80F444A894CDF65A206",
+      "JobTitle": "Corporate Finance Business Intelligence Analyst [Remote]",
+      "Company": "EDF Renewables North America",
+      "AccquisitionDate": "2023-1-25 8:13 AM",
+      "URL": "https://de.jobsyn.org/A6B1ACEC350B4CCC80F444A894CDF65A206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0F3A6C522F9A44678805A5FBFDB5DA42206",
+      "JobTitle": "Senior Financial Reporting Analyst (Business Intelligence)",
+      "Company": "San Diego Convention Center Corporation",
+      "AccquisitionDate": "2022-12-21 2:12 PM",
+      "URL": "https://de.jobsyn.org/0F3A6C522F9A44678805A5FBFDB5DA42206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4FA0FAD47E454A53BF3969D78A2D633B206",
+      "JobTitle": "Business Intelligence Analyst 2 - 15424148-3470",
+      "Company": "Dexcom, Inc",
+      "AccquisitionDate": "2023-3-14 1:27 PM",
+      "URL": "https://de.jobsyn.org/4FA0FAD47E454A53BF3969D78A2D633B206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8107FA92092E4BC9B7F0E271E0B0F0B2206",
+      "JobTitle": "Business Intelligence Analyst - Power BI -San Diego",
+      "Company": "Zions Bancorporation",
+      "AccquisitionDate": "2023-2-28 4:06 AM",
+      "URL": "https://de.jobsyn.org/8107FA92092E4BC9B7F0E271E0B0F0B2206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "57DB0EDE33B144D3910A47077A86DD71206",
+      "JobTitle": "Lead Business Analyst - Accelsior",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-5 6:54 AM",
+      "URL": "https://de.jobsyn.org/57DB0EDE33B144D3910A47077A86DD71206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C375B9528EC4444792BC2F29594E3A7A206",
+      "JobTitle": "Merchandising Business Analyst",
+      "Company": "Petco",
+      "AccquisitionDate": "2023-2-10 5:56 AM",
+      "URL": "https://de.jobsyn.org/C375B9528EC4444792BC2F29594E3A7A206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D1EA2A5E9342401AA24CB780AF42BE74206",
+      "JobTitle": "principal business analyst",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-8 6:32 AM",
+      "URL": "https://de.jobsyn.org/D1EA2A5E9342401AA24CB780AF42BE74206",
+      "Location": "san diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "047854B4CB364D7B9F530CB08D71B577206",
+      "JobTitle": "Data Analytics Manager Legal Operations",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-9 3:35 AM",
+      "URL": "https://de.jobsyn.org/047854B4CB364D7B9F530CB08D71B577206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CA177F58A4D641A683CEA4A1B0FE1880206",
+      "JobTitle": "Senior Analyst, Merch Analytics - Remote",
+      "Company": "Petco",
+      "AccquisitionDate": "2023-3-2 6:57 AM",
+      "URL": "https://de.jobsyn.org/CA177F58A4D641A683CEA4A1B0FE1880206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "328CA0A4F1064A8EB3816C6CB361BCF5206",
+      "JobTitle": "Audit Analytics Business Analyst",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-3-3 3:27 AM",
+      "URL": "https://de.jobsyn.org/328CA0A4F1064A8EB3816C6CB361BCF5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BFA3FA20A8A04150973D2533726B8139206",
+      "JobTitle": "Staff Business Data Analyst",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-2-25 2:54 AM",
+      "URL": "https://de.jobsyn.org/BFA3FA20A8A04150973D2533726B8139206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F133FEA40E5A4F498F0A0467EA197CC6206",
+      "JobTitle": "Marketing Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-24 12:06 AM",
+      "URL": "https://de.jobsyn.org/F133FEA40E5A4F498F0A0467EA197CC6206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FAAEE257464745D0A3CFCA3B5F462ABD206",
+      "JobTitle": "Manager 2 Data and Analytics",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-2-18 4:17 AM",
+      "URL": "https://de.jobsyn.org/FAAEE257464745D0A3CFCA3B5F462ABD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E72156C9896A4925933BE35511CB1883206",
+      "JobTitle": "Staff Business Data Analyst",
+      "Company": "Intuit",
+      "AccquisitionDate": "2023-2-17 11:25 AM",
+      "URL": "https://de.jobsyn.org/E72156C9896A4925933BE35511CB1883206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AD73BD27C82C4E938C2EB1A93B462415206",
+      "JobTitle": "Business Strategy & Performance Improvement Masters Level Student Temp",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-2-17 12:13 AM",
+      "URL": "https://de.jobsyn.org/AD73BD27C82C4E938C2EB1A93B462415206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "626677EC22F342F9B32A4CB129799A3A206",
+      "JobTitle": "KFH Finance Undergraduate Student Temp",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-2-15 12:15 AM",
+      "URL": "https://de.jobsyn.org/626677EC22F342F9B32A4CB129799A3A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BF905AD845D640D6AE781F774454F0FD206",
+      "JobTitle": "Sr Hlth Info Analyst - 1355",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-2-15 3:22 AM",
+      "URL": "https://de.jobsyn.org/BF905AD845D640D6AE781F774454F0FD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7F32C2FDACA847B49237822334DBA5DA206",
+      "JobTitle": "Senior Health Information Analyst / SCMG / Full Time/ Data Analytics / San Diego",
+      "Company": "Sharp HealthCare",
+      "AccquisitionDate": "2023-2-11 3:29 AM",
+      "URL": "https://de.jobsyn.org/7F32C2FDACA847B49237822334DBA5DA206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0FA653FD0628489F87E3F0BA549F829B206",
+      "JobTitle": "Senior Data Analyst - Health Technology",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-3 5:16 AM",
+      "URL": "https://de.jobsyn.org/0FA653FD0628489F87E3F0BA549F829B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "63B7F1CDF7A14B378D7865E675A092FB206",
+      "JobTitle": "Product Performance & Analytics Graduate Intern",
+      "Company": "Kaiser Permanente",
+      "AccquisitionDate": "2023-2-3 12:18 AM",
+      "URL": "https://de.jobsyn.org/63B7F1CDF7A14B378D7865E675A092FB206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9E3C5B3B7ECF404B91006B0124C2306B206",
+      "JobTitle": "Senior Data Warehouse Analytics Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-3 2:03 AM",
+      "URL": "https://de.jobsyn.org/9E3C5B3B7ECF404B91006B0124C2306B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1D73F3F1EB7247569FD304015C9D8FEF206",
+      "JobTitle": "Data Warehouse Analytics Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-2 3:56 AM",
+      "URL": "https://de.jobsyn.org/1D73F3F1EB7247569FD304015C9D8FEF206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "58AB93DFE0E94A1EA5BC538353100000206",
+      "JobTitle": "Health Technology Data Analyst",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-2 2:29 AM",
+      "URL": "https://de.jobsyn.org/58AB93DFE0E94A1EA5BC538353100000206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D882C63B848748C9B969518B89EC4E94206",
+      "JobTitle": "Data Analytics Specialist (Donor Data, Donor Records, Donor Relations, Data/Prospect Research & Reports Analyst, Fundraising Database Management) - Donor Services",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2023-1-30 2:32 AM",
+      "URL": "https://de.jobsyn.org/D882C63B848748C9B969518B89EC4E94206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "209FB59B75C24B11AF317B5B2167F8AD206",
+      "JobTitle": "Data Entry Operator II",
+      "Company": "J&J Worldwide Services",
+      "AccquisitionDate": "2023-1-21 3:40 AM",
+      "URL": "https://de.jobsyn.org/209FB59B75C24B11AF317B5B2167F8AD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6C1298963002485686C1F325D8DB5AD6206",
+      "JobTitle": "Computer Technician",
+      "Company": "Goodwill Industries of San Diego County",
+      "AccquisitionDate": "2022-12-21 2:26 PM",
+      "URL": "https://de.jobsyn.org/6C1298963002485686C1F325D8DB5AD6206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "65F0DE78903A461FA8CC8D450F3164DC206",
+      "JobTitle": "Computer Operator IV",
+      "Company": "INDUS TECHNOLOGY, INC.",
+      "AccquisitionDate": "2019-7-30 10:50 AM",
+      "URL": "https://de.jobsyn.org/65F0DE78903A461FA8CC8D450F3164DC206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "94B4AA8208374659A2DFDAD577F7BFB4206",
+      "JobTitle": "Tactical Computer Network Architect",
+      "Company": "KBR",
+      "AccquisitionDate": "2022-8-26 3:00 AM",
+      "URL": "https://de.jobsyn.org/94B4AA8208374659A2DFDAD577F7BFB4206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "149C8E27C23042A5AD115691BC7995D2206",
+      "JobTitle": "Sr. Network Architect",
+      "Company": "RESOURCE MANAGEMENT CONCEPTS, INC",
+      "AccquisitionDate": "2023-3-7 1:37 AM",
+      "URL": "https://de.jobsyn.org/149C8E27C23042A5AD115691BC7995D2206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6D61150CD4CE43EEBCDCA946A9C33009206",
+      "JobTitle": "NAVWAR Database Architect",
+      "Company": "BCMC",
+      "AccquisitionDate": "2023-3-4 6:32 AM",
+      "URL": "https://de.jobsyn.org/6D61150CD4CE43EEBCDCA946A9C33009206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "27373B3644A8463B9FDF007D9671B6B7206",
+      "JobTitle": "3D Simulation Solutions Architect",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/27373B3644A8463B9FDF007D9671B6B7206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "528816EA313D4726A3E7E6E97474445E206",
+      "JobTitle": "Lead System Architect",
+      "Company": "Pegasystems",
+      "AccquisitionDate": "2022-12-7 6:24 AM",
+      "URL": "https://de.jobsyn.org/528816EA313D4726A3E7E6E97474445E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1DE3CB2F11B546789E1A9F621A62C8F7206",
+      "JobTitle": "Sr. Staff Software Engineer",
+      "Company": "Teradata",
+      "AccquisitionDate": "2023-3-11 3:18 AM",
+      "URL": "https://de.jobsyn.org/1DE3CB2F11B546789E1A9F621A62C8F7206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1B0487062A2248579CB1B697E32EFD8E206",
+      "JobTitle": "Senior Software Engineer Architect",
+      "Company": "SAIC",
+      "AccquisitionDate": "2023-2-18 5:18 AM",
+      "URL": "https://de.jobsyn.org/1B0487062A2248579CB1B697E32EFD8E206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5CE89C6410BA40F9820E04EBBDDDF927206",
+      "JobTitle": "Systems Engineer",
+      "Company": "Noblis",
+      "AccquisitionDate": "2023-3-10 3:58 AM",
+      "URL": "https://de.jobsyn.org/5CE89C6410BA40F9820E04EBBDDDF927206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "838574AA1CDE493CB047635F1E6DEC25206",
+      "JobTitle": "DevSecOps Cloud Solution Architect",
+      "Company": "Linquest Corporation",
+      "AccquisitionDate": "2023-2-28 11:42 PM",
+      "URL": "https://de.jobsyn.org/838574AA1CDE493CB047635F1E6DEC25206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BF20FA84A79147868010EF816C40ADE7206",
+      "JobTitle": "Senior Software Engineer",
+      "Company": "Teradata",
+      "AccquisitionDate": "2023-3-10 4:15 AM",
+      "URL": "https://de.jobsyn.org/BF20FA84A79147868010EF816C40ADE7206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "56F012574FDA43D8B79ACEA60DA1E7C5206",
+      "JobTitle": "Senior Cyber Architect",
+      "Company": "BAE Systems",
+      "AccquisitionDate": "2023-1-10 8:57 AM",
+      "URL": "https://de.jobsyn.org/56F012574FDA43D8B79ACEA60DA1E7C5206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EA502EC4B1EF40C2A818AE3F20F8F8E8206",
+      "JobTitle": "Engineering System Support Consultant",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-3-14 4:26 AM",
+      "URL": "https://de.jobsyn.org/EA502EC4B1EF40C2A818AE3F20F8F8E8206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E7E08C6FEF342AEB0524B6AE5710AE1206",
+      "JobTitle": "Senor Systems Engineer",
+      "Company": "Noblis",
+      "AccquisitionDate": "2023-3-10 3:58 AM",
+      "URL": "https://de.jobsyn.org/7E7E08C6FEF342AEB0524B6AE5710AE1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "103C92FCEDDA4BF59E6B83300FCAD4CB206",
+      "JobTitle": "Principal/ Sr. Principal Systems Engineer- Directional Communications Architect",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-2-8 7:29 AM",
+      "URL": "https://de.jobsyn.org/103C92FCEDDA4BF59E6B83300FCAD4CB206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4072E49CFE604EB5B65CC492FC0B65B4206",
+      "JobTitle": "AWS Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-4-21 3:39 AM",
+      "URL": "https://de.jobsyn.org/4072E49CFE604EB5B65CC492FC0B65B4206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "906F157BA34E44249F94BAA8E2D6C1AF206",
+      "JobTitle": "Senior Embedded Software Engineer - Thermal Management",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-3-9 3:08 AM",
+      "URL": "https://de.jobsyn.org/906F157BA34E44249F94BAA8E2D6C1AF206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "114DEE98E9ED44D6B7C0DEDAABC36E51206",
+      "JobTitle": "MBSE Engineer Specialist II with Secret Clearance",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-3 1:55 AM",
+      "URL": "https://de.jobsyn.org/114DEE98E9ED44D6B7C0DEDAABC36E51206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "38EBC93EAC8D442180DF9BD9AD5087CE206",
+      "JobTitle": "Cloud Solutions Architect for Managed Services",
+      "Company": "HP Inc.",
+      "AccquisitionDate": "2023-2-8 4:04 AM",
+      "URL": "https://de.jobsyn.org/38EBC93EAC8D442180DF9BD9AD5087CE206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D3E4DBB48C014CF1817D06CD6EBECFA1206",
+      "JobTitle": "Systems Engineer III (Citrix)",
+      "Company": "Old Dominion Freight Line",
+      "AccquisitionDate": "2023-1-25 6:27 AM",
+      "URL": "https://de.jobsyn.org/D3E4DBB48C014CF1817D06CD6EBECFA1206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D587C12235604585971B117C11236C2F206",
+      "JobTitle": "DevSecOps Cloud Solution Architect",
+      "Company": "Systems Technology Forum",
+      "AccquisitionDate": "2023-2-25 1:11 AM",
+      "URL": "https://de.jobsyn.org/D587C12235604585971B117C11236C2F206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5EAFDDD68E2F4AEDA3D63CD630CD002D206",
+      "JobTitle": "Staff Security Engineer",
+      "Company": "Teradata",
+      "AccquisitionDate": "2023-3-14 5:00 AM",
+      "URL": "https://de.jobsyn.org/5EAFDDD68E2F4AEDA3D63CD630CD002D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E1F7B4DAC634419B8BC13AC5232E0F54206",
+      "JobTitle": "Senior Systems Engineer - Integration",
+      "Company": "SAIC",
+      "AccquisitionDate": "2023-3-1 2:17 AM",
+      "URL": "https://de.jobsyn.org/E1F7B4DAC634419B8BC13AC5232E0F54206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0E576FA30AC54847BD5D647DA1F03B85206",
+      "JobTitle": "Systems Engineer - NIEF",
+      "Company": "Noblis",
+      "AccquisitionDate": "2022-12-23 4:06 AM",
+      "URL": "https://de.jobsyn.org/0E576FA30AC54847BD5D647DA1F03B85206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AE41116A53DD4BA1B10C9893B7F5FD81206",
+      "JobTitle": "Staff Low Power MM Systems Architect",
+      "Company": "Qualcomm",
+      "AccquisitionDate": "2023-2-23 1:54 AM",
+      "URL": "https://de.jobsyn.org/AE41116A53DD4BA1B10C9893B7F5FD81206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0DD90B20C9CA447096163CA8BEE61F50206",
+      "JobTitle": "Senior Systems Engineer",
+      "Company": "Noblis",
+      "AccquisitionDate": "2022-12-8 3:11 PM",
+      "URL": "https://de.jobsyn.org/0DD90B20C9CA447096163CA8BEE61F50206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "35A417ACE14A41DB9B8DF2849DEBAC6D206",
+      "JobTitle": "COMPUTER USER SUPPORT SPECIALIST-JH",
+      "Company": "McLaughlin Research Corporation",
+      "AccquisitionDate": "2022-4-5 10:51 AM",
+      "URL": "https://de.jobsyn.org/35A417ACE14A41DB9B8DF2849DEBAC6D206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A5056161FF694F18AE1AE75D9DF04613206",
+      "JobTitle": "IT Service Desk Analyst",
+      "Company": "SAIC",
+      "AccquisitionDate": "2023-2-24 4:46 AM",
+      "URL": "https://de.jobsyn.org/A5056161FF694F18AE1AE75D9DF04613206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BFB78F9DE8CD4F3999219948568D5A71206",
+      "JobTitle": "IT Service Desk Analyst",
+      "Company": "SAIC",
+      "AccquisitionDate": "2022-1-29 5:49 AM",
+      "URL": "https://de.jobsyn.org/BFB78F9DE8CD4F3999219948568D5A71206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "92C45204C0AE4472AED1165A17A0EB51206",
+      "JobTitle": "NAVWAR Customer User Support Specialist",
+      "Company": "BCMC",
+      "AccquisitionDate": "2023-3-4 6:32 AM",
+      "URL": "https://de.jobsyn.org/92C45204C0AE4472AED1165A17A0EB51206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "68C05C230CF34731AAB5A3E8DE7B8911206",
+      "JobTitle": "End User Services Specialist - IM-Infrastructure",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-11 5:04 AM",
+      "URL": "https://de.jobsyn.org/68C05C230CF34731AAB5A3E8DE7B8911206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "10849828712144EBA36E377FB197A3F0206",
+      "JobTitle": "Entertainment Specialist - Ancillary Operations Administration",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-11-12 5:55 AM",
+      "URL": "https://de.jobsyn.org/10849828712144EBA36E377FB197A3F0206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C768C0915A7B40C89676188073245B2D206",
+      "JobTitle": "Tech Support Specialist",
+      "Company": "UPS",
+      "AccquisitionDate": "2023-3-11 2:17 AM",
+      "URL": "https://de.jobsyn.org/C768C0915A7B40C89676188073245B2D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "73D2F4839799443E9597D131DF547786206",
+      "JobTitle": "Tech Support Specialist",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:32 PM",
+      "URL": "https://de.jobsyn.org/73D2F4839799443E9597D131DF547786206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C988892141404E0E8C2BB44CDFA17F74206",
+      "JobTitle": "Senior Test Specialist",
+      "Company": "Tactical Engineering & Analysis, INC",
+      "AccquisitionDate": "2023-3-7 11:17 AM",
+      "URL": "https://de.jobsyn.org/C988892141404E0E8C2BB44CDFA17F74206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2384ED1411A64D9FB9CA99447B27CFBD206",
+      "JobTitle": "Knowledge Systems Specialist- Intermediate",
+      "Company": "Spathe Systems",
+      "AccquisitionDate": "2022-9-13 7:11 AM",
+      "URL": "https://de.jobsyn.org/2384ED1411A64D9FB9CA99447B27CFBD206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D0038FC8CEA046AF9697E167FD1F06FD206",
+      "JobTitle": "Knowledge Systems Specialist - ASC",
+      "Company": "Spathe Systems",
+      "AccquisitionDate": "2022-3-31 2:06 AM",
+      "URL": "https://de.jobsyn.org/D0038FC8CEA046AF9697E167FD1F06FD206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0EEC81AD75044D7AB88191C82163E061206",
+      "JobTitle": "Senior Test Specialist",
+      "Company": "Tactical Engineering & Analysis Inc",
+      "AccquisitionDate": "2023-3-4 11:30 PM",
+      "URL": "https://de.jobsyn.org/0EEC81AD75044D7AB88191C82163E061206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ABE1FCC05C814ACA8A62D7CD5E8D54B9206",
+      "JobTitle": "INFORMATION SECURITY SPECIALIST",
+      "Company": "United States Fleet Forces Command",
+      "AccquisitionDate": "2023-3-14 7:22 AM",
+      "URL": "https://de.jobsyn.org/ABE1FCC05C814ACA8A62D7CD5E8D54B9206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B2D8F7BD485C4E7890B346279F3EC3FC206",
+      "JobTitle": "Level 2 Technician",
+      "Company": "CompuCom",
+      "AccquisitionDate": "2023-3-11 4:49 AM",
+      "URL": "https://de.jobsyn.org/B2D8F7BD485C4E7890B346279F3EC3FC206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7F141A9A30524D6B97E1DCD77F2C9A49206",
+      "JobTitle": "Senior Network/Systems Administrator",
+      "Company": "UIC Government Services and the Bowhead Family of Companies",
+      "AccquisitionDate": "2023-3-3 5:03 AM",
+      "URL": "https://de.jobsyn.org/7F141A9A30524D6B97E1DCD77F2C9A49206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "23FA81593AAD4CE5978ED681B5B2FDEC206",
+      "JobTitle": "Technical (Network Communications) Trainer",
+      "Company": "Serco",
+      "AccquisitionDate": "2023-2-10 2:39 AM",
+      "URL": "https://de.jobsyn.org/23FA81593AAD4CE5978ED681B5B2FDEC206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5BBFFEBE458444128A2A3812BF46DCFD206",
+      "JobTitle": "Genius (UTC R082)",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-1 3:06 AM",
+      "URL": "https://de.jobsyn.org/5BBFFEBE458444128A2A3812BF46DCFD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "45611012043E42EE8F8F076D7696099E206",
+      "JobTitle": "Business Systems Analyst - Clearance Required",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-14 7:52 AM",
+      "URL": "https://de.jobsyn.org/45611012043E42EE8F8F076D7696099E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4AA774B7D69148F0A3C66070321B95A2206",
+      "JobTitle": "Team Lead - 13799",
+      "Company": "Huntington Ingalls Industries",
+      "AccquisitionDate": "2023-3-14 5:18 AM",
+      "URL": "https://de.jobsyn.org/4AA774B7D69148F0A3C66070321B95A2206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5FB9E17C91E14D87AB45F40A03731C85206",
+      "JobTitle": "Operations Support Specialist",
+      "Company": "Citizenship and Immigration Services",
+      "AccquisitionDate": "2023-3-14 2:07 AM",
+      "URL": "https://de.jobsyn.org/5FB9E17C91E14D87AB45F40A03731C85206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A34338EB61254E75A2EA111EFFE12A12206",
+      "JobTitle": "Administrative and Technical Support Specialist",
+      "Company": "Amentum",
+      "AccquisitionDate": "2023-3-14 3:42 AM",
+      "URL": "https://de.jobsyn.org/A34338EB61254E75A2EA111EFFE12A12206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C820B4E82BCF47CFBA1F332F5F6B0920206",
+      "JobTitle": "Security Specialist Technician",
+      "Company": "Evergreen Fire and Security",
+      "AccquisitionDate": "2023-3-11 10:35 PM",
+      "URL": "https://de.jobsyn.org/C820B4E82BCF47CFBA1F332F5F6B0920206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "05A6FB8701DB40F585CA7E3418DA5E1D206",
+      "JobTitle": "Operations & Sustainment (O&S) Site Manager, Sigonella, Italy",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-11 11:39 AM",
+      "URL": "https://de.jobsyn.org/05A6FB8701DB40F585CA7E3418DA5E1D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BF1916918B7D4446B04EFCB0E043FCBD206",
+      "JobTitle": "Manager, Systems & Infrastructure Administration - Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/BF1916918B7D4446B04EFCB0E043FCBD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9C6A262A970F4C30A27F74747B5251AD206",
+      "JobTitle": "Implementation Analyst (Remote)",
+      "Company": "BD (Becton, Dickinson and Company)",
+      "AccquisitionDate": "2023-3-12 3:53 AM",
+      "URL": "https://de.jobsyn.org/9C6A262A970F4C30A27F74747B5251AD206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "2AFD351272774B7EA5FB985FE94CD843206",
+      "JobTitle": "Document Control Manager",
+      "Company": "Abbott",
+      "AccquisitionDate": "2023-2-9 6:09 AM",
+      "URL": "https://de.jobsyn.org/2AFD351272774B7EA5FB985FE94CD843206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "86AB497645C84577B09428B493AFCE5C206",
+      "JobTitle": "Document Control Coordinator",
+      "Company": "San Diego County Regional Airport Authority",
+      "AccquisitionDate": "2023-2-16 10:44 PM",
+      "URL": "https://de.jobsyn.org/86AB497645C84577B09428B493AFCE5C206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "388482E7BFD74AEFA548F19E48ABEE01206",
+      "JobTitle": "Power Plant Engineer (Aerospace)",
+      "Company": "Chromalloy",
+      "AccquisitionDate": "2023-2-16 6:21 AM",
+      "URL": "https://de.jobsyn.org/388482E7BFD74AEFA548F19E48ABEE01206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4BD236F9C9F347F6937FA0D8E3BDCD83206",
+      "JobTitle": "Systems / Mechanical / Aerospace Engineering and Physics Internships",
+      "Company": "The MITRE Corporation",
+      "AccquisitionDate": "2022-9-7 6:38 AM",
+      "URL": "https://de.jobsyn.org/4BD236F9C9F347F6937FA0D8E3BDCD83206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3EBF3D25ABE04BFCB72D1059C558E396206",
+      "JobTitle": "Electrical Engineer, Cable and Harness Design",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2023-3-11 2:48 AM",
+      "URL": "https://de.jobsyn.org/3EBF3D25ABE04BFCB72D1059C558E396206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D72DF7D4F4B74C2E91E0BB85217386E2206",
+      "JobTitle": "Aerodynamics Engineer",
+      "Company": "Natilus",
+      "AccquisitionDate": "2022-11-17 10:05 PM",
+      "URL": "https://de.jobsyn.org/D72DF7D4F4B74C2E91E0BB85217386E2206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "53A75C66304843AFB0DD46EA9DDCBCD2206",
+      "JobTitle": "Lead Autopilot / GNC Engineer",
+      "Company": "Natilus",
+      "AccquisitionDate": "2022-11-17 10:05 PM",
+      "URL": "https://de.jobsyn.org/53A75C66304843AFB0DD46EA9DDCBCD2206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EDE3461CD77B4786922C3F7CD02386BE206",
+      "JobTitle": "Engineer/Scientist IV",
+      "Company": "LMI Aerospace",
+      "AccquisitionDate": "2023-2-27 10:41 PM",
+      "URL": "https://de.jobsyn.org/EDE3461CD77B4786922C3F7CD02386BE206",
+      "Location": "San Diego",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0EDA53DEF1674821BFD2F3CE86F9A7ED206",
+      "JobTitle": "Senior Accountant (Aerospace)",
+      "Company": "Chromalloy",
+      "AccquisitionDate": "2023-3-14 12:32 AM",
+      "URL": "https://de.jobsyn.org/0EDA53DEF1674821BFD2F3CE86F9A7ED206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F6DCEF7B052E46BFB759AC5ED1EC3BAC206",
+      "JobTitle": "Spec, Electrical Engrg",
+      "Company": "L3Harris",
+      "AccquisitionDate": "2022-12-7 3:18 AM",
+      "URL": "https://de.jobsyn.org/F6DCEF7B052E46BFB759AC5ED1EC3BAC206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "89233D72CA4C40459D85CE0E6FC1CCD7206",
+      "JobTitle": "Airframe Engineering Lead",
+      "Company": "Natilus",
+      "AccquisitionDate": "2022-11-17 10:05 PM",
+      "URL": "https://de.jobsyn.org/89233D72CA4C40459D85CE0E6FC1CCD7206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "73D37DEDC360444D845642D35427CFB9206",
+      "JobTitle": "Engineer, Materials & Process (Composites)",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2023-3-10 4:00 AM",
+      "URL": "https://de.jobsyn.org/73D37DEDC360444D845642D35427CFB9206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EAB23ED36874B54893CBDF67754028D206",
+      "JobTitle": "Manager Test Engineering 2 ( Static Load Testing) - Space Components",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-8-30 7:51 AM",
+      "URL": "https://de.jobsyn.org/7EAB23ED36874B54893CBDF67754028D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "115C06B6958842E69FB28E1BF855DFBD206",
+      "JobTitle": "Electrical Engineer",
+      "Company": "Natilus",
+      "AccquisitionDate": "2022-11-17 10:05 PM",
+      "URL": "https://de.jobsyn.org/115C06B6958842E69FB28E1BF855DFBD206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E16948FB00E04396890556AE001A1DC7206",
+      "JobTitle": "Staff Weapons Integration Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-1-14 11:54 AM",
+      "URL": "https://de.jobsyn.org/E16948FB00E04396890556AE001A1DC7206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4E5FD991CFF2430AB0451951A3DCF356206",
+      "JobTitle": "Staff Electronics (EO/IR Responsible) Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-8 7:38 AM",
+      "URL": "https://de.jobsyn.org/4E5FD991CFF2430AB0451951A3DCF356206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EDAA68D6B7154D0AA6DCCAFD607A7CC9206",
+      "JobTitle": "Electrical Engineer, Command and Data Handling Architect",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2022-12-3 7:20 AM",
+      "URL": "https://de.jobsyn.org/EDAA68D6B7154D0AA6DCCAFD607A7CC9206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DFDE63FE7A80497BA0CB40F7D29FE186206",
+      "JobTitle": "Electrical Engineer, Power Electronics and Motor Controllers",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2022-12-1 7:33 AM",
+      "URL": "https://de.jobsyn.org/DFDE63FE7A80497BA0CB40F7D29FE186206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C7A4FCD675AE4B13A563A82A32566498206",
+      "JobTitle": "Systems Integration Engineer",
+      "Company": "Natilus",
+      "AccquisitionDate": "2022-11-17 10:05 PM",
+      "URL": "https://de.jobsyn.org/C7A4FCD675AE4B13A563A82A32566498206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "05F5D02DF9F44EBA8A203A444D7F0952206",
+      "JobTitle": "Airframe Design Engineer",
+      "Company": "Natilus",
+      "AccquisitionDate": "2022-11-17 10:05 PM",
+      "URL": "https://de.jobsyn.org/05F5D02DF9F44EBA8A203A444D7F0952206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "731EE69FEF2C450D84796211327BDEF0206",
+      "JobTitle": "Tooling Design Engineer",
+      "Company": "Natilus",
+      "AccquisitionDate": "2022-11-17 10:05 PM",
+      "URL": "https://de.jobsyn.org/731EE69FEF2C450D84796211327BDEF0206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7D3E0E500A8C45D0A127BE21D4E0082F206",
+      "JobTitle": "Airframes Collateral Duty Inspector (CDI) CH-53 RESET, Miramar CA",
+      "Company": "Vertex Aerospace",
+      "AccquisitionDate": "2023-3-3 6:20 AM",
+      "URL": "https://de.jobsyn.org/7D3E0E500A8C45D0A127BE21D4E0082F206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "57700A03B4D54966B8B1958294CF8CCB206",
+      "JobTitle": "Structural Analysis Engineer",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2022-9-30 6:22 AM",
+      "URL": "https://de.jobsyn.org/57700A03B4D54966B8B1958294CF8CCB206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1BEF3F4DB2334FA3B557332BEA3D6F21206",
+      "JobTitle": "Systems Modeling & Simulation Engineer (Engineer or Principal Level)",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-3-10 7:54 AM",
+      "URL": "https://de.jobsyn.org/1BEF3F4DB2334FA3B557332BEA3D6F21206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3826011CB14E4DE68C61A8F3A5AC1481206",
+      "JobTitle": "Systems Engineer (Principal or Senior Principal Level)",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-11-23 7:54 AM",
+      "URL": "https://de.jobsyn.org/3826011CB14E4DE68C61A8F3A5AC1481206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9F61BD52CC2C4225A91B9761CD54ED73206",
+      "JobTitle": "Entry-Level Illustrated Parts Catalog Author",
+      "Company": "The Boeing Company",
+      "AccquisitionDate": "2023-3-11 12:24 AM",
+      "URL": "https://de.jobsyn.org/9F61BD52CC2C4225A91B9761CD54ED73206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E35607FFBC9461EBF27549241936760206",
+      "JobTitle": "Mechanical Engineer, Structural Analysis & Design",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2022-12-8 6:32 AM",
+      "URL": "https://de.jobsyn.org/7E35607FFBC9461EBF27549241936760206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "B3E55E5128A244A8BEB0A69E5FDCD088206",
+      "JobTitle": "Assistant Director of Engineering - Doubletree by Hilton San Diego Mission Valley",
+      "Company": "Hilton",
+      "AccquisitionDate": "2023-3-3 4:26 AM",
+      "URL": "https://de.jobsyn.org/B3E55E5128A244A8BEB0A69E5FDCD088206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5AC8F4DCADCD45FDAE70401F2580040C206",
+      "JobTitle": "Senior Director Site Reliability Engineering - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:37 PM",
+      "URL": "https://de.jobsyn.org/5AC8F4DCADCD45FDAE70401F2580040C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6B3E30316E19447D98B73204FF064004206",
+      "JobTitle": "Principal Software Engineer Turbo Tax (Full-stack / Frontend)",
+      "Company": "Intuit",
+      "AccquisitionDate": "2022-11-5 6:49 AM",
+      "URL": "https://de.jobsyn.org/6B3E30316E19447D98B73204FF064004206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D67ABEBB25349A5BB4E4E1FAD02262D206",
+      "JobTitle": "Principal Architect, Global Cloud Operations (SRE/DevOps)",
+      "Company": "ServiceNow, Inc.",
+      "AccquisitionDate": "2023-3-11 3:26 AM",
+      "URL": "https://de.jobsyn.org/2D67ABEBB25349A5BB4E4E1FAD02262D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "95290DD1558E4D91ACF1B15F9AB7DA58206",
+      "JobTitle": "Principal Architect, Global Cloud Operations (SRE/DevOps)",
+      "Company": "ServiceNow, Inc.",
+      "AccquisitionDate": "2023-3-11 3:26 AM",
+      "URL": "https://de.jobsyn.org/95290DD1558E4D91ACF1B15F9AB7DA58206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5E9FA8BF126948C5A95AECD199583519206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "Planate Management Group LLC",
+      "AccquisitionDate": "2023-3-1 11:49 PM",
+      "URL": "https://de.jobsyn.org/5E9FA8BF126948C5A95AECD199583519206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6E8FB23297E44270B74AC08002432249206",
+      "JobTitle": "Chief Architect, Product Engineering",
+      "Company": "Teradata",
+      "AccquisitionDate": "2022-5-3 6:40 AM",
+      "URL": "https://de.jobsyn.org/6E8FB23297E44270B74AC08002432249206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E378298FA28C424EA73C5E2EFBCFA5B6206",
+      "JobTitle": "Director, Corporate Construction",
+      "Company": "Scripps Health",
+      "AccquisitionDate": "2023-2-27 10:09 PM",
+      "URL": "https://de.jobsyn.org/E378298FA28C424EA73C5E2EFBCFA5B6206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5269959FE70647EBAEE8E24915CD9382206",
+      "JobTitle": "Senior Principal Project Engineer",
+      "Company": "Cubic Corporation",
+      "AccquisitionDate": "2023-2-28 10:34 PM",
+      "URL": "https://de.jobsyn.org/5269959FE70647EBAEE8E24915CD9382206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "419F5F5410164E7C9CA393DC3BF66D5B206",
+      "JobTitle": "Architect- Laboratory and High- Technology Facilities",
+      "Company": "AECOM",
+      "AccquisitionDate": "2022-12-5 5:33 PM",
+      "URL": "https://de.jobsyn.org/419F5F5410164E7C9CA393DC3BF66D5B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E8A3BD0102D24884BA801653F9A65196206",
+      "JobTitle": "Pre-Sales Engineer (WAM) - Senior Manager - Consulting - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-26 1:00 AM",
+      "URL": "https://de.jobsyn.org/E8A3BD0102D24884BA801653F9A65196206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3C059F020F1F4E94AB52DE4B63E894DC206",
+      "JobTitle": "Engineering Manager III, Embedded Systems and Controls",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2022-12-7 4:58 AM",
+      "URL": "https://de.jobsyn.org/3C059F020F1F4E94AB52DE4B63E894DC206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9F6E5D726D3F43BBB204721076BD0773206",
+      "JobTitle": "Senior Cost Manager",
+      "Company": "Cumming",
+      "AccquisitionDate": "2023-3-9 12:42 AM",
+      "URL": "https://de.jobsyn.org/9F6E5D726D3F43BBB204721076BD0773206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1CB7788E54F4435EB8F5B4E74CC06240206",
+      "JobTitle": "Principal Weapons Engineer / Senior Principal Weapons Engineer",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2023-1-14 11:54 AM",
+      "URL": "https://de.jobsyn.org/1CB7788E54F4435EB8F5B4E74CC06240206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "526086F5EF3E41E6A9518D573CDA192E206",
+      "JobTitle": "Staff Product Manager",
+      "Company": "Teradata",
+      "AccquisitionDate": "2023-2-8 5:34 AM",
+      "URL": "https://de.jobsyn.org/526086F5EF3E41E6A9518D573CDA192E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "17A5C4ECE11F490D99869B5909D90056206",
+      "JobTitle": "Engineering-Project Manager, Hilton San Diego Bayfront",
+      "Company": "Hilton",
+      "AccquisitionDate": "2023-2-23 3:40 AM",
+      "URL": "https://de.jobsyn.org/17A5C4ECE11F490D99869B5909D90056206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E7099DFFD91C4852BCB9A39D2FE30A1B206",
+      "JobTitle": "Department of Defense Project Manager - Aviation & Federal (San Diego)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2021-8-30 5:40 PM",
+      "URL": "https://de.jobsyn.org/E7099DFFD91C4852BCB9A39D2FE30A1B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6AE52A5E807F42B88F6E6E4A08A0912C206",
+      "JobTitle": "Ship Electronics Sustainment - Section Leader - ONSITE",
+      "Company": "Raytheon Technologies",
+      "AccquisitionDate": "2023-3-9 3:28 AM",
+      "URL": "https://de.jobsyn.org/6AE52A5E807F42B88F6E6E4A08A0912C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "80EF1612178946178800A2E3F4EDB9BF206",
+      "JobTitle": "Construction Manager- Education Experience",
+      "Company": "Harris & Associates",
+      "AccquisitionDate": "2023-2-1 5:29 AM",
+      "URL": "https://de.jobsyn.org/80EF1612178946178800A2E3F4EDB9BF206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "37627EDFBE2D44C6BAB6F039E353EF15206",
+      "JobTitle": "Architect 6",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-28 3:31 AM",
+      "URL": "https://de.jobsyn.org/37627EDFBE2D44C6BAB6F039E353EF15206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5A1096921A22463F8C079F7C566D821C206",
+      "JobTitle": "Project Manager - Aviation & Federal (Southern California)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-5-27 3:40 PM",
+      "URL": "https://de.jobsyn.org/5A1096921A22463F8C079F7C566D821C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7FFCDD2A393645CB801A8BF18ED2F91C206",
+      "JobTitle": "Area Manager \u2013 Mechanical, Plumbing and Fire Protection",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-2-27 4:56 PM",
+      "URL": "https://de.jobsyn.org/7FFCDD2A393645CB801A8BF18ED2F91C206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "01CA1DCF7A4F42DCA58F9C645498E35D206",
+      "JobTitle": "Facilities / Engineering Operations Manager 2",
+      "Company": "Sodexo",
+      "AccquisitionDate": "2022-12-24 3:10 AM",
+      "URL": "https://de.jobsyn.org/01CA1DCF7A4F42DCA58F9C645498E35D206",
+      "Location": "SAN DIEGO, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C8F62A1B509C4B24B8B45F456CE7329A206",
+      "JobTitle": "Product Manager, Staff - IOT Chipset",
+      "Company": "Qualcomm",
+      "AccquisitionDate": "2023-2-15 1:54 AM",
+      "URL": "https://de.jobsyn.org/C8F62A1B509C4B24B8B45F456CE7329A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B3CF38973C5E4CD091EC27332EE5D41B206",
+      "JobTitle": "Software Program Engineer Manager (Chief Engineer)  M2A (ONSITE)",
+      "Company": "BAE Systems",
+      "AccquisitionDate": "2023-1-28 8:52 AM",
+      "URL": "https://de.jobsyn.org/B3CF38973C5E4CD091EC27332EE5D41B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "924021A7461F4D18AF22673342F91AB9206",
+      "JobTitle": "Vehicle Engineers Pipeline \u2013 All Levels",
+      "Company": "Northrop Grumman",
+      "AccquisitionDate": "2022-9-10 11:35 AM",
+      "URL": "https://de.jobsyn.org/924021A7461F4D18AF22673342F91AB9206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "90F6D51D4F634DAAA63FEE2059C13249206",
+      "JobTitle": "Associate Field Service Engineer (Medical Instrumentation), San Diego, CA or Denver, CO",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-8 2:18 AM",
+      "URL": "https://de.jobsyn.org/90F6D51D4F634DAAA63FEE2059C13249206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "668C8BE7850444A390481B8A19E71326206",
+      "JobTitle": "Protein Engineering Group Lead",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-2-15 12:33 AM",
+      "URL": "https://de.jobsyn.org/668C8BE7850444A390481B8A19E71326206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E088F074ABDC42988964366013D4CEE1206",
+      "JobTitle": "Internship, Electrical Engineer R&D Medical Device",
+      "Company": "Instrumentation Laboratory - Bedford",
+      "AccquisitionDate": "2023-2-5 12:58 AM",
+      "URL": "https://de.jobsyn.org/E088F074ABDC42988964366013D4CEE1206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B80D66D0AACE431A8B987388FCD006F4206",
+      "JobTitle": "Internship, Hardware Engineer R&D Medical Device",
+      "Company": "Instrumentation Laboratory - Bedford",
+      "AccquisitionDate": "2023-2-5 12:58 AM",
+      "URL": "https://de.jobsyn.org/B80D66D0AACE431A8B987388FCD006F4206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3EB0787B04324A2099F981355DD7A854206",
+      "JobTitle": "BioMed Tech II",
+      "Company": "Prime Healthcare",
+      "AccquisitionDate": "2022-12-7 11:19 AM",
+      "URL": "https://de.jobsyn.org/3EB0787B04324A2099F981355DD7A854206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2738188558404EDC9652C47B4AF50665206",
+      "JobTitle": "Engineer II, Software Developer R&D - Medical Device",
+      "Company": "Instrumentation Laboratory - Bedford",
+      "AccquisitionDate": "2022-11-24 9:21 AM",
+      "URL": "https://de.jobsyn.org/2738188558404EDC9652C47B4AF50665206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C2947AA9D3684CF6A946E9356878DF9B206",
+      "JobTitle": "Bio Med Tech II or III - Biomed",
+      "Company": "Rady Children's Hospital San Diego",
+      "AccquisitionDate": "2022-10-20 2:23 AM",
+      "URL": "https://de.jobsyn.org/C2947AA9D3684CF6A946E9356878DF9B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6B93E8E957384AD9A3A2EC54EEB51F69206",
+      "JobTitle": "Computational Display/Optics Engineer",
+      "Company": "Apple",
+      "AccquisitionDate": "2022-10-19 11:39 AM",
+      "URL": "https://de.jobsyn.org/6B93E8E957384AD9A3A2EC54EEB51F69206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6FF171B7322944BEBBB7326E90CC842B206",
+      "JobTitle": "Health Optical Sensors Architect",
+      "Company": "Renesas",
+      "AccquisitionDate": "2022-8-16 4:34 AM",
+      "URL": "https://de.jobsyn.org/6FF171B7322944BEBBB7326E90CC842B206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "F5DA9E6D181346AA969660A384B6433E206",
+      "JobTitle": "Chemical Engineer 7 (Hydrogen Process Engineer)",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-1 2:58 AM",
+      "URL": "https://de.jobsyn.org/F5DA9E6D181346AA969660A384B6433E206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A709358BA41D4DCBA3B6F37FC4740C42206",
+      "JobTitle": "Production Chemist I",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-14 3:31 AM",
+      "URL": "https://de.jobsyn.org/A709358BA41D4DCBA3B6F37FC4740C42206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7536BBC83D494DA3BEA2451F07665A97206",
+      "JobTitle": "Production Chemist I",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-12 3:49 AM",
+      "URL": "https://de.jobsyn.org/7536BBC83D494DA3BEA2451F07665A97206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "77CEBF5708924FAE8633648674487AE6206",
+      "JobTitle": "Production Chemist I",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-11 3:01 AM",
+      "URL": "https://de.jobsyn.org/77CEBF5708924FAE8633648674487AE6206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0CDB6755BFC54FE1AE9DFC5205ED8A99206",
+      "JobTitle": "Production Chemist I",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-7 2:20 AM",
+      "URL": "https://de.jobsyn.org/0CDB6755BFC54FE1AE9DFC5205ED8A99206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A634FC233B2D46E0827BF8D6088B51FB206",
+      "JobTitle": "Engineer, Polymer Process",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2023-2-10 2:17 AM",
+      "URL": "https://de.jobsyn.org/A634FC233B2D46E0827BF8D6088B51FB206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4BB6A02FD9224DED9E4B30E6051DC642206",
+      "JobTitle": "Engineer, Polymer Process",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2022-9-29 5:08 AM",
+      "URL": "https://de.jobsyn.org/4BB6A02FD9224DED9E4B30E6051DC642206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DEFB6C92D30541BA8465ED7FA8737387206",
+      "JobTitle": "Sr Staff Process Engineer - Chemistry - 14852127-3470",
+      "Company": "Dexcom, Inc",
+      "AccquisitionDate": "2023-3-12 1:26 PM",
+      "URL": "https://de.jobsyn.org/DEFB6C92D30541BA8465ED7FA8737387206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "53C6ABCEEC1848A5B191E371E326E4A5206",
+      "JobTitle": "Staff Process Engineer - 15083399-3470",
+      "Company": "Dexcom, Inc",
+      "AccquisitionDate": "2023-3-10 1:23 PM",
+      "URL": "https://de.jobsyn.org/53C6ABCEEC1848A5B191E371E326E4A5206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6D618E7562C748F1B1D1F21CF4B53299206",
+      "JobTitle": "\uf8ff Senior Coating Engineer | Materials PD",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-11 7:06 AM",
+      "URL": "https://de.jobsyn.org/6D618E7562C748F1B1D1F21CF4B53299206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "74FA9DC74F0D4912B56D001F1E28336D206",
+      "JobTitle": "\uf8ff Senior Materials Engineer | Plastics",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-24 6:07 AM",
+      "URL": "https://de.jobsyn.org/74FA9DC74F0D4912B56D001F1E28336D206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "29529B7A06074F378D42CE0EB63938E4206",
+      "JobTitle": "Experienced Process Engineer",
+      "Company": "General Atomics and Affiliated Companies",
+      "AccquisitionDate": "2023-1-27 6:43 AM",
+      "URL": "https://de.jobsyn.org/29529B7A06074F378D42CE0EB63938E4206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7AC986F27B234776BA5577D06A4BDD48206",
+      "JobTitle": "Process Engineer 2 - 14737003-3470",
+      "Company": "Dexcom, Inc",
+      "AccquisitionDate": "2023-3-12 1:26 PM",
+      "URL": "https://de.jobsyn.org/7AC986F27B234776BA5577D06A4BDD48206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "84DDFC1ACAEF43E09D4974198E9D4F97206",
+      "JobTitle": "Nuclear Fuels Engineer",
+      "Company": "System One",
+      "AccquisitionDate": "2023-2-24 4:12 AM",
+      "URL": "https://de.jobsyn.org/84DDFC1ACAEF43E09D4974198E9D4F97206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "668C8BE7850444A390481B8A19E71326206",
+      "JobTitle": "Protein Engineering Group Lead",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-2-15 12:33 AM",
+      "URL": "https://de.jobsyn.org/668C8BE7850444A390481B8A19E71326206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "692A8DF7CEC04C94B693D924D941DE6A206",
+      "JobTitle": "Part-time Engineer I - West Div (For current/previous HNTB Interns ONLY)",
+      "Company": "HNTB",
+      "AccquisitionDate": "2022-11-8 1:22 AM",
+      "URL": "https://de.jobsyn.org/692A8DF7CEC04C94B693D924D941DE6A206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1FDC884675634F0BA116F19A4FF3A6F6206",
+      "JobTitle": "Part-time Engineer I - West Div (For current/previous HNTB Interns ONLY)",
+      "Company": "HNTB",
+      "AccquisitionDate": "2022-11-8 12:12 AM",
+      "URL": "https://de.jobsyn.org/1FDC884675634F0BA116F19A4FF3A6F6206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "33CC0E8202FD406494F537B0759ADB21206",
+      "JobTitle": "Part-time Engineer I - West Div (For current/previous HNTB Interns ONLY)",
+      "Company": "HNTB",
+      "AccquisitionDate": "2022-11-8 12:12 AM",
+      "URL": "https://de.jobsyn.org/33CC0E8202FD406494F537B0759ADB21206",
+      "Location": "San Diego, CA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ADD0AE3930E3431DB83D69E728AB8CAA206",
+      "JobTitle": "ER&I - Oil, Gas, & Chemicals - SAP Finance - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-5-31 5:50 PM",
+      "URL": "https://de.jobsyn.org/ADD0AE3930E3431DB83D69E728AB8CAA206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9EBC9205E5BB43E4AF33FBFAF25539EB206",
+      "JobTitle": "Engineer, Sterile Fill & Finish",
+      "Company": "Packaging Coordinators, Inc.",
+      "AccquisitionDate": "2022-3-31 6:40 AM",
+      "URL": "https://de.jobsyn.org/9EBC9205E5BB43E4AF33FBFAF25539EB206",
+      "Location": "San Diego, CA",
+      "Fc": "True"
+    }
+  ]
+]
