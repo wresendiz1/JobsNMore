@@ -1,0 +1,3691 @@
+[
+  [
+    {
+      "JvId": "8DA188B43506452DAEFA7FD891E3B2DA206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-4 12:02 AM",
+      "URL": "https://de.jobsyn.org/8DA188B43506452DAEFA7FD891E3B2DA206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7200DB10C6E843C5B068EFC403D9D6CC206",
+      "JobTitle": "MILITARY PAY TECHNICIAN",
+      "Company": "Defense Finance and Accounting Service",
+      "AccquisitionDate": "2023-3-1 1:19 AM",
+      "URL": "https://de.jobsyn.org/7200DB10C6E843C5B068EFC403D9D6CC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1F3F922CF84544F1B3C109A0D5789ABA206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-28 12:14 AM",
+      "URL": "https://de.jobsyn.org/1F3F922CF84544F1B3C109A0D5789ABA206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4E4772D01F1945D081E797B5059FABD6206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-21 12:35 AM",
+      "URL": "https://de.jobsyn.org/4E4772D01F1945D081E797B5059FABD6206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E8CE4ECD5D6F4C92976800A959297AC8206",
+      "JobTitle": "BMV Accountant 3",
+      "Company": "State of Indiana",
+      "AccquisitionDate": "2023-3-13 10:32 PM",
+      "URL": "https://de.jobsyn.org/E8CE4ECD5D6F4C92976800A959297AC8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0FA6A2BACF2E4CEB8D4605F1B3BD9C4C206",
+      "JobTitle": "Accounting Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/0FA6A2BACF2E4CEB8D4605F1B3BD9C4C206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3D18025AFC064A188AF0F5D5C6F91CE9206",
+      "JobTitle": "Accounting Coordinator II - REMOTE",
+      "Company": "Ryder System",
+      "AccquisitionDate": "2023-3-13 3:56 PM",
+      "URL": "https://de.jobsyn.org/3D18025AFC064A188AF0F5D5C6F91CE9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C3330C3C32F347DF8CD80FE372E4DA32206",
+      "JobTitle": "Collections Specialist - Hybrid role",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/C3330C3C32F347DF8CD80FE372E4DA32206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1A93040A74C24F00979A79E5F3DCB910206",
+      "JobTitle": "LEAD ACCOUNTING TECHNICIAN",
+      "Company": "Defense Finance and Accounting Service",
+      "AccquisitionDate": "2023-3-14 1:15 AM",
+      "URL": "https://de.jobsyn.org/1A93040A74C24F00979A79E5F3DCB910206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E2C912BE158142D08F16D1BF35B2F7FB206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Change Healthcare",
+      "AccquisitionDate": "2023-3-12 4:18 AM",
+      "URL": "https://de.jobsyn.org/E2C912BE158142D08F16D1BF35B2F7FB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D018A920424D45C5B4CB1A46AB1440B8206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:33 AM",
+      "URL": "https://de.jobsyn.org/D018A920424D45C5B4CB1A46AB1440B8206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1DCB277861B9400DA4FFF891B16DB72D206",
+      "JobTitle": "Billing Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:05 AM",
+      "URL": "https://de.jobsyn.org/1DCB277861B9400DA4FFF891B16DB72D206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B058690E55B348DBB671D126EE12A698206",
+      "JobTitle": "Audit & Reimbursement II (US)",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-11 3:14 AM",
+      "URL": "https://de.jobsyn.org/B058690E55B348DBB671D126EE12A698206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "811F81F4215949529BE5C04D71CBB706206",
+      "JobTitle": "Accounting Specialist Sr - Remote",
+      "Company": "Prime Therapeutics",
+      "AccquisitionDate": "2023-3-11 3:56 AM",
+      "URL": "https://de.jobsyn.org/811F81F4215949529BE5C04D71CBB706206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7D486D5383C44531A879DA56E1CA032A206",
+      "JobTitle": "Tax Accountant 2",
+      "Company": "Public Partnerships LLC",
+      "AccquisitionDate": "2023-3-11 4:49 AM",
+      "URL": "https://de.jobsyn.org/7D486D5383C44531A879DA56E1CA032A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E62414742B3240F991919572EF2D4157206",
+      "JobTitle": "Audit & Reimbursement III (US)",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-11 3:14 AM",
+      "URL": "https://de.jobsyn.org/E62414742B3240F991919572EF2D4157206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3B16AF21085E41D195A44BB188CAA5DE206",
+      "JobTitle": "Accountant",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/3B16AF21085E41D195A44BB188CAA5DE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "14462B5B0BA64D14AAC51CC43C9845C9206",
+      "JobTitle": "Accountant",
+      "Company": "RR Donnelley",
+      "AccquisitionDate": "2023-3-9 6:32 AM",
+      "URL": "https://de.jobsyn.org/14462B5B0BA64D14AAC51CC43C9845C9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A906A870F2E84746ACF65843F0AB00C3206",
+      "JobTitle": "Fixed Asset Accountant",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/A906A870F2E84746ACF65843F0AB00C3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6AB0738650C540FEB3B16ED937C74CBD206",
+      "JobTitle": "Junior Billing Analyst",
+      "Company": "ICF Consulting Group, Inc.",
+      "AccquisitionDate": "2023-3-10 12:18 AM",
+      "URL": "https://de.jobsyn.org/6AB0738650C540FEB3B16ED937C74CBD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E6528ADEDAF0408AADE17D8959F54C90206",
+      "JobTitle": "Accountant",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-10 2:27 AM",
+      "URL": "https://de.jobsyn.org/E6528ADEDAF0408AADE17D8959F54C90206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "14AFCE5723744DD8949FA8E17F6520E6206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:19 AM",
+      "URL": "https://de.jobsyn.org/14AFCE5723744DD8949FA8E17F6520E6206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C6904536C67E4A1A9EFF3CE963A38B16206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-9 12:17 AM",
+      "URL": "https://de.jobsyn.org/C6904536C67E4A1A9EFF3CE963A38B16206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EF5BDAEA93E4DE2B70D35D38F78FEE0206",
+      "JobTitle": "Business Specialist",
+      "Company": "Indy Gov",
+      "AccquisitionDate": "2023-3-9 12:42 AM",
+      "URL": "https://de.jobsyn.org/7EF5BDAEA93E4DE2B70D35D38F78FEE0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A427AEB48EDE4EEBB669337C89311CDA206",
+      "JobTitle": "Night Auditor",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-3-8 10:49 PM",
+      "URL": "https://de.jobsyn.org/A427AEB48EDE4EEBB669337C89311CDA206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "5B6A404443384502BDAAFD2EBD7C3AA3206",
+      "JobTitle": "Print Operator",
+      "Company": "Doxim",
+      "AccquisitionDate": "2023-2-10 12:49 AM",
+      "URL": "https://de.jobsyn.org/5B6A404443384502BDAAFD2EBD7C3AA3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B738A618294A4D209D62F39F9E100806206",
+      "JobTitle": "Senior Data Center Operations Analyst \u2013 Unisys",
+      "Company": "Ensono",
+      "AccquisitionDate": "2022-12-29 5:42 AM",
+      "URL": "https://de.jobsyn.org/B738A618294A4D209D62F39F9E100806206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B3CC949FB7454537A2D3DD66CD9B3998206",
+      "JobTitle": "Automation Operator",
+      "Company": "The Walt Disney Company",
+      "AccquisitionDate": "2022-12-16 6:47 AM",
+      "URL": "https://de.jobsyn.org/B3CC949FB7454537A2D3DD66CD9B3998206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22543B17BB6344789C8AA82A7714D543206",
+      "JobTitle": "CO-Associate System Operator-003141",
+      "Company": "AES",
+      "AccquisitionDate": "2022-9-10 6:54 AM",
+      "URL": "https://de.jobsyn.org/22543B17BB6344789C8AA82A7714D543206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "0161B990ACC9470DA9E2C15E8DBE8C26206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:05 AM",
+      "URL": "https://de.jobsyn.org/0161B990ACC9470DA9E2C15E8DBE8C26206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0AED429BFCFB4A50B2DBC176EFA9908E206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "The Shield Companies",
+      "AccquisitionDate": "2023-3-10 7:17 AM",
+      "URL": "https://de.jobsyn.org/0AED429BFCFB4A50B2DBC176EFA9908E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "69868EF7A1E14CC293F787F487EC53F2206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-4 12:05 AM",
+      "URL": "https://de.jobsyn.org/69868EF7A1E14CC293F787F487EC53F2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E38905EADC2042799F0DD2409BEEA9ED206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Heritage Environmental Services, LLC",
+      "AccquisitionDate": "2023-3-4 6:33 AM",
+      "URL": "https://de.jobsyn.org/E38905EADC2042799F0DD2409BEEA9ED206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8670E07F9D8F48B5B2482361887A22D7206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "PSG Global Solutions",
+      "AccquisitionDate": "2023-2-24 3:33 AM",
+      "URL": "https://de.jobsyn.org/8670E07F9D8F48B5B2482361887A22D7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "291598B675C44719A55C5C8F8CF79ADB206",
+      "JobTitle": "BMV Customer Service Representative",
+      "Company": "State of Indiana",
+      "AccquisitionDate": "2023-3-9 1:01 AM",
+      "URL": "https://de.jobsyn.org/291598B675C44719A55C5C8F8CF79ADB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "52246DAE4C954EB6B85994A69103C5BD206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2022-3-23 4:18 AM",
+      "URL": "https://de.jobsyn.org/52246DAE4C954EB6B85994A69103C5BD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0AB70045BBDB45B0995ADB8A60CA4CDA206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0AB70045BBDB45B0995ADB8A60CA4CDA206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4B25FAFF6BD44F9697022824C5745D73206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/4B25FAFF6BD44F9697022824C5745D73206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "788CE4E4564D41A18F02BEF9AD68D267206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/788CE4E4564D41A18F02BEF9AD68D267206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "58A3FB92B1804BB3894ACC7B8A09D1D8206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/58A3FB92B1804BB3894ACC7B8A09D1D8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D954EE1716F64879B260349D5AFEE7AD206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/D954EE1716F64879B260349D5AFEE7AD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E08D25B4CAF64186B61DAD773E88AE3D206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/E08D25B4CAF64186B61DAD773E88AE3D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "966BCB19AD9C49268F16108568D738F3206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/966BCB19AD9C49268F16108568D738F3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0BD82BBAEBA64B0E8EA7E5893294AF97206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0BD82BBAEBA64B0E8EA7E5893294AF97206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0DE40352B6C84A3CBF304CFD55F50F38206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0DE40352B6C84A3CBF304CFD55F50F38206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0EA9FAC3767D4719A68B730EDEFE7221206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0EA9FAC3767D4719A68B730EDEFE7221206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "13CB7E94294F46B1A7BF48A93821BCB8206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/13CB7E94294F46B1A7BF48A93821BCB8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FAEBE75804914C06AEDDA51EBEF06876206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FAEBE75804914C06AEDDA51EBEF06876206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6749149B638348BA9FD73D3919EAC87E206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/6749149B638348BA9FD73D3919EAC87E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5449F75DA3C1448381FB7AD0DDFD7FA2206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/5449F75DA3C1448381FB7AD0DDFD7FA2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "844BAC3960A94A209EEBC5373C166629206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/844BAC3960A94A209EEBC5373C166629206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AA888556B47A4081A5F8B77C69CD4234206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/AA888556B47A4081A5F8B77C69CD4234206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AC3039A95BE047EC9F22C7D54EE9FC73206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/AC3039A95BE047EC9F22C7D54EE9FC73206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1692AB44AF6A40DF826F2205C8EBD849206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/1692AB44AF6A40DF826F2205C8EBD849206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "706ACBDC859042CF9A3E7487A33E8C6E206",
+      "JobTitle": "Data Entry Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/706ACBDC859042CF9A3E7487A33E8C6E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3BE755DFD8BB47118DA466977C40B1FD206",
+      "JobTitle": "Data Entry Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-4 12:05 AM",
+      "URL": "https://de.jobsyn.org/3BE755DFD8BB47118DA466977C40B1FD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8AA87E91C6D041A7AAA459B6B1B824B1206",
+      "JobTitle": "Data Entry Clerk - J3V3LQ5XXN4JD2C8CVD-3294",
+      "Company": "BC Forward",
+      "AccquisitionDate": "2023-2-18 1:36 PM",
+      "URL": "https://de.jobsyn.org/8AA87E91C6D041A7AAA459B6B1B824B1206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "42CA0F9945F4487682FC14B50FE28D40206",
+      "JobTitle": "Pharmacy Technician - Data Entry",
+      "Company": "PharmScript, LLC",
+      "AccquisitionDate": "2023-1-31 7:23 AM",
+      "URL": "https://de.jobsyn.org/42CA0F9945F4487682FC14B50FE28D40206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "220491DE2C0F43EAB7892F3EB40E874B206",
+      "JobTitle": "Premium Auditor",
+      "Company": "H.W. Kaufman Group",
+      "AccquisitionDate": "2022-7-28 8:33 AM",
+      "URL": "https://de.jobsyn.org/220491DE2C0F43EAB7892F3EB40E874B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F32397F828D945409C037B907F51001F206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 4:05 AM",
+      "URL": "https://de.jobsyn.org/F32397F828D945409C037B907F51001F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "45B118E5DA78400F87B84EC5415B9B98206",
+      "JobTitle": "Internal Auditor - Operations",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-2-1 4:17 AM",
+      "URL": "https://de.jobsyn.org/45B118E5DA78400F87B84EC5415B9B98206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AA421E624E5C4B85B26A15EA6971D610206",
+      "JobTitle": "Internal Auditor (US)",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-2-25 8:14 AM",
+      "URL": "https://de.jobsyn.org/AA421E624E5C4B85B26A15EA6971D610206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C1765FA7701B4E59899E9CFF194FB2A8206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 2:09 AM",
+      "URL": "https://de.jobsyn.org/C1765FA7701B4E59899E9CFF194FB2A8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "59AA7669D89D454287463EE4CE9D3609206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 4:19 AM",
+      "URL": "https://de.jobsyn.org/59AA7669D89D454287463EE4CE9D3609206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "78A192EDD63C4EEC84F0FFCFDEA275FD206",
+      "JobTitle": "Sales, Use and Property Tax Consultant",
+      "Company": "Resources Global Professionals (RGP)",
+      "AccquisitionDate": "2018-12-25 11:21 AM",
+      "URL": "https://de.jobsyn.org/78A192EDD63C4EEC84F0FFCFDEA275FD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2F8F11CAB6864818A305B6AA7A0AC6C6206",
+      "JobTitle": "District Inventory Auditor",
+      "Company": "Gpm Investments LLC",
+      "AccquisitionDate": "2023-2-11 2:01 AM",
+      "URL": "https://de.jobsyn.org/2F8F11CAB6864818A305B6AA7A0AC6C6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "25E8B5CDEC994B599658732E16515508206",
+      "JobTitle": "Revenue Tax Auditor",
+      "Company": "State of Indiana",
+      "AccquisitionDate": "2023-3-2 2:08 AM",
+      "URL": "https://de.jobsyn.org/25E8B5CDEC994B599658732E16515508206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8310991B5B364412B44EE031DAF70AF6206",
+      "JobTitle": "Internal Auditor Sr",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-9 2:30 AM",
+      "URL": "https://de.jobsyn.org/8310991B5B364412B44EE031DAF70AF6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E7543D49B03A40898E91620CAEFFAE68206",
+      "JobTitle": "Revenue Tax Auditor",
+      "Company": "State of Indiana",
+      "AccquisitionDate": "2023-1-18 10:01 PM",
+      "URL": "https://de.jobsyn.org/E7543D49B03A40898E91620CAEFFAE68206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CD5FAEBC3AE74BFCB4B8299E903BE0DF206",
+      "JobTitle": "Senior Manager, Accounting",
+      "Company": "Rocket Software, Inc.",
+      "AccquisitionDate": "2023-3-2 4:16 AM",
+      "URL": "https://de.jobsyn.org/CD5FAEBC3AE74BFCB4B8299E903BE0DF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5D82174A4CBB46B4915DFC4529AB61B3206",
+      "JobTitle": "BMV Internal Auditor",
+      "Company": "State of Indiana",
+      "AccquisitionDate": "2023-1-13 7:51 AM",
+      "URL": "https://de.jobsyn.org/5D82174A4CBB46B4915DFC4529AB61B3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E6227E937DC4ED9B71DDA9ABB4F972D206",
+      "JobTitle": "Senior Auditor",
+      "Company": "Corteva Agriscience",
+      "AccquisitionDate": "2023-2-23 3:47 AM",
+      "URL": "https://de.jobsyn.org/7E6227E937DC4ED9B71DDA9ABB4F972D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B01FB7525E1A4CEF8505D81BB94E8F16206",
+      "JobTitle": "Premium Audit Team Lead",
+      "Company": "Sedgwick",
+      "AccquisitionDate": "2023-1-6 5:20 AM",
+      "URL": "https://de.jobsyn.org/B01FB7525E1A4CEF8505D81BB94E8F16206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "298D60DA78BD4E13AE8FA3852D06DA27206",
+      "JobTitle": "Internal IT Auditor Sr",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-1 12:17 PM",
+      "URL": "https://de.jobsyn.org/298D60DA78BD4E13AE8FA3852D06DA27206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F8BFBBEECC674467ABAA84EDAD08ECD1206",
+      "JobTitle": "Audit Payment Specialist",
+      "Company": "State of Indiana",
+      "AccquisitionDate": "2023-1-26 11:14 PM",
+      "URL": "https://de.jobsyn.org/F8BFBBEECC674467ABAA84EDAD08ECD1206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AE1181A51E1F407B8610DAC437AD02CD206",
+      "JobTitle": "Entity Accounting - Sr. Accountant",
+      "Company": "Corteva Agriscience",
+      "AccquisitionDate": "2023-3-12 5:06 AM",
+      "URL": "https://de.jobsyn.org/AE1181A51E1F407B8610DAC437AD02CD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DDF1DAC6B70C494282447102B645120B206",
+      "JobTitle": "LEAD ACCOUNTANT",
+      "Company": "Defense Finance and Accounting Service",
+      "AccquisitionDate": "2023-3-11 5:54 AM",
+      "URL": "https://de.jobsyn.org/DDF1DAC6B70C494282447102B645120B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A7254C6306BF46C6A83AD243BDC553FD206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:28 AM",
+      "URL": "https://de.jobsyn.org/A7254C6306BF46C6A83AD243BDC553FD206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6EFA1B1F93DE4968A4129D1AB52507F8206",
+      "JobTitle": "ACCOUNTING MANAGER - INTERCOMPANY",
+      "Company": "Cummins Inc.",
+      "AccquisitionDate": "2023-2-23 8:58 AM",
+      "URL": "https://de.jobsyn.org/6EFA1B1F93DE4968A4129D1AB52507F8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0D14112BB314E028D4A9015EA189632206",
+      "JobTitle": "Manager of Finance - Indiana - McLaren Careers",
+      "Company": "McLaren Health Care",
+      "AccquisitionDate": "2023-2-28 12:02 AM",
+      "URL": "https://de.jobsyn.org/A0D14112BB314E028D4A9015EA189632206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0DCACBACEBBA40DE9AD703DBAD62B8EF206",
+      "JobTitle": "Senior Internal Audit Specialist - US REMOTE",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-2 2:39 AM",
+      "URL": "https://de.jobsyn.org/0DCACBACEBBA40DE9AD703DBAD62B8EF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A906A870F2E84746ACF65843F0AB00C3206",
+      "JobTitle": "Fixed Asset Accountant",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/A906A870F2E84746ACF65843F0AB00C3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D636AF9DBA3842CE8473368035AC0E34206",
+      "JobTitle": "Senior Internal Audit Specialist - US REMOTE",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-2 2:39 AM",
+      "URL": "https://de.jobsyn.org/D636AF9DBA3842CE8473368035AC0E34206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "389F08CDCAEC4E2A927EF8706E98B1AC206",
+      "JobTitle": "Collections Representative",
+      "Company": "Apria",
+      "AccquisitionDate": "2023-1-24 2:28 AM",
+      "URL": "https://de.jobsyn.org/389F08CDCAEC4E2A927EF8706E98B1AC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F99CAEE035594468AA411843A024E87D206",
+      "JobTitle": "Collections Representative",
+      "Company": "Apria",
+      "AccquisitionDate": "2022-12-13 6:14 AM",
+      "URL": "https://de.jobsyn.org/F99CAEE035594468AA411843A024E87D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1CE26C4C6A614F96A743BBD4F832141B206",
+      "JobTitle": "Collections Analyst I",
+      "Company": "ICONMA, LLC",
+      "AccquisitionDate": "2023-2-8 5:54 AM",
+      "URL": "https://de.jobsyn.org/1CE26C4C6A614F96A743BBD4F832141B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B623337F81724A8BABF929051B269086206",
+      "JobTitle": "Collections Specialist",
+      "Company": "First Databank, Inc. (FDB)",
+      "AccquisitionDate": "2022-10-27 10:13 PM",
+      "URL": "https://de.jobsyn.org/B623337F81724A8BABF929051B269086206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "174372EBD84D421F9056ED1CA195FB20206",
+      "JobTitle": "Collections Specialist",
+      "Company": "Tru Green",
+      "AccquisitionDate": "2023-3-14 5:40 AM",
+      "URL": "https://de.jobsyn.org/174372EBD84D421F9056ED1CA195FB20206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C3330C3C32F347DF8CD80FE372E4DA32206",
+      "JobTitle": "Collections Specialist - Hybrid role",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/C3330C3C32F347DF8CD80FE372E4DA32206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "416E97869A584EDAA4389C06E100D235206",
+      "JobTitle": "Patient Account Representative - Self-Pay",
+      "Company": "Guidehouse",
+      "AccquisitionDate": "2023-3-13 2:34 AM",
+      "URL": "https://de.jobsyn.org/416E97869A584EDAA4389C06E100D235206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E2C912BE158142D08F16D1BF35B2F7FB206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Change Healthcare",
+      "AccquisitionDate": "2023-3-12 4:18 AM",
+      "URL": "https://de.jobsyn.org/E2C912BE158142D08F16D1BF35B2F7FB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D018A920424D45C5B4CB1A46AB1440B8206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:33 AM",
+      "URL": "https://de.jobsyn.org/D018A920424D45C5B4CB1A46AB1440B8206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "28C0615955304F7B87D2477088975124206",
+      "JobTitle": "Insurance Billing Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/28C0615955304F7B87D2477088975124206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F1DE25D842894AC89E8AC9003586EF7D206",
+      "JobTitle": "Consumer Loan Specialist",
+      "Company": "Southern Management Corporation",
+      "AccquisitionDate": "2023-3-11 1:07 AM",
+      "URL": "https://de.jobsyn.org/F1DE25D842894AC89E8AC9003586EF7D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "811F81F4215949529BE5C04D71CBB706206",
+      "JobTitle": "Accounting Specialist Sr - Remote",
+      "Company": "Prime Therapeutics",
+      "AccquisitionDate": "2023-3-11 3:56 AM",
+      "URL": "https://de.jobsyn.org/811F81F4215949529BE5C04D71CBB706206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4AC5DD4102134253B8EE04745F5D843A206",
+      "JobTitle": "Fin Ops Recovery Spec II",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-10 5:34 AM",
+      "URL": "https://de.jobsyn.org/4AC5DD4102134253B8EE04745F5D843A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B814EA4B72D3489C91EE00AD4E5A89D6206",
+      "JobTitle": "Medical Billing Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:09 AM",
+      "URL": "https://de.jobsyn.org/B814EA4B72D3489C91EE00AD4E5A89D6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EF5BDAEA93E4DE2B70D35D38F78FEE0206",
+      "JobTitle": "Business Specialist",
+      "Company": "Indy Gov",
+      "AccquisitionDate": "2023-3-9 12:42 AM",
+      "URL": "https://de.jobsyn.org/7EF5BDAEA93E4DE2B70D35D38F78FEE0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B62F2332D62849539626C3A46226E8A8206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/B62F2332D62849539626C3A46226E8A8206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AB69B338BB254B468D91D0DEB8A41975206",
+      "JobTitle": "Patient Account Representative",
+      "Company": "Community Health Network",
+      "AccquisitionDate": "2023-3-9 2:59 AM",
+      "URL": "https://de.jobsyn.org/AB69B338BB254B468D91D0DEB8A41975206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A79B29D6D812445D89D189C4C4F58395206",
+      "JobTitle": "Insurance Billing Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-8 5:23 AM",
+      "URL": "https://de.jobsyn.org/A79B29D6D812445D89D189C4C4F58395206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3075EB599530414C9FFD4885BCB13614206",
+      "JobTitle": "Billing Representative - Out Patient Treatment Ctr",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-8 3:50 AM",
+      "URL": "https://de.jobsyn.org/3075EB599530414C9FFD4885BCB13614206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "19EA499742274FE89508469690974952206",
+      "JobTitle": "National Collections Associate - REMOTE",
+      "Company": "Ryder System",
+      "AccquisitionDate": "2023-3-7 8:58 PM",
+      "URL": "https://de.jobsyn.org/19EA499742274FE89508469690974952206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "508A3C9A61474955AFA78172B636D7B3206",
+      "JobTitle": "Account Receivable Specialist - REMOTE",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-5 4:37 AM",
+      "URL": "https://de.jobsyn.org/508A3C9A61474955AFA78172B636D7B3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "007242868CFB46469EC50BA6C906F1A3206",
+      "JobTitle": "International Claims Admin. - Remote",
+      "Company": "Brown and Joseph, LLC",
+      "AccquisitionDate": "2023-3-3 6:41 AM",
+      "URL": "https://de.jobsyn.org/007242868CFB46469EC50BA6C906F1A3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A32233EB5EDE46A08E7D26A8D59171A4206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-4 12:02 AM",
+      "URL": "https://de.jobsyn.org/A32233EB5EDE46A08E7D26A8D59171A4206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "27FF5D08464E45F7AFF04809BA8F7F2C206",
+      "JobTitle": "Bilingual/Spanish Lead Collections Specialist (Remote  OH, UT, AZ)",
+      "Company": "Discover",
+      "AccquisitionDate": "2023-3-2 5:22 AM",
+      "URL": "https://de.jobsyn.org/27FF5D08464E45F7AFF04809BA8F7F2C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "36FD007F1BDB4789A168DE03D4A2822D206",
+      "JobTitle": "Billing Customer Service Representative",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-3 2:20 AM",
+      "URL": "https://de.jobsyn.org/36FD007F1BDB4789A168DE03D4A2822D206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "DE2B400B4EA64F08A7212F9CB3AC27BF206",
+      "JobTitle": "Loan Review Analyst",
+      "Company": "Treliant, LLC",
+      "AccquisitionDate": "2023-2-24 5:04 AM",
+      "URL": "https://de.jobsyn.org/DE2B400B4EA64F08A7212F9CB3AC27BF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AD4FBC0A1B764DD7B17844B2C744AED2206",
+      "JobTitle": "Financial Analyst Internship - Jackson, MI",
+      "Company": "Eaton Corporation",
+      "AccquisitionDate": "2023-3-4 4:20 AM",
+      "URL": "https://de.jobsyn.org/AD4FBC0A1B764DD7B17844B2C744AED2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "90C4F903E2284A0FAD48B747161B73B8206",
+      "JobTitle": "Credit Review Specialist-Sr",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-14 5:13 AM",
+      "URL": "https://de.jobsyn.org/90C4F903E2284A0FAD48B747161B73B8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "336AA06E269648B38EEEB48F65FF886A206",
+      "JobTitle": "Senior Loan Specialist",
+      "Company": "M/I Homes",
+      "AccquisitionDate": "2023-3-14 5:53 AM",
+      "URL": "https://de.jobsyn.org/336AA06E269648B38EEEB48F65FF886A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C0BD2E62181C489F9AAC1382D6812FDB206",
+      "JobTitle": "Business Banking Underwriter I",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-8 4:20 AM",
+      "URL": "https://de.jobsyn.org/C0BD2E62181C489F9AAC1382D6812FDB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E32BFCAE6310483F874AD8A7FA768F26206",
+      "JobTitle": "Senior Financial Analyst, Physician Compensation",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-8 12:59 AM",
+      "URL": "https://de.jobsyn.org/E32BFCAE6310483F874AD8A7FA768F26206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5A3CA0889AC04B1491B474EC7506AC65206",
+      "JobTitle": "Senior Financial Analyst, Physician Compensation",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-8 12:59 AM",
+      "URL": "https://de.jobsyn.org/5A3CA0889AC04B1491B474EC7506AC65206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "559D81F564574AB194425AED6B60CB96206",
+      "JobTitle": "Business Banking Underwriter III",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-7 4:20 AM",
+      "URL": "https://de.jobsyn.org/559D81F564574AB194425AED6B60CB96206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5D49D25FB97F4DB48648A72C767922A0206",
+      "JobTitle": "Senior Financial Analyst",
+      "Company": "Cornerstone onDemand",
+      "AccquisitionDate": "2023-3-3 2:58 AM",
+      "URL": "https://de.jobsyn.org/5D49D25FB97F4DB48648A72C767922A0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "670AC03090C840BDA47B9201F21E5DF7206",
+      "JobTitle": "Practice Finance Underwriter IV",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-23 5:07 AM",
+      "URL": "https://de.jobsyn.org/670AC03090C840BDA47B9201F21E5DF7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E98214ED672F44F9A9F36A9AD8A5B008206",
+      "JobTitle": "Business Banking Underwriter II",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-24 3:42 AM",
+      "URL": "https://de.jobsyn.org/E98214ED672F44F9A9F36A9AD8A5B008206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F597325FB65D41D48FD7A9AD35BB2DAE206",
+      "JobTitle": "Business Banking Underwriter III",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-24 3:42 AM",
+      "URL": "https://de.jobsyn.org/F597325FB65D41D48FD7A9AD35BB2DAE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "257E657D1B6040BEB64D3BD56C9BE68D206",
+      "JobTitle": "Financial Analyst (Future Opportunities)",
+      "Company": "American Express",
+      "AccquisitionDate": "2023-2-22 3:31 AM",
+      "URL": "https://de.jobsyn.org/257E657D1B6040BEB64D3BD56C9BE68D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CCCA56D9CA8A4734BF8EEAE2FA91E87F206",
+      "JobTitle": "Business Banking Underwriter IV",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-17 6:46 AM",
+      "URL": "https://de.jobsyn.org/CCCA56D9CA8A4734BF8EEAE2FA91E87F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6B14718F35B44A61AD9FED348D8E1570206",
+      "JobTitle": "Senior Financial Analyst - Life Sciences, North America (HYBRID - Indianapolis, IN or Miami, FL)",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-2-14 4:31 AM",
+      "URL": "https://de.jobsyn.org/6B14718F35B44A61AD9FED348D8E1570206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DA3C3CB150194258933BFF59FD642A9D206",
+      "JobTitle": "Senior Financial Analyst",
+      "Company": "Thompson Thrift",
+      "AccquisitionDate": "2023-2-7 7:27 AM",
+      "URL": "https://de.jobsyn.org/DA3C3CB150194258933BFF59FD642A9D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "56272C7AC5E946BE87688A643F1FDCC7206",
+      "JobTitle": "Actuarial Analyst (remote - multiple openings)",
+      "Company": "Centene Corporation",
+      "AccquisitionDate": "2023-2-3 5:16 AM",
+      "URL": "https://de.jobsyn.org/56272C7AC5E946BE87688A643F1FDCC7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "572F2C7D00F2402C9C0DD19D187ED6BD206",
+      "JobTitle": "Commercial Bank Risk - Middle Market Credit Risk, Executive Director",
+      "Company": "JPMorgan Chase",
+      "AccquisitionDate": "2023-1-26 4:40 AM",
+      "URL": "https://de.jobsyn.org/572F2C7D00F2402C9C0DD19D187ED6BD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "700CD0250A7B4ED09060A1C310802ECD206",
+      "JobTitle": "Commercial Analyst",
+      "Company": "AES",
+      "AccquisitionDate": "2023-1-10 1:08 AM",
+      "URL": "https://de.jobsyn.org/700CD0250A7B4ED09060A1C310802ECD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "663590AED4034863865F56A552529363206",
+      "JobTitle": "Sr Actuarial Analyst (remote)",
+      "Company": "Centene Corporation",
+      "AccquisitionDate": "2022-12-22 6:42 AM",
+      "URL": "https://de.jobsyn.org/663590AED4034863865F56A552529363206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7B31825125B54115A780EC6144AEBBC7206",
+      "JobTitle": "MONITORING PORTFOLIO MANAGER I or II",
+      "Company": "Old National Bank",
+      "AccquisitionDate": "2022-12-21 1:59 PM",
+      "URL": "https://de.jobsyn.org/7B31825125B54115A780EC6144AEBBC7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7DBEFF725B254000802C08B466527B3E206",
+      "JobTitle": "Pricing Analyst Principal - Remote",
+      "Company": "Prime Therapeutics",
+      "AccquisitionDate": "2022-11-12 2:58 AM",
+      "URL": "https://de.jobsyn.org/7DBEFF725B254000802C08B466527B3E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "361A770C4CE741AD9A3F2544A160E35B206",
+      "JobTitle": "Liquidity Risk Review Analyst",
+      "Company": "U.S. Bank",
+      "AccquisitionDate": "2022-10-3 10:05 PM",
+      "URL": "https://de.jobsyn.org/361A770C4CE741AD9A3F2544A160E35B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CC99E4B181E54D5EA7CAAE1C258581D1206",
+      "JobTitle": "CDC Environmental Project Finance - Underwriter",
+      "Company": "U.S. Bank",
+      "AccquisitionDate": "2022-9-30 10:09 PM",
+      "URL": "https://de.jobsyn.org/CC99E4B181E54D5EA7CAAE1C258581D1206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55AEE7B7721B443FA5CF3A667BA38B5D206",
+      "JobTitle": "Campus - Financial Analyst - Full Time",
+      "Company": "Lilly",
+      "AccquisitionDate": "2022-9-21 6:57 AM",
+      "URL": "https://de.jobsyn.org/55AEE7B7721B443FA5CF3A667BA38B5D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "336AA06E269648B38EEEB48F65FF886A206",
+      "JobTitle": "Senior Loan Specialist",
+      "Company": "M/I Homes",
+      "AccquisitionDate": "2023-3-14 5:53 AM",
+      "URL": "https://de.jobsyn.org/336AA06E269648B38EEEB48F65FF886A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "60315F6671E74BDF876BF9669CB97D09206",
+      "JobTitle": "Transactions Specialist III- Subpoena Processing",
+      "Company": "JPMorgan Chase",
+      "AccquisitionDate": "2023-3-13 4:56 AM",
+      "URL": "https://de.jobsyn.org/60315F6671E74BDF876BF9669CB97D09206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "559D81F564574AB194425AED6B60CB96206",
+      "JobTitle": "Business Banking Underwriter III",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-7 4:20 AM",
+      "URL": "https://de.jobsyn.org/559D81F564574AB194425AED6B60CB96206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B169DEB3B4F9445281DECE1A24495B94206",
+      "JobTitle": "FHA Customer Service Representative - Mortgage Servicing",
+      "Company": "Leidos",
+      "AccquisitionDate": "2023-3-4 4:51 AM",
+      "URL": "https://de.jobsyn.org/B169DEB3B4F9445281DECE1A24495B94206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0FA08ED1CC04C7B8671CBC67DFB54AB206",
+      "JobTitle": "FHA Customer Service Representative - Mortgage Origination",
+      "Company": "Leidos",
+      "AccquisitionDate": "2023-3-4 4:51 AM",
+      "URL": "https://de.jobsyn.org/A0FA08ED1CC04C7B8671CBC67DFB54AB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "97E268D9FF074956BFDADB50367FE130206",
+      "JobTitle": "Junior Loan Specialist",
+      "Company": "M/I Homes",
+      "AccquisitionDate": "2023-3-3 1:09 AM",
+      "URL": "https://de.jobsyn.org/97E268D9FF074956BFDADB50367FE130206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5094F5139F0D45E18205E8BF48E12A65206",
+      "JobTitle": "Mortgage Servicing Document Reviewer",
+      "Company": "Treliant, LLC",
+      "AccquisitionDate": "2023-2-25 1:16 AM",
+      "URL": "https://de.jobsyn.org/5094F5139F0D45E18205E8BF48E12A65206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E98214ED672F44F9A9F36A9AD8A5B008206",
+      "JobTitle": "Business Banking Underwriter II",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-24 3:42 AM",
+      "URL": "https://de.jobsyn.org/E98214ED672F44F9A9F36A9AD8A5B008206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F597325FB65D41D48FD7A9AD35BB2DAE206",
+      "JobTitle": "Business Banking Underwriter III",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-24 3:42 AM",
+      "URL": "https://de.jobsyn.org/F597325FB65D41D48FD7A9AD35BB2DAE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E067419E582D46719F1BB0E0E8B3F925206",
+      "JobTitle": "Associate, Primary Servicing",
+      "Company": "SitusAMC",
+      "AccquisitionDate": "2023-2-7 4:01 AM",
+      "URL": "https://de.jobsyn.org/E067419E582D46719F1BB0E0E8B3F925206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1E87CA60D2A9463D97BDA6F46EFE9E56206",
+      "JobTitle": "Associate, Primary Servicing",
+      "Company": "SitusAMC",
+      "AccquisitionDate": "2023-2-4 3:36 AM",
+      "URL": "https://de.jobsyn.org/1E87CA60D2A9463D97BDA6F46EFE9E56206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0363B4986B974A788D408F0738EAAAD8206",
+      "JobTitle": "ODP/Reg E Coding Processor",
+      "Company": "Lake City Bank",
+      "AccquisitionDate": "2023-2-2 1:59 PM",
+      "URL": "https://de.jobsyn.org/0363B4986B974A788D408F0738EAAAD8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "932E564C18084EB48DF3175A1D2E81EF206",
+      "JobTitle": "Vice President of Women's Banking",
+      "Company": "Union Bank and Trust Company",
+      "AccquisitionDate": "2023-1-23 1:38 AM",
+      "URL": "https://de.jobsyn.org/932E564C18084EB48DF3175A1D2E81EF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EB6832ADF1904D89A0527E8EF63C932F206",
+      "JobTitle": "Community Lender",
+      "Company": "Horizon Bank",
+      "AccquisitionDate": "2022-12-16 12:57 PM",
+      "URL": "https://de.jobsyn.org/EB6832ADF1904D89A0527E8EF63C932F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CEBB3FE6ED834CA2B826292A6F2939D7206",
+      "JobTitle": "Associate, Primary Servicing",
+      "Company": "SitusAMC",
+      "AccquisitionDate": "2022-12-16 5:13 AM",
+      "URL": "https://de.jobsyn.org/CEBB3FE6ED834CA2B826292A6F2939D7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "309D126EE582416FB9653D8E6286E12F206",
+      "JobTitle": "Associate, Primary Servicing",
+      "Company": "SitusAMC",
+      "AccquisitionDate": "2022-12-6 3:31 AM",
+      "URL": "https://de.jobsyn.org/309D126EE582416FB9653D8E6286E12F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C2EFCBC5C88F489B8DD2F71F36DD0307206",
+      "JobTitle": "Associate, Primary Servicing",
+      "Company": "SitusAMC",
+      "AccquisitionDate": "2022-10-27 3:25 AM",
+      "URL": "https://de.jobsyn.org/C2EFCBC5C88F489B8DD2F71F36DD0307206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0E533A05805E447396BC5D3CCCE3B3A9206",
+      "JobTitle": "Associate, Primary Servicing",
+      "Company": "SitusAMC",
+      "AccquisitionDate": "2022-10-27 3:24 AM",
+      "URL": "https://de.jobsyn.org/0E533A05805E447396BC5D3CCCE3B3A9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "FA6DFB3EF20E4CF7B38D1C8C964A8439206",
+      "JobTitle": "Project Engineer Medical Device Manufacturing 3279DB",
+      "Company": "Verista",
+      "AccquisitionDate": "2023-3-10 10:02 PM",
+      "URL": "https://de.jobsyn.org/FA6DFB3EF20E4CF7B38D1C8C964A8439206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DF7599EB24C04979BB65E1E6D792B4AF206",
+      "JobTitle": "Clinical Engineering Supervisor",
+      "Company": "Agiliti Health",
+      "AccquisitionDate": "2023-3-9 1:25 AM",
+      "URL": "https://de.jobsyn.org/DF7599EB24C04979BB65E1E6D792B4AF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0154FF66B3A749D8BA310513BFF7F4C0206",
+      "JobTitle": "Senior Clinical System Designer",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-2 2:44 AM",
+      "URL": "https://de.jobsyn.org/0154FF66B3A749D8BA310513BFF7F4C0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3F2F4303EA1942CC83D8FD8EFB6212F6206",
+      "JobTitle": "Clinical Engineering Manager",
+      "Company": "Agiliti Health",
+      "AccquisitionDate": "2023-1-27 11:33 PM",
+      "URL": "https://de.jobsyn.org/3F2F4303EA1942CC83D8FD8EFB6212F6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "726290722691480DBB1847B92A19F44A206",
+      "JobTitle": "Biomedical Support Engineer",
+      "Company": "Change Healthcare",
+      "AccquisitionDate": "2023-1-13 3:06 AM",
+      "URL": "https://de.jobsyn.org/726290722691480DBB1847B92A19F44A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F86AF34368A4A74B1E9E21D9A58D93E206",
+      "JobTitle": "Senior Biological Formulation Engineer (Ph.D.)",
+      "Company": "Corteva Agriscience",
+      "AccquisitionDate": "2023-1-10 5:10 AM",
+      "URL": "https://de.jobsyn.org/6F86AF34368A4A74B1E9E21D9A58D93E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "81FCB248F764489D9465D4686E04F9CF206",
+      "JobTitle": "2023 Research & Development Fall Co-Op",
+      "Company": "J&J Family of Companies",
+      "AccquisitionDate": "2023-1-10 2:39 AM",
+      "URL": "https://de.jobsyn.org/81FCB248F764489D9465D4686E04F9CF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7255B060B324FFE97EFB38E504A542F206",
+      "JobTitle": "Lead Process Engineer (Life Sciences)",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2022-12-17 5:41 AM",
+      "URL": "https://de.jobsyn.org/B7255B060B324FFE97EFB38E504A542F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5DFBB91F49244A148F66DDCAA9E36B58206",
+      "JobTitle": "Engineering Tech Center Co-op FDE",
+      "Company": "Lilly",
+      "AccquisitionDate": "2022-10-29 5:27 AM",
+      "URL": "https://de.jobsyn.org/5DFBB91F49244A148F66DDCAA9E36B58206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "B63ADB0215D74064BFAF6A67687B4EA6206",
+      "JobTitle": "Supervisor, Clinical Operations",
+      "Company": "Evolent Health",
+      "AccquisitionDate": "2023-3-14 2:56 AM",
+      "URL": "https://de.jobsyn.org/B63ADB0215D74064BFAF6A67687B4EA6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A1521583AB834EC29725C1504F3EDAE9206",
+      "JobTitle": "Senior Medical Science Liaison - Gastroenterology / Immunology - LA, AR, OK, MS",
+      "Company": "Takeda Pharmaceuticals",
+      "AccquisitionDate": "2023-3-9 4:02 AM",
+      "URL": "https://de.jobsyn.org/A1521583AB834EC29725C1504F3EDAE9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8E08E1C33F9242BE961D0F8EBC5797E8206",
+      "JobTitle": "2023 Summer Internship - Applying ML methods in Oncology Clinical Pharmacology",
+      "Company": "Takeda Pharmaceuticals",
+      "AccquisitionDate": "2023-2-24 6:41 PM",
+      "URL": "https://de.jobsyn.org/8E08E1C33F9242BE961D0F8EBC5797E8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BD80C616E0C84B30909ABA2AEED503B0206",
+      "JobTitle": "Associate Director, Data Science Delivery",
+      "Company": "Merck",
+      "AccquisitionDate": "2023-2-2 5:13 AM",
+      "URL": "https://de.jobsyn.org/BD80C616E0C84B30909ABA2AEED503B0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6C7CD997203F48CDA7600137072411AB206",
+      "JobTitle": "Advisor, In Vivo Pharmacology",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-1-26 4:39 AM",
+      "URL": "https://de.jobsyn.org/6C7CD997203F48CDA7600137072411AB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "341FA11196F44E87B248C0B7505F901D206",
+      "JobTitle": "GEM Fellowship Program [PhD Intern]",
+      "Company": "Pacific Northwest National Laboratory",
+      "AccquisitionDate": "2023-1-24 3:11 AM",
+      "URL": "https://de.jobsyn.org/341FA11196F44E87B248C0B7505F901D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "95A2D75538C649BDA384A13FBA753EBD206",
+      "JobTitle": "Medical Science Liaison II (Immunology-PIDD/NM/Alpha-1 South Central)",
+      "Company": "Takeda Pharmaceuticals",
+      "AccquisitionDate": "2022-9-25 3:52 AM",
+      "URL": "https://de.jobsyn.org/95A2D75538C649BDA384A13FBA753EBD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E5D3705C387D4A39928B96AAFA31C5DB206",
+      "JobTitle": "Clinical Trial Transparency Associate",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-14 4:49 AM",
+      "URL": "https://de.jobsyn.org/E5D3705C387D4A39928B96AAFA31C5DB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3E3AAB9BA865441A86328DFCF81BF457206",
+      "JobTitle": "Precision Medicine Consultant - Southeast (GA, SC, West NC, East TN, East KY)",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-3-14 2:45 AM",
+      "URL": "https://de.jobsyn.org/3E3AAB9BA865441A86328DFCF81BF457206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "485631A817654E8985C775C09B4813B4206",
+      "JobTitle": "Medical Laboratory Scientist, Pathology Core Lab (FT-Evening)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-11 6:49 AM",
+      "URL": "https://de.jobsyn.org/485631A817654E8985C775C09B4813B4206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "05805A28B4F94293875F5F1DA86659EC206",
+      "JobTitle": "Medical Laboratory Scientist, Core Laboratory (FT-Evening)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-11 6:49 AM",
+      "URL": "https://de.jobsyn.org/05805A28B4F94293875F5F1DA86659EC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E235B4BD1EB540F8B58BB6EC9792DC95206",
+      "JobTitle": "Digital Evangalist \u2013 Life Science Industry (Med Device or Pharmaceutical)",
+      "Company": "Siemens Digital Industries Software",
+      "AccquisitionDate": "2023-3-11 12:05 AM",
+      "URL": "https://de.jobsyn.org/E235B4BD1EB540F8B58BB6EC9792DC95206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2A13028CBCA94171A1D902DFB4489D6C206",
+      "JobTitle": "Clinical Study Associate Manager (US Remote)",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:22 AM",
+      "URL": "https://de.jobsyn.org/2A13028CBCA94171A1D902DFB4489D6C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DCE7402A861A4038AEE6D2C68E9C79C9206",
+      "JobTitle": "Scientific Leadership Research Coordinator - Oncology",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:22 AM",
+      "URL": "https://de.jobsyn.org/DCE7402A861A4038AEE6D2C68E9C79C9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E2775EAC599344DD8C8D64B9419115F2206",
+      "JobTitle": "ADME Project Leader (Scientific Director)",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-3-11 3:28 AM",
+      "URL": "https://de.jobsyn.org/E2775EAC599344DD8C8D64B9419115F2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "992E1D0CC94B48AEB54BDC2ED35380EB206",
+      "JobTitle": "CRA I/II",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:22 AM",
+      "URL": "https://de.jobsyn.org/992E1D0CC94B48AEB54BDC2ED35380EB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DA8C9098FB2449F5A4B662CC9358573E206",
+      "JobTitle": "Senior TMF Specialist",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:22 AM",
+      "URL": "https://de.jobsyn.org/DA8C9098FB2449F5A4B662CC9358573E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C8CB90DD0D104B25A33B511BABF8149D206",
+      "JobTitle": "Site Management Assistant",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:21 AM",
+      "URL": "https://de.jobsyn.org/C8CB90DD0D104B25A33B511BABF8149D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B6B6ABDA630C4FF0ADE5DF4B240321AE206",
+      "JobTitle": "Site Management Assistant",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:21 AM",
+      "URL": "https://de.jobsyn.org/B6B6ABDA630C4FF0ADE5DF4B240321AE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "418B16AB3BF64214BC42D03C6B959F56206",
+      "JobTitle": "Clinical Study Manager II",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:22 AM",
+      "URL": "https://de.jobsyn.org/418B16AB3BF64214BC42D03C6B959F56206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3787C05DE4B445E9A3C16FFDBD2D1E2F206",
+      "JobTitle": "ADME Project Leader (Scientific Advisor)",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-3-11 3:28 AM",
+      "URL": "https://de.jobsyn.org/3787C05DE4B445E9A3C16FFDBD2D1E2F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AA1B6FDAA63A46FCA1A0893385368335206",
+      "JobTitle": "CRA II - Oncology/Multi-Therapeutics - Northeast",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:21 AM",
+      "URL": "https://de.jobsyn.org/AA1B6FDAA63A46FCA1A0893385368335206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "642380F7AA534D3BBBE9C28054C610D0206",
+      "JobTitle": "Senior CPM",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:22 AM",
+      "URL": "https://de.jobsyn.org/642380F7AA534D3BBBE9C28054C610D0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F47046D2AC264827B04A5E4D7A732925206",
+      "JobTitle": "Senior Clinical Data Lead",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:22 AM",
+      "URL": "https://de.jobsyn.org/F47046D2AC264827B04A5E4D7A732925206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DE25552729814BC2BEFA4E528F41141A206",
+      "JobTitle": "Sr Clinical  Data Coordinator",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-11 2:21 AM",
+      "URL": "https://de.jobsyn.org/DE25552729814BC2BEFA4E528F41141A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "7D804517F65D484DAF67E5A05E33A954206",
+      "JobTitle": "Surgical Technician - Cardio-Vascular OR",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-14 5:03 AM",
+      "URL": "https://de.jobsyn.org/7D804517F65D484DAF67E5A05E33A954206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6284BDEA586745E191739AFC711319B2206",
+      "JobTitle": "Sterile Processing Technician II - Full Time Evenings, University",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-11 6:49 AM",
+      "URL": "https://de.jobsyn.org/6284BDEA586745E191739AFC711319B2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "334CB2D2303A418D85BFC0EB7ABA2205206",
+      "JobTitle": "Echo Cardiac Technologist- FT/Day",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-11 6:49 AM",
+      "URL": "https://de.jobsyn.org/334CB2D2303A418D85BFC0EB7ABA2205206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7567EFB2CD734FC9A852D2853B68EC91206",
+      "JobTitle": "Emergency Dept Technician",
+      "Company": "Community Health Network",
+      "AccquisitionDate": "2023-3-10 5:07 AM",
+      "URL": "https://de.jobsyn.org/7567EFB2CD734FC9A852D2853B68EC91206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ADD01B4D290E4C8AB210CD853079C4F8206",
+      "JobTitle": "Pulmonary Technologist, FT-Days, Riley Hospital for Children",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-8 12:59 AM",
+      "URL": "https://de.jobsyn.org/ADD01B4D290E4C8AB210CD853079C4F8206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "06689005F249426DB52E687574A62FFA206",
+      "JobTitle": "CT Technologist- FT/Day",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-7 6:34 AM",
+      "URL": "https://de.jobsyn.org/06689005F249426DB52E687574A62FFA206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F8E97D69AC0948ED950676AB03BFDC89206",
+      "JobTitle": "CT Technologist- SWO",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-7 6:34 AM",
+      "URL": "https://de.jobsyn.org/F8E97D69AC0948ED950676AB03BFDC89206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2E988EA5049C428C8A380952FCECF16C206",
+      "JobTitle": "Clinical Imaging Specialist",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-7 6:34 AM",
+      "URL": "https://de.jobsyn.org/2E988EA5049C428C8A380952FCECF16C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FEAC5E91F3E04B1184E2764CB3F58088206",
+      "JobTitle": "Interventional Technologist",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-8 3:50 AM",
+      "URL": "https://de.jobsyn.org/FEAC5E91F3E04B1184E2764CB3F58088206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "593245EAD1A44890AFC5B5C7EA9FF4FB206",
+      "JobTitle": "Technologist-Interventional",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/593245EAD1A44890AFC5B5C7EA9FF4FB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A35E8F764F54490E80EA104F2C8DA5F9206",
+      "JobTitle": "Technologist-Interventional",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/A35E8F764F54490E80EA104F2C8DA5F9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9D6999A91C524A0DAEE44B8F96F2A3F6206",
+      "JobTitle": "Telemetry Technician",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:41 AM",
+      "URL": "https://de.jobsyn.org/9D6999A91C524A0DAEE44B8F96F2A3F6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0E0795E7A4544A5996250523562B3B0C206",
+      "JobTitle": "Technologist-Sonography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:44 AM",
+      "URL": "https://de.jobsyn.org/0E0795E7A4544A5996250523562B3B0C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0545B09F3B7C4460B96B43FF51A3E01D206",
+      "JobTitle": "Telemetry Technician",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:41 AM",
+      "URL": "https://de.jobsyn.org/0545B09F3B7C4460B96B43FF51A3E01D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DF9F1ED923834B6CB5EB7A509FF8A0D7206",
+      "JobTitle": "Technologist-Interventional",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/DF9F1ED923834B6CB5EB7A509FF8A0D7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2926944C131240578221C6E58E6FA61F206",
+      "JobTitle": "Emergency Medical Technician (EMT) - Operator ALS/BLS",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:38 AM",
+      "URL": "https://de.jobsyn.org/2926944C131240578221C6E58E6FA61F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "961D50687B684D6D84A8FA71D6E23DFB206",
+      "JobTitle": "Technologist-Interventional",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:44 AM",
+      "URL": "https://de.jobsyn.org/961D50687B684D6D84A8FA71D6E23DFB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DA48F3D6DBEE4A7FA3D9DE8B834E0B00206",
+      "JobTitle": "Technologist-Sonography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:41 AM",
+      "URL": "https://de.jobsyn.org/DA48F3D6DBEE4A7FA3D9DE8B834E0B00206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D8D3DE6716494A948B932214AFCE670E206",
+      "JobTitle": "Sonography Technologist",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:40 AM",
+      "URL": "https://de.jobsyn.org/D8D3DE6716494A948B932214AFCE670E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22B2DF4FB76945F98111FAEDCB7BD8A6206",
+      "JobTitle": "Technologist-Sonography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:44 AM",
+      "URL": "https://de.jobsyn.org/22B2DF4FB76945F98111FAEDCB7BD8A6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7114D377940A4E0A96F23C790CBB9111206",
+      "JobTitle": "Clinical Perfusionist",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-3 6:59 AM",
+      "URL": "https://de.jobsyn.org/7114D377940A4E0A96F23C790CBB9111206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C1DA4959620D41ACB9DA3442DEAC559C206",
+      "JobTitle": "Cardiovascular Technician Heart Hospital",
+      "Company": "Community Health Network",
+      "AccquisitionDate": "2023-3-3 3:17 AM",
+      "URL": "https://de.jobsyn.org/C1DA4959620D41ACB9DA3442DEAC559C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "69E46855E25045AE842A6B14AE1E87FD206",
+      "JobTitle": "Diagnostic Radiologic Technologist",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-2 7:32 AM",
+      "URL": "https://de.jobsyn.org/69E46855E25045AE842A6B14AE1E87FD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "606170F776134BDF9631A275E15E0B01206",
+      "JobTitle": "Diagnostic Radiologic Technologist",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-2 7:32 AM",
+      "URL": "https://de.jobsyn.org/606170F776134BDF9631A275E15E0B01206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EFE447528A7147C6B1E31817C3A46A56206",
+      "JobTitle": "Clinical Perfusionist",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-1 6:05 AM",
+      "URL": "https://de.jobsyn.org/EFE447528A7147C6B1E31817C3A46A56206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "5AA1F2DB82F2442188CEFBACD67CFEDA206",
+      "JobTitle": "Cytotechnologist, Cytopathology (PT-Day)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-1-4 7:44 AM",
+      "URL": "https://de.jobsyn.org/5AA1F2DB82F2442188CEFBACD67CFEDA206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "F34D6C07DD6344A68603E406AA6210CC206",
+      "JobTitle": "Sonographer",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-2-26 6:37 AM",
+      "URL": "https://de.jobsyn.org/F34D6C07DD6344A68603E406AA6210CC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FBCE239353B04A6BB3CE5FC009D44300206",
+      "JobTitle": "Sonographer- OB-GYN, PRN",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:43 AM",
+      "URL": "https://de.jobsyn.org/FBCE239353B04A6BB3CE5FC009D44300206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "334CB2D2303A418D85BFC0EB7ABA2205206",
+      "JobTitle": "Echo Cardiac Technologist- FT/Day",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-11 6:49 AM",
+      "URL": "https://de.jobsyn.org/334CB2D2303A418D85BFC0EB7ABA2205206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2E0BB4FC7AF948C899E742F8AE0663B1206",
+      "JobTitle": "Ultrasound Vascular Technologist",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2022-4-8 9:25 AM",
+      "URL": "https://de.jobsyn.org/2E0BB4FC7AF948C899E742F8AE0663B1206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8D34FF53E0514DB1870C8BF747EA453C206",
+      "JobTitle": "Ultrasound Technologist- (FT/Day-M-F 8a-430p)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2022-10-5 8:40 AM",
+      "URL": "https://de.jobsyn.org/8D34FF53E0514DB1870C8BF747EA453C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BCACFFBD508E40018E665D409A7CBB63206",
+      "JobTitle": "Ultrasound Vascular Technologist- FT (11AM to 7:30 PM M-F)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-2-25 6:08 AM",
+      "URL": "https://de.jobsyn.org/BCACFFBD508E40018E665D409A7CBB63206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "49ED39A52A1B4675A9E219B7EE612A33206",
+      "JobTitle": "Ultrasound Technologist- FT",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-2-1 11:04 PM",
+      "URL": "https://de.jobsyn.org/49ED39A52A1B4675A9E219B7EE612A33206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "338F8C89CF6347FB975476BD3863EC9F206",
+      "JobTitle": "Ultrasound Technologist (MFM )- Relocation and Sign On Bonus Incentive Available!",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2022-12-28 1:43 AM",
+      "URL": "https://de.jobsyn.org/338F8C89CF6347FB975476BD3863EC9F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "98A244ED2F294502B2534322FE57D2E2206",
+      "JobTitle": "Sonography Technologist- Maternal Medicine - OB-GYN",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:43 AM",
+      "URL": "https://de.jobsyn.org/98A244ED2F294502B2534322FE57D2E2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F0388F15777E4D20B340F0A14FF2540B206",
+      "JobTitle": "Ultrasound Technologist- (FT/Nights)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-1-7 7:35 AM",
+      "URL": "https://de.jobsyn.org/F0388F15777E4D20B340F0A14FF2540B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4B70CB57666B49DB8757D0F0671D4A4A206",
+      "JobTitle": "Ultrasound Technologist- (Weekend Only)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-1-4 7:44 AM",
+      "URL": "https://de.jobsyn.org/4B70CB57666B49DB8757D0F0671D4A4A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "512DFFD831074A588632E344B1EA53E1206",
+      "JobTitle": "Ultrasound Technologist- (PRN/Rotating)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2022-9-6 10:11 PM",
+      "URL": "https://de.jobsyn.org/512DFFD831074A588632E344B1EA53E1206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "81CE906DE4D34DBEBAB26EF9744DF29F206",
+      "JobTitle": "Ultrasound Technologist- (Part time/Night)",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2022-8-13 7:23 AM",
+      "URL": "https://de.jobsyn.org/81CE906DE4D34DBEBAB26EF9744DF29F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8BF629CAE85840D7BCB7A67F811648B5206",
+      "JobTitle": "Ultrasound Technologist",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2022-4-7 12:50 AM",
+      "URL": "https://de.jobsyn.org/8BF629CAE85840D7BCB7A67F811648B5206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F2694EA166B940AEB02F387CE24C3E22206",
+      "JobTitle": "Imaging Services Supervisor- FT/Day",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-9 6:49 AM",
+      "URL": "https://de.jobsyn.org/F2694EA166B940AEB02F387CE24C3E22206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C711127FBFC54FB4B23EF087414C151B206",
+      "JobTitle": "Team Lead-Imaging Services- FT/Evening",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2022-11-24 7:59 AM",
+      "URL": "https://de.jobsyn.org/C711127FBFC54FB4B23EF087414C151B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4C45261866F245D996CAF623E44F0B51206",
+      "JobTitle": "Echo Technologist",
+      "Company": "Community Health Network",
+      "AccquisitionDate": "2022-11-5 6:16 AM",
+      "URL": "https://de.jobsyn.org/4C45261866F245D996CAF623E44F0B51206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DA48F3D6DBEE4A7FA3D9DE8B834E0B00206",
+      "JobTitle": "Technologist-Sonography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:41 AM",
+      "URL": "https://de.jobsyn.org/DA48F3D6DBEE4A7FA3D9DE8B834E0B00206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D8D3DE6716494A948B932214AFCE670E206",
+      "JobTitle": "Sonography Technologist",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:40 AM",
+      "URL": "https://de.jobsyn.org/D8D3DE6716494A948B932214AFCE670E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1A663CBB8E1A49689081FABEBD093B6A206",
+      "JobTitle": "Clinical Applications Specialist, General Imaging Ultrasound",
+      "Company": "GE Healthcare",
+      "AccquisitionDate": "2023-2-14 3:51 AM",
+      "URL": "https://de.jobsyn.org/1A663CBB8E1A49689081FABEBD093B6A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3EA43E35E45B4DDAAC48A46650709402206",
+      "JobTitle": "Medical Instrument Technician (Echocardiography)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-12-21 11:52 PM",
+      "URL": "https://de.jobsyn.org/3EA43E35E45B4DDAAC48A46650709402206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9BB7B9AC5BCA44FC8F4607DD4DC814A2206",
+      "JobTitle": "Medical Technologist II (2nd Shift)-$7,500 Sign-on Bonus",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-9 4:04 AM",
+      "URL": "https://de.jobsyn.org/9BB7B9AC5BCA44FC8F4607DD4DC814A2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0E0795E7A4544A5996250523562B3B0C206",
+      "JobTitle": "Technologist-Sonography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:44 AM",
+      "URL": "https://de.jobsyn.org/0E0795E7A4544A5996250523562B3B0C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22B2DF4FB76945F98111FAEDCB7BD8A6206",
+      "JobTitle": "Technologist-Sonography",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:44 AM",
+      "URL": "https://de.jobsyn.org/22B2DF4FB76945F98111FAEDCB7BD8A6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C1DA4959620D41ACB9DA3442DEAC559C206",
+      "JobTitle": "Cardiovascular Technician Heart Hospital",
+      "Company": "Community Health Network",
+      "AccquisitionDate": "2023-3-3 3:17 AM",
+      "URL": "https://de.jobsyn.org/C1DA4959620D41ACB9DA3442DEAC559C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "AC6B282D2B1E447C8E30097283465666206",
+      "JobTitle": "Business Intelligence Analyst",
+      "Company": "Community Health Network",
+      "AccquisitionDate": "2022-11-19 2:41 AM",
+      "URL": "https://de.jobsyn.org/AC6B282D2B1E447C8E30097283465666206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "64AC330B216943EB9B5671F4E69F020C206",
+      "JobTitle": "Analyst Business Intelligence III",
+      "Company": "Sedgwick",
+      "AccquisitionDate": "2022-12-1 5:47 AM",
+      "URL": "https://de.jobsyn.org/64AC330B216943EB9B5671F4E69F020C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8FB145F2631A4ACD9FD3791B4FA989CA206",
+      "JobTitle": "Data Analyst - Business Intelligence",
+      "Company": "Guidehouse",
+      "AccquisitionDate": "2023-3-8 2:37 AM",
+      "URL": "https://de.jobsyn.org/8FB145F2631A4ACD9FD3791B4FA989CA206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5511E32187C04C6A9F661614C6D980F4206",
+      "JobTitle": "Business Intelligence Principal Analyst _3116",
+      "Company": "Sevita",
+      "AccquisitionDate": "2023-3-3 5:13 AM",
+      "URL": "https://de.jobsyn.org/5511E32187C04C6A9F661614C6D980F4206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C66DA9105D4E4F43A57E911240FE2663206",
+      "JobTitle": "Senior Business Intelligence Analyst/Visualization Developer",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-2-1 6:25 AM",
+      "URL": "https://de.jobsyn.org/C66DA9105D4E4F43A57E911240FE2663206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "831A4E25E4F7459EA333B1F4D545D34C206",
+      "JobTitle": "Sr. Business Intelligence Analyst - Specialized Solutions (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:06 AM",
+      "URL": "https://de.jobsyn.org/831A4E25E4F7459EA333B1F4D545D34C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DA12708C4A544CB5B204616D466E0030206",
+      "JobTitle": "Analyst Competitive Intelligence",
+      "Company": "Trellix",
+      "AccquisitionDate": "2022-12-29 2:41 AM",
+      "URL": "https://de.jobsyn.org/DA12708C4A544CB5B204616D466E0030206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F39ADFAAB2640959FF25DF472040127206",
+      "JobTitle": "Civilian Analyst I",
+      "Company": "Indy Gov",
+      "AccquisitionDate": "2023-1-30 10:19 PM",
+      "URL": "https://de.jobsyn.org/6F39ADFAAB2640959FF25DF472040127206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "41C1B487380C4147958532ACCFB7BC03206",
+      "JobTitle": "Business Intelligence Developer",
+      "Company": "Medxcel Facilities Management",
+      "AccquisitionDate": "2023-3-14 1:48 AM",
+      "URL": "https://de.jobsyn.org/41C1B487380C4147958532ACCFB7BC03206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "71AAAB0A658B4E4E817EEEC8664F6E98206",
+      "JobTitle": "Senior Analyst Competitive Intelligence",
+      "Company": "Trellix",
+      "AccquisitionDate": "2022-12-29 2:40 AM",
+      "URL": "https://de.jobsyn.org/71AAAB0A658B4E4E817EEEC8664F6E98206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DDA805473F944B91BEBDC6A67A29288F206",
+      "JobTitle": "Actuarial Analyst",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-21 1:43 AM",
+      "URL": "https://de.jobsyn.org/DDA805473F944B91BEBDC6A67A29288F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EB247EA94064CB2A4D4AD44EB1D8AB6206",
+      "JobTitle": "Data  Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:07 AM",
+      "URL": "https://de.jobsyn.org/7EB247EA94064CB2A4D4AD44EB1D8AB6206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9D5CE90C3B1F46EDA97F18D6D1A085FF206",
+      "JobTitle": "Finance Data Reporting Analyst Sr",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2022-10-18 4:44 AM",
+      "URL": "https://de.jobsyn.org/9D5CE90C3B1F46EDA97F18D6D1A085FF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FD53BC030EFC4CE1AC69F693393D4022206",
+      "JobTitle": "Business Information Analyst II",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-11 4:47 AM",
+      "URL": "https://de.jobsyn.org/FD53BC030EFC4CE1AC69F693393D4022206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B02C67B8EA394B4692C12D2BF9D653E7206",
+      "JobTitle": "Marketing Data Analyst",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-7 3:38 AM",
+      "URL": "https://de.jobsyn.org/B02C67B8EA394B4692C12D2BF9D653E7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B957C6C803B94BCFA365732BB0B3F27A206",
+      "JobTitle": "Data Analyst Intern Graduate Level \u2013 Summer 2023",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2022-10-8 6:44 AM",
+      "URL": "https://de.jobsyn.org/B957C6C803B94BCFA365732BB0B3F27A206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8199AD8718194A0DB5944E74F69A785E206",
+      "JobTitle": "Senior BI (Business Intelligence) Developer (2690874)",
+      "Company": "Key Benefit Administrators Inc.",
+      "AccquisitionDate": "2022-12-16 12:57 PM",
+      "URL": "https://de.jobsyn.org/8199AD8718194A0DB5944E74F69A785E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "37351428A85A460984DAE01F7F674B97206",
+      "JobTitle": "Senior Risk & Regulatory Intelligence Analyst",
+      "Company": "Highmark Health",
+      "AccquisitionDate": "2023-1-28 3:39 AM",
+      "URL": "https://de.jobsyn.org/37351428A85A460984DAE01F7F674B97206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "79DBEFC0BF2142FC9C0131FB17FEDDEC206",
+      "JobTitle": "Bus Info Analyst I",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-2-15 6:24 AM",
+      "URL": "https://de.jobsyn.org/79DBEFC0BF2142FC9C0131FB17FEDDEC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "79E21290000A4098BE73D50CC84BF299206",
+      "JobTitle": "Data Steward 1",
+      "Company": "Marriott",
+      "AccquisitionDate": "2023-2-2 3:02 AM",
+      "URL": "https://de.jobsyn.org/79E21290000A4098BE73D50CC84BF299206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CA5BEC4840234BD1BBC8D738933C5873206",
+      "JobTitle": "Business Analyst Intern II Graduate Level \u2013 Summer 2023",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2022-10-14 5:09 AM",
+      "URL": "https://de.jobsyn.org/CA5BEC4840234BD1BBC8D738933C5873206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DE024DC64123488F881F4535A2F5737F206",
+      "JobTitle": "Business Analyst Intern Undergraduate Level \u2013 Summer 2023",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2022-10-8 6:45 AM",
+      "URL": "https://de.jobsyn.org/DE024DC64123488F881F4535A2F5737F206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C2928C46FD464B05AA1E9CAC13DECA7C206",
+      "JobTitle": "Global BI Business Partner",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-1-18 4:57 AM",
+      "URL": "https://de.jobsyn.org/C2928C46FD464B05AA1E9CAC13DECA7C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "598D0BBD1094438094D973291BAF8BFC206",
+      "JobTitle": "Data Governance Analyst",
+      "Company": "Capgemini",
+      "AccquisitionDate": "2022-7-23 3:33 AM",
+      "URL": "https://de.jobsyn.org/598D0BBD1094438094D973291BAF8BFC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "516D1DD32EEF427B973CF1E669CC90D4206",
+      "JobTitle": "Director of Competitive Intelligence",
+      "Company": "U.S. Bank",
+      "AccquisitionDate": "2023-1-4 10:01 PM",
+      "URL": "https://de.jobsyn.org/516D1DD32EEF427B973CF1E669CC90D4206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "5B6A404443384502BDAAFD2EBD7C3AA3206",
+      "JobTitle": "Print Operator",
+      "Company": "Doxim",
+      "AccquisitionDate": "2023-2-10 12:49 AM",
+      "URL": "https://de.jobsyn.org/5B6A404443384502BDAAFD2EBD7C3AA3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B738A618294A4D209D62F39F9E100806206",
+      "JobTitle": "Senior Data Center Operations Analyst \u2013 Unisys",
+      "Company": "Ensono",
+      "AccquisitionDate": "2022-12-29 5:42 AM",
+      "URL": "https://de.jobsyn.org/B738A618294A4D209D62F39F9E100806206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B3CC949FB7454537A2D3DD66CD9B3998206",
+      "JobTitle": "Automation Operator",
+      "Company": "The Walt Disney Company",
+      "AccquisitionDate": "2022-12-16 6:47 AM",
+      "URL": "https://de.jobsyn.org/B3CC949FB7454537A2D3DD66CD9B3998206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22543B17BB6344789C8AA82A7714D543206",
+      "JobTitle": "CO-Associate System Operator-003141",
+      "Company": "AES",
+      "AccquisitionDate": "2022-9-10 6:54 AM",
+      "URL": "https://de.jobsyn.org/22543B17BB6344789C8AA82A7714D543206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "B19CF20F8BF84A1192905DE67F6C0BE5206",
+      "JobTitle": "Senior Principal Consultant-US-NSG",
+      "Company": "Oracle",
+      "AccquisitionDate": "2022-12-15 4:41 AM",
+      "URL": "https://de.jobsyn.org/B19CF20F8BF84A1192905DE67F6C0BE5206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "79EA2C4D569249D88420BB73E697A397206",
+      "JobTitle": "Data Architect, SQL Database Developer",
+      "Company": "WM",
+      "AccquisitionDate": "2023-3-14 3:01 AM",
+      "URL": "https://de.jobsyn.org/79EA2C4D569249D88420BB73E697A397206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AFEEF7456DF147B58FD68066541D4EFF206",
+      "JobTitle": "Embedded Software Architect",
+      "Company": "Meta",
+      "AccquisitionDate": "2023-2-16 2:42 AM",
+      "URL": "https://de.jobsyn.org/AFEEF7456DF147B58FD68066541D4EFF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E595DFE14E8741BEA166B4C101FABBC5206",
+      "JobTitle": "Expert Infrastructure Architect",
+      "Company": "Discover",
+      "AccquisitionDate": "2023-1-25 3:19 AM",
+      "URL": "https://de.jobsyn.org/E595DFE14E8741BEA166B4C101FABBC5206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1B99718D5AA4405895B9C6B173E872F0206",
+      "JobTitle": "Delivery Architect - Parsec Traksys Consultant",
+      "Company": "Capgemini",
+      "AccquisitionDate": "2023-3-1 4:14 AM",
+      "URL": "https://de.jobsyn.org/1B99718D5AA4405895B9C6B173E872F0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9548AC06312F4936A7E36943F204D23F206",
+      "JobTitle": "3D Simulation Solutions Architect",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/9548AC06312F4936A7E36943F204D23F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1BFA7F1DF76A4E949118A0B9EFCE3AD9206",
+      "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-18 3:59 AM",
+      "URL": "https://de.jobsyn.org/1BFA7F1DF76A4E949118A0B9EFCE3AD9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1045793250774AC38846DA4ED4D4ABDD206",
+      "JobTitle": "Multi-Cloud Enterprise Architect (1979)",
+      "Company": "SMX",
+      "AccquisitionDate": "2022-11-11 4:28 AM",
+      "URL": "https://de.jobsyn.org/1045793250774AC38846DA4ED4D4ABDD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "969C4C6C3437486EBC927F8D40A53D47206",
+      "JobTitle": "Senior Application Architect (Remote)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-11 12:33 AM",
+      "URL": "https://de.jobsyn.org/969C4C6C3437486EBC927F8D40A53D47206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0E93D1F69EE74CE7882D5A85EBEC4014206",
+      "JobTitle": "AR Graphics Architect",
+      "Company": "Meta",
+      "AccquisitionDate": "2022-12-15 3:43 AM",
+      "URL": "https://de.jobsyn.org/0E93D1F69EE74CE7882D5A85EBEC4014206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "04386FD6D5F6467AB75872A81054F99C206",
+      "JobTitle": "2023 College Graduate - Computer Engineering - PhD",
+      "Company": "Intel",
+      "AccquisitionDate": "2023-1-20 2:29 AM",
+      "URL": "https://de.jobsyn.org/04386FD6D5F6467AB75872A81054F99C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2CD7E37B65464DC68FE95A1C0FD3BFD6206",
+      "JobTitle": "Lead Application & Product Architect - Quality Architect-RPA-remote",
+      "Company": "Wolters Kluwer",
+      "AccquisitionDate": "2022-12-20 6:10 AM",
+      "URL": "https://de.jobsyn.org/2CD7E37B65464DC68FE95A1C0FD3BFD6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "303A1F0F73F34AEFAF3C682A23D4BDBC206",
+      "JobTitle": "Embedded Software Engineer",
+      "Company": "Meta",
+      "AccquisitionDate": "2023-1-20 6:08 AM",
+      "URL": "https://de.jobsyn.org/303A1F0F73F34AEFAF3C682A23D4BDBC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DF6C6D8BA4F743DBAB985B59D6F26143206",
+      "JobTitle": "Lead Solutions Architect Genesys PureCloud (Home office / Remote / Work from home eligible)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-11-3 12:35 AM",
+      "URL": "https://de.jobsyn.org/DF6C6D8BA4F743DBAB985B59D6F26143206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7907205E799D47D8ABD92BF959C8E64D206",
+      "JobTitle": "Fabric Architect",
+      "Company": "Intel",
+      "AccquisitionDate": "2022-9-21 7:12 AM",
+      "URL": "https://de.jobsyn.org/7907205E799D47D8ABD92BF959C8E64D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7FBA65AF3384C6DBD8115563E80FDB9206",
+      "JobTitle": "Sr. Solutions Architect (Secret) (1970)",
+      "Company": "SMX",
+      "AccquisitionDate": "2022-11-5 5:51 AM",
+      "URL": "https://de.jobsyn.org/B7FBA65AF3384C6DBD8115563E80FDB9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CBB6190EC9E446DCB9555C08AC15EE57206",
+      "JobTitle": "Sr. Solutions Architect (Secret eligibility) (1933)",
+      "Company": "SMX",
+      "AccquisitionDate": "2022-10-25 3:39 AM",
+      "URL": "https://de.jobsyn.org/CBB6190EC9E446DCB9555C08AC15EE57206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A472113E128D40F7B19F2A5FBEFE65B3206",
+      "JobTitle": "Sr. Security Architect",
+      "Company": "iCIMS",
+      "AccquisitionDate": "2023-3-3 2:46 AM",
+      "URL": "https://de.jobsyn.org/A472113E128D40F7B19F2A5FBEFE65B3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AFA640FB8E6844679ABAD341DF1038A4206",
+      "JobTitle": "AWS Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-4-21 3:50 AM",
+      "URL": "https://de.jobsyn.org/AFA640FB8E6844679ABAD341DF1038A4206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BA0EFB226ED84B929731761F412CE0A0206",
+      "JobTitle": "Architect",
+      "Company": "Rose International, Inc.",
+      "AccquisitionDate": "2023-3-2 2:29 PM",
+      "URL": "https://de.jobsyn.org/BA0EFB226ED84B929731761F412CE0A0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C919A4420F87408E918C9B9FE03D2E22206",
+      "JobTitle": "Systems Engineer III (Citrix)",
+      "Company": "Old Dominion Freight Line",
+      "AccquisitionDate": "2023-1-25 6:27 AM",
+      "URL": "https://de.jobsyn.org/C919A4420F87408E918C9B9FE03D2E22206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0D939AAD59E4A9A8B67FA708E5F37FB206",
+      "JobTitle": "Digital Engineer/MBSE Solutions Architect (1332)",
+      "Company": "SMX",
+      "AccquisitionDate": "2022-7-22 5:38 AM",
+      "URL": "https://de.jobsyn.org/A0D939AAD59E4A9A8B67FA708E5F37FB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "17A4976A7E404BFFA32B38F4E388AE5E206",
+      "JobTitle": "Enterprise Architect",
+      "Company": "Capgemini",
+      "AccquisitionDate": "2020-9-5 4:42 AM",
+      "URL": "https://de.jobsyn.org/17A4976A7E404BFFA32B38F4E388AE5E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "75068015C84843BEA94AA3CF7A25BBEC206",
+      "JobTitle": "Principal Application Architect - Fraud and Risk",
+      "Company": "Discover",
+      "AccquisitionDate": "2023-1-25 3:15 AM",
+      "URL": "https://de.jobsyn.org/75068015C84843BEA94AA3CF7A25BBEC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3B02F7891D6149B2A24A136FD1EBBB16206",
+      "JobTitle": "Principal Infrastructure Engineer ( GCP Cloud )",
+      "Company": "Discover",
+      "AccquisitionDate": "2023-1-25 3:11 AM",
+      "URL": "https://de.jobsyn.org/3B02F7891D6149B2A24A136FD1EBBB16206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "F10CD88C0B244C639D65FAF2625258DF206",
+      "JobTitle": "Data Specialist",
+      "Company": "Asphalt Materials, Inc",
+      "AccquisitionDate": "2022-5-17 12:48 PM",
+      "URL": "https://de.jobsyn.org/F10CD88C0B244C639D65FAF2625258DF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EA94915D951C42B7BCDCC7D3AC422C26206",
+      "JobTitle": "Information Technology Specialist",
+      "Company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+      "AccquisitionDate": "2023-3-14 6:09 AM",
+      "URL": "https://de.jobsyn.org/EA94915D951C42B7BCDCC7D3AC422C26206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "175719B3E35D4DBC97205DA8324A0FB7206",
+      "JobTitle": "Information Technology Specialist",
+      "Company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
+      "AccquisitionDate": "2023-3-14 6:09 AM",
+      "URL": "https://de.jobsyn.org/175719B3E35D4DBC97205DA8324A0FB7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C081272781844A5681BB23EAF7E9251C206",
+      "JobTitle": "Customer Service Technical Specialist",
+      "Company": "Wolters Kluwer",
+      "AccquisitionDate": "2023-2-3 3:27 AM",
+      "URL": "https://de.jobsyn.org/C081272781844A5681BB23EAF7E9251C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AFF115926C5A4BCA92446A0342CE619D206",
+      "JobTitle": "Technology Support Specialist MacOS",
+      "Company": "Trellix",
+      "AccquisitionDate": "2023-3-5 3:29 AM",
+      "URL": "https://de.jobsyn.org/AFF115926C5A4BCA92446A0342CE619D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BFCB54674315428F993FA39143D9AE99206",
+      "JobTitle": "IT Business Analyst",
+      "Company": "ICF Consulting Group, Inc.",
+      "AccquisitionDate": "2023-3-7 12:38 AM",
+      "URL": "https://de.jobsyn.org/BFCB54674315428F993FA39143D9AE99206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "835CAFC092454527B3051B6AD6350CDB206",
+      "JobTitle": "IT Business Analyst",
+      "Company": "ICF Consulting Group, Inc.",
+      "AccquisitionDate": "2023-3-7 12:39 AM",
+      "URL": "https://de.jobsyn.org/835CAFC092454527B3051B6AD6350CDB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E14961D996B64387B5C7188A7B035111206",
+      "JobTitle": "Application Support Analyst",
+      "Company": "Rose International, Inc.",
+      "AccquisitionDate": "2022-12-24 1:52 PM",
+      "URL": "https://de.jobsyn.org/E14961D996B64387B5C7188A7B035111206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D4461C4B6C6E4C549B9AA197B974FA21206",
+      "JobTitle": "Manager, Software Solutions Specialist - DAS GPS",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-23 2:05 AM",
+      "URL": "https://de.jobsyn.org/D4461C4B6C6E4C549B9AA197B974FA21206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1F723C9C208C46B2BBA7C65619BE62D4206",
+      "JobTitle": "IT Agile Business Analyst / Configuration Specialist",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-3-3 4:32 AM",
+      "URL": "https://de.jobsyn.org/1F723C9C208C46B2BBA7C65619BE62D4206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "69EDFD4831834837B5339D8616457B6F206",
+      "JobTitle": "Senior Decision Support Specialist",
+      "Company": "Highmark Health",
+      "AccquisitionDate": "2022-6-21 2:53 AM",
+      "URL": "https://de.jobsyn.org/69EDFD4831834837B5339D8616457B6F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE076C6C7F774D77B08C136307FB97B6206",
+      "JobTitle": "Service Specialist II or Sr. - Smart Buildings / Automation - Flex Force",
+      "Company": "Siemens",
+      "AccquisitionDate": "2023-2-7 9:31 PM",
+      "URL": "https://de.jobsyn.org/CE076C6C7F774D77B08C136307FB97B6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "70C02C7C877340D9A10236920B5602D9206",
+      "JobTitle": "Systems Specialist ~ Smart Buildings / Automation ~ Indianapolis Metro",
+      "Company": "Siemens",
+      "AccquisitionDate": "2023-1-20 12:35 AM",
+      "URL": "https://de.jobsyn.org/70C02C7C877340D9A10236920B5602D9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2FFC2E5B48654357A0BA03993B08230A206",
+      "JobTitle": "Field Service Specialist",
+      "Company": "Veolia North America",
+      "AccquisitionDate": "2022-11-5 11:07 AM",
+      "URL": "https://de.jobsyn.org/2FFC2E5B48654357A0BA03993B08230A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E4A06253C2A94896BFDC3B72D2BC47B9206",
+      "JobTitle": "Consulting Technical Manager",
+      "Company": "Oracle",
+      "AccquisitionDate": "2023-1-29 2:55 AM",
+      "URL": "https://de.jobsyn.org/E4A06253C2A94896BFDC3B72D2BC47B9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C196ED975694498AB678CB312CF2EF28206",
+      "JobTitle": "Undergrad Technical Intern - User Experience Internship",
+      "Company": "Pacific Northwest National Laboratory",
+      "AccquisitionDate": "2023-3-9 2:34 AM",
+      "URL": "https://de.jobsyn.org/C196ED975694498AB678CB312CF2EF28206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0E67515886554A57B69991779B200F32206",
+      "JobTitle": "Technical Spec",
+      "Company": "Ricoh Americas Corporation",
+      "AccquisitionDate": "2023-2-21 2:59 AM",
+      "URL": "https://de.jobsyn.org/0E67515886554A57B69991779B200F32206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C385DFD70C1240CFACA8E25A70BED7EB206",
+      "JobTitle": "Junior Operational Technology Cybersecurity Technologist - REMOTE",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-14 5:25 AM",
+      "URL": "https://de.jobsyn.org/C385DFD70C1240CFACA8E25A70BED7EB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A60B7FDF74BF4E55A0285914CFDE2485206",
+      "JobTitle": "NOC Engineer",
+      "Company": "Xylem",
+      "AccquisitionDate": "2023-3-14 5:01 AM",
+      "URL": "https://de.jobsyn.org/A60B7FDF74BF4E55A0285914CFDE2485206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "29419DBF2B7B4BFAA5AABF60186A99C2206",
+      "JobTitle": "Technical Specialist, Production",
+      "Company": "Ricoh Americas Corporation",
+      "AccquisitionDate": "2023-3-14 3:29 AM",
+      "URL": "https://de.jobsyn.org/29419DBF2B7B4BFAA5AABF60186A99C2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DCEAACCBEF924523B5CC2CC31E0E4902206",
+      "JobTitle": "Solution Analyst",
+      "Company": "Oracle",
+      "AccquisitionDate": "2023-3-14 3:10 AM",
+      "URL": "https://de.jobsyn.org/DCEAACCBEF924523B5CC2CC31E0E4902206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5DCEC2D18BAE425D96B6356CEC3C2C99206",
+      "JobTitle": "IT SPECIALIST (APPSW)",
+      "Company": "U.S. Marine Corps",
+      "AccquisitionDate": "2023-3-14 1:43 AM",
+      "URL": "https://de.jobsyn.org/5DCEC2D18BAE425D96B6356CEC3C2C99206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C5D2298980934CF4B23C29E2DE6BF8C0206",
+      "JobTitle": "Desktop Support Technician",
+      "Company": "Community Health Network",
+      "AccquisitionDate": "2023-3-14 2:58 AM",
+      "URL": "https://de.jobsyn.org/C5D2298980934CF4B23C29E2DE6BF8C0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7613DE0B0FF34C6BBD51D4AE56BD8F92206",
+      "JobTitle": "Inventory Specialist",
+      "Company": "Medxcel Facilities Management",
+      "AccquisitionDate": "2023-3-14 1:48 AM",
+      "URL": "https://de.jobsyn.org/7613DE0B0FF34C6BBD51D4AE56BD8F92206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "920FA43E9D1A43F69EA7BBB6BCC3A386206",
+      "JobTitle": "IT SPECIALIST (APPSW)",
+      "Company": "U.S. Marine Corps",
+      "AccquisitionDate": "2023-3-14 1:43 AM",
+      "URL": "https://de.jobsyn.org/920FA43E9D1A43F69EA7BBB6BCC3A386206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "F90521A16DC34F19A9C639253F2ADCB3206",
+      "JobTitle": "Document Controls Specialist II",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/F90521A16DC34F19A9C639253F2ADCB3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B4A4901F95D14D62B94E0D1B98C6425A206",
+      "JobTitle": "Document Controls Specialist II",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-8 3:53 PM",
+      "URL": "https://de.jobsyn.org/B4A4901F95D14D62B94E0D1B98C6425A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "CF5911F105744D3497550755D3998A3B206",
+      "JobTitle": "Principal Engineer - Aerospace Power Distribution",
+      "Company": "Eaton Corporation",
+      "AccquisitionDate": "2023-2-21 5:10 AM",
+      "URL": "https://de.jobsyn.org/CF5911F105744D3497550755D3998A3B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AE91B3C5ADA649EDA2920E073FE2EE3D206",
+      "JobTitle": "Design Engineer",
+      "Company": "Belcan",
+      "AccquisitionDate": "2022-2-3 8:36 AM",
+      "URL": "https://de.jobsyn.org/AE91B3C5ADA649EDA2920E073FE2EE3D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6F87B18814B34EEFBA3F41530CD06B12206",
+      "JobTitle": "Supplier Quality Engineer \u2013 Space",
+      "Company": "Supplier Management Solutions, LLC",
+      "AccquisitionDate": "2023-2-21 6:37 AM",
+      "URL": "https://de.jobsyn.org/6F87B18814B34EEFBA3F41530CD06B12206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "89784C97D5764096A348F27E9D7ECCF7206",
+      "JobTitle": "Quality Engineer",
+      "Company": "Belcan",
+      "AccquisitionDate": "2022-12-16 7:55 AM",
+      "URL": "https://de.jobsyn.org/89784C97D5764096A348F27E9D7ECCF7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "11A3AF79F0414BD78CCF4655A2F030A1206",
+      "JobTitle": "Engineering Team Lead",
+      "Company": "Belcan",
+      "AccquisitionDate": "2023-2-19 11:06 PM",
+      "URL": "https://de.jobsyn.org/11A3AF79F0414BD78CCF4655A2F030A1206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C7AF3FB2870749E69D50512BDCD448F0206",
+      "JobTitle": "Aerodynamics Program Supervisor",
+      "Company": "Ford Motor Company",
+      "AccquisitionDate": "2023-3-10 8:20 PM",
+      "URL": "https://de.jobsyn.org/C7AF3FB2870749E69D50512BDCD448F0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C7F70451FDEB4389AB362854EEF54355206",
+      "JobTitle": "Principal Mechanical Engineer - Product Development - Indianapolis, IN",
+      "Company": "Vertex Aerospace",
+      "AccquisitionDate": "2023-1-25 8:40 AM",
+      "URL": "https://de.jobsyn.org/C7F70451FDEB4389AB362854EEF54355206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "551275786CC4496D814B14B68F84925A206",
+      "JobTitle": "Sr. Electrical Engineer",
+      "Company": "AAR CORP",
+      "AccquisitionDate": "2021-8-20 2:49 AM",
+      "URL": "https://de.jobsyn.org/551275786CC4496D814B14B68F84925A206",
+      "Location": "INDIANAPOLIS, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E0675438DB3D4895AC368E8A70D93B3F206",
+      "JobTitle": "Design Engineer - Aero",
+      "Company": "QuEST Global",
+      "AccquisitionDate": "2023-2-23 1:27 AM",
+      "URL": "https://de.jobsyn.org/E0675438DB3D4895AC368E8A70D93B3F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A4EF0C7BBDCB4FC295FA8D9113BFFEA6206",
+      "JobTitle": "Sr. Structural Engineer",
+      "Company": "Belcan",
+      "AccquisitionDate": "2022-7-16 8:21 AM",
+      "URL": "https://de.jobsyn.org/A4EF0C7BBDCB4FC295FA8D9113BFFEA6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8D0C9BB07EE04090B5A0B88A1BA20EC2206",
+      "JobTitle": "Design Engineer",
+      "Company": "Belcan",
+      "AccquisitionDate": "2023-2-19 11:07 PM",
+      "URL": "https://de.jobsyn.org/8D0C9BB07EE04090B5A0B88A1BA20EC2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1BA2D24C6FB64D5384D502E68FED3279206",
+      "JobTitle": "Design Engineer",
+      "Company": "QuEST Global",
+      "AccquisitionDate": "2023-2-24 5:34 AM",
+      "URL": "https://de.jobsyn.org/1BA2D24C6FB64D5384D502E68FED3279206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2A132E087B5B472B8DE03B60911F43E2206",
+      "JobTitle": "Design Engineer",
+      "Company": "QuEST Global",
+      "AccquisitionDate": "2023-2-24 5:34 AM",
+      "URL": "https://de.jobsyn.org/2A132E087B5B472B8DE03B60911F43E2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "769D292C3AAE400C89E6DA5BD5470FBB206",
+      "JobTitle": "Supplier Technical Assistance Engineer: Battery Structures",
+      "Company": "Ford Motor Company",
+      "AccquisitionDate": "2023-2-4 5:14 AM",
+      "URL": "https://de.jobsyn.org/769D292C3AAE400C89E6DA5BD5470FBB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "46B6F8E582CD4375AB88296FD4B41540206",
+      "JobTitle": "Entry-Level Structural Engineer",
+      "Company": "Belcan",
+      "AccquisitionDate": "2023-3-14 7:29 AM",
+      "URL": "https://de.jobsyn.org/46B6F8E582CD4375AB88296FD4B41540206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E7C9B798BDB46B79763516D8EC485E9206",
+      "JobTitle": "Propulsion Engineer",
+      "Company": "Andromeda Systems Inc.",
+      "AccquisitionDate": "2023-3-14 1:19 PM",
+      "URL": "https://de.jobsyn.org/7E7C9B798BDB46B79763516D8EC485E9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B8D0B16526A24F7EA6881E804AACA4CF206",
+      "JobTitle": "Structural Engineer (Hybrid)",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-8 3:27 AM",
+      "URL": "https://de.jobsyn.org/B8D0B16526A24F7EA6881E804AACA4CF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "37862C5F53B049FB9BAB7E5ECDFB2A6C206",
+      "JobTitle": "Project Engineer",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-7 2:21 AM",
+      "URL": "https://de.jobsyn.org/37862C5F53B049FB9BAB7E5ECDFB2A6C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2B0A05DCAF374B01B5E8695B10E303A0206",
+      "JobTitle": "Project Engineer",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-7 2:21 AM",
+      "URL": "https://de.jobsyn.org/2B0A05DCAF374B01B5E8695B10E303A0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EBD3FB92A6E04C6497C286D2EEEF27AB206",
+      "JobTitle": "Entry-Level Thermo-Fluids Engineer",
+      "Company": "Belcan",
+      "AccquisitionDate": "2023-3-1 6:57 AM",
+      "URL": "https://de.jobsyn.org/EBD3FB92A6E04C6497C286D2EEEF27AB206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "995352F53E76446687B48F68281136FC206",
+      "JobTitle": "Structural Engineer",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-1 2:36 AM",
+      "URL": "https://de.jobsyn.org/995352F53E76446687B48F68281136FC206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7B5EBA362C424EC59A003FDC3028AF6F206",
+      "JobTitle": "Structural Engineer",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-1 2:36 AM",
+      "URL": "https://de.jobsyn.org/7B5EBA362C424EC59A003FDC3028AF6F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4D67A9B309724EF5A2BBD9FE9C9E1DF3206",
+      "JobTitle": "Homologation Engineer",
+      "Company": "Ford Motor Company",
+      "AccquisitionDate": "2023-2-22 3:36 AM",
+      "URL": "https://de.jobsyn.org/4D67A9B309724EF5A2BBD9FE9C9E1DF3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FFBDBE20C8504902B075334643077369206",
+      "JobTitle": "Structural Engineer",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-2-20 11:24 PM",
+      "URL": "https://de.jobsyn.org/FFBDBE20C8504902B075334643077369206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DC6A28D83D2E4A338A6679D418A312CA206",
+      "JobTitle": "Wind Turbine Structural Engineer (REMOTE)",
+      "Company": "ICF Consulting Group, Inc.",
+      "AccquisitionDate": "2023-2-21 12:10 AM",
+      "URL": "https://de.jobsyn.org/DC6A28D83D2E4A338A6679D418A312CA206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "FB7E3C1993F2442ABEB0BFFD91BD35E7206",
+      "JobTitle": "architectural design manager",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2022-11-10 6:51 AM",
+      "URL": "https://de.jobsyn.org/FB7E3C1993F2442ABEB0BFFD91BD35E7206",
+      "Location": "indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "25174D55D76649D9AB710F65F95ADA66206",
+      "JobTitle": "Testing Automation Expert Architect - Technology Strategy",
+      "Company": "Discover",
+      "AccquisitionDate": "2023-1-25 3:10 AM",
+      "URL": "https://de.jobsyn.org/25174D55D76649D9AB710F65F95ADA66206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FCBC30E3C9A54B239C61B455012AE1F9206",
+      "JobTitle": "Project Manager-Design and Construction",
+      "Company": "Indiana University Health",
+      "AccquisitionDate": "2023-3-10 1:11 AM",
+      "URL": "https://de.jobsyn.org/FCBC30E3C9A54B239C61B455012AE1F9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AB8914317160414198CB862D542DB1EE206",
+      "JobTitle": "Senior Architect: Technology R&D",
+      "Company": "Travelers Insurance Company",
+      "AccquisitionDate": "2022-1-12 7:29 AM",
+      "URL": "https://de.jobsyn.org/AB8914317160414198CB862D542DB1EE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D3E63E7CC1614383AE47E18A8C44970F206",
+      "JobTitle": "Senior Director - Information Architecture",
+      "Company": "Travelers Insurance Company",
+      "AccquisitionDate": "2023-1-18 3:15 AM",
+      "URL": "https://de.jobsyn.org/D3E63E7CC1614383AE47E18A8C44970F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "497BB5B76CDB4E6D97766B7811C1E8B2206",
+      "JobTitle": "Project Manager- Forensic Engineer - IN",
+      "Company": "American Structurepoint",
+      "AccquisitionDate": "2023-1-14 1:12 AM",
+      "URL": "https://de.jobsyn.org/497BB5B76CDB4E6D97766B7811C1E8B2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6BF006E4A3D2475D9745DB19A2F4093F206",
+      "JobTitle": "Senior Director Architecture (Experience Enablement)",
+      "Company": "Travelers Insurance Company",
+      "AccquisitionDate": "2022-11-12 3:07 AM",
+      "URL": "https://de.jobsyn.org/6BF006E4A3D2475D9745DB19A2F4093F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EDA03BD234204B1C9CD867B5784CBFCA206",
+      "JobTitle": "Design Development Manager",
+      "Company": "Milhaus",
+      "AccquisitionDate": "2023-3-11 6:55 AM",
+      "URL": "https://de.jobsyn.org/EDA03BD234204B1C9CD867B5784CBFCA206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1DAEECBB853A42C58A5DF29F3A62B81A206",
+      "JobTitle": "Vice President, Automation & DevSecOps",
+      "Company": "Marriott",
+      "AccquisitionDate": "2023-1-27 3:02 AM",
+      "URL": "https://de.jobsyn.org/1DAEECBB853A42C58A5DF29F3A62B81A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3F91B27E55A945328C5BF90E3B8D29A3206",
+      "JobTitle": "Architectural Design Manager (Hybrid/Onsite)",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2022-11-4 11:47 AM",
+      "URL": "https://de.jobsyn.org/3F91B27E55A945328C5BF90E3B8D29A3206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "87C319FCD4F44F97A9DDC2965D3851C6206",
+      "JobTitle": "Senior Mechanical Engineer - Federal HVAC/Plumbing - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:08 AM",
+      "URL": "https://de.jobsyn.org/87C319FCD4F44F97A9DDC2965D3851C6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2FE4F17C01B046EF845F35ECBF522567206",
+      "JobTitle": "IDAP Automation Architecture Lead",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-2-28 4:05 AM",
+      "URL": "https://de.jobsyn.org/2FE4F17C01B046EF845F35ECBF522567206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "60C2D2F47EAB4532A1650EC06E06F34D206",
+      "JobTitle": "Director, Glove",
+      "Company": "Meta",
+      "AccquisitionDate": "2023-2-21 3:01 AM",
+      "URL": "https://de.jobsyn.org/60C2D2F47EAB4532A1650EC06E06F34D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "549CBFCF228B4FEDA876062D032009B7206",
+      "JobTitle": "Sr Director, Engineering",
+      "Company": "Change Healthcare",
+      "AccquisitionDate": "2023-3-12 4:18 AM",
+      "URL": "https://de.jobsyn.org/549CBFCF228B4FEDA876062D032009B7206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C322A853432A4C7F951C10F58E2722CD206",
+      "JobTitle": "Senior Manager Chapter Engineering",
+      "Company": "Discover",
+      "AccquisitionDate": "2023-1-25 3:18 AM",
+      "URL": "https://de.jobsyn.org/C322A853432A4C7F951C10F58E2722CD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A141BD4EF72C419C94331F22114FA8AF206",
+      "JobTitle": "Deputy Program Manager",
+      "Company": "Vertex Aerospace",
+      "AccquisitionDate": "2023-3-10 6:25 AM",
+      "URL": "https://de.jobsyn.org/A141BD4EF72C419C94331F22114FA8AF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "894AE66281314BC7A26135148ED99172206",
+      "JobTitle": "Pre-Sales Engineer (WAM) - Senior Manager - Consulting - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-26 1:00 AM",
+      "URL": "https://de.jobsyn.org/894AE66281314BC7A26135148ED99172206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "15D6A1FE5D4142B7821494F1F9A07298206",
+      "JobTitle": "Lead Mechanical Federal Engineer - HVAC/Plumbing - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-22 5:33 AM",
+      "URL": "https://de.jobsyn.org/15D6A1FE5D4142B7821494F1F9A07298206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C47BF0C7103E47CBB6D6972F2CBD8BB5206",
+      "JobTitle": "IT Senior Director DevSecOps",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-3-3 4:32 AM",
+      "URL": "https://de.jobsyn.org/C47BF0C7103E47CBB6D6972F2CBD8BB5206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B329F073288C4DADB101C9AD2B7A0025206",
+      "JobTitle": "Senior Director, Product Engineering Salesforce Platforms",
+      "Company": "Marriott",
+      "AccquisitionDate": "2023-2-23 3:04 AM",
+      "URL": "https://de.jobsyn.org/B329F073288C4DADB101C9AD2B7A0025206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "394DF7A8262B49E286F6ED6587A8C318206",
+      "JobTitle": "Project Manager",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2022-12-15 11:37 AM",
+      "URL": "https://de.jobsyn.org/394DF7A8262B49E286F6ED6587A8C318206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6BA37D73693548FBB8E9FADC96CD3E9B206",
+      "JobTitle": "Senior Construction Project Manager \u2013 CSA / Industrial",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-3-13 4:55 PM",
+      "URL": "https://de.jobsyn.org/6BA37D73693548FBB8E9FADC96CD3E9B206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "21AE9A2E6A044FE1A999996EBA8249E2206",
+      "JobTitle": "Principal Program Manager",
+      "Company": "Oracle",
+      "AccquisitionDate": "2023-3-10 2:33 AM",
+      "URL": "https://de.jobsyn.org/21AE9A2E6A044FE1A999996EBA8249E2206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "765F8DA0E32444DA9CE4A8589AAD9E59206",
+      "JobTitle": "Land Development Manager",
+      "Company": "David Weekley Home",
+      "AccquisitionDate": "2022-10-12 8:52 AM",
+      "URL": "https://de.jobsyn.org/765F8DA0E32444DA9CE4A8589AAD9E59206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6A708ADE8C56481BAD73BF5A5CD53F5F206",
+      "JobTitle": "Sr. Engineering Project Manager -- Remote",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-2-5 4:31 AM",
+      "URL": "https://de.jobsyn.org/6A708ADE8C56481BAD73BF5A5CD53F5F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "28F22FADF06C4700A7FF2193CF8A9B6D206",
+      "JobTitle": "Electrical Engineer (Hybrid)",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-8 3:27 AM",
+      "URL": "https://de.jobsyn.org/28F22FADF06C4700A7FF2193CF8A9B6D206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B8D0B16526A24F7EA6881E804AACA4CF206",
+      "JobTitle": "Structural Engineer (Hybrid)",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-8 3:27 AM",
+      "URL": "https://de.jobsyn.org/B8D0B16526A24F7EA6881E804AACA4CF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5C8A115B12C84D61B4049567623B8B2C206",
+      "JobTitle": "Transmission Line Engineering Manager 5 - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-4 5:41 AM",
+      "URL": "https://de.jobsyn.org/5C8A115B12C84D61B4049567623B8B2C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "FA6DFB3EF20E4CF7B38D1C8C964A8439206",
+      "JobTitle": "Project Engineer Medical Device Manufacturing 3279DB",
+      "Company": "Verista",
+      "AccquisitionDate": "2023-3-10 10:02 PM",
+      "URL": "https://de.jobsyn.org/FA6DFB3EF20E4CF7B38D1C8C964A8439206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DF7599EB24C04979BB65E1E6D792B4AF206",
+      "JobTitle": "Clinical Engineering Supervisor",
+      "Company": "Agiliti Health",
+      "AccquisitionDate": "2023-3-9 1:25 AM",
+      "URL": "https://de.jobsyn.org/DF7599EB24C04979BB65E1E6D792B4AF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0154FF66B3A749D8BA310513BFF7F4C0206",
+      "JobTitle": "Senior Clinical System Designer",
+      "Company": "ICON Strategic Solutions",
+      "AccquisitionDate": "2023-3-2 2:44 AM",
+      "URL": "https://de.jobsyn.org/0154FF66B3A749D8BA310513BFF7F4C0206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3F2F4303EA1942CC83D8FD8EFB6212F6206",
+      "JobTitle": "Clinical Engineering Manager",
+      "Company": "Agiliti Health",
+      "AccquisitionDate": "2023-1-27 11:33 PM",
+      "URL": "https://de.jobsyn.org/3F2F4303EA1942CC83D8FD8EFB6212F6206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "726290722691480DBB1847B92A19F44A206",
+      "JobTitle": "Biomedical Support Engineer",
+      "Company": "Change Healthcare",
+      "AccquisitionDate": "2023-1-13 3:06 AM",
+      "URL": "https://de.jobsyn.org/726290722691480DBB1847B92A19F44A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F86AF34368A4A74B1E9E21D9A58D93E206",
+      "JobTitle": "Senior Biological Formulation Engineer (Ph.D.)",
+      "Company": "Corteva Agriscience",
+      "AccquisitionDate": "2023-1-10 5:10 AM",
+      "URL": "https://de.jobsyn.org/6F86AF34368A4A74B1E9E21D9A58D93E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "81FCB248F764489D9465D4686E04F9CF206",
+      "JobTitle": "2023 Research & Development Fall Co-Op",
+      "Company": "J&J Family of Companies",
+      "AccquisitionDate": "2023-1-10 2:39 AM",
+      "URL": "https://de.jobsyn.org/81FCB248F764489D9465D4686E04F9CF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7255B060B324FFE97EFB38E504A542F206",
+      "JobTitle": "Lead Process Engineer (Life Sciences)",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2022-12-17 5:41 AM",
+      "URL": "https://de.jobsyn.org/B7255B060B324FFE97EFB38E504A542F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5DFBB91F49244A148F66DDCAA9E36B58206",
+      "JobTitle": "Engineering Tech Center Co-op FDE",
+      "Company": "Lilly",
+      "AccquisitionDate": "2022-10-29 5:27 AM",
+      "URL": "https://de.jobsyn.org/5DFBB91F49244A148F66DDCAA9E36B58206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "A23677C8AB344C0F85481019D4DFE5BE206",
+      "JobTitle": "Chemical Process Engineer",
+      "Company": "Matrix Technologies, Inc.",
+      "AccquisitionDate": "2023-1-26 7:41 AM",
+      "URL": "https://de.jobsyn.org/A23677C8AB344C0F85481019D4DFE5BE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A2A43E2A175147A7AFA54CD4B04BAC92206",
+      "JobTitle": "Chemical Engineer 7 (Hydrogen Process Engineer)",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-1 2:54 AM",
+      "URL": "https://de.jobsyn.org/A2A43E2A175147A7AFA54CD4B04BAC92206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "28B6C8E07470479B9A9DCF02541615CE206",
+      "JobTitle": "2023 College Graduate - Chemical Engineering (PhD)",
+      "Company": "Intel",
+      "AccquisitionDate": "2023-1-20 2:31 AM",
+      "URL": "https://de.jobsyn.org/28B6C8E07470479B9A9DCF02541615CE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3A0EB191DB3B49769ABC5B2047186B8A206",
+      "JobTitle": "Graduate Internship - Chemical Engineering  (MS/PhD)",
+      "Company": "Intel",
+      "AccquisitionDate": "2023-1-20 2:31 AM",
+      "URL": "https://de.jobsyn.org/3A0EB191DB3B49769ABC5B2047186B8A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CDA7DC25F1F841C4A54061E9DDD6E45E206",
+      "JobTitle": "Undergraduate Internship - Chemical Engineering  (Bachelors)",
+      "Company": "Intel",
+      "AccquisitionDate": "2023-1-20 2:35 AM",
+      "URL": "https://de.jobsyn.org/CDA7DC25F1F841C4A54061E9DDD6E45E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BC7F465B533A41E1BC783AFC1E9DFCD5206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:46 AM",
+      "URL": "https://de.jobsyn.org/BC7F465B533A41E1BC783AFC1E9DFCD5206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A8242D791A8E49EB96F29E94D550CCEE206",
+      "JobTitle": "Undergraduate Technical Intern - Chemical Engineer",
+      "Company": "Pacific Northwest National Laboratory",
+      "AccquisitionDate": "2023-3-1 4:02 AM",
+      "URL": "https://de.jobsyn.org/A8242D791A8E49EB96F29E94D550CCEE206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "774471B22CEE4B7B801BEBD489A40A28206",
+      "JobTitle": "Electrical Engineer 3 - Oil, Gas & Chemical (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-11 4:10 AM",
+      "URL": "https://de.jobsyn.org/774471B22CEE4B7B801BEBD489A40A28206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5EDB0E4CBAE5488EAC7460B6DEE94098206",
+      "JobTitle": "2023 College Graduate - Chemical Engineering (BS/MS)",
+      "Company": "Intel",
+      "AccquisitionDate": "2023-1-20 2:32 AM",
+      "URL": "https://de.jobsyn.org/5EDB0E4CBAE5488EAC7460B6DEE94098206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F41F5BC487014AAAB3C638CE0B7E1396206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals-OKC",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/F41F5BC487014AAAB3C638CE0B7E1396206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "40C81C969C10401DA41B6D10B0E68227206",
+      "JobTitle": "Process Engineer 6 - Fertilizer - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:34 AM",
+      "URL": "https://de.jobsyn.org/40C81C969C10401DA41B6D10B0E68227206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "95C820743A4B4C4F9A9BDC5B96C251DD206",
+      "JobTitle": "Process Engineer 6 - Fertilizer - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:34 AM",
+      "URL": "https://de.jobsyn.org/95C820743A4B4C4F9A9BDC5B96C251DD206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1E907E502636411A9E41E27CF6B18E3E206",
+      "JobTitle": "Lead Process Engineer - Decarbonization - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/1E907E502636411A9E41E27CF6B18E3E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AD13D1D2B623496DBFF39EDD0CA7F654206",
+      "JobTitle": "Lead Process Engineer - Decarbonization - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/AD13D1D2B623496DBFF39EDD0CA7F654206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "779592D3F5EF42758BC3491977D04DC9206",
+      "JobTitle": "Senior Electrical Engineer - Oil, Gas & Chemical (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-10 2:49 AM",
+      "URL": "https://de.jobsyn.org/779592D3F5EF42758BC3491977D04DC9206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8A14DC5BD3504771A0C17D548D5B4784206",
+      "JobTitle": "Electrical Engineer 3 - Oil, Gas & Chemical - Houston, TX (Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-17 2:30 AM",
+      "URL": "https://de.jobsyn.org/8A14DC5BD3504771A0C17D548D5B4784206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1480DACDACDB42FB9504829DCDBBE76E206",
+      "JobTitle": "Process Development Engineer",
+      "Company": "Corteva Agriscience",
+      "AccquisitionDate": "2023-1-13 3:53 AM",
+      "URL": "https://de.jobsyn.org/1480DACDACDB42FB9504829DCDBBE76E206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "236ABD27B5C44D9AB5E67AE040F11A3C206",
+      "JobTitle": "Process Engineer - Remote",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-11 2:35 AM",
+      "URL": "https://de.jobsyn.org/236ABD27B5C44D9AB5E67AE040F11A3C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FEA77989D4B9438D8B0DA11AA77D7A55206",
+      "JobTitle": "Process Engineer 4-Decarbonization",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/FEA77989D4B9438D8B0DA11AA77D7A55206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0164A60FCC1E4129B305EDE8EF7F27E5206",
+      "JobTitle": "Process Development Engineer- Continuous Flow Technology",
+      "Company": "Corteva Agriscience",
+      "AccquisitionDate": "2023-1-31 5:01 AM",
+      "URL": "https://de.jobsyn.org/0164A60FCC1E4129B305EDE8EF7F27E5206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "99BF1F74165B4815B061A940252E1E95206",
+      "JobTitle": "Cleaning and Sterility Engineer",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-3-14 2:45 AM",
+      "URL": "https://de.jobsyn.org/99BF1F74165B4815B061A940252E1E95206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4DCA4A143A114EFF9BCD47CB5492459F206",
+      "JobTitle": "Bioprocess Innovations Engineer",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/4DCA4A143A114EFF9BCD47CB5492459F206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F16D5591D07746C6B1BDF76AF1DA01FF206",
+      "JobTitle": "Process Engineer 4-LNG",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/F16D5591D07746C6B1BDF76AF1DA01FF206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "932F3D89585A4145B02273CC93C78D9A206",
+      "JobTitle": "Process Engineer - Organics Management",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/932F3D89585A4145B02273CC93C78D9A206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0E11E0FF351A4F38BD4AEE3210E0BA3C206",
+      "JobTitle": "Process Engineer 4-Fertilizer",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/0E11E0FF351A4F38BD4AEE3210E0BA3C206",
+      "Location": "Indianapolis, IN",
+      "Fc": "True"
+    }
+  ]
+]

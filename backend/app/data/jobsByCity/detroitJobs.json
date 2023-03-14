@@ -1,0 +1,3356 @@
+[
+  [
+    {
+      "JvId": "A1152A6C887242E1B5F897E155396B87206",
+      "JobTitle": "Clerk III",
+      "Company": "City of Detroit",
+      "AccquisitionDate": "2022-11-17 11:02 PM",
+      "URL": "https://de.jobsyn.org/A1152A6C887242E1B5F897E155396B87206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C56C76347F7C4FA3B86079536943776C206",
+      "JobTitle": "Senior Accounting Assistant",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-1-20 4:09 AM",
+      "URL": "https://de.jobsyn.org/C56C76347F7C4FA3B86079536943776C206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "83AC8F03916D4FE7B966C387754387E4206",
+      "JobTitle": "Office Clerk- Wayne State University",
+      "Company": "ARAMARK",
+      "AccquisitionDate": "2022-12-7 3:26 AM",
+      "URL": "https://de.jobsyn.org/83AC8F03916D4FE7B966C387754387E4206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "396FBC0A07A94E9E8E5CD4D9375BB766206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-1 12:30 AM",
+      "URL": "https://de.jobsyn.org/396FBC0A07A94E9E8E5CD4D9375BB766206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "84BD18621B6141278D48035E0553C86E206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-15 12:32 AM",
+      "URL": "https://de.jobsyn.org/84BD18621B6141278D48035E0553C86E206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55A51CA70A544A81ABEB759018AFFB5D206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-13 12:06 AM",
+      "URL": "https://de.jobsyn.org/55A51CA70A544A81ABEB759018AFFB5D206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0C28255157BD4D20B63A83FEC902A82B206",
+      "JobTitle": "Accountant",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-13 3:51 AM",
+      "URL": "https://de.jobsyn.org/0C28255157BD4D20B63A83FEC902A82B206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BB25A134EAFE400AB409F9A5DD596A50206",
+      "JobTitle": "Accounts Payable Analyst College CoOp",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/BB25A134EAFE400AB409F9A5DD596A50206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "02A5ED7F9C354D9FA20EE682D43D9728206",
+      "JobTitle": "Accounts Payable CoOp",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/02A5ED7F9C354D9FA20EE682D43D9728206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F9D6489388CA45F6B46DBD59C8B6F117206",
+      "JobTitle": "Accounts Payable Specialist Hybrid Work Schedule",
+      "Company": "BullsEye Telecom",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/F9D6489388CA45F6B46DBD59C8B6F117206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3DBFDEF4426F435CA3889A0BAE8E7354206",
+      "JobTitle": "Clerk",
+      "Company": "Wayne County Government",
+      "AccquisitionDate": "2023-3-11 12:57 PM",
+      "URL": "https://de.jobsyn.org/3DBFDEF4426F435CA3889A0BAE8E7354206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "084E2D6998A84D3EB8B9E453A14627DC206",
+      "JobTitle": "Payroll Administrator",
+      "Company": "EW Grobbel",
+      "AccquisitionDate": "2023-3-11 10:12 PM",
+      "URL": "https://de.jobsyn.org/084E2D6998A84D3EB8B9E453A14627DC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3E234CB1DEC4434D98E2C5029A020663206",
+      "JobTitle": "Payroll Coordinator",
+      "Company": "Walbridge",
+      "AccquisitionDate": "2023-3-11 12:56 PM",
+      "URL": "https://de.jobsyn.org/3E234CB1DEC4434D98E2C5029A020663206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B28A3134452C4A9FA39B7C64F4185EFC206",
+      "JobTitle": "Junior Accountant Hybrid work schedule",
+      "Company": "BullsEye Telecom",
+      "AccquisitionDate": "2023-3-10 1:02 PM",
+      "URL": "https://de.jobsyn.org/B28A3134452C4A9FA39B7C64F4185EFC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AEC7E9D80FC449A49C84539F5C7409A0206",
+      "JobTitle": "Accounting/Finance Coop",
+      "Company": "DTE Energy",
+      "AccquisitionDate": "2023-3-10 1:02 PM",
+      "URL": "https://de.jobsyn.org/AEC7E9D80FC449A49C84539F5C7409A0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C62FA384E87949198951AE5BC639A280206",
+      "JobTitle": "General Accountant",
+      "Company": "Mitsubishi Electric Automotive America, Inc.",
+      "AccquisitionDate": "2023-3-11 3:27 AM",
+      "URL": "https://de.jobsyn.org/C62FA384E87949198951AE5BC639A280206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A84BD7B381FB4F75BBDA90118CC73280206",
+      "JobTitle": "Accountant",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/A84BD7B381FB4F75BBDA90118CC73280206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9F0BD6C142CA4E8BADCFE02AAC71E549206",
+      "JobTitle": "Accountant (Hybrid)",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/9F0BD6C142CA4E8BADCFE02AAC71E549206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4CE166CA6FC848BF90F475BC8E6AE8DE206",
+      "JobTitle": "Billing Coordinator",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:19 AM",
+      "URL": "https://de.jobsyn.org/4CE166CA6FC848BF90F475BC8E6AE8DE206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9D9855031ECF4645AFBCF6418B0B06C6206",
+      "JobTitle": "Intern Construction Accounting",
+      "Company": "Walbridge",
+      "AccquisitionDate": "2023-3-8 12:52 PM",
+      "URL": "https://de.jobsyn.org/9D9855031ECF4645AFBCF6418B0B06C6206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0AED6383600840E19412DA47C78D8BE6206",
+      "JobTitle": "Accounting/Finance Co-op",
+      "Company": "DTE Energy",
+      "AccquisitionDate": "2023-3-9 1:09 AM",
+      "URL": "https://de.jobsyn.org/0AED6383600840E19412DA47C78D8BE6206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BC5261DA4435483F84372000496B8798206",
+      "JobTitle": "Audit Associate Fall 2024",
+      "Company": "RSM US LLP",
+      "AccquisitionDate": "2023-3-6 12:55 PM",
+      "URL": "https://de.jobsyn.org/BC5261DA4435483F84372000496B8798206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3D26A2F424AE4E1AA89469135B3310B9206",
+      "JobTitle": "Fixed Assets Analyst",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-3-4 12:58 PM",
+      "URL": "https://de.jobsyn.org/3D26A2F424AE4E1AA89469135B3310B9206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "674B2EF2FB884D148ECABA7C790C9E03206",
+      "JobTitle": "Entry Level Staff Accountant",
+      "Company": "Reynolds & Reynolds",
+      "AccquisitionDate": "2023-3-3 5:34 AM",
+      "URL": "https://de.jobsyn.org/674B2EF2FB884D148ECABA7C790C9E03206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C1ED653C23C644BCBD37A6E9DC948E76206",
+      "JobTitle": "Denials & AR Lead",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-3-4 3:47 AM",
+      "URL": "https://de.jobsyn.org/C1ED653C23C644BCBD37A6E9DC948E76206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "CFF24B11BEA449188BAE3216676F5C16206",
+      "JobTitle": "Print Center Technician",
+      "Company": "Rock Family of Companies",
+      "AccquisitionDate": "2023-1-18 8:12 AM",
+      "URL": "https://de.jobsyn.org/CFF24B11BEA449188BAE3216676F5C16206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F0403DFD521E488A98A969E642500022206",
+      "JobTitle": "Data Center Computer Operator - 8683",
+      "Company": "Blue Cross Blue Shield of Michigan",
+      "AccquisitionDate": "2023-2-12 1:14 PM",
+      "URL": "https://de.jobsyn.org/F0403DFD521E488A98A969E642500022206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D295282BC91B4F668EF1D9CF1A82CCDA206",
+      "JobTitle": "Senior Data Center Operations Analyst \u2013 Unisys",
+      "Company": "Ensono",
+      "AccquisitionDate": "2022-12-29 5:42 AM",
+      "URL": "https://de.jobsyn.org/D295282BC91B4F668EF1D9CF1A82CCDA206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A5F972476F2B4BA3B7D3259283A280E1206",
+      "JobTitle": "CMM Programmer/Operator",
+      "Company": "Fiat Chrysler Automobile",
+      "AccquisitionDate": "2022-5-6 3:44 PM",
+      "URL": "https://de.jobsyn.org/A5F972476F2B4BA3B7D3259283A280E1206",
+      "Location": "Detroit Metropolitan Area \u2013 Michigan",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "60887AD87FCC4FD4918178A08B589DC5206",
+      "JobTitle": "Customer Care Representative, Customer Service",
+      "Company": "Ilitch Holdings",
+      "AccquisitionDate": "2023-2-2 7:41 AM",
+      "URL": "https://de.jobsyn.org/60887AD87FCC4FD4918178A08B589DC5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8C1B58BBA70E4566B78D0DFE28669604206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/8C1B58BBA70E4566B78D0DFE28669604206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FA7CC17872F9435FA50B2517F6F5CD38206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FA7CC17872F9435FA50B2517F6F5CD38206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4320DEB80B6C44D6982A0427F69BD352206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/4320DEB80B6C44D6982A0427F69BD352206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "90191655402E41538580E91EFCF7D6EC206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/90191655402E41538580E91EFCF7D6EC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C95A84793D2F46A5BBA325A07530CE1A206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/C95A84793D2F46A5BBA325A07530CE1A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C53FC83969464B4DAF804F861CF8CB7C206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/C53FC83969464B4DAF804F861CF8CB7C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BBD5F971135348008EAB799226B9BF64206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/BBD5F971135348008EAB799226B9BF64206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "45B232ED06774C0F9EC621B4E8383F6E206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/45B232ED06774C0F9EC621B4E8383F6E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6A1496AA593F44FABAE9D3A4BC45BF8D206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/6A1496AA593F44FABAE9D3A4BC45BF8D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B5EC580157C94B6DAA222E8E2699B423206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/B5EC580157C94B6DAA222E8E2699B423206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2F628DB81E224CF39326409C3CBC50FB206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/2F628DB81E224CF39326409C3CBC50FB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "39B644F68496450DB21B92ABFAA6C931206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/39B644F68496450DB21B92ABFAA6C931206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6D73B230272442BBA6513A2C54FA8827206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/6D73B230272442BBA6513A2C54FA8827206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "74E5BB52796345E29E3FDEE7BBA89D1E206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/74E5BB52796345E29E3FDEE7BBA89D1E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "039233C10C7B4CB9B097085E4734D100206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/039233C10C7B4CB9B097085E4734D100206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0D9B1A34E3E7404390B6DB23F6E547BD206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0D9B1A34E3E7404390B6DB23F6E547BD206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FEC42CCF717941FDB41FA6C0857668FB206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FEC42CCF717941FDB41FA6C0857668FB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "48CD732185534FB4AE18C1E8F37CF216206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/48CD732185534FB4AE18C1E8F37CF216206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AE3B279EC6344FA1AF820F3E173C8847206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/AE3B279EC6344FA1AF820F3E173C8847206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7231940FECEA4B4090D2460C5844D1FC206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/7231940FECEA4B4090D2460C5844D1FC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7652EFCE4E85471B8B026089AED1DE74206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/7652EFCE4E85471B8B026089AED1DE74206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5DE37A1296F54ABE856EC6A315959019206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/5DE37A1296F54ABE856EC6A315959019206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D3928A59525949EBBC68EAC255968D5B206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/D3928A59525949EBBC68EAC255968D5B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0162A5D788684E05A3CF69C8C6BED65E206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:21 PM",
+      "URL": "https://de.jobsyn.org/0162A5D788684E05A3CF69C8C6BED65E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "A76DC9944CCD4EBF80AAA0A70F9D39E2206",
+      "JobTitle": "Senior Auditor - Finance and Accounting",
+      "Company": "Ally",
+      "AccquisitionDate": "2023-2-28 4:17 AM",
+      "URL": "https://de.jobsyn.org/A76DC9944CCD4EBF80AAA0A70F9D39E2206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "74887482D76A4B5FBE80A8A9752154D4206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 4:01 AM",
+      "URL": "https://de.jobsyn.org/74887482D76A4B5FBE80A8A9752154D4206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FD781C7E276B4F45AFD42FF9E72E0D53206",
+      "JobTitle": "Internal Auditor - Operations",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-2-1 4:22 AM",
+      "URL": "https://de.jobsyn.org/FD781C7E276B4F45AFD42FF9E72E0D53206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5457B502DFFA4CD5835E3BC78838B5F7206",
+      "JobTitle": "Audit & Assurance Staff Intern (Japanese Services Group) - Summer 2024",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-1-8 5:10 AM",
+      "URL": "https://de.jobsyn.org/5457B502DFFA4CD5835E3BC78838B5F7206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "62C6CC5DA1C549AF9B9A0F35E07CE5EA206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 4:19 AM",
+      "URL": "https://de.jobsyn.org/62C6CC5DA1C549AF9B9A0F35E07CE5EA206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "027D557FF15946F197512AC048339216206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 2:02 AM",
+      "URL": "https://de.jobsyn.org/027D557FF15946F197512AC048339216206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B26242DBD53245CBB4AF0F4E6582EACE206",
+      "JobTitle": "Sales, Use and Property Tax Consultant",
+      "Company": "Resources Global Professionals (RGP)",
+      "AccquisitionDate": "2018-12-25 11:22 AM",
+      "URL": "https://de.jobsyn.org/B26242DBD53245CBB4AF0F4E6582EACE206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2F316938F2D44E8EBD7F8926FE32005A206",
+      "JobTitle": "Auditor",
+      "Company": "ICONMA, LLC",
+      "AccquisitionDate": "2021-5-20 9:05 PM",
+      "URL": "https://de.jobsyn.org/2F316938F2D44E8EBD7F8926FE32005A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "35DC008485354BAFB684FEC10479733A206",
+      "JobTitle": "Staff Auditor",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-20 1:35 PM",
+      "URL": "https://de.jobsyn.org/35DC008485354BAFB684FEC10479733A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D6ABF2EACD8D412398B64016DC6BF121206",
+      "JobTitle": "Auditor-Hybrid Role",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-17 5:08 AM",
+      "URL": "https://de.jobsyn.org/D6ABF2EACD8D412398B64016DC6BF121206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "78CBD1D7326443F6B2B363CDA6F44941206",
+      "JobTitle": "Corporate Auditor - 7524",
+      "Company": "Blue Cross Blue Shield of Michigan",
+      "AccquisitionDate": "2023-3-8 12:52 PM",
+      "URL": "https://de.jobsyn.org/78CBD1D7326443F6B2B363CDA6F44941206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CC733EE877BE4789ABDB5C1E2CFDB24D206",
+      "JobTitle": "Senior Internal Auditor",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-3 1:51 PM",
+      "URL": "https://de.jobsyn.org/CC733EE877BE4789ABDB5C1E2CFDB24D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "72993E64D02E4DA3923844CD659DC5F8206",
+      "JobTitle": "Internal Auditor",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-2-24 1:31 PM",
+      "URL": "https://de.jobsyn.org/72993E64D02E4DA3923844CD659DC5F8206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1146C43D9F36449688A7C91781A2FB3B206",
+      "JobTitle": "MDR Assessor/Lead Auditor NonActive Orthopaedics",
+      "Company": "DNV GL USA",
+      "AccquisitionDate": "2023-2-28 1:03 PM",
+      "URL": "https://de.jobsyn.org/1146C43D9F36449688A7C91781A2FB3B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "29D1CE8161B64C0F9713E839CE5847DF206",
+      "JobTitle": "Coder Auditor",
+      "Company": "G-TECH Services, Inc.",
+      "AccquisitionDate": "2023-3-9 5:53 PM",
+      "URL": "https://de.jobsyn.org/29D1CE8161B64C0F9713E839CE5847DF206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8E894118FB5942078AAC4608112FDCE8206",
+      "JobTitle": "Accounting Manager",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/8E894118FB5942078AAC4608112FDCE8206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "489F3A4CAB7D47D183EAD591D022C2E7206",
+      "JobTitle": "Revenue Accounting Senior Accountant",
+      "Company": "AlixPartners",
+      "AccquisitionDate": "2023-3-2 1:57 PM",
+      "URL": "https://de.jobsyn.org/489F3A4CAB7D47D183EAD591D022C2E7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4FBE7E4BEB4F4F5885BFB975D05E14BB206",
+      "JobTitle": "Information Technology Auditor - Senior Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/4FBE7E4BEB4F4F5885BFB975D05E14BB206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D1CE45A6481344059558C8726DEEBD1D206",
+      "JobTitle": "Information Technology Auditor - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 1:57 AM",
+      "URL": "https://de.jobsyn.org/D1CE45A6481344059558C8726DEEBD1D206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D5712D8A17074E93B9C316D2A9168007206",
+      "JobTitle": "Audit Team Lead",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-3-11 12:56 PM",
+      "URL": "https://de.jobsyn.org/D5712D8A17074E93B9C316D2A9168007206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AD50173E6B404FBFB45C4B61AA3CEB59206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-2 12:20 AM",
+      "URL": "https://de.jobsyn.org/AD50173E6B404FBFB45C4B61AA3CEB59206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3F1450F869DD4B2AB3A848776189B8F7206",
+      "JobTitle": "Senior Auditor - Hybrid",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-1-13 2:21 AM",
+      "URL": "https://de.jobsyn.org/3F1450F869DD4B2AB3A848776189B8F7206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "30B0FA1999654351B46F5EF9A5A23E82206",
+      "JobTitle": "Auditor II - Finance and Treasury",
+      "Company": "Ally",
+      "AccquisitionDate": "2023-3-11 3:49 AM",
+      "URL": "https://de.jobsyn.org/30B0FA1999654351B46F5EF9A5A23E82206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4BD0CE33CD08455CBA9F518517BA3182206",
+      "JobTitle": "Financial Analyst Financial Reporting",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-3 1:48 PM",
+      "URL": "https://de.jobsyn.org/4BD0CE33CD08455CBA9F518517BA3182206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7F165486018E4DC48FA5E6119CA920D4206",
+      "JobTitle": "Senior Internal Auditor - Hybrid",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2022-11-22 4:58 AM",
+      "URL": "https://de.jobsyn.org/7F165486018E4DC48FA5E6119CA920D4206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "19FCCD42CCF84BE2B284E2EFD1174483206",
+      "JobTitle": "Credit and Collections Specialist",
+      "Company": "US Ecology",
+      "AccquisitionDate": "2023-3-5 1:03 PM",
+      "URL": "https://de.jobsyn.org/19FCCD42CCF84BE2B284E2EFD1174483206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6F867DE54BF74301A6581AC4D73F421E206",
+      "JobTitle": "Revenue Recovery Analyst",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2022-12-23 3:38 AM",
+      "URL": "https://de.jobsyn.org/6F867DE54BF74301A6581AC4D73F421E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BB25A134EAFE400AB409F9A5DD596A50206",
+      "JobTitle": "Accounts Payable Analyst College CoOp",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/BB25A134EAFE400AB409F9A5DD596A50206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "02A5ED7F9C354D9FA20EE682D43D9728206",
+      "JobTitle": "Accounts Payable CoOp",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/02A5ED7F9C354D9FA20EE682D43D9728206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F9D6489388CA45F6B46DBD59C8B6F117206",
+      "JobTitle": "Accounts Payable Specialist Hybrid Work Schedule",
+      "Company": "BullsEye Telecom",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/F9D6489388CA45F6B46DBD59C8B6F117206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FC1132FEA4E048569AB5B3991B3A5AA4206",
+      "JobTitle": "Financial Recovery Team Leader",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-12 3:12 AM",
+      "URL": "https://de.jobsyn.org/FC1132FEA4E048569AB5B3991B3A5AA4206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B21CB6585DAE41CFB47EDFFB8ECED2CD206",
+      "JobTitle": "Denials & AR Analyst I",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-3-11 4:45 AM",
+      "URL": "https://de.jobsyn.org/B21CB6585DAE41CFB47EDFFB8ECED2CD206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "52CC88DAB6DD44DBAA188A7129F19F9A206",
+      "JobTitle": "Denials & AR Analyst II",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-3-11 4:45 AM",
+      "URL": "https://de.jobsyn.org/52CC88DAB6DD44DBAA188A7129F19F9A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "26C8574843D54E199D3FFC53122B01A7206",
+      "JobTitle": "Business Office Clerk",
+      "Company": "Acadia Healthcare",
+      "AccquisitionDate": "2023-3-2 11:18 PM",
+      "URL": "https://de.jobsyn.org/26C8574843D54E199D3FFC53122B01A7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0E26729037CF4488A127607A28BAE9DC206",
+      "JobTitle": "Accounts Payable Analyst",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-1 1:43 PM",
+      "URL": "https://de.jobsyn.org/0E26729037CF4488A127607A28BAE9DC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "083272AA8C9F40A095138179854510EE206",
+      "JobTitle": "Denials & AR Analyst II",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-2-23 2:52 AM",
+      "URL": "https://de.jobsyn.org/083272AA8C9F40A095138179854510EE206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7C4B8AC0762D42428A555811D0340EA8206",
+      "JobTitle": "Denials & AR Analyst I",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-2-23 2:52 AM",
+      "URL": "https://de.jobsyn.org/7C4B8AC0762D42428A555811D0340EA8206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8415320276324DC58A4E25B0F5769D41206",
+      "JobTitle": "NHATS 2023 - Data Collector",
+      "Company": "Westat",
+      "AccquisitionDate": "2023-2-21 3:01 AM",
+      "URL": "https://de.jobsyn.org/8415320276324DC58A4E25B0F5769D41206",
+      "Location": "Detroit Lakes, MN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "197374F1607A42F69F1F96AF3D7A1E59206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "HRU, Inc.",
+      "AccquisitionDate": "2023-2-17 1:26 PM",
+      "URL": "https://de.jobsyn.org/197374F1607A42F69F1F96AF3D7A1E59206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7D2E83B2272340F8859349E7D65C124C206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-17 12:16 AM",
+      "URL": "https://de.jobsyn.org/7D2E83B2272340F8859349E7D65C124C206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4EF9383C017149BEA0594DA8DF900C11206",
+      "JobTitle": "Denials & AR Analyst I",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-2-15 2:22 AM",
+      "URL": "https://de.jobsyn.org/4EF9383C017149BEA0594DA8DF900C11206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "77E00EE735AC49238533FFA2219B0260206",
+      "JobTitle": "Denials & AR Analyst II",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-2-9 2:35 AM",
+      "URL": "https://de.jobsyn.org/77E00EE735AC49238533FFA2219B0260206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5C7E09993DBD46CB94D66DA5F0FD3605206",
+      "JobTitle": "Denials & AR Analyst I",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-2-9 2:35 AM",
+      "URL": "https://de.jobsyn.org/5C7E09993DBD46CB94D66DA5F0FD3605206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3480AF3C476946CAA51852FB71D9FA77206",
+      "JobTitle": "Accounts Payable Coordinator",
+      "Company": "Ilitch Holdings",
+      "AccquisitionDate": "2023-1-18 10:15 PM",
+      "URL": "https://de.jobsyn.org/3480AF3C476946CAA51852FB71D9FA77206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AF303C2B9EAC4F7B8ED059D418DB6A52206",
+      "JobTitle": "Billing Specialist",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2022-12-31 6:35 AM",
+      "URL": "https://de.jobsyn.org/AF303C2B9EAC4F7B8ED059D418DB6A52206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "54DCEC3B29104774BD585515505C9DF9206",
+      "JobTitle": "Medical Biller/Collections Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-12-14 12:19 AM",
+      "URL": "https://de.jobsyn.org/54DCEC3B29104774BD585515505C9DF9206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2BF32D2922BC450B8EAE5A9571F26A41206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-12-14 12:19 AM",
+      "URL": "https://de.jobsyn.org/2BF32D2922BC450B8EAE5A9571F26A41206",
+      "Location": "DETROIT, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "175D70A97EF340138CC49326C1221072206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Rock Family of Companies",
+      "AccquisitionDate": "2022-11-29 10:26 AM",
+      "URL": "https://de.jobsyn.org/175D70A97EF340138CC49326C1221072206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "B2274305C5B04146BB42C9F46A9EFB7E206",
+      "JobTitle": "Senior Data Analyst- Credit Risk",
+      "Company": "Ally",
+      "AccquisitionDate": "2023-2-1 2:43 AM",
+      "URL": "https://de.jobsyn.org/B2274305C5B04146BB42C9F46A9EFB7E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "74FFC35BB12E4F98B5A2EE142B43E7EB206",
+      "JobTitle": "Credit Card Risk Strategy - Senior Analyst",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-8 4:21 AM",
+      "URL": "https://de.jobsyn.org/74FFC35BB12E4F98B5A2EE142B43E7EB206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A810032F460E46DD84AE31149B27DE49206",
+      "JobTitle": "Dealer Compliance Analyst",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-12 1:12 PM",
+      "URL": "https://de.jobsyn.org/A810032F460E46DD84AE31149B27DE49206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8368269277A641A89985372189E4F77C206",
+      "JobTitle": "MSR Analyst II",
+      "Company": "Rock Family of Companies",
+      "AccquisitionDate": "2023-3-2 6:58 AM",
+      "URL": "https://de.jobsyn.org/8368269277A641A89985372189E4F77C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BA83F9F95C6D4BB29C49068C3CA7A937206",
+      "JobTitle": "Credit Review Specialist-Sr",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-14 5:13 AM",
+      "URL": "https://de.jobsyn.org/BA83F9F95C6D4BB29C49068C3CA7A937206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DCCF9CA3BA664EF8AA375DFE4F7AE0CC206",
+      "JobTitle": "Credit Support Specialist",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-3-13 12:53 PM",
+      "URL": "https://de.jobsyn.org/DCCF9CA3BA664EF8AA375DFE4F7AE0CC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3BABE18571284EFC9A9D68914F981D4A206",
+      "JobTitle": "Commercial Underwriting Officer",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-3-10 1:02 PM",
+      "URL": "https://de.jobsyn.org/3BABE18571284EFC9A9D68914F981D4A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C78EFFE5A14C47108E968127C36DC88B206",
+      "JobTitle": "Credit Support Specialist",
+      "Company": "Comerica",
+      "AccquisitionDate": "2023-3-11 2:08 AM",
+      "URL": "https://de.jobsyn.org/C78EFFE5A14C47108E968127C36DC88B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "72713F297B884C6F8465661B20A5D0A8206",
+      "JobTitle": "Commercial Underwriting Officer",
+      "Company": "Comerica",
+      "AccquisitionDate": "2023-3-7 11:50 PM",
+      "URL": "https://de.jobsyn.org/72713F297B884C6F8465661B20A5D0A8206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EDC79DC45EE94CDDA364A1C33DDDBFDE206",
+      "JobTitle": "Business Banking Underwriter I",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-8 4:20 AM",
+      "URL": "https://de.jobsyn.org/EDC79DC45EE94CDDA364A1C33DDDBFDE206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7B9EC154C908464FA4C79E6233D42A5C206",
+      "JobTitle": "Business Banking Underwriter III",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-7 4:20 AM",
+      "URL": "https://de.jobsyn.org/7B9EC154C908464FA4C79E6233D42A5C206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "32D6D8DF0027431F82FD72168A3E0430206",
+      "JobTitle": "Credit Support Specialist",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-3-4 12:58 PM",
+      "URL": "https://de.jobsyn.org/32D6D8DF0027431F82FD72168A3E0430206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E44B680A43C4FA39784B201C9F481D2206",
+      "JobTitle": "Credit Support Specialist",
+      "Company": "Comerica",
+      "AccquisitionDate": "2023-3-2 6:29 AM",
+      "URL": "https://de.jobsyn.org/7E44B680A43C4FA39784B201C9F481D2206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3795DA3A89BA4C2ABE06042EA7F53153206",
+      "JobTitle": "Senior Estate Analyst",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-3-2 1:57 PM",
+      "URL": "https://de.jobsyn.org/3795DA3A89BA4C2ABE06042EA7F53153206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5C8CF37F9254463D9E9C04FFA7B2551C206",
+      "JobTitle": "Senior Financial Analyst",
+      "Company": "Cornerstone onDemand",
+      "AccquisitionDate": "2023-3-3 2:58 AM",
+      "URL": "https://de.jobsyn.org/5C8CF37F9254463D9E9C04FFA7B2551C206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9A035A39C95A490EAC32E407AE187BAA206",
+      "JobTitle": "Mid Market Underwriter",
+      "Company": "Ohio Farmers Insurance Company",
+      "AccquisitionDate": "2023-3-1 1:49 PM",
+      "URL": "https://de.jobsyn.org/9A035A39C95A490EAC32E407AE187BAA206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "25A1DFFB3BC6411CA359F6CCF386592B206",
+      "JobTitle": "Commercial Underwriting Officer in Detroit",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-27 1:36 PM",
+      "URL": "https://de.jobsyn.org/25A1DFFB3BC6411CA359F6CCF386592B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FF6248DF28734F43B33ECA6A23B45661206",
+      "JobTitle": "Credit Support Specalist",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-26 1:25 PM",
+      "URL": "https://de.jobsyn.org/FF6248DF28734F43B33ECA6A23B45661206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "917555FABCBC47C49D96FAE48B8A0A74206",
+      "JobTitle": "Credit Support Specalist",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-26 1:22 PM",
+      "URL": "https://de.jobsyn.org/917555FABCBC47C49D96FAE48B8A0A74206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C2785B61F85E4642B6A37A5E627D8AFF206",
+      "JobTitle": "Asset Quality Review Officer",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-25 1:07 PM",
+      "URL": "https://de.jobsyn.org/C2785B61F85E4642B6A37A5E627D8AFF206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CAC3F41D018940A6BEFEEEA74FD89A14206",
+      "JobTitle": "Senior Asset Quality Review Officer",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-25 1:08 PM",
+      "URL": "https://de.jobsyn.org/CAC3F41D018940A6BEFEEEA74FD89A14206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AC0492D429DD4DA1B4194467848D8CFF206",
+      "JobTitle": "Credit Support Specalist",
+      "Company": "Comerica",
+      "AccquisitionDate": "2023-2-24 6:20 AM",
+      "URL": "https://de.jobsyn.org/AC0492D429DD4DA1B4194467848D8CFF206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B3A3663377BD400AA999ECD78BBEFD08206",
+      "JobTitle": "Commercial Underwriter",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-24 1:32 PM",
+      "URL": "https://de.jobsyn.org/B3A3663377BD400AA999ECD78BBEFD08206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D6D69E71B9854AEFBBCAD06829BD367D206",
+      "JobTitle": "Credit Support Specalist",
+      "Company": "Comerica",
+      "AccquisitionDate": "2023-2-24 6:20 AM",
+      "URL": "https://de.jobsyn.org/D6D69E71B9854AEFBBCAD06829BD367D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CD14C3428CDD499881D62C9A291FB40A206",
+      "JobTitle": "Business Banking Underwriter II",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-24 3:42 AM",
+      "URL": "https://de.jobsyn.org/CD14C3428CDD499881D62C9A291FB40A206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "7B9EC154C908464FA4C79E6233D42A5C206",
+      "JobTitle": "Business Banking Underwriter III",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-3-7 4:20 AM",
+      "URL": "https://de.jobsyn.org/7B9EC154C908464FA4C79E6233D42A5C206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CD14C3428CDD499881D62C9A291FB40A206",
+      "JobTitle": "Business Banking Underwriter II",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-24 3:42 AM",
+      "URL": "https://de.jobsyn.org/CD14C3428CDD499881D62C9A291FB40A206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9BEAD862FFF648CD9D51323A86B9913A206",
+      "JobTitle": "Business Banking Underwriter III",
+      "Company": "Huntington National Bank",
+      "AccquisitionDate": "2023-2-24 3:42 AM",
+      "URL": "https://de.jobsyn.org/9BEAD862FFF648CD9D51323A86B9913A206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D92FAAA9789649C69627FB8D22E6FC13206",
+      "JobTitle": "Syndications Loan Administrator",
+      "Company": "Comerica Bank",
+      "AccquisitionDate": "2023-2-13 1:09 PM",
+      "URL": "https://de.jobsyn.org/D92FAAA9789649C69627FB8D22E6FC13206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0D18527942AC4D068C1D7C39EEA32E57206",
+      "JobTitle": "Vice President of Women's Banking",
+      "Company": "Union Bank and Trust Company",
+      "AccquisitionDate": "2023-1-23 1:38 AM",
+      "URL": "https://de.jobsyn.org/0D18527942AC4D068C1D7C39EEA32E57206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "76C5BFB91AF5469FB5A52D0E22A8F98D206",
+      "JobTitle": "CRA Loan Specialist",
+      "Company": "Fifth Third Bank, N.A.",
+      "AccquisitionDate": "2023-1-19 3:40 AM",
+      "URL": "https://de.jobsyn.org/76C5BFB91AF5469FB5A52D0E22A8F98D206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D1D45B351F154D21A785088B550435E0206",
+      "JobTitle": "Biomedical Engineer",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-1 6:06 AM",
+      "URL": "https://de.jobsyn.org/D1D45B351F154D21A785088B550435E0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E6EC40A2DF16467BB2A9C967104DF36A206",
+      "JobTitle": "Medical Imaging Field Service Engineer",
+      "Company": "PSG Global Solutions",
+      "AccquisitionDate": "2023-3-9 5:10 AM",
+      "URL": "https://de.jobsyn.org/E6EC40A2DF16467BB2A9C967104DF36A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "058A8A477B2A47178F79CF80670C85D5206",
+      "JobTitle": "Medical Imaging Field Service Engineer (MRI)",
+      "Company": "PSG Global Solutions",
+      "AccquisitionDate": "2023-3-9 5:10 AM",
+      "URL": "https://de.jobsyn.org/058A8A477B2A47178F79CF80670C85D5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "496DAF64BD9D41E88252F4C08A46ABA9206",
+      "JobTitle": "Mechanical Design Engineer / New Grad May 2023",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-18 1:16 PM",
+      "URL": "https://de.jobsyn.org/496DAF64BD9D41E88252F4C08A46ABA9206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F66125E8AD5940D8BBEE1F3043CFF978206",
+      "JobTitle": "Imaging Engineer II Days FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-2-2 7:13 AM",
+      "URL": "https://de.jobsyn.org/F66125E8AD5940D8BBEE1F3043CFF978206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "02444F4C02994CC8988972BCA3FC1301206",
+      "JobTitle": "MD Fellow",
+      "Company": "McKinsey  Company",
+      "AccquisitionDate": "2023-3-1 1:42 PM",
+      "URL": "https://de.jobsyn.org/02444F4C02994CC8988972BCA3FC1301206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9D06F2B108684769BF5A1E9103BB3858206",
+      "JobTitle": "Clinical Research Associate - Emergency Dept. - Support - Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-3-14 6:32 AM",
+      "URL": "https://de.jobsyn.org/9D06F2B108684769BF5A1E9103BB3858206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "89A12E51AA634A3793027037C6355CE3206",
+      "JobTitle": "PKPD Senior Scientist/Principal Scientist Remote",
+      "Company": "Zoetis Inc",
+      "AccquisitionDate": "2023-3-14 12:52 PM",
+      "URL": "https://de.jobsyn.org/89A12E51AA634A3793027037C6355CE3206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FA2BEB31917A44328DACD80E32058C04206",
+      "JobTitle": "Clinical Trial Educator-Renal-East-IAB17606",
+      "Company": "IQVIA",
+      "AccquisitionDate": "2023-3-14 3:13 AM",
+      "URL": "https://de.jobsyn.org/FA2BEB31917A44328DACD80E32058C04206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "36784F0E136E476D82ED371ED98AE46F206",
+      "JobTitle": "Clinical Pharmacy Specialist (Hematology/Oncology)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-11 6:14 AM",
+      "URL": "https://de.jobsyn.org/36784F0E136E476D82ED371ED98AE46F206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9D89A19B5837442A97FF28F750CFEBDE206",
+      "JobTitle": "Molecular Imaging Clinical Education Applications Specialist -Central Great Lakes/Mid Atlantic",
+      "Company": "Siemens Healthineers",
+      "AccquisitionDate": "2023-3-11 2:38 AM",
+      "URL": "https://de.jobsyn.org/9D89A19B5837442A97FF28F750CFEBDE206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3736F0B2165247B9A55103812E22FB4E206",
+      "JobTitle": "Ortho/Sports Medical Lab Coordinator/Research Days FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-3-10 5:51 AM",
+      "URL": "https://de.jobsyn.org/3736F0B2165247B9A55103812E22FB4E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "015D51617B8B43AC84BF388CDBD317EB206",
+      "JobTitle": "Research Project Mgmt I-Full time- Research Design & Analysis",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-3-10 11:43 PM",
+      "URL": "https://de.jobsyn.org/015D51617B8B43AC84BF388CDBD317EB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6219FE557DBF41FD970037EB6EDA3C60206",
+      "JobTitle": "Molecular Imaging Clinical Education Applications Specialist -Central Great Lakes/Mid Atlantic",
+      "Company": "Siemens Healthineers",
+      "AccquisitionDate": "2023-3-11 2:38 AM",
+      "URL": "https://de.jobsyn.org/6219FE557DBF41FD970037EB6EDA3C60206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F15F2E5ECF02422C9B442AAC549E7452206",
+      "JobTitle": "Student- Department of Urology",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-3-10 5:58 AM",
+      "URL": "https://de.jobsyn.org/F15F2E5ECF02422C9B442AAC549E7452206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7CDE671300C5454895493FF044E2BE6B206",
+      "JobTitle": "Research Associate (GW-BSE) - Chemistry",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-3-10 3:31 AM",
+      "URL": "https://de.jobsyn.org/7CDE671300C5454895493FF044E2BE6B206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0D0D48A1990C480BBC1DAA6937A3538D206",
+      "JobTitle": "Health Research Post Doctoral Fellowship",
+      "Company": "HKS Inc",
+      "AccquisitionDate": "2023-3-9 12:52 PM",
+      "URL": "https://de.jobsyn.org/0D0D48A1990C480BBC1DAA6937A3538D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BFB454FB179F4920A1640431F55BCD52206",
+      "JobTitle": "Group Leader Medical Technology Days FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-3-8 6:35 AM",
+      "URL": "https://de.jobsyn.org/BFB454FB179F4920A1640431F55BCD52206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FAF606C0958F444486F6B763DE9BD9A8206",
+      "JobTitle": "Value Based Care Payer Sr. Data Scientist",
+      "Company": "McKesson Corporation",
+      "AccquisitionDate": "2023-3-6 12:55 PM",
+      "URL": "https://de.jobsyn.org/FAF606C0958F444486F6B763DE9BD9A8206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "92CD2F802E444D14ADF4A18CB56E5F20206",
+      "JobTitle": "Field Based Medical Science Liaison IL/MI",
+      "Company": "GlaxoSmithKline",
+      "AccquisitionDate": "2023-3-5 1:03 PM",
+      "URL": "https://de.jobsyn.org/92CD2F802E444D14ADF4A18CB56E5F20206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9AC4D14BF52B4761853AB58918D59CD5206",
+      "JobTitle": "Senior Associate, Pharmacovigilance",
+      "Company": "Zoetis Inc",
+      "AccquisitionDate": "2023-3-4 12:58 PM",
+      "URL": "https://de.jobsyn.org/9AC4D14BF52B4761853AB58918D59CD5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FDF26FD60DA6428F8800F62532D313CC206",
+      "JobTitle": "Research Assistant -  Part -time Hypertension Research",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-3-3 10:11 PM",
+      "URL": "https://de.jobsyn.org/FDF26FD60DA6428F8800F62532D313CC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "51BB3C900C5A490F8E1FE56B9243FD0D206",
+      "JobTitle": "Sr. Associate Scientist/PK Study Monitor",
+      "Company": "Zoetis Inc",
+      "AccquisitionDate": "2023-3-2 1:58 PM",
+      "URL": "https://de.jobsyn.org/51BB3C900C5A490F8E1FE56B9243FD0D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7D045DCE7EFF4316B8125E82F2203FBF206",
+      "JobTitle": "Associate Director, Office of Health Research",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-3-3 3:26 AM",
+      "URL": "https://de.jobsyn.org/7D045DCE7EFF4316B8125E82F2203FBF206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "770322EEA87B44459028ECFAA9C16C5C206",
+      "JobTitle": "Clinical Research Associate II",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-3 4:15 AM",
+      "URL": "https://de.jobsyn.org/770322EEA87B44459028ECFAA9C16C5C206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "992AC7FEE6B84FC58A424CC4183A0991206",
+      "JobTitle": "Toxicologist",
+      "Company": "Momentive",
+      "AccquisitionDate": "2023-3-2 2:01 PM",
+      "URL": "https://de.jobsyn.org/992AC7FEE6B84FC58A424CC4183A0991206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D74627014A814062A3972C625F37ED8A206",
+      "JobTitle": "Post-Doc Fellow",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-3-2 2:34 AM",
+      "URL": "https://de.jobsyn.org/D74627014A814062A3972C625F37ED8A206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5CDD9B32B36A414AA309C2905225D3F1206",
+      "JobTitle": "Clinical Trial Educator-Cardiovascular-East Region-HAB87723",
+      "Company": "IQVIA",
+      "AccquisitionDate": "2023-3-2 4:43 AM",
+      "URL": "https://de.jobsyn.org/5CDD9B32B36A414AA309C2905225D3F1206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D1C1A74A0E8B49F78D4BDC0022FA323C206",
+      "JobTitle": "Faculty - Rank to be determined",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-3-2 2:34 AM",
+      "URL": "https://de.jobsyn.org/D1C1A74A0E8B49F78D4BDC0022FA323C206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AE71432A4FCC48398CD4F85D82884FBA206",
+      "JobTitle": "Research Scientist",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-2-28 2:41 AM",
+      "URL": "https://de.jobsyn.org/AE71432A4FCC48398CD4F85D82884FBA206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D703C2C4415743CAB099C93103CBD566206",
+      "JobTitle": "Pulmonary Function Technician I Days FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-1-13 7:23 AM",
+      "URL": "https://de.jobsyn.org/D703C2C4415743CAB099C93103CBD566206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F8174FBA1E344BEEAF37AC7D5D9A0BD0206",
+      "JobTitle": "Vascular Ultrasound Technologists Days FT Sign on Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-10-24 11:28 PM",
+      "URL": "https://de.jobsyn.org/F8174FBA1E344BEEAF37AC7D5D9A0BD0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F0FC4417593149D1870108C665FB6EF7206",
+      "JobTitle": "Vascular Ultrasound Technologist Rotating Shift Contingent",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-9-16 10:55 PM",
+      "URL": "https://de.jobsyn.org/F0FC4417593149D1870108C665FB6EF7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E6372D36BC5544BFB40ACE61DA9F9125206",
+      "JobTitle": "Surgical Technician Days FT Sign on Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-10-11 7:25 AM",
+      "URL": "https://de.jobsyn.org/E6372D36BC5544BFB40ACE61DA9F9125206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "63EE7019402E4D9CB6B446DCEF75F887206",
+      "JobTitle": "Medical Technologist I Nights PT Sign on Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-1-20 1:58 AM",
+      "URL": "https://de.jobsyn.org/63EE7019402E4D9CB6B446DCEF75F887206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "74F97A4EBC6F4EB3B8F673C3964B5B8E206",
+      "JobTitle": "Surgical Technician Days FT Sign on Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-11-4 1:02 AM",
+      "URL": "https://de.jobsyn.org/74F97A4EBC6F4EB3B8F673C3964B5B8E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F97AFE6F3CFD4F1B946BB602B086E43F206",
+      "JobTitle": "Surgical Technician Rotating Shift FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-4-20 1:06 AM",
+      "URL": "https://de.jobsyn.org/F97AFE6F3CFD4F1B946BB602B086E43F206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F123AD2066634AA193423A04FA7D8F6C206",
+      "JobTitle": "**New $10,000 sign-on bonus** Cardiac Cath Lab Tech II - 40 hrs - Days - Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2022-9-3 1:36 AM",
+      "URL": "https://de.jobsyn.org/F123AD2066634AA193423A04FA7D8F6C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "062DEDC1F3AC40DDA1D88012CE835702206",
+      "JobTitle": "Vascular Ultrasound Technician Rotating Afternoons PT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-1-11 1:37 AM",
+      "URL": "https://de.jobsyn.org/062DEDC1F3AC40DDA1D88012CE835702206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5B0ECF153F684957A17255C8E5762543206",
+      "JobTitle": "Neurodiagnostics Technologist Afternoons Contingent",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-12-15 11:01 PM",
+      "URL": "https://de.jobsyn.org/5B0ECF153F684957A17255C8E5762543206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D3AD9E55FF2A40F6A40030E81DB00C4B206",
+      "JobTitle": "Neurodiagnostics Technologist Nights Contingent",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-12-15 11:01 PM",
+      "URL": "https://de.jobsyn.org/D3AD9E55FF2A40F6A40030E81DB00C4B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B9AF5ED1CC69468986FFA8478DDADB54206",
+      "JobTitle": "EKG Technician-Full Time-Cardiovascular-Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-1-11 2:08 AM",
+      "URL": "https://de.jobsyn.org/B9AF5ED1CC69468986FFA8478DDADB54206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D67EBE68487248EB8CF1FA1E27CFC927206",
+      "JobTitle": "Telemetry TechnicianFull Time Nights2500 Sign On",
+      "Company": "Select Specialty Hospitals",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/D67EBE68487248EB8CF1FA1E27CFC927206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2F3BC7541F254580B5532A296E178192206",
+      "JobTitle": "Telemetry Technician/Monitor Technician PRN",
+      "Company": "Select Specialty Hospitals",
+      "AccquisitionDate": "2023-3-11 12:57 PM",
+      "URL": "https://de.jobsyn.org/2F3BC7541F254580B5532A296E178192206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6044AE9749484B9AA754924834FFBD2D206",
+      "JobTitle": "Radiologic Technologist",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-3-10 11:35 PM",
+      "URL": "https://de.jobsyn.org/6044AE9749484B9AA754924834FFBD2D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ED70163A8FCC45F1AC3AC02F59848E1C206",
+      "JobTitle": "Respiratory ECMO Specialist Nights FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-3-9 6:30 AM",
+      "URL": "https://de.jobsyn.org/ED70163A8FCC45F1AC3AC02F59848E1C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E7049786B4DD4D7E970B19C6E8FFB6A3206",
+      "JobTitle": "Sonography Technologist - Ultrasound",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/E7049786B4DD4D7E970B19C6E8FFB6A3206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D8EDFAA15F6A4312BE7EF788AFB34061206",
+      "JobTitle": "Sonography Tech - OBGYN",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:40 AM",
+      "URL": "https://de.jobsyn.org/D8EDFAA15F6A4312BE7EF788AFB34061206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A129FA62171C4164B124290BFC2FD3CC206",
+      "JobTitle": "Respiratory ECMO Specialist Afternoons FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-3-2 10:46 PM",
+      "URL": "https://de.jobsyn.org/A129FA62171C4164B124290BFC2FD3CC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FB1ECE5515A64FBDB9C96302B4A6D3CB206",
+      "JobTitle": "Telemetry Technician",
+      "Company": "Select Specialty Hospitals",
+      "AccquisitionDate": "2023-3-2 2:05 PM",
+      "URL": "https://de.jobsyn.org/FB1ECE5515A64FBDB9C96302B4A6D3CB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1ADD215E353E4C94BAF87BD35DAE0558206",
+      "JobTitle": "EEG Tech III - Neurology - 40 hours per week / Day Shift - Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-3-1 10:30 PM",
+      "URL": "https://de.jobsyn.org/1ADD215E353E4C94BAF87BD35DAE0558206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DAB6DACF007045118F2FDB07CC1BA55F206",
+      "JobTitle": "MEDICAL TECHNOLOGIST (TEAM LEADER)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-1 6:06 AM",
+      "URL": "https://de.jobsyn.org/DAB6DACF007045118F2FDB07CC1BA55F206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8510EBDFB6CF4FCE9256CC477ED6896C206",
+      "JobTitle": "Telemetry TechnicianFull Time Nights2500 Sign On",
+      "Company": "Select Specialty Hospitals",
+      "AccquisitionDate": "2023-3-1 1:48 PM",
+      "URL": "https://de.jobsyn.org/8510EBDFB6CF4FCE9256CC477ED6896C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "44C2C8A8AE004440B4628D7079726028206",
+      "JobTitle": "Surgical Technologist I",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-2-23 10:46 PM",
+      "URL": "https://de.jobsyn.org/44C2C8A8AE004440B4628D7079726028206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3633A36210444B8AAABFD9CE13C2DA7D206",
+      "JobTitle": "Surgical Technician - Grand Blanc Michigan",
+      "Company": "Maxim Healthcare Staffing",
+      "AccquisitionDate": "2023-2-18 3:04 AM",
+      "URL": "https://de.jobsyn.org/3633A36210444B8AAABFD9CE13C2DA7D206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "ECB3F568C55F404C8DEC1B7672C3F727206",
+      "JobTitle": "Sonographer",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-2-26 6:37 AM",
+      "URL": "https://de.jobsyn.org/ECB3F568C55F404C8DEC1B7672C3F727206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6662C2CCF67C4B41BA26FAD0BABF6251206",
+      "JobTitle": "Cardiac Sonographer - Detroit - Full Time - Days",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2022-9-30 7:52 AM",
+      "URL": "https://de.jobsyn.org/6662C2CCF67C4B41BA26FAD0BABF6251206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8DDF8B1A27504E9FAE4978730D3498C6206",
+      "JobTitle": "Cardiac Sonographer - Detroit - Full Time - Days",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2022-10-27 8:13 AM",
+      "URL": "https://de.jobsyn.org/8DDF8B1A27504E9FAE4978730D3498C6206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7D3493AF799F487EAA1A15CE028ED4CC206",
+      "JobTitle": "Job #2170: Healthcare",
+      "Company": "ComputerWorksTech.com",
+      "AccquisitionDate": "2018-2-8 1:44 AM",
+      "URL": "https://de.jobsyn.org/7D3493AF799F487EAA1A15CE028ED4CC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3D5CEB92D5CC495BB6DF26C1D65AE075206",
+      "JobTitle": "Cardiac Sonographer Rotating Shift PT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2021-9-26 2:06 AM",
+      "URL": "https://de.jobsyn.org/3D5CEB92D5CC495BB6DF26C1D65AE075206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D8EDFAA15F6A4312BE7EF788AFB34061206",
+      "JobTitle": "Sonography Tech - OBGYN",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:40 AM",
+      "URL": "https://de.jobsyn.org/D8EDFAA15F6A4312BE7EF788AFB34061206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E7049786B4DD4D7E970B19C6E8FFB6A3206",
+      "JobTitle": "Sonography Technologist - Ultrasound",
+      "Company": "Ascension Health",
+      "AccquisitionDate": "2023-3-7 4:39 AM",
+      "URL": "https://de.jobsyn.org/E7049786B4DD4D7E970B19C6E8FFB6A3206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0ED739C2E1E94B5C89DBCB2FE9AB322C206",
+      "JobTitle": "Vascular Ultrasound Tech (0.5 Part Time Day Shift) Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-2-17 12:44 AM",
+      "URL": "https://de.jobsyn.org/0ED739C2E1E94B5C89DBCB2FE9AB322C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F3D32AAAC53546D596002476E55A7C66206",
+      "JobTitle": "Magnetic Resonance Technologist / FT / Afternoons",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-2-15 1:58 AM",
+      "URL": "https://de.jobsyn.org/F3D32AAAC53546D596002476E55A7C66206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B2DF06A47E4C42F1BE8BCEE040E9A285206",
+      "JobTitle": "Vascular Ultrasound Tech (Surgery - Vascular Lab) Contingent Day Shift - Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-2-7 11:50 PM",
+      "URL": "https://de.jobsyn.org/B2DF06A47E4C42F1BE8BCEE040E9A285206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F0A46F0E5699474D926195A0730BD20B206",
+      "JobTitle": "Vascular Ultrasound Tech (0.5 Part Time Day Shift) Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-2-7 11:50 PM",
+      "URL": "https://de.jobsyn.org/F0A46F0E5699474D926195A0730BD20B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2BD4392A23844FF0A3557A378CBEF910206",
+      "JobTitle": "Special Procedure Technologist Afternoons FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-2-4 5:43 AM",
+      "URL": "https://de.jobsyn.org/2BD4392A23844FF0A3557A378CBEF910206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F66125E8AD5940D8BBEE1F3043CFF978206",
+      "JobTitle": "Imaging Engineer II Days FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-2-2 7:13 AM",
+      "URL": "https://de.jobsyn.org/F66125E8AD5940D8BBEE1F3043CFF978206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C57694E079D044BFA55727A461C9E6C4206",
+      "JobTitle": "Ultrasound Technologist",
+      "Company": "Life Line Screening",
+      "AccquisitionDate": "2023-1-5 12:44 AM",
+      "URL": "https://de.jobsyn.org/C57694E079D044BFA55727A461C9E6C4206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D0A8225B98774361A83F223C037F950A206",
+      "JobTitle": "Vascular Ultrasound Tech (0.5 Part Time Day Shift) Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-1-4 1:14 AM",
+      "URL": "https://de.jobsyn.org/D0A8225B98774361A83F223C037F950A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FFA25BFCD8424B46B987AF4B6326602F206",
+      "JobTitle": "Vascular Ultrasound Tech (Surgery - Vascular Lab) Contingent Day Shift - Detroit",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-1-4 1:14 AM",
+      "URL": "https://de.jobsyn.org/FFA25BFCD8424B46B987AF4B6326602F206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "915DB032470046228DC5C487DFF38044206",
+      "JobTitle": "Ultrasound Technologist Days FT Sign On Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-11-9 10:48 PM",
+      "URL": "https://de.jobsyn.org/915DB032470046228DC5C487DFF38044206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B2EE6510320C4F8DB28EFF7A77F9A369206",
+      "JobTitle": "Ultrasound Technologist Days FT Sign on Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-11-9 10:49 PM",
+      "URL": "https://de.jobsyn.org/B2EE6510320C4F8DB28EFF7A77F9A369206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F8174FBA1E344BEEAF37AC7D5D9A0BD0206",
+      "JobTitle": "Vascular Ultrasound Technologists Days FT Sign on Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-10-24 11:28 PM",
+      "URL": "https://de.jobsyn.org/F8174FBA1E344BEEAF37AC7D5D9A0BD0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BBD5A5BBCA7A437DB5368057409FC533206",
+      "JobTitle": "**New $5,000 sign-on bonus**\u00a0Cardiac Cath Lab Tech I",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2022-10-3 11:15 PM",
+      "URL": "https://de.jobsyn.org/BBD5A5BBCA7A437DB5368057409FC533206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "196D824F50AE4307BF413FFE1EE73316206",
+      "JobTitle": "Interventional Radiology / Special Procedures Technologist / FT / Days *$10.000 Sign on Bonus*",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2022-9-21 11:38 PM",
+      "URL": "https://de.jobsyn.org/196D824F50AE4307BF413FFE1EE73316206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F0FC4417593149D1870108C665FB6EF7206",
+      "JobTitle": "Vascular Ultrasound Technologist Rotating Shift Contingent",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-9-16 10:55 PM",
+      "URL": "https://de.jobsyn.org/F0FC4417593149D1870108C665FB6EF7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "182101781134409FAC3196F0D9918227206",
+      "JobTitle": "Ultrasound Technologist Rotating Shift Contingent",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-9-16 10:53 PM",
+      "URL": "https://de.jobsyn.org/182101781134409FAC3196F0D9918227206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B321830367924A969801E37EAB69B3A7206",
+      "JobTitle": "Ultrasound Technologist Nights Contingent",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-9-16 10:54 PM",
+      "URL": "https://de.jobsyn.org/B321830367924A969801E37EAB69B3A7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D4B7C73D1F1646D78C56C7EFCD587897206",
+      "JobTitle": "Ultrasound Technologist Afternoons PT Sign on Bonus available",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2022-9-16 10:55 PM",
+      "URL": "https://de.jobsyn.org/D4B7C73D1F1646D78C56C7EFCD587897206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "C66FE88C055E452880899A00DE59923E206",
+      "JobTitle": "Business Intelligence Analyst 3",
+      "Company": "Aleron",
+      "AccquisitionDate": "2023-2-15 1:09 PM",
+      "URL": "https://de.jobsyn.org/C66FE88C055E452880899A00DE59923E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "779D6E78C6B44850948CBA5AB4A5C748206",
+      "JobTitle": "Analyst - Business Intelligence",
+      "Company": "Ally",
+      "AccquisitionDate": "2023-2-11 5:55 AM",
+      "URL": "https://de.jobsyn.org/779D6E78C6B44850948CBA5AB4A5C748206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "43F0DA219F51420FADC8C86335B7AEA5206",
+      "JobTitle": "Business Intelligence Analyst",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-1-14 4:42 AM",
+      "URL": "https://de.jobsyn.org/43F0DA219F51420FADC8C86335B7AEA5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "36221BB4FF9D44BA92D948329ED6DDFB206",
+      "JobTitle": "data analyst iii",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-8 6:34 AM",
+      "URL": "https://de.jobsyn.org/36221BB4FF9D44BA92D948329ED6DDFB206",
+      "Location": "detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B14DF87A00D443EA982E7367B47CE06F206",
+      "JobTitle": "Sr. Analyst",
+      "Company": "Ilitch Holdings",
+      "AccquisitionDate": "2022-12-28 12:22 PM",
+      "URL": "https://de.jobsyn.org/B14DF87A00D443EA982E7367B47CE06F206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ABB8F01D9A864D7FA9DE75CBD6D4F86D206",
+      "JobTitle": "Data Analyst - Specialty Diagnostic Group",
+      "Company": "Thermo Fisher Scientific",
+      "AccquisitionDate": "2023-3-9 5:03 AM",
+      "URL": "https://de.jobsyn.org/ABB8F01D9A864D7FA9DE75CBD6D4F86D206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C6E426395DE14ECA8A55617C75E3B0F2206",
+      "JobTitle": "Manager - Business Intelligence",
+      "Company": "Ally",
+      "AccquisitionDate": "2023-2-1 2:43 AM",
+      "URL": "https://de.jobsyn.org/C6E426395DE14ECA8A55617C75E3B0F2206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "30D06A8AC1804ADDA846D44F804BDD03206",
+      "JobTitle": "Lead Business Analyst - Accelsior",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-5 6:53 AM",
+      "URL": "https://de.jobsyn.org/30D06A8AC1804ADDA846D44F804BDD03206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "61A23AF748A049DA9C95E4A8D29993B2206",
+      "JobTitle": "Data Analyst III (Healthcare Analytics)",
+      "Company": "Centene Corporation",
+      "AccquisitionDate": "2023-1-12 5:12 AM",
+      "URL": "https://de.jobsyn.org/61A23AF748A049DA9C95E4A8D29993B2206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0CE3A69945F64BAEA861A00C2D0700F0206",
+      "JobTitle": "Senior Business Analyst",
+      "Company": "R1 RCM",
+      "AccquisitionDate": "2023-2-1 3:11 AM",
+      "URL": "https://de.jobsyn.org/0CE3A69945F64BAEA861A00C2D0700F0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DCAAED76C4F744C39B2BD8AD2ECD2E04206",
+      "JobTitle": "Vice President, Global Data Analytics",
+      "Company": "Ilitch Holdings",
+      "AccquisitionDate": "2023-2-21 7:37 AM",
+      "URL": "https://de.jobsyn.org/DCAAED76C4F744C39B2BD8AD2ECD2E04206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F8AE4907B2DC4764975BC399AABD9BC8206",
+      "JobTitle": "Data Analyst Experiential Marketing",
+      "Company": "IPG DXTRA",
+      "AccquisitionDate": "2023-2-17 1:35 PM",
+      "URL": "https://de.jobsyn.org/F8AE4907B2DC4764975BC399AABD9BC8206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "664FB26942AF40239E5FAB33981ACC3F206",
+      "JobTitle": "Part-Time Data Entry Analyst - Solvas Financial Technology",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-7-22 7:04 AM",
+      "URL": "https://de.jobsyn.org/664FB26942AF40239E5FAB33981ACC3F206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "632FA8C633A0447A9A1EE5FA59639574206",
+      "JobTitle": "Data Analyst",
+      "Company": "Ally",
+      "AccquisitionDate": "2023-3-7 4:46 AM",
+      "URL": "https://de.jobsyn.org/632FA8C633A0447A9A1EE5FA59639574206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "42E79A6C6879416E9DC349410C401B7A206",
+      "JobTitle": "Reporting Manager",
+      "Company": "Cox",
+      "AccquisitionDate": "2023-3-14 12:52 PM",
+      "URL": "https://de.jobsyn.org/42E79A6C6879416E9DC349410C401B7A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B41ADDDD5BC1418A825F4BF26C191AFB206",
+      "JobTitle": "Lead Business Intelligence Developer (Value Based Care IT & Analytics)",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-3-14 6:32 AM",
+      "URL": "https://de.jobsyn.org/B41ADDDD5BC1418A825F4BF26C191AFB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "88BC52BE5A944670B30CA6E17DF124C7206",
+      "JobTitle": "Land Records Analyst",
+      "Company": "Wayne County Government",
+      "AccquisitionDate": "2023-3-11 12:57 PM",
+      "URL": "https://de.jobsyn.org/88BC52BE5A944670B30CA6E17DF124C7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "143510583FE44AAAA1A87493EC712D95206",
+      "JobTitle": "Data Analytics Manager Legal Operations",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-9 3:35 AM",
+      "URL": "https://de.jobsyn.org/143510583FE44AAAA1A87493EC712D95206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "619B38C7FF214C00879D1D495B483BE9206",
+      "JobTitle": "Audit Analytics Business Analyst",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-3-3 3:27 AM",
+      "URL": "https://de.jobsyn.org/619B38C7FF214C00879D1D495B483BE9206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D647A8F593BF48A795CD475025855DE9206",
+      "JobTitle": "Senior Associate, Learning Measurement & Evaluation",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-2-23 2:36 AM",
+      "URL": "https://de.jobsyn.org/D647A8F593BF48A795CD475025855DE9206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0BB2AAE818D444CC9A0400AD7B6A8282206",
+      "JobTitle": "Salesforce Business Analyst",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-2-22 1:19 PM",
+      "URL": "https://de.jobsyn.org/0BB2AAE818D444CC9A0400AD7B6A8282206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "462FE517FF3F4FF5A5C8355B5F3E91DA206",
+      "JobTitle": "Competitive & Market Intelligence Manager",
+      "Company": "Renaissance",
+      "AccquisitionDate": "2023-2-18 2:55 AM",
+      "URL": "https://de.jobsyn.org/462FE517FF3F4FF5A5C8355B5F3E91DA206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ADE31C7DB4384D5E8F8CE61C3CC30266206",
+      "JobTitle": "People Analytics Data Viz Engineer (Talent Acquisition)",
+      "Company": "General Motors",
+      "AccquisitionDate": "2023-2-9 2:28 AM",
+      "URL": "https://de.jobsyn.org/ADE31C7DB4384D5E8F8CE61C3CC30266206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AA5EFCB7A95F49AE8CE4F7EC396D645A206",
+      "JobTitle": "Business Intelligence Specialist",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-2-4 2:43 AM",
+      "URL": "https://de.jobsyn.org/AA5EFCB7A95F49AE8CE4F7EC396D645A206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22258D2FC227453987542506D9D028E1206",
+      "JobTitle": "Data Analytics Developer III",
+      "Company": "ICONMA, LLC",
+      "AccquisitionDate": "2023-1-13 5:44 AM",
+      "URL": "https://de.jobsyn.org/22258D2FC227453987542506D9D028E1206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "CFF24B11BEA449188BAE3216676F5C16206",
+      "JobTitle": "Print Center Technician",
+      "Company": "Rock Family of Companies",
+      "AccquisitionDate": "2023-1-18 8:12 AM",
+      "URL": "https://de.jobsyn.org/CFF24B11BEA449188BAE3216676F5C16206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F0403DFD521E488A98A969E642500022206",
+      "JobTitle": "Data Center Computer Operator - 8683",
+      "Company": "Blue Cross Blue Shield of Michigan",
+      "AccquisitionDate": "2023-2-12 1:14 PM",
+      "URL": "https://de.jobsyn.org/F0403DFD521E488A98A969E642500022206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D295282BC91B4F668EF1D9CF1A82CCDA206",
+      "JobTitle": "Senior Data Center Operations Analyst \u2013 Unisys",
+      "Company": "Ensono",
+      "AccquisitionDate": "2022-12-29 5:42 AM",
+      "URL": "https://de.jobsyn.org/D295282BC91B4F668EF1D9CF1A82CCDA206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A5F972476F2B4BA3B7D3259283A280E1206",
+      "JobTitle": "CMM Programmer/Operator",
+      "Company": "Fiat Chrysler Automobile",
+      "AccquisitionDate": "2022-5-6 3:44 PM",
+      "URL": "https://de.jobsyn.org/A5F972476F2B4BA3B7D3259283A280E1206",
+      "Location": "Detroit Metropolitan Area \u2013 Michigan",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "92152BA83A18416799147460D396E213206",
+      "JobTitle": "Systems Engineer",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-14 3:31 AM",
+      "URL": "https://de.jobsyn.org/92152BA83A18416799147460D396E213206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F112917EB13B46C2B142D3780C11465B206",
+      "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-18 4:04 AM",
+      "URL": "https://de.jobsyn.org/F112917EB13B46C2B142D3780C11465B206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AE7D10E08D744731AEF5D0D22A47DA85206",
+      "JobTitle": "Kafka Architect (Client Facing)",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-14 3:20 AM",
+      "URL": "https://de.jobsyn.org/AE7D10E08D744731AEF5D0D22A47DA85206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A8BFF23873744A29A087170905BF93A206",
+      "JobTitle": "Systems Integration Specialist",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-3-14 12:52 PM",
+      "URL": "https://de.jobsyn.org/0A8BFF23873744A29A087170905BF93A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "89A8FDDC519241BBA4F398E70DB026E0206",
+      "JobTitle": "Identity Management Architect",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-2-18 1:17 PM",
+      "URL": "https://de.jobsyn.org/89A8FDDC519241BBA4F398E70DB026E0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F12C6C1BDBBA44E4BA37A2223DAD410F206",
+      "JobTitle": "Network Solutions Architect - Cyber Security (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-6-3 5:41 PM",
+      "URL": "https://de.jobsyn.org/F12C6C1BDBBA44E4BA37A2223DAD410F206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8D3528876F624738BD64613576EE6F57206",
+      "JobTitle": "Solutions Architect US Remote",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/8D3528876F624738BD64613576EE6F57206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C72F6D3502594A3983A8C48AAE1023FE206",
+      "JobTitle": "Solution Architect",
+      "Company": "Rock Family of Companies",
+      "AccquisitionDate": "2023-3-2 6:58 AM",
+      "URL": "https://de.jobsyn.org/C72F6D3502594A3983A8C48AAE1023FE206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BB1E5E51580846CCBA3C7B63F0070715206",
+      "JobTitle": "AWS Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-4-21 3:51 AM",
+      "URL": "https://de.jobsyn.org/BB1E5E51580846CCBA3C7B63F0070715206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2F2AEF2F290D4AB396A1A5BC2648331D206",
+      "JobTitle": "Consulting Architect",
+      "Company": "Elastic",
+      "AccquisitionDate": "2023-2-18 1:15 PM",
+      "URL": "https://de.jobsyn.org/2F2AEF2F290D4AB396A1A5BC2648331D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0FF5FC7C83F54A89BFE66F9E5A216DA0206",
+      "JobTitle": "Senior Data Engineer - SFL Scientific",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-16 3:57 AM",
+      "URL": "https://de.jobsyn.org/0FF5FC7C83F54A89BFE66F9E5A216DA0206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0D8AE66B2C734C8E8FCA3A738C3E930C206",
+      "JobTitle": "Sr. PreSales Solutions Architect",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-2-16 12:59 PM",
+      "URL": "https://de.jobsyn.org/0D8AE66B2C734C8E8FCA3A738C3E930C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DE1D34E4465149A285A90BE912616817206",
+      "JobTitle": "Solution Architect, IT Mergers Acquisitions",
+      "Company": "Rockwell Automation",
+      "AccquisitionDate": "2023-2-19 1:21 PM",
+      "URL": "https://de.jobsyn.org/DE1D34E4465149A285A90BE912616817206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8890E949C4FA422F9655F806CCB3727A206",
+      "JobTitle": "Senior Software Engineer",
+      "Company": "Rockwell Automation",
+      "AccquisitionDate": "2023-3-1 1:48 PM",
+      "URL": "https://de.jobsyn.org/8890E949C4FA422F9655F806CCB3727A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BD695F46967B44F6A6F4E4A5DA8E95C4206",
+      "JobTitle": "AWS DevOps Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-1-29 1:59 AM",
+      "URL": "https://de.jobsyn.org/BD695F46967B44F6A6F4E4A5DA8E95C4206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2298B4EA8AE347A6AE55B77CDA90BDC8206",
+      "JobTitle": "Cloud Native Engineer - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 3:54 AM",
+      "URL": "https://de.jobsyn.org/2298B4EA8AE347A6AE55B77CDA90BDC8206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DF086E13A76E42F9B436B854B41F1E4F206",
+      "JobTitle": "Senior Cloud Native Engineer - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 1:57 AM",
+      "URL": "https://de.jobsyn.org/DF086E13A76E42F9B436B854B41F1E4F206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1DE9DF597D824B2FA11B3259AAFD3FAD206",
+      "JobTitle": "Systems Integration Specialist",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-2-11 1:03 PM",
+      "URL": "https://de.jobsyn.org/1DE9DF597D824B2FA11B3259AAFD3FAD206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5B90B50637E44CCC9632E4932B53B379206",
+      "JobTitle": "Security Architect - Government and Public Sector",
+      "Company": "EY",
+      "AccquisitionDate": "2023-3-9 12:58 AM",
+      "URL": "https://de.jobsyn.org/5B90B50637E44CCC9632E4932B53B379206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4AB4F43712AE41A4ADB04EB5D38D99DE206",
+      "JobTitle": "Data Engineer",
+      "Company": "DTE Energy",
+      "AccquisitionDate": "2023-2-23 1:02 PM",
+      "URL": "https://de.jobsyn.org/4AB4F43712AE41A4ADB04EB5D38D99DE206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "335D91F1DA5D4E308F82738F7AF866B1206",
+      "JobTitle": "AI/ML Data Engineering Manager - SFL Scientific",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-1-6 3:59 AM",
+      "URL": "https://de.jobsyn.org/335D91F1DA5D4E308F82738F7AF866B1206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CF2FC29E478A4A88A70F6A1EC48A3F27206",
+      "JobTitle": "RabbitMQ Solution Architect - Opportunity for Working Remotely",
+      "Company": "VMware",
+      "AccquisitionDate": "2023-2-14 3:01 AM",
+      "URL": "https://de.jobsyn.org/CF2FC29E478A4A88A70F6A1EC48A3F27206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4BB751A376AC4B00A6ECB363F299A705206",
+      "JobTitle": "IAM Lead (ForgeRock)- Remote/Delivery Center Role",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-1-29 3:34 AM",
+      "URL": "https://de.jobsyn.org/4BB751A376AC4B00A6ECB363F299A705206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A1BF43F0569B4ECEA11A6A21C53F0770206",
+      "JobTitle": "IAM Engineer Senior Consultant (Remote/Delivery Center)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-1 4:59 AM",
+      "URL": "https://de.jobsyn.org/A1BF43F0569B4ECEA11A6A21C53F0770206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1342E3E0CC974915A5230994F182F682206",
+      "JobTitle": "Cloud Native Engineer",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-1 3:54 AM",
+      "URL": "https://de.jobsyn.org/1342E3E0CC974915A5230994F182F682206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "F1C807B57B5C4A2CA38784E7C5C94FA1206",
+      "JobTitle": "IT DESKTOP SUPPORT SPECIALIST II",
+      "Company": "Detroit Wayne Integrated Health Network",
+      "AccquisitionDate": "2023-3-3 1:52 PM",
+      "URL": "https://de.jobsyn.org/F1C807B57B5C4A2CA38784E7C5C94FA1206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "65BE812867E5441F8BE80D9C7794C84E206",
+      "JobTitle": "Helpdesk",
+      "Company": "Rose International, Inc.",
+      "AccquisitionDate": "2023-2-25 1:05 PM",
+      "URL": "https://de.jobsyn.org/65BE812867E5441F8BE80D9C7794C84E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F7E7A9AC74514FF283AB6D0CF786E2D2206",
+      "JobTitle": "Intermediate Controls Specialist",
+      "Company": "G-TECH Services, Inc.",
+      "AccquisitionDate": "2022-7-20 10:54 PM",
+      "URL": "https://de.jobsyn.org/F7E7A9AC74514FF283AB6D0CF786E2D2206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "823A4F56F0C9415B92DD7D5396576DAD206",
+      "JobTitle": "PremierOne Records Application Specialist US Remo",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-3-11 12:57 PM",
+      "URL": "https://de.jobsyn.org/823A4F56F0C9415B92DD7D5396576DAD206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B6EC5AE1F539462DB2EDBC882D9F276B206",
+      "JobTitle": "Operations Support Specialist",
+      "Company": "AlixPartners",
+      "AccquisitionDate": "2023-2-24 1:32 PM",
+      "URL": "https://de.jobsyn.org/B6EC5AE1F539462DB2EDBC882D9F276B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7FA1C53447D94C2C89DB2CB2951EED51206",
+      "JobTitle": "Flex Public Safety Applications Specialist",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-3-11 12:57 PM",
+      "URL": "https://de.jobsyn.org/7FA1C53447D94C2C89DB2CB2951EED51206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0D7DB57F49FE44B6B0423AA9BE2601A5206",
+      "JobTitle": "Business Systems Support Specialist 2 - Department of Appeals & Hearings",
+      "Company": "City of Detroit",
+      "AccquisitionDate": "2022-7-27 11:37 PM",
+      "URL": "https://de.jobsyn.org/0D7DB57F49FE44B6B0423AA9BE2601A5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "79F94265A8F94D27B59D303FE4AA61C3206",
+      "JobTitle": "Desktop Support Technician - ITS3",
+      "Company": "State of Minnesota",
+      "AccquisitionDate": "2023-3-12 4:55 AM",
+      "URL": "https://de.jobsyn.org/79F94265A8F94D27B59D303FE4AA61C3206",
+      "Location": "Detroit Lakes, MN",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9696239FE25547989D38506FE7E1168E206",
+      "JobTitle": "Manager, Software Solutions Specialist - DAS GPS",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-23 2:04 AM",
+      "URL": "https://de.jobsyn.org/9696239FE25547989D38506FE7E1168E206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "37C837C2E8284CB3A29745EA86F8B05F206",
+      "JobTitle": "Service Specialist II or Sr. - Smart Buildings / Automation - Flex Force",
+      "Company": "Siemens",
+      "AccquisitionDate": "2023-2-15 12:10 AM",
+      "URL": "https://de.jobsyn.org/37C837C2E8284CB3A29745EA86F8B05F206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1B86FBDDEE09479E9709BB3558C2FF5E206",
+      "JobTitle": "Service Desk Agent Trainee",
+      "Company": "GalaxE.Solutions",
+      "AccquisitionDate": "2023-2-26 1:18 PM",
+      "URL": "https://de.jobsyn.org/1B86FBDDEE09479E9709BB3558C2FF5E206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EA0638A9F283440AAF0D15D5063D45A0206",
+      "JobTitle": "Service Desk Agent Trainee",
+      "Company": "GalaxE",
+      "AccquisitionDate": "2023-2-23 1:34 AM",
+      "URL": "https://de.jobsyn.org/EA0638A9F283440AAF0D15D5063D45A0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A56103345E4F4C37B1488C4DE1BB26A5206",
+      "JobTitle": "CAD/RMS System Manager",
+      "Company": "Motorola Solutions",
+      "AccquisitionDate": "2023-3-14 12:52 PM",
+      "URL": "https://de.jobsyn.org/A56103345E4F4C37B1488C4DE1BB26A5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BC50AD3382394338B2379DAA860432E8206",
+      "JobTitle": "SAP Digital Customer Engagement Sr. Analyst- 4748018",
+      "Company": "Accenture",
+      "AccquisitionDate": "2023-3-14 5:13 AM",
+      "URL": "https://de.jobsyn.org/BC50AD3382394338B2379DAA860432E8206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "58A2210EC5F743278F18018F8C1F997A206",
+      "JobTitle": "Software Implementation Consultant",
+      "Company": "ITW",
+      "AccquisitionDate": "2023-3-14 3:09 AM",
+      "URL": "https://de.jobsyn.org/58A2210EC5F743278F18018F8C1F997A206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "51D3F271A0EE49A9B211DE7B92844CF6206",
+      "JobTitle": "Application Specialist II",
+      "Company": "Wayne State University",
+      "AccquisitionDate": "2023-3-14 2:40 AM",
+      "URL": "https://de.jobsyn.org/51D3F271A0EE49A9B211DE7B92844CF6206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CB6AA3B7875444B38B2156BC1BD6D6AC206",
+      "JobTitle": "HRIS Analyst Workday US Remote",
+      "Company": "Momentive",
+      "AccquisitionDate": "2023-3-13 12:53 PM",
+      "URL": "https://de.jobsyn.org/CB6AA3B7875444B38B2156BC1BD6D6AC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "078DA9476E3741D9BE2D7845E108EED6206",
+      "JobTitle": "Field Engineer",
+      "Company": "Unisys Corporation",
+      "AccquisitionDate": "2023-3-13 12:53 PM",
+      "URL": "https://de.jobsyn.org/078DA9476E3741D9BE2D7845E108EED6206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "521A70519B354136B66F192673D3C37D206",
+      "JobTitle": "Senior Mainframe Systems Programmer \u2013 TSS",
+      "Company": "Ensono",
+      "AccquisitionDate": "2023-3-14 2:46 AM",
+      "URL": "https://de.jobsyn.org/521A70519B354136B66F192673D3C37D206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1BDAAA53F56743309C3676F4ABF0FD6F206",
+      "JobTitle": "Field Service Technician II- Detroit, MI **$1,500 Sign-on Bonus!!**",
+      "Company": "AGS, LLC",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/1BDAAA53F56743309C3676F4ABF0FD6F206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2D3D13DA66D7460F9820C7DF71883A52206",
+      "JobTitle": "Field Service Specialist Remote Detroit",
+      "Company": "Epson America Inc",
+      "AccquisitionDate": "2023-3-11 12:56 PM",
+      "URL": "https://de.jobsyn.org/2D3D13DA66D7460F9820C7DF71883A52206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "62F70B9B0B8D4B75B0FDB860157A9849206",
+      "JobTitle": "Salesforce Support Manager",
+      "Company": "Elastic",
+      "AccquisitionDate": "2023-3-11 12:57 PM",
+      "URL": "https://de.jobsyn.org/62F70B9B0B8D4B75B0FDB860157A9849206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1356A626108C4278B6646A8B20EC68AC206",
+      "JobTitle": "Tax Tech Support II-Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/1356A626108C4278B6646A8B20EC68AC206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8CB6C592651B489EBE83F45AE007EBDA206",
+      "JobTitle": "Manager, Systems & Infrastructure Administration - Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/8CB6C592651B489EBE83F45AE007EBDA206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "32AED9B18B254678B470D87FB30F5DF7206",
+      "JobTitle": "Application Specialist",
+      "Company": "ECOLAB",
+      "AccquisitionDate": "2023-3-11 12:56 PM",
+      "URL": "https://de.jobsyn.org/32AED9B18B254678B470D87FB30F5DF7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "34C82106DEC44E9D892EFA21436F5E1C206",
+      "JobTitle": "Document Control Specialist",
+      "Company": "AECOM",
+      "AccquisitionDate": "2023-2-20 4:55 PM",
+      "URL": "https://de.jobsyn.org/34C82106DEC44E9D892EFA21436F5E1C206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55C1227A18324503985C62F3BA62F3E5206",
+      "JobTitle": "Document Controls Specialist III",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-9 1:21 AM",
+      "URL": "https://de.jobsyn.org/55C1227A18324503985C62F3BA62F3E5206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B4E54879635946A2A0BE92864B721DCE206",
+      "JobTitle": "Document Controls Specialist III",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/B4E54879635946A2A0BE92864B721DCE206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "81E82593684C41F58BEBE4977D8F9100206",
+      "JobTitle": "Document Controls Specialist II",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-9 12:04 AM",
+      "URL": "https://de.jobsyn.org/81E82593684C41F58BEBE4977D8F9100206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D8E22B770CD041069C74865DA28DB6E2206",
+      "JobTitle": "Document Controls Specialist II",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-9 1:21 AM",
+      "URL": "https://de.jobsyn.org/D8E22B770CD041069C74865DA28DB6E2206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "067021D4A58A44C7AF9A0A75FEB43B93206",
+      "JobTitle": "Document Management Technician",
+      "Company": "CACI International",
+      "AccquisitionDate": "2023-2-24 2:20 AM",
+      "URL": "https://de.jobsyn.org/067021D4A58A44C7AF9A0A75FEB43B93206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "910E395AACE148E4957C69EE055801DD206",
+      "JobTitle": "Document Management Analyst II \u2013 Affirmative Civil Enforcement (ACE)",
+      "Company": "CACI International",
+      "AccquisitionDate": "2022-11-1 2:55 AM",
+      "URL": "https://de.jobsyn.org/910E395AACE148E4957C69EE055801DD206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AE3FFC9184EB4489B689A7219F6FFBB4206",
+      "JobTitle": "Document Management Technician *Sign On Bonus*",
+      "Company": "CACI International",
+      "AccquisitionDate": "2022-7-15 3:05 AM",
+      "URL": "https://de.jobsyn.org/AE3FFC9184EB4489B689A7219F6FFBB4206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "9970E3DC98D249E79AE6C4E5699956BA206",
+      "JobTitle": "Structural Analysis Engineer",
+      "Company": "LAUNCH Technical Workforce Solutions",
+      "AccquisitionDate": "2020-2-21 12:30 PM",
+      "URL": "https://de.jobsyn.org/9970E3DC98D249E79AE6C4E5699956BA206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DA885E83AF744BDD98DA3D2794B9E676206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "Advantage Resourcing",
+      "AccquisitionDate": "2023-2-16 1:04 PM",
+      "URL": "https://de.jobsyn.org/DA885E83AF744BDD98DA3D2794B9E676206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B17856DDE50443ECA3A93C8ED9C58859206",
+      "JobTitle": "New Grad Electrical Design Engineer December 2022",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-3-14 12:52 PM",
+      "URL": "https://de.jobsyn.org/B17856DDE50443ECA3A93C8ED9C58859206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FB65F17E76624272AB93B2A344BF14C8206",
+      "JobTitle": "Turbine Engineer Principal Specialist",
+      "Company": "DTE Energy",
+      "AccquisitionDate": "2023-3-13 12:53 PM",
+      "URL": "https://de.jobsyn.org/FB65F17E76624272AB93B2A344BF14C8206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D709CC1D41664C7A9BA8D29E2A0591FA206",
+      "JobTitle": "Lead Systems Engineer Heat Transfer Fluids",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-12 12:55 PM",
+      "URL": "https://de.jobsyn.org/D709CC1D41664C7A9BA8D29E2A0591FA206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BB942C17B0EE468CB0CA0DF57CBBE7E5206",
+      "JobTitle": "iXBRL Engineering Lead",
+      "Company": "Toppan Merrill LLC",
+      "AccquisitionDate": "2023-3-6 12:55 PM",
+      "URL": "https://de.jobsyn.org/BB942C17B0EE468CB0CA0DF57CBBE7E5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "84F9174596FB4FA7ADE81717F41278F3206",
+      "JobTitle": "Senior Systems Engineer Heat Transfer Fluids",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-6 12:55 PM",
+      "URL": "https://de.jobsyn.org/84F9174596FB4FA7ADE81717F41278F3206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3A9E4559A0124FC280A6D9F681F83F53206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "Torch Technologies Inc",
+      "AccquisitionDate": "2023-3-2 1:57 PM",
+      "URL": "https://de.jobsyn.org/3A9E4559A0124FC280A6D9F681F83F53206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D1E8D51340F64827832A6CA9C9D6AABC206",
+      "JobTitle": "ECS Rotational CoOp",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-1 1:52 PM",
+      "URL": "https://de.jobsyn.org/D1E8D51340F64827832A6CA9C9D6AABC206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "79DBF9B9FA1549A4AE3DCD362A35A7B2206",
+      "JobTitle": "Senior Gear Design Engineer",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-2-26 1:21 PM",
+      "URL": "https://de.jobsyn.org/79DBF9B9FA1549A4AE3DCD362A35A7B2206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F4DF7950BE484B7B8E6717365F493CCB206",
+      "JobTitle": "Electric Propulsion System Algorithm Development",
+      "Company": "Allison Transmission",
+      "AccquisitionDate": "2023-2-25 1:09 PM",
+      "URL": "https://de.jobsyn.org/F4DF7950BE484B7B8E6717365F493CCB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "07065F78A68445948AB8E110F4140D0F206",
+      "JobTitle": "Structural Engineer",
+      "Company": "SmithGroup",
+      "AccquisitionDate": "2023-2-24 1:28 PM",
+      "URL": "https://de.jobsyn.org/07065F78A68445948AB8E110F4140D0F206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "45AEE3E482584152AFBECA125C36B603206",
+      "JobTitle": "Structural Engineer",
+      "Company": "DLZ Corporation",
+      "AccquisitionDate": "2023-2-22 1:20 PM",
+      "URL": "https://de.jobsyn.org/45AEE3E482584152AFBECA125C36B603206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DC67AF4C203A4CE8AD08E59D50147257206",
+      "JobTitle": "Structural Engineer",
+      "Company": "DLZ Corporation",
+      "AccquisitionDate": "2023-2-22 1:24 PM",
+      "URL": "https://de.jobsyn.org/DC67AF4C203A4CE8AD08E59D50147257206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "496DAF64BD9D41E88252F4C08A46ABA9206",
+      "JobTitle": "Mechanical Design Engineer / New Grad May 2023",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-18 1:16 PM",
+      "URL": "https://de.jobsyn.org/496DAF64BD9D41E88252F4C08A46ABA9206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0BC9FE459E614D3BB400E5EA8E8E0B5C206",
+      "JobTitle": "Product engineer (EAxle housing engineer/designer)",
+      "Company": "ICONMA, LLC",
+      "AccquisitionDate": "2023-2-17 8:25 AM",
+      "URL": "https://de.jobsyn.org/0BC9FE459E614D3BB400E5EA8E8E0B5C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "92981D56B17349AD8AE5D3EDE6BC0B4C206",
+      "JobTitle": "Senior Structural Engineer",
+      "Company": "SmithGroup",
+      "AccquisitionDate": "2023-2-15 1:07 PM",
+      "URL": "https://de.jobsyn.org/92981D56B17349AD8AE5D3EDE6BC0B4C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "745A6510808749E5BE66C356ECDB18BE206",
+      "JobTitle": "Structural Project Engineer",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-14 1:22 PM",
+      "URL": "https://de.jobsyn.org/745A6510808749E5BE66C356ECDB18BE206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "59DE5D4B852B42AA8C7F66B676DF50FB206",
+      "JobTitle": "Senior Structural Engineer",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-14 1:22 PM",
+      "URL": "https://de.jobsyn.org/59DE5D4B852B42AA8C7F66B676DF50FB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "64D30ECBFD55443FAE7C84015016A169206",
+      "JobTitle": "Senior Structural Engineer",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-14 1:22 PM",
+      "URL": "https://de.jobsyn.org/64D30ECBFD55443FAE7C84015016A169206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C1520EB3A0E340759E0C7B1DC269999C206",
+      "JobTitle": "Structural Project Engineer",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-14 1:25 PM",
+      "URL": "https://de.jobsyn.org/C1520EB3A0E340759E0C7B1DC269999C206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A6ED9667003044E1BC9CFAB0E897C011206",
+      "JobTitle": "New Grad Electrical Design Engineer December 2022",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-11 1:07 PM",
+      "URL": "https://de.jobsyn.org/A6ED9667003044E1BC9CFAB0E897C011206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1E4FE2135248401EB310AA86719B7680206",
+      "JobTitle": "Regional Field Engineer",
+      "Company": "Otis Elevator Company",
+      "AccquisitionDate": "2022-10-21 3:35 AM",
+      "URL": "https://de.jobsyn.org/1E4FE2135248401EB310AA86719B7680206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AB6C7380E38146AE92B1B805E6739A41206",
+      "JobTitle": "Turbine Engineer - Principal Specialist",
+      "Company": "DTE Energy",
+      "AccquisitionDate": "2022-10-7 11:00 PM",
+      "URL": "https://de.jobsyn.org/AB6C7380E38146AE92B1B805E6739A41206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F8A60F6939264180A27AAA3C83B5CB39206",
+      "JobTitle": "Staff Structural Engineer - Substation",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-6-14 8:44 PM",
+      "URL": "https://de.jobsyn.org/F8A60F6939264180A27AAA3C83B5CB39206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "A7AFEB7B8581407D885E9BC006221049206",
+      "JobTitle": "Studio Manager, Mechanical",
+      "Company": "NORR",
+      "AccquisitionDate": "2023-3-9 6:55 AM",
+      "URL": "https://de.jobsyn.org/A7AFEB7B8581407D885E9BC006221049206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6B2B3A17BFD7407D9C42D30B6D65B6CE206",
+      "JobTitle": "Senior Architect",
+      "Company": "DLZ Corporation",
+      "AccquisitionDate": "2023-2-22 1:21 PM",
+      "URL": "https://de.jobsyn.org/6B2B3A17BFD7407D9C42D30B6D65B6CE206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E3D61D9C91BE4CDF883CE003CFBCA79A206",
+      "JobTitle": "Project Architect",
+      "Company": "DLZ Corporation",
+      "AccquisitionDate": "2023-2-22 1:25 PM",
+      "URL": "https://de.jobsyn.org/E3D61D9C91BE4CDF883CE003CFBCA79A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3781825260C24DE98533DF5492C8052D206",
+      "JobTitle": "Project Architect",
+      "Company": "DLZ Corporation",
+      "AccquisitionDate": "2023-2-21 1:04 PM",
+      "URL": "https://de.jobsyn.org/3781825260C24DE98533DF5492C8052D206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "47650E3042EE413F9C277D05121092BA206",
+      "JobTitle": "Global Program Manager Auto and Tire Industry",
+      "Company": "Rockwell Automation",
+      "AccquisitionDate": "2023-3-12 12:56 PM",
+      "URL": "https://de.jobsyn.org/47650E3042EE413F9C277D05121092BA206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "50ED289C1EC94F1F92473AFE12E999FE206",
+      "JobTitle": "Senior Process Architect - Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:43 PM",
+      "URL": "https://de.jobsyn.org/50ED289C1EC94F1F92473AFE12E999FE206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FA92755F30D64FBB9FF24DFAB9E21529206",
+      "JobTitle": "Civil Engineer (Geotechnical)",
+      "Company": "U.S. Army Corps of Engineers",
+      "AccquisitionDate": "2023-3-1 11:45 PM",
+      "URL": "https://de.jobsyn.org/FA92755F30D64FBB9FF24DFAB9E21529206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B518A531396A43DFB77A982BC9D90581206",
+      "JobTitle": "National Process Architecture Leader \u2013 Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:44 PM",
+      "URL": "https://de.jobsyn.org/B518A531396A43DFB77A982BC9D90581206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "667C8F0BD3C848D684B7D2FD9DB6C063206",
+      "JobTitle": "Civil Engineer (Geotechnical)",
+      "Company": "U.S. Army Corps of Engineers",
+      "AccquisitionDate": "2023-3-1 1:04 AM",
+      "URL": "https://de.jobsyn.org/667C8F0BD3C848D684B7D2FD9DB6C063206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "868BB0D6A01C487BA7CB4E33FBD60E88206",
+      "JobTitle": "Design Manager Construction",
+      "Company": "Walbridge",
+      "AccquisitionDate": "2023-2-20 1:38 PM",
+      "URL": "https://de.jobsyn.org/868BB0D6A01C487BA7CB4E33FBD60E88206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C14795F76B204B11B31088C96AEBF938206",
+      "JobTitle": "Hardware Project Manager Central USA Region",
+      "Company": "Varian Medical Systems Inc",
+      "AccquisitionDate": "2023-3-6 12:55 PM",
+      "URL": "https://de.jobsyn.org/C14795F76B204B11B31088C96AEBF938206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F7AA7D9E961F445C8CDB4C17AEC5D6D0206",
+      "JobTitle": "Program Manager Advisor",
+      "Company": "Belcan Corporation",
+      "AccquisitionDate": "2023-3-8 12:52 PM",
+      "URL": "https://de.jobsyn.org/F7AA7D9E961F445C8CDB4C17AEC5D6D0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F11475A16D6D4A3790BB49626365F1FA206",
+      "JobTitle": "Power & Utilities Delivery Lead - Senior Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-15 5:09 AM",
+      "URL": "https://de.jobsyn.org/F11475A16D6D4A3790BB49626365F1FA206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D5CB1B15AFA84143950EB659924D8579206",
+      "JobTitle": "Design Technology Manager BIM",
+      "Company": "Gensler",
+      "AccquisitionDate": "2023-2-25 1:08 PM",
+      "URL": "https://de.jobsyn.org/D5CB1B15AFA84143950EB659924D8579206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E0C52D50D394C62BD8D08710CE94E39206",
+      "JobTitle": "Electrical Section Manager - Municipal Water (Kansas City, St. Louis, Chicago, Detroit)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-10-12 5:42 PM",
+      "URL": "https://de.jobsyn.org/7E0C52D50D394C62BD8D08710CE94E39206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8DA4EC7164834F8D881A4ECF782E5975206",
+      "JobTitle": "Civil Roadway Engineer - Transportation (Detroit)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-1-13 11:39 PM",
+      "URL": "https://de.jobsyn.org/8DA4EC7164834F8D881A4ECF782E5975206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2284DEDE13FD46159C34F1D81E0ECD29206",
+      "JobTitle": "Pre-Sales Engineer (WAM) - Senior Manager - Consulting - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-26 1:00 AM",
+      "URL": "https://de.jobsyn.org/2284DEDE13FD46159C34F1D81E0ECD29206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AF5546468E62471F86B62377ED39D0C0206",
+      "JobTitle": "Design Technology Manager BIM",
+      "Company": "Gensler",
+      "AccquisitionDate": "2023-2-15 1:08 PM",
+      "URL": "https://de.jobsyn.org/AF5546468E62471F86B62377ED39D0C0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0D0921CF976B4AD1A02911E4A95F384B206",
+      "JobTitle": "Hardware Project Manager Central Region USA",
+      "Company": "Varian Medical Systems Inc",
+      "AccquisitionDate": "2023-2-22 1:19 PM",
+      "URL": "https://de.jobsyn.org/0D0921CF976B4AD1A02911E4A95F384B206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FB7B838E9D1C487D9371B107F7A04C12206",
+      "JobTitle": "Senior Engineering Manager, Webapp Infrastructure",
+      "Company": "salesforcecom inc",
+      "AccquisitionDate": "2023-2-19 1:22 PM",
+      "URL": "https://de.jobsyn.org/FB7B838E9D1C487D9371B107F7A04C12206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B41DAD98C8B5414987ACDB94086C39FD206",
+      "JobTitle": "IT Sr. Project Manager (Value Based Care IT & Analytics)",
+      "Company": "Henry Ford Health System",
+      "AccquisitionDate": "2023-3-14 6:32 AM",
+      "URL": "https://de.jobsyn.org/B41DAD98C8B5414987ACDB94086C39FD206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0C84BBECA0F94397B0415E6DCA8FB838206",
+      "JobTitle": "Senior Project Manager",
+      "Company": "Walbridge",
+      "AccquisitionDate": "2023-3-2 1:55 PM",
+      "URL": "https://de.jobsyn.org/0C84BBECA0F94397B0415E6DCA8FB838206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "595AC410622F4791BB4224D5BD47CF9A206",
+      "JobTitle": "Project Manager - Pipelines (Detroit)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-1-8 1:42 PM",
+      "URL": "https://de.jobsyn.org/595AC410622F4791BB4224D5BD47CF9A206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "406BAEF94DAE4A7DA527CB735F98D863206",
+      "JobTitle": "Program Manager Advisor",
+      "Company": "Belcan",
+      "AccquisitionDate": "2023-3-6 10:41 PM",
+      "URL": "https://de.jobsyn.org/406BAEF94DAE4A7DA527CB735F98D863206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "031B2F87444E442AA3C8A84AB4A3C9EB206",
+      "JobTitle": "Project Manager",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-25 1:03 PM",
+      "URL": "https://de.jobsyn.org/031B2F87444E442AA3C8A84AB4A3C9EB206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "B1AACC1699914A5B89CD5AF7DF8E3A6B206",
+      "JobTitle": "Electrical Powertrain Engineer-ECU Testing",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-11 3:00 AM",
+      "URL": "https://de.jobsyn.org/B1AACC1699914A5B89CD5AF7DF8E3A6B206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D1D45B351F154D21A785088B550435E0206",
+      "JobTitle": "Biomedical Engineer",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-1 6:06 AM",
+      "URL": "https://de.jobsyn.org/D1D45B351F154D21A785088B550435E0206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E6EC40A2DF16467BB2A9C967104DF36A206",
+      "JobTitle": "Medical Imaging Field Service Engineer",
+      "Company": "PSG Global Solutions",
+      "AccquisitionDate": "2023-3-9 5:10 AM",
+      "URL": "https://de.jobsyn.org/E6EC40A2DF16467BB2A9C967104DF36A206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "058A8A477B2A47178F79CF80670C85D5206",
+      "JobTitle": "Medical Imaging Field Service Engineer (MRI)",
+      "Company": "PSG Global Solutions",
+      "AccquisitionDate": "2023-3-9 5:10 AM",
+      "URL": "https://de.jobsyn.org/058A8A477B2A47178F79CF80670C85D5206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "496DAF64BD9D41E88252F4C08A46ABA9206",
+      "JobTitle": "Mechanical Design Engineer / New Grad May 2023",
+      "Company": "IMEG Corporation",
+      "AccquisitionDate": "2023-2-18 1:16 PM",
+      "URL": "https://de.jobsyn.org/496DAF64BD9D41E88252F4C08A46ABA9206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F66125E8AD5940D8BBEE1F3043CFF978206",
+      "JobTitle": "Imaging Engineer II Days FT",
+      "Company": "Tenet Healthcare",
+      "AccquisitionDate": "2023-2-2 7:13 AM",
+      "URL": "https://de.jobsyn.org/F66125E8AD5940D8BBEE1F3043CFF978206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "99732462B3A74D44AC0343A7645B50C5206",
+      "JobTitle": "Chemical Engineer 7 (Hydrogen Process Engineer)",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-1 2:54 AM",
+      "URL": "https://de.jobsyn.org/99732462B3A74D44AC0343A7645B50C5206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9E16E8F1268B4E06A4846192B6F48BEE206",
+      "JobTitle": "Intern/Co-op - Chemical Engineer (2023)",
+      "Company": "Marathon Petroleum Corporation",
+      "AccquisitionDate": "2022-9-29 9:08 PM",
+      "URL": "https://de.jobsyn.org/9E16E8F1268B4E06A4846192B6F48BEE206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E88DA83F73BE41B7BC02AE8B085B99EC206",
+      "JobTitle": "Commercial Engineer",
+      "Company": "Marathon Petroleum Corporation",
+      "AccquisitionDate": "2023-3-7 5:07 AM",
+      "URL": "https://de.jobsyn.org/E88DA83F73BE41B7BC02AE8B085B99EC206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4FB58DCB813A4B17B54767FBBE478557206",
+      "JobTitle": "Scheduling and Blending Engineer/Professional",
+      "Company": "Marathon Petroleum Corporation",
+      "AccquisitionDate": "2023-3-9 4:25 AM",
+      "URL": "https://de.jobsyn.org/4FB58DCB813A4B17B54767FBBE478557206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CEFA0FE4E7CB4C83ADC793034DB41F9B206",
+      "JobTitle": "2023 Entry Level Paint Engineer - Development Program",
+      "Company": "General Motors",
+      "AccquisitionDate": "2022-7-23 6:04 AM",
+      "URL": "https://de.jobsyn.org/CEFA0FE4E7CB4C83ADC793034DB41F9B206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "90B783ED94B544EEAB884CF44BB657D7206",
+      "JobTitle": "Engineer - Associate",
+      "Company": "DTE Energy",
+      "AccquisitionDate": "2023-3-11 1:41 AM",
+      "URL": "https://de.jobsyn.org/90B783ED94B544EEAB884CF44BB657D7206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "86A7543161BC4A2AA5BEC058E08DCE91206",
+      "JobTitle": "Lead Continuous Improvement Engineer",
+      "Company": "Ryder System",
+      "AccquisitionDate": "2023-3-4 3:55 PM",
+      "URL": "https://de.jobsyn.org/86A7543161BC4A2AA5BEC058E08DCE91206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E9AFFB2792F64C4A8B95F2BE438D49D6206",
+      "JobTitle": "Associate Manufacturing Engineer Rotational",
+      "Company": "American Axle  Mfg Inc",
+      "AccquisitionDate": "2023-3-3 1:52 PM",
+      "URL": "https://de.jobsyn.org/E9AFFB2792F64C4A8B95F2BE438D49D6206",
+      "Location": "Detroit, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E71DE622F21E4865B13E2204CD3B164B206",
+      "JobTitle": "Intern/Co-op - Mechanical Engineer (2023)",
+      "Company": "Marathon Petroleum Corporation",
+      "AccquisitionDate": "2022-9-29 9:08 PM",
+      "URL": "https://de.jobsyn.org/E71DE622F21E4865B13E2204CD3B164B206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B9792FD5A8374564990E28B9F3652DDB206",
+      "JobTitle": "2023 Entry Level - Associate Engineer Manufacturing (Detroit, MI)",
+      "Company": "Textron",
+      "AccquisitionDate": "2022-9-7 5:59 AM",
+      "URL": "https://de.jobsyn.org/B9792FD5A8374564990E28B9F3652DDB206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    },
+    {
+      "JvId": "169DED13A78249ECA1A4212E4BA666A8206",
+      "JobTitle": "ER&I - Oil, Gas, & Chemicals - SAP Finance - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-5-31 5:39 PM",
+      "URL": "https://de.jobsyn.org/169DED13A78249ECA1A4212E4BA666A8206",
+      "Location": "Detroit, MI",
+      "Fc": "True"
+    }
+  ]
+]

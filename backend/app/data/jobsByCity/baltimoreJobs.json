@@ -268,15 +268,6 @@
       "Fc": "False"
     },
     {
-      "JvId": "0AB9DF4A556C491CA23221D5B307B107206",
-      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
-      "Company": "Family Dollar",
-      "AccquisitionDate": "2021-11-19 8:22 PM",
-      "URL": "https://de.jobsyn.org/0AB9DF4A556C491CA23221D5B307B107206",
-      "Location": "Baltimore, MD",
-      "Fc": "False"
-    },
-    {
       "JvId": "0FD54120942247C88656731C16423361206",
       "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
       "Company": "Family Dollar",
@@ -304,20 +295,29 @@
       "Fc": "False"
     },
     {
-      "JvId": "FF119271CDE64C24A7A7B0FAC20FEAEA206",
-      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
-      "Company": "Family Dollar",
-      "AccquisitionDate": "2021-11-19 8:25 PM",
-      "URL": "https://de.jobsyn.org/FF119271CDE64C24A7A7B0FAC20FEAEA206",
-      "Location": "Baltimore, MD",
-      "Fc": "False"
-    },
-    {
       "JvId": "19318D6683244918831F94C5C2506F6B206",
       "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
       "Company": "Family Dollar",
       "AccquisitionDate": "2021-11-19 8:22 PM",
       "URL": "https://de.jobsyn.org/19318D6683244918831F94C5C2506F6B206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0AB9DF4A556C491CA23221D5B307B107206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0AB9DF4A556C491CA23221D5B307B107206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FF119271CDE64C24A7A7B0FAC20FEAEA206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FF119271CDE64C24A7A7B0FAC20FEAEA206",
       "Location": "Baltimore, MD",
       "Fc": "False"
     },
@@ -345,15 +345,6 @@
       "Company": "Family Dollar",
       "AccquisitionDate": "2021-11-19 8:24 PM",
       "URL": "https://de.jobsyn.org/B5864B1A9C63449BA25B4648907F8C1D206",
-      "Location": "Baltimore, MD",
-      "Fc": "False"
-    },
-    {
-      "JvId": "CE41B68E3F8443E09AD33F1E4BE41365206",
-      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
-      "Company": "Family Dollar",
-      "AccquisitionDate": "2021-11-19 8:24 PM",
-      "URL": "https://de.jobsyn.org/CE41B68E3F8443E09AD33F1E4BE41365206",
       "Location": "Baltimore, MD",
       "Fc": "False"
     },
@@ -412,15 +403,6 @@
       "Fc": "False"
     },
     {
-      "JvId": "FA499115134048A2B2D5B2110E78A58B206",
-      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
-      "Company": "Family Dollar",
-      "AccquisitionDate": "2021-11-19 8:25 PM",
-      "URL": "https://de.jobsyn.org/FA499115134048A2B2D5B2110E78A58B206",
-      "Location": "Baltimore, MD",
-      "Fc": "False"
-    },
-    {
       "JvId": "169B0D6A0FB84EDE96A48DDEE2EC8BA3206",
       "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
       "Company": "Family Dollar",
@@ -448,6 +430,15 @@
       "Fc": "False"
     },
     {
+      "JvId": "CE41B68E3F8443E09AD33F1E4BE41365206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/CE41B68E3F8443E09AD33F1E4BE41365206",
+      "Location": "Baltimore, MD",
+      "Fc": "False"
+    },
+    {
       "JvId": "38BF75F77C3544B0AC62BD4D542F2C3B206",
       "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
       "Company": "Family Dollar",
@@ -463,6 +454,15 @@
       "AccquisitionDate": "2021-11-19 8:23 PM",
       "URL": "https://de.jobsyn.org/5894A3371FD94FB3B1EE6BAF9FD1184D206",
       "Location": "New Baltimore, MI",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D083B5647C8C4D4EA7B43F366A8694A7206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/D083B5647C8C4D4EA7B43F366A8694A7206",
+      "Location": "Baltimore, MD",
       "Fc": "False"
     }
   ],

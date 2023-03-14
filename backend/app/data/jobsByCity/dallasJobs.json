@@ -1,0 +1,3584 @@
+[
+  [
+    {
+      "JvId": "15924B9C60BC4FE9B5E52509B226C728206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-3 12:25 AM",
+      "URL": "https://de.jobsyn.org/15924B9C60BC4FE9B5E52509B226C728206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ABC1488F5E774F8AAEBB1B5B4681CDC6206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-28 12:14 AM",
+      "URL": "https://de.jobsyn.org/ABC1488F5E774F8AAEBB1B5B4681CDC6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "525F3DDFFC174260B287F014B7F66572206",
+      "JobTitle": "Accounts Payable",
+      "Company": "HEI Hotels",
+      "AccquisitionDate": "2023-1-18 11:26 PM",
+      "URL": "https://de.jobsyn.org/525F3DDFFC174260B287F014B7F66572206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "248C0EAD92CF44B486A99708B024B06B206",
+      "JobTitle": "Accounting Associate",
+      "Company": "Hartford Steam Boiler Inspection and Insurance Company",
+      "AccquisitionDate": "2023-3-14 5:19 AM",
+      "URL": "https://de.jobsyn.org/248C0EAD92CF44B486A99708B024B06B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C20E787CFFDC4BEFBCFD3FAFB4FF29FC206",
+      "JobTitle": "Night Auditor",
+      "Company": "HEI Hotels",
+      "AccquisitionDate": "2023-3-14 6:32 AM",
+      "URL": "https://de.jobsyn.org/C20E787CFFDC4BEFBCFD3FAFB4FF29FC206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B5F387A0CFA947F0931E439AB3839B38206",
+      "JobTitle": "Accounts Payable Control Clerk",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-3-14 5:03 AM",
+      "URL": "https://de.jobsyn.org/B5F387A0CFA947F0931E439AB3839B38206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F9ECCF80A34A440D8B67DF4544C5CC97206",
+      "JobTitle": "AR Admin",
+      "Company": "FirstService Residential",
+      "AccquisitionDate": "2023-3-14 5:56 AM",
+      "URL": "https://de.jobsyn.org/F9ECCF80A34A440D8B67DF4544C5CC97206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "74C0FFC8DF8140E7897DC68E5EFBD6B8206",
+      "JobTitle": "Jr. Staff Accountant",
+      "Company": "HEI Hotels",
+      "AccquisitionDate": "2023-3-14 6:32 AM",
+      "URL": "https://de.jobsyn.org/74C0FFC8DF8140E7897DC68E5EFBD6B8206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0E02A97D310240CBAF6600AF74745898206",
+      "JobTitle": "Payroll Specialist",
+      "Company": "Rexel USA",
+      "AccquisitionDate": "2023-3-14 4:11 AM",
+      "URL": "https://de.jobsyn.org/0E02A97D310240CBAF6600AF74745898206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6067C5EA5F7D410EA9466219DE81434C206",
+      "JobTitle": "Title Clerk",
+      "Company": "Advancial",
+      "AccquisitionDate": "2023-3-13 6:53 PM",
+      "URL": "https://de.jobsyn.org/6067C5EA5F7D410EA9466219DE81434C206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F62E6DB052BE4712A8C589054F80778C206",
+      "JobTitle": "Director, Accounts Payable",
+      "Company": "Topgolf",
+      "AccquisitionDate": "2023-3-14 12:28 AM",
+      "URL": "https://de.jobsyn.org/F62E6DB052BE4712A8C589054F80778C206",
+      "Location": "Dallas Office, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "21780EAF4CE14F0DA7FDE36D62A32459206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/21780EAF4CE14F0DA7FDE36D62A32459206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0883949CBF4A4345A187873F462DEEFB206",
+      "JobTitle": "Night Auditor",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-3-12 11:55 PM",
+      "URL": "https://de.jobsyn.org/0883949CBF4A4345A187873F462DEEFB206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EFCDD3FA4BDE45ED9D6E1FED079C3310206",
+      "JobTitle": "Customer Care - AR",
+      "Company": "Southern Glazer's Wine and Spirits",
+      "AccquisitionDate": "2023-3-11 8:52 AM",
+      "URL": "https://de.jobsyn.org/EFCDD3FA4BDE45ED9D6E1FED079C3310206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C0F0FF71C0D744E886ABEDE1251002B7206",
+      "JobTitle": "Night Auditor",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-3-11 10:59 PM",
+      "URL": "https://de.jobsyn.org/C0F0FF71C0D744E886ABEDE1251002B7206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4F448DA6D25E4EA8B808E46F36DBC5CE206",
+      "JobTitle": "Night Auditor The Beeman Hotel:",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-3-11 10:58 PM",
+      "URL": "https://de.jobsyn.org/4F448DA6D25E4EA8B808E46F36DBC5CE206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "08F1A6E9EB4C46908218F5973D332C5E206",
+      "JobTitle": "Customer Care A/R",
+      "Company": "Southern Glazer's Wine and Spirits",
+      "AccquisitionDate": "2023-3-11 8:52 AM",
+      "URL": "https://de.jobsyn.org/08F1A6E9EB4C46908218F5973D332C5E206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FE342A4DB10149D5B5C876FDA668C3BD206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Aimbridge Hospitality",
+      "AccquisitionDate": "2023-3-10 5:36 AM",
+      "URL": "https://de.jobsyn.org/FE342A4DB10149D5B5C876FDA668C3BD206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E1E1A59A9DD4108A836196CD57C7499206",
+      "JobTitle": "Billing Analyst",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-11 3:40 AM",
+      "URL": "https://de.jobsyn.org/7E1E1A59A9DD4108A836196CD57C7499206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A9AE42118ACE49EAAD2B49C382CCE4E2206",
+      "JobTitle": "Billing Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:05 AM",
+      "URL": "https://de.jobsyn.org/A9AE42118ACE49EAAD2B49C382CCE4E2206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3D2F419090074EA2ACC7424FD0180957206",
+      "JobTitle": "Staff Accountant",
+      "Company": "HEI Hotels",
+      "AccquisitionDate": "2023-3-10 6:43 AM",
+      "URL": "https://de.jobsyn.org/3D2F419090074EA2ACC7424FD0180957206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8C6B8A1FE94F434EA911DC008CF8E7C7206",
+      "JobTitle": "Fund Accounting Controller",
+      "Company": "CBRE",
+      "AccquisitionDate": "2023-3-11 4:54 AM",
+      "URL": "https://de.jobsyn.org/8C6B8A1FE94F434EA911DC008CF8E7C7206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3E0E7839570F4480B17C75D6400465B5206",
+      "JobTitle": "Corporate Accounts Payable Disbursements Specialist",
+      "Company": "Omni Hotels",
+      "AccquisitionDate": "2023-3-10 10:10 PM",
+      "URL": "https://de.jobsyn.org/3E0E7839570F4480B17C75D6400465B5206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A9AA872583024105960B9F9D1E82F5C9206",
+      "JobTitle": "accounts receivable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-10 5:31 AM",
+      "URL": "https://de.jobsyn.org/A9AA872583024105960B9F9D1E82F5C9206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5F07DEED0D8D4EFBA3B6CCFA2674E8B0206",
+      "JobTitle": "Data Entry Clerk (Level III)",
+      "Company": "Adecco US, Inc.",
+      "AccquisitionDate": "2023-3-10 3:14 AM",
+      "URL": "https://de.jobsyn.org/5F07DEED0D8D4EFBA3B6CCFA2674E8B0206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "110070934E294DB38D2E981187FF27FF206",
+      "JobTitle": "Digital Print Operator 3 - Split shift",
+      "Company": "RR Donnelley",
+      "AccquisitionDate": "2023-2-22 10:25 PM",
+      "URL": "https://de.jobsyn.org/110070934E294DB38D2E981187FF27FF206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4F185F0447614312B293C3D524E10B3D206",
+      "JobTitle": "Personalization Operator",
+      "Company": "WestRock Company",
+      "AccquisitionDate": "2023-2-17 12:10 AM",
+      "URL": "https://de.jobsyn.org/4F185F0447614312B293C3D524E10B3D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4EDEA5E2CF5E4CFD920374E8C794410A206",
+      "JobTitle": "Digital Print Operator 3 - 3rd shift",
+      "Company": "RR Donnelley",
+      "AccquisitionDate": "2023-2-10 11:16 PM",
+      "URL": "https://de.jobsyn.org/4EDEA5E2CF5E4CFD920374E8C794410A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3F3941D42353404FB7BA9F9E0EDAB1A9206",
+      "JobTitle": "Digital Print Operator (Night and Day Shift Available)",
+      "Company": "Avery Dennison",
+      "AccquisitionDate": "2023-1-19 2:35 AM",
+      "URL": "https://de.jobsyn.org/3F3941D42353404FB7BA9F9E0EDAB1A9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CB25943C4D1A4E2AB65A40CEA4ED6DC1206",
+      "JobTitle": "Renewable Operations Center Operator (Entry Level)",
+      "Company": "Spark Power",
+      "AccquisitionDate": "2022-9-14 11:43 PM",
+      "URL": "https://de.jobsyn.org/CB25943C4D1A4E2AB65A40CEA4ED6DC1206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "D77F568C91044C6CBEBCD1770F6D7702206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:05 PM",
+      "URL": "https://de.jobsyn.org/D77F568C91044C6CBEBCD1770F6D7702206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1D66477937C842B5AEC78E5E72FE97EA206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 8:34 PM",
+      "URL": "https://de.jobsyn.org/1D66477937C842B5AEC78E5E72FE97EA206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8536EEB7A7594CD2A911D7CCB0EAA35C206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 8:35 PM",
+      "URL": "https://de.jobsyn.org/8536EEB7A7594CD2A911D7CCB0EAA35C206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E46C77E6F56545D6B0C3AC18B592EB59206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 10:05 PM",
+      "URL": "https://de.jobsyn.org/E46C77E6F56545D6B0C3AC18B592EB59206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A7500685DA2D4F5682B98049BCE23B26206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-5-13 8:36 PM",
+      "URL": "https://de.jobsyn.org/A7500685DA2D4F5682B98049BCE23B26206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1710109462BB46A693CEB58991A81727206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-3-23 6:26 AM",
+      "URL": "https://de.jobsyn.org/1710109462BB46A693CEB58991A81727206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "88837E5EDD0F4BBE99F01A2D37AACCF5206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-3-23 6:29 AM",
+      "URL": "https://de.jobsyn.org/88837E5EDD0F4BBE99F01A2D37AACCF5206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6690523EC7BE4AA59B92736C6EBE388C206",
+      "JobTitle": "CSR (Customer Service Representative)",
+      "Company": "Pizza Hut",
+      "AccquisitionDate": "2022-3-23 6:28 AM",
+      "URL": "https://de.jobsyn.org/6690523EC7BE4AA59B92736C6EBE388C206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "629FB13350914ED79D12B6F4FEE8C0EE206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:26 AM",
+      "URL": "https://de.jobsyn.org/629FB13350914ED79D12B6F4FEE8C0EE206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C597716D510E4EE2BC338B3BFCCD3CBB206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:26 AM",
+      "URL": "https://de.jobsyn.org/C597716D510E4EE2BC338B3BFCCD3CBB206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "76FE4A896E294A2DAB8CCDD05678F383206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Dal-Tile Corporation",
+      "AccquisitionDate": "2023-3-14 7:53 PM",
+      "URL": "https://de.jobsyn.org/76FE4A896E294A2DAB8CCDD05678F383206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CCD94CF021FD487E95D5A302CDF45371206",
+      "JobTitle": "Customer Service Representative",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-2 12:07 AM",
+      "URL": "https://de.jobsyn.org/CCD94CF021FD487E95D5A302CDF45371206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C72AFFDE5E9C42DDA928CACDF510228A206",
+      "JobTitle": "Customer Service Representative (CSR)",
+      "Company": "Agility Net LLC",
+      "AccquisitionDate": "2023-3-9 1:56 PM",
+      "URL": "https://de.jobsyn.org/C72AFFDE5E9C42DDA928CACDF510228A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "89C954DDF47C43A490139C96E7083B18206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2022-5-27 6:35 AM",
+      "URL": "https://de.jobsyn.org/89C954DDF47C43A490139C96E7083B18206",
+      "Location": "Dallas, GA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ADF6156224C046E39074123033BB2E3C206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/ADF6156224C046E39074123033BB2E3C206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0B2484FF6BBE4587B6FEF2D2873E5639206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0B2484FF6BBE4587B6FEF2D2873E5639206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "25A54E0341F04FB48A49F1CB7C8411A6206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/25A54E0341F04FB48A49F1CB7C8411A6206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "753C1618A69D45C7992D7933986C58C2206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/753C1618A69D45C7992D7933986C58C2206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8EAE5ECC3B2C4DB887093569A1F12CAD206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/8EAE5ECC3B2C4DB887093569A1F12CAD206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8EF6C3311F374AE1B7FDA77376EDE691206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/8EF6C3311F374AE1B7FDA77376EDE691206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0C443FF803FC49FD839A5114478B952A206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/0C443FF803FC49FD839A5114478B952A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "12F350D24BA5464384BCDABF97365747206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/12F350D24BA5464384BCDABF97365747206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ADCFFC733A9D46E0BBE202717236B3E7206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/ADCFFC733A9D46E0BBE202717236B3E7206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AA18ED661358481D985047A4BA6321E9206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/AA18ED661358481D985047A4BA6321E9206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3EEC7F5E091F4E8598C840E3DE4A40F4206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/3EEC7F5E091F4E8598C840E3DE4A40F4206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "5F07DEED0D8D4EFBA3B6CCFA2674E8B0206",
+      "JobTitle": "Data Entry Clerk (Level III)",
+      "Company": "Adecco US, Inc.",
+      "AccquisitionDate": "2023-3-10 3:14 AM",
+      "URL": "https://de.jobsyn.org/5F07DEED0D8D4EFBA3B6CCFA2674E8B0206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9A43DD6A85D34ECAA73A85A91328A061206",
+      "JobTitle": "healthcare data entry operator - on site",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-14 5:31 AM",
+      "URL": "https://de.jobsyn.org/9A43DD6A85D34ECAA73A85A91328A061206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BBB6BCBCC7D34BC692A1A08559E3518E206",
+      "JobTitle": "medical data entry clerk",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-11 5:34 AM",
+      "URL": "https://de.jobsyn.org/BBB6BCBCC7D34BC692A1A08559E3518E206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1C4E26DF5B344A2F8AE7C06E2C313E93206",
+      "JobTitle": "data entry operator",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-7 5:35 AM",
+      "URL": "https://de.jobsyn.org/1C4E26DF5B344A2F8AE7C06E2C313E93206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "918F64AD590F4C2C9F0C27D559EA91B4206",
+      "JobTitle": "Data Entry Level 1",
+      "Company": "Cogent Infotech",
+      "AccquisitionDate": "2023-2-23 10:06 PM",
+      "URL": "https://de.jobsyn.org/918F64AD590F4C2C9F0C27D559EA91B4206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5824B0C931DB445797A5A7C75207DDCC206",
+      "JobTitle": "AR/AP/Data Entry Clerk",
+      "Company": "Same Day Water Heaters",
+      "AccquisitionDate": "2023-2-16 10:59 PM",
+      "URL": "https://de.jobsyn.org/5824B0C931DB445797A5A7C75207DDCC206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "A516E2AC50464090A5CC114133CC5E61206",
+      "JobTitle": "Auditor, Financial Accounting Advisory Services-FAAS - Senior Manager - Multiple Positions - 1403771",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-31 12:59 PM",
+      "URL": "https://de.jobsyn.org/A516E2AC50464090A5CC114133CC5E61206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8263428BA22241A890A680A4FFE620DD206",
+      "JobTitle": "Lead Auditor",
+      "Company": "AT&T",
+      "AccquisitionDate": "2022-7-28 11:05 AM",
+      "URL": "https://de.jobsyn.org/8263428BA22241A890A680A4FFE620DD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9538F07EF980404FB1829119A43D077F206",
+      "JobTitle": "Senior Public Auditor",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2020-12-23 1:05 AM",
+      "URL": "https://de.jobsyn.org/9538F07EF980404FB1829119A43D077F206",
+      "Location": "DALLAS, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6A07E66538D44E28ACD3F2735F069F50206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 4:01 AM",
+      "URL": "https://de.jobsyn.org/6A07E66538D44E28ACD3F2735F069F50206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0FBFDA7656F04353A5BFD34625DBAEBC206",
+      "JobTitle": "Internal Control Senior Auditor",
+      "Company": "FirstService Residential",
+      "AccquisitionDate": "2023-3-7 11:39 PM",
+      "URL": "https://de.jobsyn.org/0FBFDA7656F04353A5BFD34625DBAEBC206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CC430D6B05AF4C48AA95C372FFBB2C61206",
+      "JobTitle": "Internal Auditor - Operations",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-2-1 4:20 AM",
+      "URL": "https://de.jobsyn.org/CC430D6B05AF4C48AA95C372FFBB2C61206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5DE49EE6DC3149EDAB93A93851085D4D206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 4:19 AM",
+      "URL": "https://de.jobsyn.org/5DE49EE6DC3149EDAB93A93851085D4D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1BFC17C3B5484A9499996644EDF111B8206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 2:03 AM",
+      "URL": "https://de.jobsyn.org/1BFC17C3B5484A9499996644EDF111B8206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CDB1C943D6374E1D9C5CA0CE50AA3685206",
+      "JobTitle": "Sales, Use and Property Tax Consultant",
+      "Company": "Resources Global Professionals (RGP)",
+      "AccquisitionDate": "2020-4-5 3:17 AM",
+      "URL": "https://de.jobsyn.org/CDB1C943D6374E1D9C5CA0CE50AA3685206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5738F24B162A4B44847E87526D849A46206",
+      "JobTitle": "Sr. Internal Auditor",
+      "Company": "Dal-Tile Corporation",
+      "AccquisitionDate": "2023-3-9 10:55 PM",
+      "URL": "https://de.jobsyn.org/5738F24B162A4B44847E87526D849A46206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E816A5DBA44E43F39E4D6E8B18710ADF206",
+      "JobTitle": "IT Audit Senior",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-17 12:31 AM",
+      "URL": "https://de.jobsyn.org/E816A5DBA44E43F39E4D6E8B18710ADF206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4BC68300807742279B70B2EB48595182206",
+      "JobTitle": "Auditor Senior",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-7-2 12:23 AM",
+      "URL": "https://de.jobsyn.org/4BC68300807742279B70B2EB48595182206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F1CB3D9F444B4B2D88D57D19F54F01E5206",
+      "JobTitle": "Senior Auditor",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-6-29 12:21 AM",
+      "URL": "https://de.jobsyn.org/F1CB3D9F444B4B2D88D57D19F54F01E5206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4FBB1C9220DB47B1857AA95D6DAD0B99206",
+      "JobTitle": "Senior IS/IT Internal Auditor",
+      "Company": "Alcatel-Lucent",
+      "AccquisitionDate": "2022-10-21 7:58 AM",
+      "URL": "https://de.jobsyn.org/4FBB1C9220DB47B1857AA95D6DAD0B99206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4E23DE594D7D48B3843630E56B11B5D5206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:02 AM",
+      "URL": "https://de.jobsyn.org/4E23DE594D7D48B3843630E56B11B5D5206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9B4F49A0D00F4B78954ACDF73D10629D206",
+      "JobTitle": "Corporate Accounting Manager \u2013 Hybrid/Remote",
+      "Company": "Jacobs",
+      "AccquisitionDate": "2023-3-10 4:33 AM",
+      "URL": "https://de.jobsyn.org/9B4F49A0D00F4B78954ACDF73D10629D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4D2A00B882154FA1B88399FA0AD1BFA7206",
+      "JobTitle": "Internal Audit and Consulting Analyst",
+      "Company": "Rexel USA",
+      "AccquisitionDate": "2023-2-7 2:24 AM",
+      "URL": "https://de.jobsyn.org/4D2A00B882154FA1B88399FA0AD1BFA7206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7ACA139AEA4641998088FD4348C6EC57206",
+      "JobTitle": "Internal Auditor",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-10-20 12:36 AM",
+      "URL": "https://de.jobsyn.org/7ACA139AEA4641998088FD4348C6EC57206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "21780EAF4CE14F0DA7FDE36D62A32459206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/21780EAF4CE14F0DA7FDE36D62A32459206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "493BEF24AEEE45DE8B5FF5C682189EFC206",
+      "JobTitle": "Information Technology Auditor - Senior Consultant",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/493BEF24AEEE45DE8B5FF5C682189EFC206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F8FA66245BC84072B4DD53ED803788AD206",
+      "JobTitle": "Senior Fund Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:19 AM",
+      "URL": "https://de.jobsyn.org/F8FA66245BC84072B4DD53ED803788AD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2CC4E3D7C3CC445BA4CCE5B41AE741E3206",
+      "JobTitle": "University Associate, Forensic Accounting",
+      "Company": "Ankura",
+      "AccquisitionDate": "2022-9-1 5:33 AM",
+      "URL": "https://de.jobsyn.org/2CC4E3D7C3CC445BA4CCE5B41AE741E3206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3E04E7C8F6A644548A7D47DFEE8D57FF206",
+      "JobTitle": "Information Technology Auditor - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 1:57 AM",
+      "URL": "https://de.jobsyn.org/3E04E7C8F6A644548A7D47DFEE8D57FF206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F76F2C8A7590441A90E5B6E78B4AABCE206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:19 AM",
+      "URL": "https://de.jobsyn.org/F76F2C8A7590441A90E5B6E78B4AABCE206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DC3923E4B2514E40B4C16227294B584E206",
+      "JobTitle": "Corporate Internal Auditor",
+      "Company": "Omni Hotels",
+      "AccquisitionDate": "2023-2-27 10:11 PM",
+      "URL": "https://de.jobsyn.org/DC3923E4B2514E40B4C16227294B584E206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "0AF1764AB97C447DBC6935A5DB46DE85206",
+      "JobTitle": "Sr Commercial Collector - Remote",
+      "Company": "Brown and Joseph, LLC",
+      "AccquisitionDate": "2022-3-11 1:56 AM",
+      "URL": "https://de.jobsyn.org/0AF1764AB97C447DBC6935A5DB46DE85206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D52444B270314F38A514EDBFC08B8F0F206",
+      "JobTitle": "Collector I, CBS Billing",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-7 2:25 AM",
+      "URL": "https://de.jobsyn.org/D52444B270314F38A514EDBFC08B8F0F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "78AE737A42D54C4C9140C0D79D63E1DB206",
+      "JobTitle": "Senior Collections Representative - National Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-14 2:59 AM",
+      "URL": "https://de.jobsyn.org/78AE737A42D54C4C9140C0D79D63E1DB206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8079190BE1074C7596A4007FB48FC0B7206",
+      "JobTitle": "Outbound Collections Opening (Immediately Hiring)",
+      "Company": "Mass Markets",
+      "AccquisitionDate": "2023-2-18 9:35 AM",
+      "URL": "https://de.jobsyn.org/8079190BE1074C7596A4007FB48FC0B7206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BC3C1840AA2C49D19DDAC23D19297873206",
+      "JobTitle": "Collections",
+      "Company": "Drive Casa",
+      "AccquisitionDate": "2022-5-28 8:01 AM",
+      "URL": "https://de.jobsyn.org/BC3C1840AA2C49D19DDAC23D19297873206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6A2093DB4B314A30A2D6C910ADECEAFA206",
+      "JobTitle": "Consumer Collection Specialist - Remote",
+      "Company": "Brown and Joseph, LLC",
+      "AccquisitionDate": "2021-7-10 8:25 AM",
+      "URL": "https://de.jobsyn.org/6A2093DB4B314A30A2D6C910ADECEAFA206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B713722E883345AFADA1D09A396B5D4B206",
+      "JobTitle": "Hospital Billing Representative**Fully Remote",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-14 3:00 AM",
+      "URL": "https://de.jobsyn.org/B713722E883345AFADA1D09A396B5D4B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A9AE42118ACE49EAAD2B49C382CCE4E2206",
+      "JobTitle": "Billing Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-11 12:05 AM",
+      "URL": "https://de.jobsyn.org/A9AE42118ACE49EAAD2B49C382CCE4E2206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3E0E7839570F4480B17C75D6400465B5206",
+      "JobTitle": "Corporate Accounts Payable Disbursements Specialist",
+      "Company": "Omni Hotels",
+      "AccquisitionDate": "2023-3-10 10:10 PM",
+      "URL": "https://de.jobsyn.org/3E0E7839570F4480B17C75D6400465B5206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A9AA872583024105960B9F9D1E82F5C9206",
+      "JobTitle": "accounts receivable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-10 5:31 AM",
+      "URL": "https://de.jobsyn.org/A9AA872583024105960B9F9D1E82F5C9206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FDDC18D7C29142FCB404477F20112C54206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "OneSky Flight, LLC",
+      "AccquisitionDate": "2023-3-9 1:23 AM",
+      "URL": "https://de.jobsyn.org/FDDC18D7C29142FCB404477F20112C54206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "97347AD9C24D4C50B07A677FC5E8B48D206",
+      "JobTitle": "Medical Denials Specialist (100% Remote)",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-8 5:23 AM",
+      "URL": "https://de.jobsyn.org/97347AD9C24D4C50B07A677FC5E8B48D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "550BF4ECFED84CE5B3B456A34E2D8E34206",
+      "JobTitle": "Senior Billing Representative - National Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:35 PM",
+      "URL": "https://de.jobsyn.org/550BF4ECFED84CE5B3B456A34E2D8E34206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8F4DF5F754EF43B7BFD9585BFC64A0B7206",
+      "JobTitle": "Accounts Payable Coordinator",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-8 2:43 AM",
+      "URL": "https://de.jobsyn.org/8F4DF5F754EF43B7BFD9585BFC64A0B7206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FDEDEA20F0224C04A251A65FE805F590206",
+      "JobTitle": "Accounts Receivable Manager",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:16 AM",
+      "URL": "https://de.jobsyn.org/FDEDEA20F0224C04A251A65FE805F590206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1BD1C91CBADC4E699D98555A008BA6D7206",
+      "JobTitle": "Medical Biller/Collections Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:27 AM",
+      "URL": "https://de.jobsyn.org/1BD1C91CBADC4E699D98555A008BA6D7206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "122E1703461E4F17AD13FFF0051CED74206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:04 AM",
+      "URL": "https://de.jobsyn.org/122E1703461E4F17AD13FFF0051CED74206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CF78DFC55F0F456FB06963CCC15E7621206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-4 4:10 AM",
+      "URL": "https://de.jobsyn.org/CF78DFC55F0F456FB06963CCC15E7621206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "661E0C19B4AB436E9124E4FB9CD32441206",
+      "JobTitle": "Accounts Payable - Customer Service",
+      "Company": "MV Transportation",
+      "AccquisitionDate": "2023-3-3 10:21 PM",
+      "URL": "https://de.jobsyn.org/661E0C19B4AB436E9124E4FB9CD32441206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4EC0E30177564FD29094B8600297CC11206",
+      "JobTitle": "accounts receivable clerk",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-24 7:28 AM",
+      "URL": "https://de.jobsyn.org/4EC0E30177564FD29094B8600297CC11206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8194EE09B7144ACA8D33EB746041466D206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-2-24 12:22 AM",
+      "URL": "https://de.jobsyn.org/8194EE09B7144ACA8D33EB746041466D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C7FC59DC7BC4483593B146338AF12EB4206",
+      "JobTitle": "Accounts Receivable Specialist",
+      "Company": "PSG Global Solutions",
+      "AccquisitionDate": "2023-2-24 3:33 AM",
+      "URL": "https://de.jobsyn.org/C7FC59DC7BC4483593B146338AF12EB4206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "06ACB2C70F6143F9945898B79CE29721206",
+      "JobTitle": "medical claims recovery specialist (tdmsii)",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-22 7:53 AM",
+      "URL": "https://de.jobsyn.org/06ACB2C70F6143F9945898B79CE29721206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BD799095A03546F5963042F63D2379B9206",
+      "JobTitle": "medical claims recovery specialist (tdmsi)",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-22 7:56 AM",
+      "URL": "https://de.jobsyn.org/BD799095A03546F5963042F63D2379B9206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "08EEA97DD12443888152FFD2AE9E21EF206",
+      "JobTitle": "NHATS 2023 - Data Collector",
+      "Company": "Westat",
+      "AccquisitionDate": "2023-2-21 3:01 AM",
+      "URL": "https://de.jobsyn.org/08EEA97DD12443888152FFD2AE9E21EF206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "878AB1CD4E0B4159979EAD703E834CA5206",
+      "JobTitle": "Credit Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-8-3 12:48 AM",
+      "URL": "https://de.jobsyn.org/878AB1CD4E0B4159979EAD703E834CA5206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BF489C01D2934CB7948E11BF0FD64D84206",
+      "JobTitle": "Credit Analyst",
+      "Company": "East West Bank",
+      "AccquisitionDate": "2022-8-6 11:29 PM",
+      "URL": "https://de.jobsyn.org/BF489C01D2934CB7948E11BF0FD64D84206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "17FCB2C9367546B1B73F1FC69A44E6BF206",
+      "JobTitle": "Credit Analyst",
+      "Company": "East West Bank",
+      "AccquisitionDate": "2023-1-28 1:30 AM",
+      "URL": "https://de.jobsyn.org/17FCB2C9367546B1B73F1FC69A44E6BF206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F07A75F84E6A425C97D6218681E82AFA206",
+      "JobTitle": "Sr. Analyst, Credit Risk",
+      "Company": "Santander US",
+      "AccquisitionDate": "2023-3-11 2:37 AM",
+      "URL": "https://de.jobsyn.org/F07A75F84E6A425C97D6218681E82AFA206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A233FA50755F4CBDA571433581C29206206",
+      "JobTitle": "Senior Credit Analyst - Dallas Market",
+      "Company": "First Horizon",
+      "AccquisitionDate": "2023-3-14 6:55 AM",
+      "URL": "https://de.jobsyn.org/A233FA50755F4CBDA571433581C29206206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "05E085E1229042108D528867523ED249206",
+      "JobTitle": "Sr. Analyst Scorecard Modeling (Python and R)",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2022-4-28 11:46 PM",
+      "URL": "https://de.jobsyn.org/05E085E1229042108D528867523ED249206",
+      "Location": "Dallas-Corporate Headquarters, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6EDC96CDA3FE40588C1AEA18656ABC52206",
+      "JobTitle": "Portfolio Manager",
+      "Company": "East West Bank",
+      "AccquisitionDate": "2023-2-12 1:01 AM",
+      "URL": "https://de.jobsyn.org/6EDC96CDA3FE40588C1AEA18656ABC52206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1A7912C145A248C2A91E110A71BDB6D9206",
+      "JobTitle": "Industry Credit Lead - Renewable Energy",
+      "Company": "Fifth Third Bank, N.A.",
+      "AccquisitionDate": "2023-3-9 4:01 PM",
+      "URL": "https://de.jobsyn.org/1A7912C145A248C2A91E110A71BDB6D9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4520999441004508A35B35E03A337E7E206",
+      "JobTitle": "Lead Wealth Underwriter - Specialty Finance Group",
+      "Company": "Wells Fargo",
+      "AccquisitionDate": "2023-3-4 4:29 AM",
+      "URL": "https://de.jobsyn.org/4520999441004508A35B35E03A337E7E206",
+      "Location": "DALLAS, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EED94BCE81D7421A81A7B90F0557E6B4206",
+      "JobTitle": "Senior Credit Risk Officer - Unsecured Fraud",
+      "Company": "Wells Fargo",
+      "AccquisitionDate": "2023-3-4 4:30 AM",
+      "URL": "https://de.jobsyn.org/EED94BCE81D7421A81A7B90F0557E6B4206",
+      "Location": "DALLAS, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8EFD0F1737E8426392848AF2B156D840206",
+      "JobTitle": "NAM Commercial Banking, Summer Analyst - Dallas (2023)",
+      "Company": "Citigroup",
+      "AccquisitionDate": "2023-2-10 6:42 AM",
+      "URL": "https://de.jobsyn.org/8EFD0F1737E8426392848AF2B156D840206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ACAF261DF7944616B7AFCA47C1D9E874206",
+      "JobTitle": "Dallas Diversified Industries Senior Portfolio Manager",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-1-11 1:39 AM",
+      "URL": "https://de.jobsyn.org/ACAF261DF7944616B7AFCA47C1D9E874206",
+      "Location": "Dallas-Corporate Headquarters, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FA4CE84196C3488CAEF83AE3F97B734E206",
+      "JobTitle": "Asset Based Lending (ABL) Portfolio Manager Team Lead",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-1-11 1:39 AM",
+      "URL": "https://de.jobsyn.org/FA4CE84196C3488CAEF83AE3F97B734E206",
+      "Location": "Dallas-Corporate Headquarters, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "543D8F754BEE41A981589167A748AD33206",
+      "JobTitle": "Dallas Business Banking Sr Portfolio Manager",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-1-11 1:39 AM",
+      "URL": "https://de.jobsyn.org/543D8F754BEE41A981589167A748AD33206",
+      "Location": "Dallas, TX, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "67C4F8AC350246ED9501AB717A8F4669206",
+      "JobTitle": "Senior Analyst Underwriting III (Hybrid)",
+      "Company": "Sedgwick",
+      "AccquisitionDate": "2023-3-1 4:44 AM",
+      "URL": "https://de.jobsyn.org/67C4F8AC350246ED9501AB717A8F4669206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D20A75F8D2AC4BE280EBEDB0934A49BB206",
+      "JobTitle": "Financial Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-11-19 12:20 AM",
+      "URL": "https://de.jobsyn.org/D20A75F8D2AC4BE280EBEDB0934A49BB206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1D0A78C6303C4687AA2F9BD82C850931206",
+      "JobTitle": "Underwriter",
+      "Company": "CBRE",
+      "AccquisitionDate": "2022-11-5 2:45 AM",
+      "URL": "https://de.jobsyn.org/1D0A78C6303C4687AA2F9BD82C850931206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F0E413D4F60F4F7D80ED51B6ACDA2E2B206",
+      "JobTitle": "Senior Underwriter",
+      "Company": "CBRE",
+      "AccquisitionDate": "2022-9-7 3:26 AM",
+      "URL": "https://de.jobsyn.org/F0E413D4F60F4F7D80ED51B6ACDA2E2B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "94E15293DB6A4F029697C832EE994F3C206",
+      "JobTitle": "Senior Production Analyst",
+      "Company": "PNC",
+      "AccquisitionDate": "2023-3-4 4:40 AM",
+      "URL": "https://de.jobsyn.org/94E15293DB6A4F029697C832EE994F3C206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8844BBE1B5CB418C822435D77CA4CBA6206",
+      "JobTitle": "Business Analyst, Loan Platforms",
+      "Company": "S&P Global",
+      "AccquisitionDate": "2023-2-18 3:58 AM",
+      "URL": "https://de.jobsyn.org/8844BBE1B5CB418C822435D77CA4CBA6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A37C4B42E0CF49F5AFC7C5F0333A8441206",
+      "JobTitle": "Lead Risk Analytics Consultant - Merchant Services, CB & CIB Credit team",
+      "Company": "Wells Fargo",
+      "AccquisitionDate": "2023-1-21 5:40 AM",
+      "URL": "https://de.jobsyn.org/A37C4B42E0CF49F5AFC7C5F0333A8441206",
+      "Location": "DALLAS, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6FBC37A53F77452D99FDF683131ABE29206",
+      "JobTitle": "Liquidity Risk Senior Analyst",
+      "Company": "Wells Fargo",
+      "AccquisitionDate": "2022-11-8 3:41 AM",
+      "URL": "https://de.jobsyn.org/6FBC37A53F77452D99FDF683131ABE29206",
+      "Location": "DALLAS, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "690A9107C6764916BE20C87CC6566282206",
+      "JobTitle": "New College Graduate- Treasury Solutions STARS Analyst Program",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2022-9-3 8:09 AM",
+      "URL": "https://de.jobsyn.org/690A9107C6764916BE20C87CC6566282206",
+      "Location": "Dallas-Corporate Headquarters, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A3A8D5BC0C7D4BCFBBF48D954ADA762E206",
+      "JobTitle": "Summer 2023 Intern - Credit, Risk and Reserves Management",
+      "Company": "Federal Reserve System",
+      "AccquisitionDate": "2023-1-10 7:05 AM",
+      "URL": "https://de.jobsyn.org/A3A8D5BC0C7D4BCFBBF48D954ADA762E206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A14A2682E4F74298B2F85559F845FCC7206",
+      "JobTitle": "Deal Desk Analyst",
+      "Company": "Flexential",
+      "AccquisitionDate": "2023-3-14 5:11 AM",
+      "URL": "https://de.jobsyn.org/A14A2682E4F74298B2F85559F845FCC7206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "C9121D0ECE80419983A29E1388963211206",
+      "JobTitle": "Processing Representative III",
+      "Company": "Advancial",
+      "AccquisitionDate": "2023-3-13 6:53 PM",
+      "URL": "https://de.jobsyn.org/C9121D0ECE80419983A29E1388963211206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F82998AC7F6449B4AE9A6263E5C518F3206",
+      "JobTitle": "Processing Representative III",
+      "Company": "Advancial",
+      "AccquisitionDate": "2023-3-13 6:53 PM",
+      "URL": "https://de.jobsyn.org/F82998AC7F6449B4AE9A6263E5C518F3206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5266140EE0A043CBB9D95E51919326E6206",
+      "JobTitle": "Loan Operations Agency Server",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-3-9 5:18 AM",
+      "URL": "https://de.jobsyn.org/5266140EE0A043CBB9D95E51919326E6206",
+      "Location": "Dallas, TX, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BFE3812D462A4574BE5653148FD3C8BD206",
+      "JobTitle": "Loan Operations- Commercial Loan Closer",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-3-3 5:58 AM",
+      "URL": "https://de.jobsyn.org/BFE3812D462A4574BE5653148FD3C8BD206",
+      "Location": "Dallas, TX, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "920AF9D192B94FEABD4F43280E0E016C206",
+      "JobTitle": "Mortgage - Document Reviewer Advanced (>6 years)",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-1 12:29 AM",
+      "URL": "https://de.jobsyn.org/920AF9D192B94FEABD4F43280E0E016C206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F965877AD2EB405E9329CA81F72FFE6B206",
+      "JobTitle": "LOAN DOCUMENTATION SPECIALIST-CONSUMER REAL ESTATE",
+      "Company": "Georgia Employer",
+      "AccquisitionDate": "2023-2-28 11:28 PM",
+      "URL": "https://de.jobsyn.org/F965877AD2EB405E9329CA81F72FFE6B206",
+      "Location": "Dallas, GA",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AD93E59E83334F6B997AC5F09EC2DDF3206",
+      "JobTitle": "Loan Support Analyst Sr. - Commercial Lending",
+      "Company": "PNC",
+      "AccquisitionDate": "2023-2-16 4:51 AM",
+      "URL": "https://de.jobsyn.org/AD93E59E83334F6B997AC5F09EC2DDF3206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55438637E5D74B2C917A77D7FB0AF7C7206",
+      "JobTitle": "Senior Loan Processor",
+      "Company": "M/I Homes",
+      "AccquisitionDate": "2023-2-15 10:00 PM",
+      "URL": "https://de.jobsyn.org/55438637E5D74B2C917A77D7FB0AF7C7206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "45EEBEBBAD0E4F8CA81DA70F06915665206",
+      "JobTitle": "Loan Ops- Team Lead- Closing (MSL/Lender Finance)",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-2-11 10:28 PM",
+      "URL": "https://de.jobsyn.org/45EEBEBBAD0E4F8CA81DA70F06915665206",
+      "Location": "Dallas, TX, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EC6B8C305B204151997D8EE9D9E53B55206",
+      "JobTitle": "Loan Ops \u2013 Commercial Real Estate Funder/Servicer",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-2-3 10:42 PM",
+      "URL": "https://de.jobsyn.org/EC6B8C305B204151997D8EE9D9E53B55206",
+      "Location": "Dallas-Corporate Headquarters, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B772D6508B1648A1AAC2E53EE5CE9107206",
+      "JobTitle": "Auto Dealership Commercial Services Underwriter",
+      "Company": "Santander US",
+      "AccquisitionDate": "2023-1-26 5:48 AM",
+      "URL": "https://de.jobsyn.org/B772D6508B1648A1AAC2E53EE5CE9107206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "57470B06D8444CE9B7B74233D24D6C1E206",
+      "JobTitle": "Loan Ops-Team Lead-CRE Closing",
+      "Company": "Texas Capital Bank",
+      "AccquisitionDate": "2023-1-21 8:19 AM",
+      "URL": "https://de.jobsyn.org/57470B06D8444CE9B7B74233D24D6C1E206",
+      "Location": "Dallas, TX, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CB3B0060387C42D0A1E708137D21A6F9206",
+      "JobTitle": "Retail Community Mortgage Specialist",
+      "Company": "Truist",
+      "AccquisitionDate": "2022-11-10 12:15 AM",
+      "URL": "https://de.jobsyn.org/CB3B0060387C42D0A1E708137D21A6F9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1D0A78C6303C4687AA2F9BD82C850931206",
+      "JobTitle": "Underwriter",
+      "Company": "CBRE",
+      "AccquisitionDate": "2022-11-5 2:45 AM",
+      "URL": "https://de.jobsyn.org/1D0A78C6303C4687AA2F9BD82C850931206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "12794ACE52194C32858D017C025852D0206",
+      "JobTitle": "Client Specialist - Preston Rd, Texas",
+      "Company": "First Horizon",
+      "AccquisitionDate": "2022-8-9 2:08 AM",
+      "URL": "https://de.jobsyn.org/12794ACE52194C32858D017C025852D0206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "6DA5B210B9504C23A9AED5F233CB8BB9206",
+      "JobTitle": "BioMed Tech I",
+      "Company": "Prime Healthcare",
+      "AccquisitionDate": "2023-1-28 7:22 AM",
+      "URL": "https://de.jobsyn.org/6DA5B210B9504C23A9AED5F233CB8BB9206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1E55509EE2EB48A991F0F3E7D83F81F6206",
+      "JobTitle": "Senior React Engineer",
+      "Company": "Motion Recruitment Partners",
+      "AccquisitionDate": "2022-12-6 3:47 AM",
+      "URL": "https://de.jobsyn.org/1E55509EE2EB48A991F0F3E7D83F81F6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "593DA276B474477A949A34404E9DC654206",
+      "JobTitle": "Senior Medical Scientist, HIV Prevention (TX, CO, NM, KS, OK, AR, LA and MS)",
+      "Company": "Gilead Sciences, Inc.",
+      "AccquisitionDate": "2023-1-26 5:30 AM",
+      "URL": "https://de.jobsyn.org/593DA276B474477A949A34404E9DC654206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FF99B3A79DD54A0BBFB47256B44CA913206",
+      "JobTitle": "Chief Medical Physicist (Lubbock, TX)",
+      "Company": "Varian Medical Systems",
+      "AccquisitionDate": "2023-3-13 11:49 PM",
+      "URL": "https://de.jobsyn.org/FF99B3A79DD54A0BBFB47256B44CA913206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2225F566BF1C4B9FACE6BC75D81C1262206",
+      "JobTitle": "Biostatistician II",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-11 3:29 AM",
+      "URL": "https://de.jobsyn.org/2225F566BF1C4B9FACE6BC75D81C1262206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "63007483B3CB4EF3A30E4328C567A7AB206",
+      "JobTitle": "Clinical Genomics Scientist/Variant Scientist - Remote",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-11 4:43 AM",
+      "URL": "https://de.jobsyn.org/63007483B3CB4EF3A30E4328C567A7AB206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "95E55650EB8B4E65B8B99B54A3AB5FAD206",
+      "JobTitle": "Clinical Dietitian I - BUMC - Baylor University Medical Center",
+      "Company": "ARAMARK",
+      "AccquisitionDate": "2023-3-11 3:30 AM",
+      "URL": "https://de.jobsyn.org/95E55650EB8B4E65B8B99B54A3AB5FAD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A636D9A791DF43C68C6BEBCD4D500039206",
+      "JobTitle": "Clinical Study Lead/AD",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-10 4:16 AM",
+      "URL": "https://de.jobsyn.org/A636D9A791DF43C68C6BEBCD4D500039206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6C03985612BD49B7A08375A959E76E1B206",
+      "JobTitle": "Clinical Research Coordinator 1",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-10 2:37 AM",
+      "URL": "https://de.jobsyn.org/6C03985612BD49B7A08375A959E76E1B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7997C7ECE9A4927ABB77B024E15A045206",
+      "JobTitle": "Lead Medical Laboratory Scientist (MLS)  Lab Blood and Bone Bank",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-3-9 12:09 AM",
+      "URL": "https://de.jobsyn.org/B7997C7ECE9A4927ABB77B024E15A045206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A932F47734284A0485C42C416DE7B9FD206",
+      "JobTitle": "Senior Medical Director Musculoskeletal Care - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:35 PM",
+      "URL": "https://de.jobsyn.org/A932F47734284A0485C42C416DE7B9FD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1710007303F24A63811967BE397DE2E0206",
+      "JobTitle": "Senior Healthcare Researcher - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:37 PM",
+      "URL": "https://de.jobsyn.org/1710007303F24A63811967BE397DE2E0206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5642701896E443BAB141E2D9F6B3E603206",
+      "JobTitle": "Medical Laboratory Scientist (MLS) Lab Micro (N)",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-3-9 12:09 AM",
+      "URL": "https://de.jobsyn.org/5642701896E443BAB141E2D9F6B3E603206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E971EAECA40945899C8347CDC885EB9C206",
+      "JobTitle": "Senior Medical Director Kidney Solutions - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:35 PM",
+      "URL": "https://de.jobsyn.org/E971EAECA40945899C8347CDC885EB9C206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "509102F33DB24F18918AF512332281B1206",
+      "JobTitle": "Clinical Research Coordinator",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-9 3:01 AM",
+      "URL": "https://de.jobsyn.org/509102F33DB24F18918AF512332281B1206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "289E0D5E649B48C88AA0444F5F7D6A78206",
+      "JobTitle": "Behavioral Medical Director - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:37 PM",
+      "URL": "https://de.jobsyn.org/289E0D5E649B48C88AA0444F5F7D6A78206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D3C1003E9324596888E5D1012C48ACE206",
+      "JobTitle": "Research Tech I (PRN)",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-7 2:27 AM",
+      "URL": "https://de.jobsyn.org/2D3C1003E9324596888E5D1012C48ACE206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0D6A1B9A6D844A47B56A18D9F66AB715206",
+      "JobTitle": "Clinical Research Coordinator",
+      "Company": "Thermo Fisher Scientific",
+      "AccquisitionDate": "2023-3-5 3:03 AM",
+      "URL": "https://de.jobsyn.org/0D6A1B9A6D844A47B56A18D9F66AB715206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5949BB8AD7E34B9DBA7F197D9A598540206",
+      "JobTitle": "Medical Laboratory Scientist II 5K Sign On Bonus",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-5 3:58 AM",
+      "URL": "https://de.jobsyn.org/5949BB8AD7E34B9DBA7F197D9A598540206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8A1664875EE047C0A80821D7FBC20B4B206",
+      "JobTitle": "Clinical Research Coordinator",
+      "Company": "PPD",
+      "AccquisitionDate": "2023-3-4 3:10 AM",
+      "URL": "https://de.jobsyn.org/8A1664875EE047C0A80821D7FBC20B4B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4D134A57150A4385946FECE8BB4018A0206",
+      "JobTitle": "Clinical Research Associate II",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-3 4:15 AM",
+      "URL": "https://de.jobsyn.org/4D134A57150A4385946FECE8BB4018A0206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "01174A241D404076A1935850A74B9286206",
+      "JobTitle": "Ophthalmology Medical Specialist II-Dallas, TX",
+      "Company": "Regeneron Pharmaceuticals",
+      "AccquisitionDate": "2023-3-3 3:06 AM",
+      "URL": "https://de.jobsyn.org/01174A241D404076A1935850A74B9286206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3786C4B24DF6419C993F840C7A4C29FC206",
+      "JobTitle": "Regional Medical Director - Nephrology",
+      "Company": "Horizon Therapeutics",
+      "AccquisitionDate": "2023-3-1 6:37 AM",
+      "URL": "https://de.jobsyn.org/3786C4B24DF6419C993F840C7A4C29FC206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "12A8FFF225304DD282AAB17DE4BAF5AB206",
+      "JobTitle": "Clinical Research Coordinator",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-1 2:36 AM",
+      "URL": "https://de.jobsyn.org/12A8FFF225304DD282AAB17DE4BAF5AB206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7EEAD7BCD52D49DA80FF8C334CDF4E69206",
+      "JobTitle": "Clinical Science Liaison - South Territory",
+      "Company": "Teva Pharmaceuticals",
+      "AccquisitionDate": "2023-2-28 3:26 AM",
+      "URL": "https://de.jobsyn.org/7EEAD7BCD52D49DA80FF8C334CDF4E69206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "147407FBAD90428BA8778E0F831C9825206",
+      "JobTitle": "Medical Laboratory Scientist (MLS)",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-2-26 12:00 AM",
+      "URL": "https://de.jobsyn.org/147407FBAD90428BA8778E0F831C9825206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6D28043456054EE390657D2859967EB4206",
+      "JobTitle": "Medical Laboratory Scientist (MLS) Blood Bank",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-2-26 12:00 AM",
+      "URL": "https://de.jobsyn.org/6D28043456054EE390657D2859967EB4206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "13B862555E684323A8B91BA9A8961663206",
+      "JobTitle": "Cardiovascular Special Procedures Technologist - EP Lab",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-3-3 12:02 AM",
+      "URL": "https://de.jobsyn.org/13B862555E684323A8B91BA9A8961663206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AC3103A74BEC4A079A8A46F1984634AF206",
+      "JobTitle": "OR CERTIFIED SURGICAL TECHNOLOGIST",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-2-24 2:27 AM",
+      "URL": "https://de.jobsyn.org/AC3103A74BEC4A079A8A46F1984634AF206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8A93B4352E824047877E8E734E652839206",
+      "JobTitle": "Medical Laboratory Technician",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2022-10-12 5:58 AM",
+      "URL": "https://de.jobsyn.org/8A93B4352E824047877E8E734E652839206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A44C2180ABE348559D35DDD757A1A5CC206",
+      "JobTitle": "Cath Lab Tech",
+      "Company": "Prime Healthcare",
+      "AccquisitionDate": "2022-12-15 1:31 AM",
+      "URL": "https://de.jobsyn.org/A44C2180ABE348559D35DDD757A1A5CC206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B06B8357D9304E7398FBE8C827FFC660206",
+      "JobTitle": "CT Tech",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-14 3:48 AM",
+      "URL": "https://de.jobsyn.org/B06B8357D9304E7398FBE8C827FFC660206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "96CC35125583460A80B4A6D8A37974C8206",
+      "JobTitle": "Radiologic Technologist",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-3-10 11:35 PM",
+      "URL": "https://de.jobsyn.org/96CC35125583460A80B4A6D8A37974C8206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BF596A24CA41485BBDD840A745CD9A0B206",
+      "JobTitle": "Cardiac Cath Lab",
+      "Company": "ICONMA, LLC",
+      "AccquisitionDate": "2023-3-11 12:49 AM",
+      "URL": "https://de.jobsyn.org/BF596A24CA41485BBDD840A745CD9A0B206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "358AB98789B64E42937CAE35EF414EB0206",
+      "JobTitle": "Registered Cardiovascular Invasive Specialist",
+      "Company": "Fresenius Medical Care North America",
+      "AccquisitionDate": "2023-3-10 5:04 AM",
+      "URL": "https://de.jobsyn.org/358AB98789B64E42937CAE35EF414EB0206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "01F52AC866CE4171881B209692F1BA2B206",
+      "JobTitle": "Radiologic Technologist",
+      "Company": "All-Stat Portable",
+      "AccquisitionDate": "2023-3-10 11:35 PM",
+      "URL": "https://de.jobsyn.org/01F52AC866CE4171881B209692F1BA2B206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E60172105BB40B4B6589299B1BABBE8206",
+      "JobTitle": "THD VASCULAR/CARDIAC SONO REG",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-3-9 12:09 AM",
+      "URL": "https://de.jobsyn.org/7E60172105BB40B4B6589299B1BABBE8206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C912620004DD4100AB4F53CF9A512E53206",
+      "JobTitle": "Certified Surgery Tech - PART TIME",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-3-7 2:30 AM",
+      "URL": "https://de.jobsyn.org/C912620004DD4100AB4F53CF9A512E53206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FCEFCE4B394A4AEA90DBCC6F8094F71F206",
+      "JobTitle": "Sr Technologist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-3-7 2:27 AM",
+      "URL": "https://de.jobsyn.org/FCEFCE4B394A4AEA90DBCC6F8094F71F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "74FA58E0C7EB4E22BDB61F6EB4A56DBC206",
+      "JobTitle": "ECHOCARDIOGRAPHER - REGISTERED",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-3-7 2:25 AM",
+      "URL": "https://de.jobsyn.org/74FA58E0C7EB4E22BDB61F6EB4A56DBC206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2484E00395314EA99C013CFCD94656EA206",
+      "JobTitle": "Multimodality Tech PRN",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-7 2:25 AM",
+      "URL": "https://de.jobsyn.org/2484E00395314EA99C013CFCD94656EA206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "31D7837D9720461F88CD674B8957B673206",
+      "JobTitle": "Multimodality Tech PRN",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-7 2:25 AM",
+      "URL": "https://de.jobsyn.org/31D7837D9720461F88CD674B8957B673206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4009F630CCDB48B6A0A7FB5B710F5762206",
+      "JobTitle": "Monitor Tech",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-5 3:58 AM",
+      "URL": "https://de.jobsyn.org/4009F630CCDB48B6A0A7FB5B710F5762206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "52145AA7B9C14A1C81067A395BCD140A206",
+      "JobTitle": "Nuclear Medicine Technologist",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-3 10:18 PM",
+      "URL": "https://de.jobsyn.org/52145AA7B9C14A1C81067A395BCD140A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6AEEE189B49B43CAADEC7EBB21B28073206",
+      "JobTitle": "Nuclear Medicine Technologist",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-3-3 10:18 PM",
+      "URL": "https://de.jobsyn.org/6AEEE189B49B43CAADEC7EBB21B28073206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ED9BAE50EFBE43098DD342A0E022E513206",
+      "JobTitle": "Cardiac Sonographer 2",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-3 2:16 AM",
+      "URL": "https://de.jobsyn.org/ED9BAE50EFBE43098DD342A0E022E513206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5C76EF1DAB1A494E8BE7B232E7B12B1B206",
+      "JobTitle": "Ultrasound Tech PRN",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-3 2:16 AM",
+      "URL": "https://de.jobsyn.org/5C76EF1DAB1A494E8BE7B232E7B12B1B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "58F19F59E6DD4C06B70C79950B1DEC91206",
+      "JobTitle": "PATIENT CARE TECHNICIAN CARDIAC MEDICAL SURGICAL TELEMETRY",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-3-1 2:19 AM",
+      "URL": "https://de.jobsyn.org/58F19F59E6DD4C06B70C79950B1DEC91206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3F79879FF2F140EFB422C17FF92B7FDF206",
+      "JobTitle": "Ultrasound Tech",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-2-25 4:53 AM",
+      "URL": "https://de.jobsyn.org/3F79879FF2F140EFB422C17FF92B7FDF206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8FE68B5A31CE4ED1826F94E945D85C17206",
+      "JobTitle": "CT Technologist",
+      "Company": "AccessHR",
+      "AccquisitionDate": "2023-2-24 11:33 PM",
+      "URL": "https://de.jobsyn.org/8FE68B5A31CE4ED1826F94E945D85C17206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "057F280A86F543E0B153D615D7B8932B206",
+      "JobTitle": "PATIENT CARE TECHNICIAN - MEDICAL /CARDIAC TELE UNIT",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-2-24 2:28 AM",
+      "URL": "https://de.jobsyn.org/057F280A86F543E0B153D615D7B8932B206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CF6BC61E5D404A7BADFFA6BC88C3F858206",
+      "JobTitle": "Hyperbaric Tech - Wound Care",
+      "Company": "Prime Healthcare",
+      "AccquisitionDate": "2023-2-22 11:20 PM",
+      "URL": "https://de.jobsyn.org/CF6BC61E5D404A7BADFFA6BC88C3F858206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "060E2FA0111E4486831DC0EEBAD400E6206",
+      "JobTitle": "Cytotechnologist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-2-8 4:56 AM",
+      "URL": "https://de.jobsyn.org/060E2FA0111E4486831DC0EEBAD400E6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "266E622F4C1848C88C17AB398B8CFB0B206",
+      "JobTitle": "Cytotechnologist I 10K Sign on Bonus",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-2-10 5:05 AM",
+      "URL": "https://de.jobsyn.org/266E622F4C1848C88C17AB398B8CFB0B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "ED9BAE50EFBE43098DD342A0E022E513206",
+      "JobTitle": "Cardiac Sonographer 2",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-3 2:16 AM",
+      "URL": "https://de.jobsyn.org/ED9BAE50EFBE43098DD342A0E022E513206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5CA53A1224CA4A32B849A4D8EE059574206",
+      "JobTitle": "Cardiac Sonographer 2",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-2-8 3:32 AM",
+      "URL": "https://de.jobsyn.org/5CA53A1224CA4A32B849A4D8EE059574206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FF9F8292FF174AE4B37EC2D3A9D7FC8F206",
+      "JobTitle": "PRN Registered Vascular/Cardiac Sonographer - Heart & Vascular Specialists",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-1-13 12:02 AM",
+      "URL": "https://de.jobsyn.org/FF9F8292FF174AE4B37EC2D3A9D7FC8F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "987827C57DDE4F53B4930AB51AC9180D206",
+      "JobTitle": "Cardiac Sonographer 2",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2022-11-3 6:24 AM",
+      "URL": "https://de.jobsyn.org/987827C57DDE4F53B4930AB51AC9180D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "33E32D5F02F647BBA1A6B6DAB6EFAFA3206",
+      "JobTitle": "Cardiac Sonographer 2 PRN",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2022-8-6 3:47 AM",
+      "URL": "https://de.jobsyn.org/33E32D5F02F647BBA1A6B6DAB6EFAFA3206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D3EAD4D5430345808A2F5ED47C0766C9206",
+      "JobTitle": "Multicredentialed Sonographer",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-1 2:23 AM",
+      "URL": "https://de.jobsyn.org/D3EAD4D5430345808A2F5ED47C0766C9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DD85431AFE2B46529A8BB3E358C49186206",
+      "JobTitle": "Vascular Cardiac Sonographer-Vascular Lab",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-1-6 12:03 AM",
+      "URL": "https://de.jobsyn.org/DD85431AFE2B46529A8BB3E358C49186206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DAAEBF0E66C548E69857BFCC1C890EC6206",
+      "JobTitle": "Multicredentialed Sonographer",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2022-11-23 3:11 AM",
+      "URL": "https://de.jobsyn.org/DAAEBF0E66C548E69857BFCC1C890EC6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E60172105BB40B4B6589299B1BABBE8206",
+      "JobTitle": "THD VASCULAR/CARDIAC SONO REG",
+      "Company": "Texas Health Resources",
+      "AccquisitionDate": "2023-3-9 12:09 AM",
+      "URL": "https://de.jobsyn.org/7E60172105BB40B4B6589299B1BABBE8206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "060ED09E155149498254F6AAF673D9F2206",
+      "JobTitle": "PRN Sonographer",
+      "Company": "North Star Diagnostic Imaging",
+      "AccquisitionDate": "2021-12-4 11:05 PM",
+      "URL": "https://de.jobsyn.org/060ED09E155149498254F6AAF673D9F2206",
+      "Location": "North Dallas Area, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3F79879FF2F140EFB422C17FF92B7FDF206",
+      "JobTitle": "Ultrasound Tech",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-2-25 4:53 AM",
+      "URL": "https://de.jobsyn.org/3F79879FF2F140EFB422C17FF92B7FDF206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "05DF7C951E7449D485112EB04FA0039B206",
+      "JobTitle": "Diagnostic Sonographer",
+      "Company": "Solis Mammography/ Washington Radiology",
+      "AccquisitionDate": "2022-12-1 9:22 AM",
+      "URL": "https://de.jobsyn.org/05DF7C951E7449D485112EB04FA0039B206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "5C76EF1DAB1A494E8BE7B232E7B12B1B206",
+      "JobTitle": "Ultrasound Tech PRN",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-3-3 2:16 AM",
+      "URL": "https://de.jobsyn.org/5C76EF1DAB1A494E8BE7B232E7B12B1B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2EF73F21C32148B895080370B21E8B40206",
+      "JobTitle": "Medical Instrument Technician - Diagnostic Ultrasound - Recruitment/Relocation Incentive",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-12-16 10:34 PM",
+      "URL": "https://de.jobsyn.org/2EF73F21C32148B895080370B21E8B40206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1ACC60AD9C4E462D938BDF7B0DC090CD206",
+      "JobTitle": "Ultrasound Tech PRN",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2022-12-22 2:58 AM",
+      "URL": "https://de.jobsyn.org/1ACC60AD9C4E462D938BDF7B0DC090CD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F8CAE809E38F4336A9F3BA1FFB3F97C6206",
+      "JobTitle": "ULTRASOUND TECHNOLOGIST ARDMS and RVT",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-2-23 2:52 AM",
+      "URL": "https://de.jobsyn.org/F8CAE809E38F4336A9F3BA1FFB3F97C6206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "57A50032649142DEA9F89FBBC59BE260206",
+      "JobTitle": "ULTRASOUND TECHNOLOGIST - PRN",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2022-12-14 3:15 AM",
+      "URL": "https://de.jobsyn.org/57A50032649142DEA9F89FBBC59BE260206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AF9EEF0F2D51421F9A4B46C8215B3BCD206",
+      "JobTitle": "ULTRASOUND TECH - RDMS & RVT",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2022-11-19 2:30 AM",
+      "URL": "https://de.jobsyn.org/AF9EEF0F2D51421F9A4B46C8215B3BCD206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9F0453890B344C63A80312F7453AC348206",
+      "JobTitle": "Ultrasound Technologist PRN",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2022-6-8 8:25 AM",
+      "URL": "https://de.jobsyn.org/9F0453890B344C63A80312F7453AC348206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "74FA58E0C7EB4E22BDB61F6EB4A56DBC206",
+      "JobTitle": "ECHOCARDIOGRAPHER - REGISTERED",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-3-7 2:25 AM",
+      "URL": "https://de.jobsyn.org/74FA58E0C7EB4E22BDB61F6EB4A56DBC206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CFD21F7888674BF8A29A584A61A801CA206",
+      "JobTitle": "Medical Instrument Technician - Diagnostic Ultrasound - Recruitment/Relocation Incentive",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-12-16 10:39 PM",
+      "URL": "https://de.jobsyn.org/CFD21F7888674BF8A29A584A61A801CA206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "37AC0A107052449494B6F23B5BD879E4206",
+      "JobTitle": "ECHOCARDIOGRAPHER - REGISTERED",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-1-18 3:30 AM",
+      "URL": "https://de.jobsyn.org/37AC0A107052449494B6F23B5BD879E4206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "88D7CD3B6004471597C6FC92D2A6B37A206",
+      "JobTitle": "ECHOCARDIOGRAPHER - REGISTERED",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2023-1-5 2:27 AM",
+      "URL": "https://de.jobsyn.org/88D7CD3B6004471597C6FC92D2A6B37A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C477725E0CC849478786AB6C92B10905206",
+      "JobTitle": "ECHOCARDIOGRAPHER- REGISTERED PRN",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2022-11-4 5:17 AM",
+      "URL": "https://de.jobsyn.org/C477725E0CC849478786AB6C92B10905206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B3BA98118BBC44919453D40475B48F8B206",
+      "JobTitle": "ECHOCARDIOGRAPHER - REGISTERED",
+      "Company": "Methodist Health System",
+      "AccquisitionDate": "2022-9-20 4:20 AM",
+      "URL": "https://de.jobsyn.org/B3BA98118BBC44919453D40475B48F8B206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "547CFB8C97F24A0C81ABDE87F83B8876206",
+      "JobTitle": "Business Intelligence Principal Analyst _3116",
+      "Company": "Sevita",
+      "AccquisitionDate": "2023-2-1 4:14 AM",
+      "URL": "https://de.jobsyn.org/547CFB8C97F24A0C81ABDE87F83B8876206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "27ADC9F589B64C25B4EE095C9D4A3C52206",
+      "JobTitle": "Analyst III Business Intelligence - Remote",
+      "Company": "Advantage Solutions",
+      "AccquisitionDate": "2023-2-22 12:25 AM",
+      "URL": "https://de.jobsyn.org/27ADC9F589B64C25B4EE095C9D4A3C52206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AF8AAAEB6376495CAF0E9B725342C0CB206",
+      "JobTitle": "Jr. Business Intelligence Analyst - Dallas, TX",
+      "Company": "Integrative Emergency Services",
+      "AccquisitionDate": "2023-2-19 1:41 AM",
+      "URL": "https://de.jobsyn.org/AF8AAAEB6376495CAF0E9B725342C0CB206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6EE058A12CD94EB19A9E0ABAC960E336206",
+      "JobTitle": "Senior Business Intelligence Analyst - REMOTE",
+      "Company": "US Anesthesia Partners",
+      "AccquisitionDate": "2023-2-15 1:10 AM",
+      "URL": "https://de.jobsyn.org/6EE058A12CD94EB19A9E0ABAC960E336206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "972B05707A1044A99D11541DBDB1C3B2206",
+      "JobTitle": "Sr. Business Intelligence Analyst - Specialized Solutions (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:06 AM",
+      "URL": "https://de.jobsyn.org/972B05707A1044A99D11541DBDB1C3B2206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E92E19037EE4417997671A41CE233C08206",
+      "JobTitle": "Data Analyst lll",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-11 5:20 AM",
+      "URL": "https://de.jobsyn.org/E92E19037EE4417997671A41CE233C08206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D83E16A579CB4753BCF94DB542A99B46206",
+      "JobTitle": "Actuarial Analyst",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-21 1:43 AM",
+      "URL": "https://de.jobsyn.org/D83E16A579CB4753BCF94DB542A99B46206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3202BE7B6CA547DB9F04F0CDEC9AD2B5206",
+      "JobTitle": "Lead Business Analyst - Accelsior",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-5 6:53 AM",
+      "URL": "https://de.jobsyn.org/3202BE7B6CA547DB9F04F0CDEC9AD2B5206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2F20DFB61C8741948CE59B91EDC33AA8206",
+      "JobTitle": "Business Insights Internship",
+      "Company": "S&P Global",
+      "AccquisitionDate": "2023-3-1 4:54 AM",
+      "URL": "https://de.jobsyn.org/2F20DFB61C8741948CE59B91EDC33AA8206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BC185BA7AEFC4D03ADEEE5120F19D305206",
+      "JobTitle": "Senior Data Analyst",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-10 4:01 AM",
+      "URL": "https://de.jobsyn.org/BC185BA7AEFC4D03ADEEE5120F19D305206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2324A556388445239C1CBE69DBB18DA5206",
+      "JobTitle": "Data Analyst Lead - Data Scientist",
+      "Company": "Capgemini",
+      "AccquisitionDate": "2023-2-24 2:33 AM",
+      "URL": "https://de.jobsyn.org/2324A556388445239C1CBE69DBB18DA5206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "99411A3F9B6047069AC69C91091593BE206",
+      "JobTitle": "Lead BI Developer",
+      "Company": "The Hertz Corporation",
+      "AccquisitionDate": "2023-3-10 7:18 PM",
+      "URL": "https://de.jobsyn.org/99411A3F9B6047069AC69C91091593BE206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5BF1C7C4CB9B4202A4B9640C5A1F7553206",
+      "JobTitle": "Part-Time Data Entry Analyst - Solvas Financial Technology",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-7-22 7:04 AM",
+      "URL": "https://de.jobsyn.org/5BF1C7C4CB9B4202A4B9640C5A1F7553206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FDDB67AE0C9243289B887F28A24DD52A206",
+      "JobTitle": "Manager, Data Analytics",
+      "Company": "WNA-LTD.com",
+      "AccquisitionDate": "2022-8-12 10:10 PM",
+      "URL": "https://de.jobsyn.org/FDDB67AE0C9243289B887F28A24DD52A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8FE8F9843B81415F8450E68C78A83665206",
+      "JobTitle": "Analytics Developer III - Hybrid Schedule (Dallas, Tx.)",
+      "Company": "Baylor Scott & White Health",
+      "AccquisitionDate": "2023-1-19 3:50 AM",
+      "URL": "https://de.jobsyn.org/8FE8F9843B81415F8450E68C78A83665206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9BB775E9CAE54F34927BE174E09D4BCA206",
+      "JobTitle": "business analyst",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-14 5:30 AM",
+      "URL": "https://de.jobsyn.org/9BB775E9CAE54F34927BE174E09D4BCA206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6E89DC66724A45DB8676B335614586FF206",
+      "JobTitle": "Sr. Associate, Business Analysis",
+      "Company": "Santander US",
+      "AccquisitionDate": "2023-3-11 2:37 AM",
+      "URL": "https://de.jobsyn.org/6E89DC66724A45DB8676B335614586FF206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "45C11C8A73344ABA97AD76BB8560985C206",
+      "JobTitle": "Workforce Intelligence Consultant",
+      "Company": "Southwest Airlines Company",
+      "AccquisitionDate": "2023-3-11 1:48 AM",
+      "URL": "https://de.jobsyn.org/45C11C8A73344ABA97AD76BB8560985C206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8F96AF0781374F5FA243FB3BF8A2F177206",
+      "JobTitle": "HR Data Analytics Analyst",
+      "Company": "CBRE",
+      "AccquisitionDate": "2023-3-11 3:03 AM",
+      "URL": "https://de.jobsyn.org/8F96AF0781374F5FA243FB3BF8A2F177206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "15F001A616924ADD9EB94FBF03365AA2206",
+      "JobTitle": "Healthcare Analytics and Reporting Manager",
+      "Company": "Health Plans, Inc.",
+      "AccquisitionDate": "2023-3-8 11:41 PM",
+      "URL": "https://de.jobsyn.org/15F001A616924ADD9EB94FBF03365AA2206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "26F2D0B96F7B4884A18C8EDE74A7BCCA206",
+      "JobTitle": "Senior Advanced Analytics",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-9 3:19 AM",
+      "URL": "https://de.jobsyn.org/26F2D0B96F7B4884A18C8EDE74A7BCCA206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9E89782EE4D54465B983035CC5A2BED0206",
+      "JobTitle": "Data Analytics Manager Legal Operations",
+      "Company": "Danaher Corporation",
+      "AccquisitionDate": "2023-3-9 3:35 AM",
+      "URL": "https://de.jobsyn.org/9E89782EE4D54465B983035CC5A2BED0206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "14B664F867BD4EE1977B5B278805A6E9206",
+      "JobTitle": "Data Analyst lll",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-4 5:20 AM",
+      "URL": "https://de.jobsyn.org/14B664F867BD4EE1977B5B278805A6E9206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7A8EF5AF4FEC4779A85E2D77277CA636206",
+      "JobTitle": "Audit Analytics Business Analyst",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-3-3 3:27 AM",
+      "URL": "https://de.jobsyn.org/7A8EF5AF4FEC4779A85E2D77277CA636206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "714AC7A6E56840CBAFACD80D185FF0BA206",
+      "JobTitle": "Data Analyst",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-3 2:20 AM",
+      "URL": "https://de.jobsyn.org/714AC7A6E56840CBAFACD80D185FF0BA206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "110070934E294DB38D2E981187FF27FF206",
+      "JobTitle": "Digital Print Operator 3 - Split shift",
+      "Company": "RR Donnelley",
+      "AccquisitionDate": "2023-2-22 10:25 PM",
+      "URL": "https://de.jobsyn.org/110070934E294DB38D2E981187FF27FF206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4F185F0447614312B293C3D524E10B3D206",
+      "JobTitle": "Personalization Operator",
+      "Company": "WestRock Company",
+      "AccquisitionDate": "2023-2-17 12:10 AM",
+      "URL": "https://de.jobsyn.org/4F185F0447614312B293C3D524E10B3D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4EDEA5E2CF5E4CFD920374E8C794410A206",
+      "JobTitle": "Digital Print Operator 3 - 3rd shift",
+      "Company": "RR Donnelley",
+      "AccquisitionDate": "2023-2-10 11:16 PM",
+      "URL": "https://de.jobsyn.org/4EDEA5E2CF5E4CFD920374E8C794410A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3F3941D42353404FB7BA9F9E0EDAB1A9206",
+      "JobTitle": "Digital Print Operator (Night and Day Shift Available)",
+      "Company": "Avery Dennison",
+      "AccquisitionDate": "2023-1-19 2:35 AM",
+      "URL": "https://de.jobsyn.org/3F3941D42353404FB7BA9F9E0EDAB1A9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CB25943C4D1A4E2AB65A40CEA4ED6DC1206",
+      "JobTitle": "Renewable Operations Center Operator (Entry Level)",
+      "Company": "Spark Power",
+      "AccquisitionDate": "2022-9-14 11:43 PM",
+      "URL": "https://de.jobsyn.org/CB25943C4D1A4E2AB65A40CEA4ED6DC1206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "81F9C26345CA4D52A7ACEF4E0FAEED98206",
+      "JobTitle": "Senior-Solution Architect",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-11 5:16 AM",
+      "URL": "https://de.jobsyn.org/81F9C26345CA4D52A7ACEF4E0FAEED98206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "542A2714DEEC4095ADB9BABCAA0968DC206",
+      "JobTitle": "Senior-Solution Architect",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-3 2:48 AM",
+      "URL": "https://de.jobsyn.org/542A2714DEEC4095ADB9BABCAA0968DC206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A2EAF9A41B3440D28441DBC35B30D3C7206",
+      "JobTitle": "Principal-Solution Architect",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-2 4:39 AM",
+      "URL": "https://de.jobsyn.org/A2EAF9A41B3440D28441DBC35B30D3C7206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8986618A0FFA4F9D8140FCCC89A78F26206",
+      "JobTitle": "Tier 2, Systems Engineer",
+      "Company": "Centre Technologies",
+      "AccquisitionDate": "2022-12-13 1:02 AM",
+      "URL": "https://de.jobsyn.org/8986618A0FFA4F9D8140FCCC89A78F26206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "21F4F26F32BA49359A17048A61CA12E1206",
+      "JobTitle": "3D Simulation Solutions Architect",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/21F4F26F32BA49359A17048A61CA12E1206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B0AEE12C256D45B4A27D7A5185C1028B206",
+      "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-18 4:02 AM",
+      "URL": "https://de.jobsyn.org/B0AEE12C256D45B4A27D7A5185C1028B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "60FC5766536B4A2C8522FEB96FF4A9DB206",
+      "JobTitle": "DevOps Engineer",
+      "Company": "OneSky Flight, LLC",
+      "AccquisitionDate": "2023-2-10 6:33 AM",
+      "URL": "https://de.jobsyn.org/60FC5766536B4A2C8522FEB96FF4A9DB206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "498E45AE2D3A42BE86422E4D44EECF20206",
+      "JobTitle": "Solution Architect",
+      "Company": "Centre Technologies",
+      "AccquisitionDate": "2023-1-13 6:44 AM",
+      "URL": "https://de.jobsyn.org/498E45AE2D3A42BE86422E4D44EECF20206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F5559959F6684B919215BDBC7AB63EA6206",
+      "JobTitle": "Senior Application Architect (Remote)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-11 12:36 AM",
+      "URL": "https://de.jobsyn.org/F5559959F6684B919215BDBC7AB63EA6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8FABB34E69CF4845B989400E9112E324206",
+      "JobTitle": "Sr. Cloud Architect",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-8 4:54 AM",
+      "URL": "https://de.jobsyn.org/8FABB34E69CF4845B989400E9112E324206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "376CF9D9A62B46318979483469FC3120206",
+      "JobTitle": "Cloud Architect - Secret Clearance",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-8 3:43 AM",
+      "URL": "https://de.jobsyn.org/376CF9D9A62B46318979483469FC3120206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4FC098A64E184FABAD207ADC17BB5A99206",
+      "JobTitle": "Kafka Architect (Full-Time Remote Position)",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-7 4:09 AM",
+      "URL": "https://de.jobsyn.org/4FC098A64E184FABAD207ADC17BB5A99206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "56E99062F3DB47EEB19CA66A794E2313206",
+      "JobTitle": "Lead Solutions Architect Genesys PureCloud (Home office / Remote / Work from home eligible)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-11-3 12:33 AM",
+      "URL": "https://de.jobsyn.org/56E99062F3DB47EEB19CA66A794E2313206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C588A74F280B4DF0B8A66463E47C501E206",
+      "JobTitle": "Senior Network Engineer",
+      "Company": "Moss Adams LLP",
+      "AccquisitionDate": "2023-3-7 3:25 AM",
+      "URL": "https://de.jobsyn.org/C588A74F280B4DF0B8A66463E47C501E206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "76EC5D921EA242C5994AF78E43B5A218206",
+      "JobTitle": "AWS Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-4-21 3:45 AM",
+      "URL": "https://de.jobsyn.org/76EC5D921EA242C5994AF78E43B5A218206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "22AD1815350D4A858133D4AF0018E63A206",
+      "JobTitle": "Systems Engineer III (Citrix)",
+      "Company": "Old Dominion Freight Line",
+      "AccquisitionDate": "2023-1-25 6:26 AM",
+      "URL": "https://de.jobsyn.org/22AD1815350D4A858133D4AF0018E63A206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CB49AA776A5E451294C5CEF8F07CC142206",
+      "JobTitle": "Senior Data Engineer - SFL Scientific",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-10-16 4:02 AM",
+      "URL": "https://de.jobsyn.org/CB49AA776A5E451294C5CEF8F07CC142206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8AE38A4D3C6D4F538251F57726842631206",
+      "JobTitle": "Cloud Security Architect - Dallas, TX",
+      "Company": "H-E-B, L.P.",
+      "AccquisitionDate": "2022-9-14 9:23 AM",
+      "URL": "https://de.jobsyn.org/8AE38A4D3C6D4F538251F57726842631206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BFC87B5FE1E1433B845808489526F6FD206",
+      "JobTitle": "Senior Systems Engineer",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-2-15 5:23 AM",
+      "URL": "https://de.jobsyn.org/BFC87B5FE1E1433B845808489526F6FD206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B4EBAF16CE0240888A9A406E7EEABBA6206",
+      "JobTitle": "LTE Core Architect - Networks, Integration, & Automation (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-3-8 11:45 PM",
+      "URL": "https://de.jobsyn.org/B4EBAF16CE0240888A9A406E7EEABBA6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BB70E4D58C46461CB3A18859C3BD1951206",
+      "JobTitle": "Senior-Data Analysis",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-12 4:32 AM",
+      "URL": "https://de.jobsyn.org/BB70E4D58C46461CB3A18859C3BD1951206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A5C10E68EEC94D058295B53AE2FBF293206",
+      "JobTitle": "Senior-System Engineer",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-11 5:16 AM",
+      "URL": "https://de.jobsyn.org/A5C10E68EEC94D058295B53AE2FBF293206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "772798EB8E964120B7D924D896A7426D206",
+      "JobTitle": "P&C Solution Architect",
+      "Company": "Origami Risk, LLC",
+      "AccquisitionDate": "2023-2-12 2:04 AM",
+      "URL": "https://de.jobsyn.org/772798EB8E964120B7D924D896A7426D206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A72C3D168B7D4421B9AE154D5A0CFAB3206",
+      "JobTitle": "AWS DevOps Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-1-29 1:59 AM",
+      "URL": "https://de.jobsyn.org/A72C3D168B7D4421B9AE154D5A0CFAB3206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1932CFE1EB8B41219CC4B70FBE7EEF84206",
+      "JobTitle": "Enterprise Architect - Associate Principal",
+      "Company": "Guidehouse",
+      "AccquisitionDate": "2023-2-15 4:09 AM",
+      "URL": "https://de.jobsyn.org/1932CFE1EB8B41219CC4B70FBE7EEF84206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "F5C9D0F469CD43E29588259A686DE37B206",
+      "JobTitle": "Onsite Support Specialist",
+      "Company": "Cogent Infotech",
+      "AccquisitionDate": "2023-3-13 11:37 PM",
+      "URL": "https://de.jobsyn.org/F5C9D0F469CD43E29588259A686DE37B206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DB7BE4197CBA4049B1C853D907CF0AF8206",
+      "JobTitle": "Onsite Support Specialist",
+      "Company": "Cogent Infotech",
+      "AccquisitionDate": "2023-2-14 1:48 AM",
+      "URL": "https://de.jobsyn.org/DB7BE4197CBA4049B1C853D907CF0AF8206",
+      "Location": "Dallas",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4BC7FB1B2E0441FE9A4DE9142214B0FE206",
+      "JobTitle": "Network Specialist I",
+      "Company": "Health and Human Services Commission",
+      "AccquisitionDate": "2022-10-12 7:55 PM",
+      "URL": "https://de.jobsyn.org/4BC7FB1B2E0441FE9A4DE9142214B0FE206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AF84A50C07CB4D41AC5FF01123A2EF6F206",
+      "JobTitle": "IT Support Specialist",
+      "Company": "Motion Recruitment Partners",
+      "AccquisitionDate": "2023-3-11 2:31 AM",
+      "URL": "https://de.jobsyn.org/AF84A50C07CB4D41AC5FF01123A2EF6F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5645995B046F45AFAA9B4ED2DA0EBC08206",
+      "JobTitle": "Specialist II, Business Technology Support - Corporate - US",
+      "Company": "Sysco",
+      "AccquisitionDate": "2023-3-13 4:58 AM",
+      "URL": "https://de.jobsyn.org/5645995B046F45AFAA9B4ED2DA0EBC08206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "30D65C2894034AFF8A9549D99817B45A206",
+      "JobTitle": "IT Support Specialist (In Office Position)",
+      "Company": "Home Care Providers of Texas",
+      "AccquisitionDate": "2023-2-20 10:08 PM",
+      "URL": "https://de.jobsyn.org/30D65C2894034AFF8A9549D99817B45A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AA1030651C9B485CBC4B070640AC7444206",
+      "JobTitle": "technical support specialist (10am-7pm)",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-1-14 6:15 AM",
+      "URL": "https://de.jobsyn.org/AA1030651C9B485CBC4B070640AC7444206",
+      "Location": "dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0FC3D46E1AAB48B3AD29627E6E22E142206",
+      "JobTitle": "EDI Specialist - Dallas, TX",
+      "Company": "R2 Logistics",
+      "AccquisitionDate": "2023-2-28 7:11 AM",
+      "URL": "https://de.jobsyn.org/0FC3D46E1AAB48B3AD29627E6E22E142206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7D8EBECFA45540E2B32CA5F37FBFF9FB206",
+      "JobTitle": "IT Operations Support Specialist",
+      "Company": "Cummins Inc.",
+      "AccquisitionDate": "2023-3-9 8:54 AM",
+      "URL": "https://de.jobsyn.org/7D8EBECFA45540E2B32CA5F37FBFF9FB206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "70B895F697CC46C1834A6B312D684B55206",
+      "JobTitle": "IT Site Support Specialist",
+      "Company": "Chewy",
+      "AccquisitionDate": "2023-2-18 1:14 AM",
+      "URL": "https://de.jobsyn.org/70B895F697CC46C1834A6B312D684B55206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3AAFE45A2F174B949C7D839A9D891964206",
+      "JobTitle": "Senior IT Application Support Specialist",
+      "Company": "Federal Reserve System",
+      "AccquisitionDate": "2023-2-16 12:59 AM",
+      "URL": "https://de.jobsyn.org/3AAFE45A2F174B949C7D839A9D891964206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "646CA66E90164D7694B4F89B76A560CD206",
+      "JobTitle": "Desktop Technician II",
+      "Company": "National General Insurance Company",
+      "AccquisitionDate": "2022-11-29 10:37 AM",
+      "URL": "https://de.jobsyn.org/646CA66E90164D7694B4F89B76A560CD206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "33A31B9F45214032813F03683AD24E58206",
+      "JobTitle": "Biomedical Equipment Support Specialist (Imaging)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-2-2 7:44 AM",
+      "URL": "https://de.jobsyn.org/33A31B9F45214032813F03683AD24E58206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "25A0776217B54ABAAF658369207F4C67206",
+      "JobTitle": "LOTTERY - Metropolitan Player Support Specialist I (Program Specialist II) Dallas",
+      "Company": "TEXAS LOTTERY COMMISSION",
+      "AccquisitionDate": "2023-3-4 8:46 PM",
+      "URL": "https://de.jobsyn.org/25A0776217B54ABAAF658369207F4C67206",
+      "Location": "DALLAS, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9F0D9A543E6A4C89B24D2BCA0F612489206",
+      "JobTitle": "Technology Support Specialist",
+      "Company": "Motion Recruitment Partners",
+      "AccquisitionDate": "2023-2-17 6:50 AM",
+      "URL": "https://de.jobsyn.org/9F0D9A543E6A4C89B24D2BCA0F612489206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8D4AB85C54334E5DB38A706C4D2215FD206",
+      "JobTitle": "Manager, Software Solutions Specialist - DAS GPS",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-23 2:04 AM",
+      "URL": "https://de.jobsyn.org/8D4AB85C54334E5DB38A706C4D2215FD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "554E532E20CB48E9AF47745B59A605A5206",
+      "JobTitle": "Sr. Industrial Security Specialist",
+      "Company": "Raytheon Technologies",
+      "AccquisitionDate": "2023-2-8 2:36 AM",
+      "URL": "https://de.jobsyn.org/554E532E20CB48E9AF47745B59A605A5206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3AEA23F0CDAF43979082B3AAA93C64C6206",
+      "JobTitle": "Senior Informatics Technical Specialist (Western Part of the US )",
+      "Company": "Abbott",
+      "AccquisitionDate": "2022-2-17 4:13 AM",
+      "URL": "https://de.jobsyn.org/3AEA23F0CDAF43979082B3AAA93C64C6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1E6B1F05EC8D4C8185978E393084AD5D206",
+      "JobTitle": "Help Desk",
+      "Company": "TEKsystems",
+      "AccquisitionDate": "2023-3-2 3:25 AM",
+      "URL": "https://de.jobsyn.org/1E6B1F05EC8D4C8185978E393084AD5D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55F9AC7351574A4F8E4AFD670DD22AA9206",
+      "JobTitle": "Genius (Knox Street R042)",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-1 3:06 AM",
+      "URL": "https://de.jobsyn.org/55F9AC7351574A4F8E4AFD670DD22AA9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FEF46B77C8DC4586B3601E7F47AEE19B206",
+      "JobTitle": "Genius (Galleria Dallas R746)",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-1 3:06 AM",
+      "URL": "https://de.jobsyn.org/FEF46B77C8DC4586B3601E7F47AEE19B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5E3C54D14B43440CA20926BC62E72842206",
+      "JobTitle": "Mortgage Solutions Specialist I",
+      "Company": "Iron Mountain",
+      "AccquisitionDate": "2022-11-14 2:55 PM",
+      "URL": "https://de.jobsyn.org/5E3C54D14B43440CA20926BC62E72842206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B78232F1665746B58A769CEB614354D9206",
+      "JobTitle": "Senior-System Engineer (Application Production Support)",
+      "Company": "AT&T",
+      "AccquisitionDate": "2023-3-14 5:02 AM",
+      "URL": "https://de.jobsyn.org/B78232F1665746B58A769CEB614354D9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A97EC3E7EE6245A4A03B9443755D4C85206",
+      "JobTitle": "HR Specialist",
+      "Company": "Chewy",
+      "AccquisitionDate": "2023-3-14 6:15 AM",
+      "URL": "https://de.jobsyn.org/A97EC3E7EE6245A4A03B9443755D4C85206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A742AE6D3EDF4CE58378990E556B1664206",
+      "JobTitle": "Lead Analyst - Remote",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-14 2:59 AM",
+      "URL": "https://de.jobsyn.org/A742AE6D3EDF4CE58378990E556B1664206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "9875DB585C2E4F139D4BC93CF32EE4AB206",
+      "JobTitle": "Specialist Warehouse Management Systems",
+      "Company": "Bimbo Bakeries USA",
+      "AccquisitionDate": "2022-12-6 10:06 AM",
+      "URL": "https://de.jobsyn.org/9875DB585C2E4F139D4BC93CF32EE4AB206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D8C8787719034FA8A6789863F83D1C4B206",
+      "JobTitle": "Associate Director, Information Architecture",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-2-15 3:46 AM",
+      "URL": "https://de.jobsyn.org/D8C8787719034FA8A6789863F83D1C4B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "A385FA7052AC4461B3BB9869E6D58539206",
+      "JobTitle": "Imaging Production Specialist I",
+      "Company": "Iron Mountain",
+      "AccquisitionDate": "2023-3-3 10:52 PM",
+      "URL": "https://de.jobsyn.org/A385FA7052AC4461B3BB9869E6D58539206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EBBE78CA77F74336AD2BE52F258BFDA4206",
+      "JobTitle": "Imaging Specialists (2nd Shift) - Immediate Hires!",
+      "Company": "Iron Mountain",
+      "AccquisitionDate": "2022-10-12 7:53 PM",
+      "URL": "https://de.jobsyn.org/EBBE78CA77F74336AD2BE52F258BFDA4206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "D7259868B68C4988B6F48F893D3363A3206",
+      "JobTitle": "Summer 2023 - Completions Engineering (Dallas)",
+      "Company": "Gulfstream",
+      "AccquisitionDate": "2023-3-8 11:26 PM",
+      "URL": "https://de.jobsyn.org/D7259868B68C4988B6F48F893D3363A3206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F9A72D422EF1486F9AD66D85F776E0AB206",
+      "JobTitle": "Systems Engineer *Remote*",
+      "Company": "Kratos Defense & Security Solutions, Inc.",
+      "AccquisitionDate": "2023-2-23 11:55 PM",
+      "URL": "https://de.jobsyn.org/F9A72D422EF1486F9AD66D85F776E0AB206",
+      "Location": "Dallas / Fort Worth, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "46D4D34046464FE1A5B879996E3293DF206",
+      "JobTitle": "Mechanical Engineer Aircraft Outfitting Level 3 / Tech Spec I - Dallas",
+      "Company": "Gulfstream",
+      "AccquisitionDate": "2023-1-13 7:04 AM",
+      "URL": "https://de.jobsyn.org/46D4D34046464FE1A5B879996E3293DF206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E31993CEE34F40809C500A166611E14B206",
+      "JobTitle": "Systems Engineer - Aircraft and Land-Based Systems",
+      "Company": "Kratos Defense & Security Solutions, Inc.",
+      "AccquisitionDate": "2022-10-29 7:43 AM",
+      "URL": "https://de.jobsyn.org/E31993CEE34F40809C500A166611E14B206",
+      "Location": "Dallas-Fort Worth, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8E5604B4247149F1B96EDC01EC422295206",
+      "JobTitle": "Chief Engineer/System Engineer Lead (Onsite)",
+      "Company": "BAE Systems",
+      "AccquisitionDate": "2022-12-20 8:56 AM",
+      "URL": "https://de.jobsyn.org/8E5604B4247149F1B96EDC01EC422295206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4B73A4B326EB4E909627008A9B35D149206",
+      "JobTitle": "Customer Delivery Executive - Dallas, TX",
+      "Company": "Gulfstream",
+      "AccquisitionDate": "2023-3-10 12:28 AM",
+      "URL": "https://de.jobsyn.org/4B73A4B326EB4E909627008A9B35D149206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ABF71CEF8BFF46E98360705079DE6DE4206",
+      "JobTitle": "Staff Stress Engineer",
+      "Company": "LCI-Lawinger Consulting",
+      "AccquisitionDate": "2023-2-5 7:20 AM",
+      "URL": "https://de.jobsyn.org/ABF71CEF8BFF46E98360705079DE6DE4206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D604B7DC29744AD6A459326022D65065206",
+      "JobTitle": "Senior Engineer",
+      "Company": "American Airlines",
+      "AccquisitionDate": "2023-3-11 3:14 AM",
+      "URL": "https://de.jobsyn.org/D604B7DC29744AD6A459326022D65065206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "07B93791180E4D1BB77091667372B3B6206",
+      "JobTitle": "Quality Engineer",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-2-2 2:27 AM",
+      "URL": "https://de.jobsyn.org/07B93791180E4D1BB77091667372B3B6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3FC834AD86E3422898CCA4456FDFC2D6206",
+      "JobTitle": "Dir Flight Simulation M&E",
+      "Company": "Southwest Airlines Company",
+      "AccquisitionDate": "2023-3-14 6:17 AM",
+      "URL": "https://de.jobsyn.org/3FC834AD86E3422898CCA4456FDFC2D6206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3DD178AA72D04037A3ECD42EB08E056D206",
+      "JobTitle": "Team Leader",
+      "Company": "Collins Engineers, Inc.",
+      "AccquisitionDate": "2023-3-14 1:41 AM",
+      "URL": "https://de.jobsyn.org/3DD178AA72D04037A3ECD42EB08E056D206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6411723F0906460AB9793F1271016284206",
+      "JobTitle": "Principal Engineer",
+      "Company": "American Airlines",
+      "AccquisitionDate": "2023-3-11 3:14 AM",
+      "URL": "https://de.jobsyn.org/6411723F0906460AB9793F1271016284206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0858F16481C47889F54996E5AF6DBBD206",
+      "JobTitle": "Project Interior Designer | Aviation",
+      "Company": "Corgan",
+      "AccquisitionDate": "2023-3-10 11:39 PM",
+      "URL": "https://de.jobsyn.org/A0858F16481C47889F54996E5AF6DBBD206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EEA6D0B18E064483A6E6E1CEA96E9FD6206",
+      "JobTitle": "Engineer",
+      "Company": "Southwest Airlines Company",
+      "AccquisitionDate": "2023-3-10 1:56 AM",
+      "URL": "https://de.jobsyn.org/EEA6D0B18E064483A6E6E1CEA96E9FD6206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F3AF69017E904216A84E2DE25350425C206",
+      "JobTitle": "Bridge Engineer-In-Training",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-3-9 3:37 AM",
+      "URL": "https://de.jobsyn.org/F3AF69017E904216A84E2DE25350425C206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F611299E7CCA49E980B0357EBBDA0BEB206",
+      "JobTitle": "Structural Engineer 6",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-3-8 6:13 AM",
+      "URL": "https://de.jobsyn.org/F611299E7CCA49E980B0357EBBDA0BEB206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "222BF8C4EE7E47748E5E8A0D5B0E9A7F206",
+      "JobTitle": "Specialist, Aircraft Records",
+      "Company": "American Airlines",
+      "AccquisitionDate": "2023-3-7 4:49 AM",
+      "URL": "https://de.jobsyn.org/222BF8C4EE7E47748E5E8A0D5B0E9A7F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A2DEC6E91D8F4E77A9EF0798B29E510B206",
+      "JobTitle": "Aircraft Structural Technician - Colorado Springs",
+      "Company": "Aerotek",
+      "AccquisitionDate": "2023-3-5 4:21 AM",
+      "URL": "https://de.jobsyn.org/A2DEC6E91D8F4E77A9EF0798B29E510B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8088D94A325442F0B215F7C1B89B58F2206",
+      "JobTitle": "Engineer",
+      "Company": "American Airlines",
+      "AccquisitionDate": "2023-3-4 2:30 AM",
+      "URL": "https://de.jobsyn.org/8088D94A325442F0B215F7C1B89B58F2206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2A37B99D9D7E49F9864C68DA569A7072206",
+      "JobTitle": "Structural - Senior Engineer (Vertical Structures)",
+      "Company": "WGI",
+      "AccquisitionDate": "2023-3-3 2:12 AM",
+      "URL": "https://de.jobsyn.org/2A37B99D9D7E49F9864C68DA569A7072206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F5F16C76A8024AEB81B31CB5C031DD00206",
+      "JobTitle": "Lead Aviation Project Manager",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-3-1 4:42 AM",
+      "URL": "https://de.jobsyn.org/F5F16C76A8024AEB81B31CB5C031DD00206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CFD75EA474EE43BC9AA116C36DA6FBC9206",
+      "JobTitle": "Aircraft Systems Integrator",
+      "Company": "KBR",
+      "AccquisitionDate": "2023-3-1 2:57 AM",
+      "URL": "https://de.jobsyn.org/CFD75EA474EE43BC9AA116C36DA6FBC9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "826DD3FEE3594E00A4048B600DC1C328206",
+      "JobTitle": "RS Avionics Installer II",
+      "Company": "PDS Tech Inc",
+      "AccquisitionDate": "2023-2-25 4:10 AM",
+      "URL": "https://de.jobsyn.org/826DD3FEE3594E00A4048B600DC1C328206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "112D5D19AFED477FA8E93C87983C5B4C206",
+      "JobTitle": "TC41 - Lead Engineer",
+      "Company": "Southwest Airlines Company",
+      "AccquisitionDate": "2023-2-23 11:43 PM",
+      "URL": "https://de.jobsyn.org/112D5D19AFED477FA8E93C87983C5B4C206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BD285BFF3C754EBBB29C060A859C7AA4206",
+      "JobTitle": "Mission Assurance Lead - Space Programs",
+      "Company": "Raytheon Technologies",
+      "AccquisitionDate": "2023-2-18 4:18 AM",
+      "URL": "https://de.jobsyn.org/BD285BFF3C754EBBB29C060A859C7AA4206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "3593FD2147E54179B30C3AEEF6298CED206",
+      "JobTitle": "Mechanical Engineer",
+      "Company": "Page Southerland Page, Inc.",
+      "AccquisitionDate": "2023-3-12 1:12 AM",
+      "URL": "https://de.jobsyn.org/3593FD2147E54179B30C3AEEF6298CED206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C4BE87B942864B5E82634E515890DD8B206",
+      "JobTitle": "Architectural Project Manager - IMMEDIATE OPENING",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-1 2:36 AM",
+      "URL": "https://de.jobsyn.org/C4BE87B942864B5E82634E515890DD8B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DF77474CF213450C8C5ADBC52D1CE982206",
+      "JobTitle": "Project Architect",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-4 3:34 AM",
+      "URL": "https://de.jobsyn.org/DF77474CF213450C8C5ADBC52D1CE982206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "49F73EFE8FED45E5BC7F5F491C930316206",
+      "JobTitle": "Registered Architect/Project Manager",
+      "Company": "Huitt-Zollars, Inc.",
+      "AccquisitionDate": "2023-3-11 1:58 AM",
+      "URL": "https://de.jobsyn.org/49F73EFE8FED45E5BC7F5F491C930316206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3EE440B2FCAF441FAF18A06E39A7895F206",
+      "JobTitle": "Mechanical Engineer - Asset Management",
+      "Company": "Farnsworth Group",
+      "AccquisitionDate": "2023-3-12 1:03 AM",
+      "URL": "https://de.jobsyn.org/3EE440B2FCAF441FAF18A06E39A7895F206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DA5A6F33C2334F7EBBA7D7E3C32AAE73206",
+      "JobTitle": "Architectural Project Manager",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-9 3:01 AM",
+      "URL": "https://de.jobsyn.org/DA5A6F33C2334F7EBBA7D7E3C32AAE73206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "232C8AFCA1334106997F2DC60D51F1F8206",
+      "JobTitle": "Sr. Mechanical Engineer - Asset Management",
+      "Company": "Farnsworth Group",
+      "AccquisitionDate": "2023-3-12 1:03 AM",
+      "URL": "https://de.jobsyn.org/232C8AFCA1334106997F2DC60D51F1F8206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ABC49F0CCACF419696ED050B05F9FC17206",
+      "JobTitle": "Civil, Structural and Architectural (CSA) Engineer",
+      "Company": "Texas Instruments",
+      "AccquisitionDate": "2022-12-16 5:22 AM",
+      "URL": "https://de.jobsyn.org/ABC49F0CCACF419696ED050B05F9FC17206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3C8EC98C0C52455F8BEC976E631D537E206",
+      "JobTitle": "Director, Systems Engineering",
+      "Company": "Otis Elevator Company",
+      "AccquisitionDate": "2023-1-18 4:37 AM",
+      "URL": "https://de.jobsyn.org/3C8EC98C0C52455F8BEC976E631D537E206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BCD4C89CF9DE47BE887732888019105A206",
+      "JobTitle": "Senior Project Manager - Education Construction",
+      "Company": "Turner & Townsend",
+      "AccquisitionDate": "2023-3-14 4:25 AM",
+      "URL": "https://de.jobsyn.org/BCD4C89CF9DE47BE887732888019105A206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0E4C08203964210B5B95C0E03C37020206",
+      "JobTitle": "Project Manager - Education Construction",
+      "Company": "Turner & Townsend",
+      "AccquisitionDate": "2023-3-14 4:25 AM",
+      "URL": "https://de.jobsyn.org/A0E4C08203964210B5B95C0E03C37020206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F1C4671125AC4352882A611BD45F9DB4206",
+      "JobTitle": "Senior Architect - Mission Critical (Dallas)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-11-22 5:41 PM",
+      "URL": "https://de.jobsyn.org/F1C4671125AC4352882A611BD45F9DB4206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "88FE2D888A26469F9AF064BBF997231F206",
+      "JobTitle": "Senior Director Architecture (Experience Enablement)",
+      "Company": "Travelers Insurance Company",
+      "AccquisitionDate": "2022-11-12 3:08 AM",
+      "URL": "https://de.jobsyn.org/88FE2D888A26469F9AF064BBF997231F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F21E8A8553A2486A91E907AFE64F656E206",
+      "JobTitle": "Senior Architect - Commercial Aviation (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2022-10-24 8:45 PM",
+      "URL": "https://de.jobsyn.org/F21E8A8553A2486A91E907AFE64F656E206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "24FBB36FE18E4E08AABC580AB3C46498206",
+      "JobTitle": "Senior Process Architect - Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:43 PM",
+      "URL": "https://de.jobsyn.org/24FBB36FE18E4E08AABC580AB3C46498206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E1EE19DA0EA1440092949C7A918FADA4206",
+      "JobTitle": "Senior Mechanical Engineer",
+      "Company": "Page Southerland Page, Inc.",
+      "AccquisitionDate": "2023-2-25 10:40 PM",
+      "URL": "https://de.jobsyn.org/E1EE19DA0EA1440092949C7A918FADA4206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C6DB5445FF0D46BA9C7362C19DFB2F0F206",
+      "JobTitle": "National Process Architecture Leader \u2013 Life Science & Technology (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-2-3 11:44 PM",
+      "URL": "https://de.jobsyn.org/C6DB5445FF0D46BA9C7362C19DFB2F0F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2E84E06937044AECACF41DCA09DD10FE206",
+      "JobTitle": "Pre-Construction Manager (Central/ Dallas)",
+      "Company": "Salad and Go",
+      "AccquisitionDate": "2023-3-9 11:57 PM",
+      "URL": "https://de.jobsyn.org/2E84E06937044AECACF41DCA09DD10FE206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1AF41065AD2844DF9CF40DFE8F2F988A206",
+      "JobTitle": "Engineering Operations Manager",
+      "Company": "McKinstry",
+      "AccquisitionDate": "2023-3-6 10:14 PM",
+      "URL": "https://de.jobsyn.org/1AF41065AD2844DF9CF40DFE8F2F988A206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "06C4210F63244162B2871CEA4DA3FF07206",
+      "JobTitle": "Mechanical Engineer, PE",
+      "Company": "Triple C - The A&E Group",
+      "AccquisitionDate": "2021-5-25 6:26 PM",
+      "URL": "https://de.jobsyn.org/06C4210F63244162B2871CEA4DA3FF07206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "25DB2BF4547C442CAA2A950EF17CECB8206",
+      "JobTitle": "Senior Mechanical Engineer - Federal HVAC/Plumbing - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:08 AM",
+      "URL": "https://de.jobsyn.org/25DB2BF4547C442CAA2A950EF17CECB8206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D0AAA05DFC6A49AFA5CE0CA23D9EBC55206",
+      "JobTitle": "Construction Project Manager",
+      "Company": "Topgolf",
+      "AccquisitionDate": "2023-2-23 12:23 AM",
+      "URL": "https://de.jobsyn.org/D0AAA05DFC6A49AFA5CE0CA23D9EBC55206",
+      "Location": "Dallas Office, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CA6E1E2EF6E34C2790A929407E7DBBAD206",
+      "JobTitle": "Transportation Engineer Project Manager",
+      "Company": "Huitt-Zollars, Inc.",
+      "AccquisitionDate": "2023-2-12 5:36 AM",
+      "URL": "https://de.jobsyn.org/CA6E1E2EF6E34C2790A929407E7DBBAD206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "02020E04530C472ABA4C86BACCA5EDA5206",
+      "JobTitle": "Freight Rail Engineering Project Manager - Transportation (Multiple Locations)",
+      "Company": "Burns & McDonnell",
+      "AccquisitionDate": "2023-1-24 1:49 PM",
+      "URL": "https://de.jobsyn.org/02020E04530C472ABA4C86BACCA5EDA5206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "80150549314C4FD4B6D8CB5A824793A7206",
+      "JobTitle": "Director of Project Management",
+      "Company": "Cumming",
+      "AccquisitionDate": "2023-3-9 12:42 AM",
+      "URL": "https://de.jobsyn.org/80150549314C4FD4B6D8CB5A824793A7206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "B68EE263546B4C3BA4E15EC98F05F20C206",
+      "JobTitle": "Transmission Line Engineering Manager 5 - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-4 5:41 AM",
+      "URL": "https://de.jobsyn.org/B68EE263546B4C3BA4E15EC98F05F20C206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "6DA5B210B9504C23A9AED5F233CB8BB9206",
+      "JobTitle": "BioMed Tech I",
+      "Company": "Prime Healthcare",
+      "AccquisitionDate": "2023-1-28 7:22 AM",
+      "URL": "https://de.jobsyn.org/6DA5B210B9504C23A9AED5F233CB8BB9206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1E55509EE2EB48A991F0F3E7D83F81F6206",
+      "JobTitle": "Senior React Engineer",
+      "Company": "Motion Recruitment Partners",
+      "AccquisitionDate": "2022-12-6 3:47 AM",
+      "URL": "https://de.jobsyn.org/1E55509EE2EB48A991F0F3E7D83F81F6206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "0DD42D8051204D5E809A43E2EB94C42F206",
+      "JobTitle": "Facilities Chemical/Gas Engineer",
+      "Company": "Texas Instruments",
+      "AccquisitionDate": "2021-11-9 6:48 AM",
+      "URL": "https://de.jobsyn.org/0DD42D8051204D5E809A43E2EB94C42F206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B1B20FB086434492B3288EA395983E74206",
+      "JobTitle": "Chemical and Gas Project Engineer",
+      "Company": "Texas Instruments",
+      "AccquisitionDate": "2022-12-16 5:22 AM",
+      "URL": "https://de.jobsyn.org/B1B20FB086434492B3288EA395983E74206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8850AD21D026499C8A71440172D86269206",
+      "JobTitle": "Chemical Engineer 7 (Hydrogen Process Engineer)",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-1 2:53 AM",
+      "URL": "https://de.jobsyn.org/8850AD21D026499C8A71440172D86269206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9BAD7F70724A41BBA331AD1176918B11206",
+      "JobTitle": "Global Engineering Chemical and Gas Design Engineer",
+      "Company": "Texas Instruments",
+      "AccquisitionDate": "2023-1-28 5:21 AM",
+      "URL": "https://de.jobsyn.org/9BAD7F70724A41BBA331AD1176918B11206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B721492FECFC462083E42C385BDBC674206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:46 AM",
+      "URL": "https://de.jobsyn.org/B721492FECFC462083E42C385BDBC674206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4CDA1CBCC3C14F10917C72080017D10E206",
+      "JobTitle": "Electrical Engineer 3 - Oil, Gas & Chemical (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-11 4:07 AM",
+      "URL": "https://de.jobsyn.org/4CDA1CBCC3C14F10917C72080017D10E206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "183825177DB341709DA31F9635FDDDD7206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals-OKC",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/183825177DB341709DA31F9635FDDDD7206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B865E4A639B34DF2A6F37E46CE179399206",
+      "JobTitle": "Process Engineer 6 - Fertilizer - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:33 AM",
+      "URL": "https://de.jobsyn.org/B865E4A639B34DF2A6F37E46CE179399206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3DC4EE508B134D72B8F43E1FD7A14D78206",
+      "JobTitle": "Process Engineer 6 - Fertilizer - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:33 AM",
+      "URL": "https://de.jobsyn.org/3DC4EE508B134D72B8F43E1FD7A14D78206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E4AB0DEED26748FC96C0D07217503018206",
+      "JobTitle": "Lead Process Engineer - Decarbonization - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:33 AM",
+      "URL": "https://de.jobsyn.org/E4AB0DEED26748FC96C0D07217503018206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "91654635F82F448B9A02C4A619F8CA84206",
+      "JobTitle": "Lead Process Engineer - Decarbonization - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:33 AM",
+      "URL": "https://de.jobsyn.org/91654635F82F448B9A02C4A619F8CA84206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "209757C4D78A4D6D8ED8B69E434FE287206",
+      "JobTitle": "Senior Electrical Engineer - Oil, Gas & Chemical (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-10 2:46 AM",
+      "URL": "https://de.jobsyn.org/209757C4D78A4D6D8ED8B69E434FE287206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B864D4BAA9C246CEA2D813D3EE371597206",
+      "JobTitle": "Electrical Engineer 3 - Oil, Gas & Chemical - Houston, TX (Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-17 2:29 AM",
+      "URL": "https://de.jobsyn.org/B864D4BAA9C246CEA2D813D3EE371597206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3587CCC45D6A41179A9497EB4F0EF395206",
+      "JobTitle": "Crude Systems Engineer",
+      "Company": "EnLink Midstream",
+      "AccquisitionDate": "2023-3-9 10:13 PM",
+      "URL": "https://de.jobsyn.org/3587CCC45D6A41179A9497EB4F0EF395206",
+      "Location": "Dallas, TX",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DBCC2C8246104E98A2C823585218559B206",
+      "JobTitle": "Process Engineer 4-Decarbonization",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:40 AM",
+      "URL": "https://de.jobsyn.org/DBCC2C8246104E98A2C823585218559B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "888AEADE1D7646989ADE1D6E02A7A06D206",
+      "JobTitle": "Process Mechanical Engineer  --  Munitions Program",
+      "Company": "APTIM",
+      "AccquisitionDate": "2022-10-5 3:18 AM",
+      "URL": "https://de.jobsyn.org/888AEADE1D7646989ADE1D6E02A7A06D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "72C447FA087041DAA506DB014F8904AD206",
+      "JobTitle": "Bioprocess Innovations Engineer",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/72C447FA087041DAA506DB014F8904AD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "07B44339DF0D4579B876618FCAD1A8A0206",
+      "JobTitle": "Process Engineer 4-Fertilizer",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:40 AM",
+      "URL": "https://de.jobsyn.org/07B44339DF0D4579B876618FCAD1A8A0206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DDBF8CFE938842A1B64D567EE62336BC206",
+      "JobTitle": "Process Engineer 4-Hydrogen",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:44 AM",
+      "URL": "https://de.jobsyn.org/DDBF8CFE938842A1B64D567EE62336BC206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "73B276C9EB53415C9A2A21AC6C8629D9206",
+      "JobTitle": "Process Engineer 4-LNG",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:44 AM",
+      "URL": "https://de.jobsyn.org/73B276C9EB53415C9A2A21AC6C8629D9206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "64036D2E356A454BB0B1104DED2B9D8B206",
+      "JobTitle": "Process Engineer 2, Oil & Gas",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:33 AM",
+      "URL": "https://de.jobsyn.org/64036D2E356A454BB0B1104DED2B9D8B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7DCCE4EC0F0F43318DBDD37A2834C64B206",
+      "JobTitle": "Process Engineer - Organics Management",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/7DCCE4EC0F0F43318DBDD37A2834C64B206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2930620D63BA49F2B8F568BB8ED4625C206",
+      "JobTitle": "Process Engineer 4-Biofuels & Gasification",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:40 AM",
+      "URL": "https://de.jobsyn.org/2930620D63BA49F2B8F568BB8ED4625C206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "64EEEFE9FBA44C1D8505E97CCCF0FFBD206",
+      "JobTitle": "Module Process Engineer V - (E5)",
+      "Company": "Applied Materials",
+      "AccquisitionDate": "2023-3-10 5:13 AM",
+      "URL": "https://de.jobsyn.org/64EEEFE9FBA44C1D8505E97CCCF0FFBD206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DD8E8AD7E1D044B797866CCB0BACC26D206",
+      "JobTitle": "Process Engineer",
+      "Company": "APTIM",
+      "AccquisitionDate": "2023-1-19 3:24 AM",
+      "URL": "https://de.jobsyn.org/DD8E8AD7E1D044B797866CCB0BACC26D206",
+      "Location": "Dallas, TX",
+      "Fc": "True"
+    }
+  ]
+]

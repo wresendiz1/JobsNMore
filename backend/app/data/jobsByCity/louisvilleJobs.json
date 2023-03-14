@@ -1,0 +1,2863 @@
+[
+  [
+    {
+      "JvId": "E486184249BE4A0DAE42B6A4CD89454C206",
+      "JobTitle": "Accounts Payable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/E486184249BE4A0DAE42B6A4CD89454C206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "173305581FE44BCF86BD2F056568C294206",
+      "JobTitle": "Night Auditor",
+      "Company": "Hersha Hospitality Management LP",
+      "AccquisitionDate": "2022-2-5 11:18 PM",
+      "URL": "https://de.jobsyn.org/173305581FE44BCF86BD2F056568C294206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6533B34929554F4584F91E63FFC114F1206",
+      "JobTitle": "Night Auditor",
+      "Company": "Hersha Hospitality Management LP",
+      "AccquisitionDate": "2023-1-21 11:01 PM",
+      "URL": "https://de.jobsyn.org/6533B34929554F4584F91E63FFC114F1206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "532AA8A9DFB7420C930AFAC44E62CB27206",
+      "JobTitle": "Bookkeeper",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:12 AM",
+      "URL": "https://de.jobsyn.org/532AA8A9DFB7420C930AFAC44E62CB27206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6E857E31329E446E90E4898C376881FA206",
+      "JobTitle": "957002 - Franchise - Bookkeeper - Internal",
+      "Company": "H&R Block",
+      "AccquisitionDate": "2022-10-11 7:14 AM",
+      "URL": "https://de.jobsyn.org/6E857E31329E446E90E4898C376881FA206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "64093DAABE7B47EE8DF5D4FC4527DE4E206",
+      "JobTitle": "accounts receivable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-14 5:29 AM",
+      "URL": "https://de.jobsyn.org/64093DAABE7B47EE8DF5D4FC4527DE4E206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D7FB78DB08E341C1859BE3C7EA039BCF206",
+      "JobTitle": "Bookkeeper Louisville, KY.",
+      "Company": "Solar Energy Solutions",
+      "AccquisitionDate": "2023-3-14 1:41 AM",
+      "URL": "https://de.jobsyn.org/D7FB78DB08E341C1859BE3C7EA039BCF206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F18C57DAD1884C47B29734968C1BD345206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/F18C57DAD1884C47B29734968C1BD345206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9A4D3B0896ED4371A8EBF218E3205F5B206",
+      "JobTitle": "accounts receivable",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-11 5:32 AM",
+      "URL": "https://de.jobsyn.org/9A4D3B0896ED4371A8EBF218E3205F5B206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4469F4CB4A194E1694740522AD6F4911206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:33 PM",
+      "URL": "https://de.jobsyn.org/4469F4CB4A194E1694740522AD6F4911206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AC2E18D36E9F45DEBFB53B15CBEDD889206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:33 PM",
+      "URL": "https://de.jobsyn.org/AC2E18D36E9F45DEBFB53B15CBEDD889206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F7B016C2C42F43DFA9E87A71CAA0EEA6206",
+      "JobTitle": "Staff Accountant, Treasury",
+      "Company": "Atria Senior Living",
+      "AccquisitionDate": "2023-3-10 7:17 AM",
+      "URL": "https://de.jobsyn.org/F7B016C2C42F43DFA9E87A71CAA0EEA6206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F8E147340D2C4668A7374BD01C58D6B9206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:32 PM",
+      "URL": "https://de.jobsyn.org/F8E147340D2C4668A7374BD01C58D6B9206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "94FCA79F98C54296899B0DD08827F46B206",
+      "JobTitle": "billing specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-10 5:31 AM",
+      "URL": "https://de.jobsyn.org/94FCA79F98C54296899B0DD08827F46B206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8E5418DDDD7C425D8DB29D6529278DB5206",
+      "JobTitle": "Payroll Coordinator",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-10 2:26 AM",
+      "URL": "https://de.jobsyn.org/8E5418DDDD7C425D8DB29D6529278DB5206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D1CF9A867F694BD7974CD3B373AE6515206",
+      "JobTitle": "Billing Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-10 12:09 AM",
+      "URL": "https://de.jobsyn.org/D1CF9A867F694BD7974CD3B373AE6515206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C0EF04D039854ED38F854EDF8F9B187C206",
+      "JobTitle": "Optum Accounting Intern - Multiple Locations",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-9 4:15 AM",
+      "URL": "https://de.jobsyn.org/C0EF04D039854ED38F854EDF8F9B187C206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EF3B284516C048948EEA5CDC599D9027206",
+      "JobTitle": "Accounting Clerk",
+      "Company": "Fred Martin Superstore",
+      "AccquisitionDate": "2023-3-8 10:47 PM",
+      "URL": "https://de.jobsyn.org/EF3B284516C048948EEA5CDC599D9027206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4AF1B8C9FEF04627BB4FD791D76C8AE7206",
+      "JobTitle": "Accountant - Louisville, KY Hybrid",
+      "Company": "UnitedHealth Group",
+      "AccquisitionDate": "2023-3-8 2:37 PM",
+      "URL": "https://de.jobsyn.org/4AF1B8C9FEF04627BB4FD791D76C8AE7206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0FB53C4E0E6149A9A123E8FC35EC2FD3206",
+      "JobTitle": "Medical Accounts Receivable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-9 2:55 AM",
+      "URL": "https://de.jobsyn.org/0FB53C4E0E6149A9A123E8FC35EC2FD3206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "580B2845141A45A189983EEFE9D556B3206",
+      "JobTitle": "SENIOR PAYROLL ACCOUNTANT",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2023-3-8 1:43 AM",
+      "URL": "https://de.jobsyn.org/580B2845141A45A189983EEFE9D556B3206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8C855A6B74BD4B0B82E380BF9DA883FC206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-7 5:20 AM",
+      "URL": "https://de.jobsyn.org/8C855A6B74BD4B0B82E380BF9DA883FC206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "39EDDDFCD55143F3A9A9F5AE29694485206",
+      "JobTitle": "Billing Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:27 AM",
+      "URL": "https://de.jobsyn.org/39EDDDFCD55143F3A9A9F5AE29694485206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6D1FB109EAE04EFAA8C19D62D224E701206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:27 AM",
+      "URL": "https://de.jobsyn.org/6D1FB109EAE04EFAA8C19D62D224E701206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A81E8FBBCDDB410B916EEEA9D22BCB0C206",
+      "JobTitle": "Controller",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:15 AM",
+      "URL": "https://de.jobsyn.org/A81E8FBBCDDB410B916EEEA9D22BCB0C206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "DBA21572569B4D80800C82A70216FDB1206",
+      "JobTitle": "Midrange Console Operator",
+      "Company": "UPS",
+      "AccquisitionDate": "2023-3-9 3:37 AM",
+      "URL": "https://de.jobsyn.org/DBA21572569B4D80800C82A70216FDB1206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AB0D0D4F59594DE1B0EF4F987B0AEADA206",
+      "JobTitle": "IT Operation Technicians",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-3 5:20 AM",
+      "URL": "https://de.jobsyn.org/AB0D0D4F59594DE1B0EF4F987B0AEADA206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "F1933CFC90AA47FC8FE42B145CC2E35F206",
+      "JobTitle": "Remote Customer Service Representative",
+      "Company": "Adecco US, Inc.",
+      "AccquisitionDate": "2023-3-10 3:14 AM",
+      "URL": "https://de.jobsyn.org/F1933CFC90AA47FC8FE42B145CC2E35F206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "59F95069F0F7445EBBAD7D92C2A8FBC3206",
+      "JobTitle": "Remote Customer Service Representative",
+      "Company": "Adecco US, Inc.",
+      "AccquisitionDate": "2023-3-10 3:14 AM",
+      "URL": "https://de.jobsyn.org/59F95069F0F7445EBBAD7D92C2A8FBC3206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CB39A897F43B454FBAAF668CF9DE107E206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/CB39A897F43B454FBAAF668CF9DE107E206",
+      "Location": "Louisville, MS",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FC091A1E7F584DEB9638FD9A614A5C49206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/FC091A1E7F584DEB9638FD9A614A5C49206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "228123DFD000464D968914661DC6C67B206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/228123DFD000464D968914661DC6C67B206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8EFBF032F4A84A0797EB8B6D1221FB69206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/8EFBF032F4A84A0797EB8B6D1221FB69206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C487F4B69E444C6CA434EAA9A286ACCB206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/C487F4B69E444C6CA434EAA9A286ACCB206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C8A706932B2F49D187368704F2509647206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/C8A706932B2F49D187368704F2509647206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BC08A57360C942BA876A9265FC6E36B1206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/BC08A57360C942BA876A9265FC6E36B1206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4FB94D1598C2497295B2F51D2A05110D206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/4FB94D1598C2497295B2F51D2A05110D206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "78FDB0EC507D4DF7A00510AE8C5CC9BE206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/78FDB0EC507D4DF7A00510AE8C5CC9BE206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "55EB14E70CF040DD84BBEF1CB33F218D206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/55EB14E70CF040DD84BBEF1CB33F218D206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "388EDC40CF7A4DB9B034D96F992570BD206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/388EDC40CF7A4DB9B034D96F992570BD206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "02702C7CBA0A41B5BD1FBA3E79A7B5DE206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/02702C7CBA0A41B5BD1FBA3E79A7B5DE206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "04F3B9EBAEF0426183ED454E1E454476206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/04F3B9EBAEF0426183ED454E1E454476206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "136122B1529549F0BD12801047B40849206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/136122B1529549F0BD12801047B40849206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CD00586E6DBD47C39CE7C4E1F4EC9B33206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/CD00586E6DBD47C39CE7C4E1F4EC9B33206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CD49F3E6BC2545B2AC1F113412B3029F206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/CD49F3E6BC2545B2AC1F113412B3029F206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F9949D09CE3246AF9B3871CBDB8A9D9B206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/F9949D09CE3246AF9B3871CBDB8A9D9B206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3408E945924E440A8DAFB4BE9E6F935C206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/3408E945924E440A8DAFB4BE9E6F935C206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6E9032643D08433DA44650CDF14CA31C206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:23 PM",
+      "URL": "https://de.jobsyn.org/6E9032643D08433DA44650CDF14CA31C206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D81ECFED2E2945C3BF9115FD7024EE9E206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/D81ECFED2E2945C3BF9115FD7024EE9E206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "990B4397BA854A4B93734FE628EDB284206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:24 PM",
+      "URL": "https://de.jobsyn.org/990B4397BA854A4B93734FE628EDB284206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "067F5E63A94046458052C93ECBA7157E206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:22 PM",
+      "URL": "https://de.jobsyn.org/067F5E63A94046458052C93ECBA7157E206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EEB1B176E7DE4DB6AD45801DF7E52D4B206",
+      "JobTitle": "CUSTOMER SERVICE REPRESENTATIVE",
+      "Company": "Family Dollar",
+      "AccquisitionDate": "2021-11-19 8:25 PM",
+      "URL": "https://de.jobsyn.org/EEB1B176E7DE4DB6AD45801DF7E52D4B206",
+      "Location": "Louisville, GA",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "08B9EA6D91A24377970EF867D1C508C2206",
+      "JobTitle": "data entry",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-4 7:39 AM",
+      "URL": "https://de.jobsyn.org/08B9EA6D91A24377970EF867D1C508C2206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C32813A9AE684544BCAC5F6A37EF5CAA206",
+      "JobTitle": "data entry",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-1 7:40 AM",
+      "URL": "https://de.jobsyn.org/C32813A9AE684544BCAC5F6A37EF5CAA206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1B4863729FE0446DB15E2F0D3A17101A206",
+      "JobTitle": "data entry",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-16 7:28 AM",
+      "URL": "https://de.jobsyn.org/1B4863729FE0446DB15E2F0D3A17101A206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0A817A1765A84EDCA4DAC67DD31AAD3A206",
+      "JobTitle": "Mobile Van Hiring Event for Data Entry Specialists",
+      "Company": "Adecco US, Inc.",
+      "AccquisitionDate": "2023-3-14 3:35 AM",
+      "URL": "https://de.jobsyn.org/0A817A1765A84EDCA4DAC67DD31AAD3A206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "00964372E1934856AB8BB5B3D8B186EE206",
+      "JobTitle": "Data Entry Associate",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-9 2:55 AM",
+      "URL": "https://de.jobsyn.org/00964372E1934856AB8BB5B3D8B186EE206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "90477F8AA5E5485686DB7F132DE024A4206",
+      "JobTitle": "Data Entry",
+      "Company": "Kelly Services",
+      "AccquisitionDate": "2023-3-3 2:24 AM",
+      "URL": "https://de.jobsyn.org/90477F8AA5E5485686DB7F132DE024A4206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2D7C953EDF9149CD9E32ADED5D8C1EA0206",
+      "JobTitle": "Data Entry & Document Prep Clerk",
+      "Company": "Adecco US, Inc.",
+      "AccquisitionDate": "2023-3-1 2:47 AM",
+      "URL": "https://de.jobsyn.org/2D7C953EDF9149CD9E32ADED5D8C1EA0206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "F439D21F6D574D6D837D25B7CAFE3F71206",
+      "JobTitle": "Internal Audit Internship",
+      "Company": "Brown-Forman",
+      "AccquisitionDate": "2023-1-13 10:20 PM",
+      "URL": "https://de.jobsyn.org/F439D21F6D574D6D837D25B7CAFE3F71206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1194A365788A48CA939DE67C61A30B13206",
+      "JobTitle": "Internal Audit Internship",
+      "Company": "Brown-Forman",
+      "AccquisitionDate": "2023-1-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/1194A365788A48CA939DE67C61A30B13206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "320E0931CC2A48C8853D2AB138B0D652206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2025",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-2 3:59 AM",
+      "URL": "https://de.jobsyn.org/320E0931CC2A48C8853D2AB138B0D652206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E4B4DE765E324CEDB6E5B6815F66A2EF206",
+      "JobTitle": "Internal Auditor - Operations",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-2-1 4:21 AM",
+      "URL": "https://de.jobsyn.org/E4B4DE765E324CEDB6E5B6815F66A2EF206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "19C0850F298C434D96D480C9FC4BB0B7206",
+      "JobTitle": "Audit & Assurance Staff Intern - Winter 2024",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 4:16 AM",
+      "URL": "https://de.jobsyn.org/19C0850F298C434D96D480C9FC4BB0B7206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE84B784891E47089EFC3721324163F2206",
+      "JobTitle": "Audit & Assurance Staff Intern - Summer 2023",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-23 2:09 AM",
+      "URL": "https://de.jobsyn.org/CE84B784891E47089EFC3721324163F2206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8C66D6EADC454512AEC8835CBC24A6EE206",
+      "JobTitle": "Sales, Use and Property Tax Consultant",
+      "Company": "Resources Global Professionals (RGP)",
+      "AccquisitionDate": "2022-10-6 4:24 AM",
+      "URL": "https://de.jobsyn.org/8C66D6EADC454512AEC8835CBC24A6EE206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7185A6789BA34AED9978C545D01EFEE3206",
+      "JobTitle": "Director, Accounting - R05630-4121",
+      "Company": "Invenergy LLC",
+      "AccquisitionDate": "2023-3-3 8:39 AM",
+      "URL": "https://de.jobsyn.org/7185A6789BA34AED9978C545D01EFEE3206",
+      "Location": "Louisville, IL",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F7B016C2C42F43DFA9E87A71CAA0EEA6206",
+      "JobTitle": "Staff Accountant, Treasury",
+      "Company": "Atria Senior Living",
+      "AccquisitionDate": "2023-3-10 7:17 AM",
+      "URL": "https://de.jobsyn.org/F7B016C2C42F43DFA9E87A71CAA0EEA6206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F18C57DAD1884C47B29734968C1BD345206",
+      "JobTitle": "Staff Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:10 AM",
+      "URL": "https://de.jobsyn.org/F18C57DAD1884C47B29734968C1BD345206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6B32AB16C80E4EF0803922335E53BF8B206",
+      "JobTitle": "Auditor",
+      "Company": "Agricultural Marketing Service",
+      "AccquisitionDate": "2023-3-13 10:27 PM",
+      "URL": "https://de.jobsyn.org/6B32AB16C80E4EF0803922335E53BF8B206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "27E6C990D3D34507AABA6A7EC147CD43206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:28 AM",
+      "URL": "https://de.jobsyn.org/27E6C990D3D34507AABA6A7EC147CD43206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D12354E8C2D847469A799EDB71CBC82E206",
+      "JobTitle": "Staff/Senior Auditor - Audit Innovation (Hybrid Louisville, KY or Allentown, PA)",
+      "Company": "PPL Corporation",
+      "AccquisitionDate": "2023-3-2 3:54 AM",
+      "URL": "https://de.jobsyn.org/D12354E8C2D847469A799EDB71CBC82E206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "308ACF29387D45CA8B7900C72A1EC5E2206",
+      "JobTitle": "Senior IT Auditor",
+      "Company": "Papa John's International",
+      "AccquisitionDate": "2023-2-23 4:42 AM",
+      "URL": "https://de.jobsyn.org/308ACF29387D45CA8B7900C72A1EC5E2206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0FDEF48F94CB4A49A38F962C38974838206",
+      "JobTitle": "STAFF ACCOUNTANT - ACQUISITIONS",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2023-2-21 6:40 AM",
+      "URL": "https://de.jobsyn.org/0FDEF48F94CB4A49A38F962C38974838206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7E4C0F54C5954438831CD48B57DB4222206",
+      "JobTitle": "accounts payable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-18 7:53 AM",
+      "URL": "https://de.jobsyn.org/7E4C0F54C5954438831CD48B57DB4222206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8472F961CF424EB5B0836451473DFC82206",
+      "JobTitle": "STAFF ACCOUNTANT- REVENUE ACCOUNTING",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2022-11-12 6:43 AM",
+      "URL": "https://de.jobsyn.org/8472F961CF424EB5B0836451473DFC82206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C829BCC6D8294FB5A7DB32284616ED5F206",
+      "JobTitle": "STAFF ACCOUNTANT",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2022-12-23 10:40 AM",
+      "URL": "https://de.jobsyn.org/C829BCC6D8294FB5A7DB32284616ED5F206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CEC2FFBCD33C465788D12B1AFDFE3844206",
+      "JobTitle": "STAFF ACCOUNTANT",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2022-7-6 8:57 AM",
+      "URL": "https://de.jobsyn.org/CEC2FFBCD33C465788D12B1AFDFE3844206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "FD845CF017C54D248BFBF23B8550FDFA206",
+      "JobTitle": "Sr. Accountant",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-1-7 12:11 AM",
+      "URL": "https://de.jobsyn.org/FD845CF017C54D248BFBF23B8550FDFA206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6EAF2447498E483988E40E3A62003D0B206",
+      "JobTitle": "US Fraud Specialist Team - Manager",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-7-1 6:43 AM",
+      "URL": "https://de.jobsyn.org/6EAF2447498E483988E40E3A62003D0B206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "164A43C386E948618928F1C1C28072C0206",
+      "JobTitle": "Accounting & Reporting Advisory - Manager, SOX",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-6-7 9:12 AM",
+      "URL": "https://de.jobsyn.org/164A43C386E948618928F1C1C28072C0206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D8E64A06881F4A38A2AD68CB27606692206",
+      "JobTitle": "Manager of Revenue Recognition",
+      "Company": "Renaissance",
+      "AccquisitionDate": "2023-2-10 5:18 AM",
+      "URL": "https://de.jobsyn.org/D8E64A06881F4A38A2AD68CB27606692206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "64ED62FA1901429A8DB48275D2CD8E35206",
+      "JobTitle": "TREASURY ANALYST",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2023-3-3 12:28 AM",
+      "URL": "https://de.jobsyn.org/64ED62FA1901429A8DB48275D2CD8E35206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C436943FBB474895884FEFE3209EDF80206",
+      "JobTitle": "Accountant \u2013 Financial Reporting",
+      "Company": "Trilogy Health Services",
+      "AccquisitionDate": "2022-11-19 9:42 AM",
+      "URL": "https://de.jobsyn.org/C436943FBB474895884FEFE3209EDF80206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "64093DAABE7B47EE8DF5D4FC4527DE4E206",
+      "JobTitle": "accounts receivable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-14 5:29 AM",
+      "URL": "https://de.jobsyn.org/64093DAABE7B47EE8DF5D4FC4527DE4E206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9A4D3B0896ED4371A8EBF218E3205F5B206",
+      "JobTitle": "accounts receivable",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-11 5:32 AM",
+      "URL": "https://de.jobsyn.org/9A4D3B0896ED4371A8EBF218E3205F5B206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ED24D9C1708A4EF2B1F3498BB02FFB47206",
+      "JobTitle": "GBS Billing Inquiry Associate",
+      "Company": "UPS",
+      "AccquisitionDate": "2023-3-10 5:19 AM",
+      "URL": "https://de.jobsyn.org/ED24D9C1708A4EF2B1F3498BB02FFB47206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4469F4CB4A194E1694740522AD6F4911206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:33 PM",
+      "URL": "https://de.jobsyn.org/4469F4CB4A194E1694740522AD6F4911206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AC2E18D36E9F45DEBFB53B15CBEDD889206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:33 PM",
+      "URL": "https://de.jobsyn.org/AC2E18D36E9F45DEBFB53B15CBEDD889206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F8E147340D2C4668A7374BD01C58D6B9206",
+      "JobTitle": "Accounts Receivable Representative",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:32 PM",
+      "URL": "https://de.jobsyn.org/F8E147340D2C4668A7374BD01C58D6B9206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "94FCA79F98C54296899B0DD08827F46B206",
+      "JobTitle": "billing specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-10 5:31 AM",
+      "URL": "https://de.jobsyn.org/94FCA79F98C54296899B0DD08827F46B206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0FB53C4E0E6149A9A123E8FC35EC2FD3206",
+      "JobTitle": "Medical Accounts Receivable Specialist",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-9 2:55 AM",
+      "URL": "https://de.jobsyn.org/0FB53C4E0E6149A9A123E8FC35EC2FD3206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2E020429472D4CD18E6CF83022B57C84206",
+      "JobTitle": "AR Specialist/Medical Claims Biller",
+      "Company": "Aston Carter",
+      "AccquisitionDate": "2023-3-9 2:55 AM",
+      "URL": "https://de.jobsyn.org/2E020429472D4CD18E6CF83022B57C84206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6D1FB109EAE04EFAA8C19D62D224E701206",
+      "JobTitle": "Accounts Payable Specialist",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-8 12:27 AM",
+      "URL": "https://de.jobsyn.org/6D1FB109EAE04EFAA8C19D62D224E701206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1C81743C8A8F422EB0267E1FC6AE9834206",
+      "JobTitle": "AR CLERK",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-7 12:28 AM",
+      "URL": "https://de.jobsyn.org/1C81743C8A8F422EB0267E1FC6AE9834206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9F8BBAF58E964CCFB7B9D02B252437BD206",
+      "JobTitle": "GBS Collection Associate",
+      "Company": "UPS",
+      "AccquisitionDate": "2023-3-2 3:42 AM",
+      "URL": "https://de.jobsyn.org/9F8BBAF58E964CCFB7B9D02B252437BD206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "21CB8B29B5D04148BB8787CF7B08673F206",
+      "JobTitle": "Accounts Receivable Clerk",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-2-25 12:41 AM",
+      "URL": "https://de.jobsyn.org/21CB8B29B5D04148BB8787CF7B08673F206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ADF3B167F43B44A5B91E7DBC6A380FA9206",
+      "JobTitle": "Accounts Receivable Relationship Manager (Hybrid)",
+      "Company": "Seek Now",
+      "AccquisitionDate": "2023-2-25 1:09 AM",
+      "URL": "https://de.jobsyn.org/ADF3B167F43B44A5B91E7DBC6A380FA9206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A1499E66E9EC406BA61A06BB2C26D3EC206",
+      "JobTitle": "Senior Billing Clerk",
+      "Company": "Papa John's International",
+      "AccquisitionDate": "2023-2-24 3:01 AM",
+      "URL": "https://de.jobsyn.org/A1499E66E9EC406BA61A06BB2C26D3EC206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7E4C0F54C5954438831CD48B57DB4222206",
+      "JobTitle": "accounts payable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-18 7:53 AM",
+      "URL": "https://de.jobsyn.org/7E4C0F54C5954438831CD48B57DB4222206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "85CADDF6B3B84BA481609572359C1629206",
+      "JobTitle": "CO-PAY RECOVERY UNIT ASSOCIATE",
+      "Company": "BrightSpring Health Services",
+      "AccquisitionDate": "2023-2-13 11:33 PM",
+      "URL": "https://de.jobsyn.org/85CADDF6B3B84BA481609572359C1629206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1411C86AA7E0418F91FD262CCEDCB4CE206",
+      "JobTitle": "accounts payable specialist",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-2-11 7:17 AM",
+      "URL": "https://de.jobsyn.org/1411C86AA7E0418F91FD262CCEDCB4CE206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "59BAACBE5914461E9E2C9811A667108A206",
+      "JobTitle": "Senior Accounting Clerk - A/R Collections",
+      "Company": "Papa John's International",
+      "AccquisitionDate": "2023-2-2 5:13 AM",
+      "URL": "https://de.jobsyn.org/59BAACBE5914461E9E2C9811A667108A206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B147479009344D12BF4D54834A860B3E206",
+      "JobTitle": "Managed Care Collection Specialist",
+      "Company": "Trilogy Health Services",
+      "AccquisitionDate": "2022-12-12 10:15 PM",
+      "URL": "https://de.jobsyn.org/B147479009344D12BF4D54834A860B3E206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "88C06AD6FC2C47EC8E8B544AD1E4ED29206",
+      "JobTitle": "Accounts Payable/Receivable Specialist",
+      "Company": "1-800 Water Damage",
+      "AccquisitionDate": "2022-12-8 4:38 PM",
+      "URL": "https://de.jobsyn.org/88C06AD6FC2C47EC8E8B544AD1E4ED29206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "51226E961CEC44A3A858CE85F965A14B206",
+      "JobTitle": "Accounts Receivable Analyst",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-22 6:12 AM",
+      "URL": "https://de.jobsyn.org/51226E961CEC44A3A858CE85F965A14B206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "857DE2C09DA945F791776A1DB1102CFC206",
+      "JobTitle": "Laboratory Billing Associate (Hybrid Schedule)",
+      "Company": "Trilogy Health Services",
+      "AccquisitionDate": "2022-8-16 7:10 AM",
+      "URL": "https://de.jobsyn.org/857DE2C09DA945F791776A1DB1102CFC206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A072A325790B4D66838365855D797BA3206",
+      "JobTitle": "Collections Specialist",
+      "Company": "Trilogy Health Services",
+      "AccquisitionDate": "2022-5-19 9:16 AM",
+      "URL": "https://de.jobsyn.org/A072A325790B4D66838365855D797BA3206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "7CD057377A7A44E7ABD93D2B3F756683206",
+      "JobTitle": "Accounting/Finance Intern - Credit & Contract Administration",
+      "Company": "PPL Corporation",
+      "AccquisitionDate": "2023-1-31 3:38 AM",
+      "URL": "https://de.jobsyn.org/7CD057377A7A44E7ABD93D2B3F756683206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B012B7F07D2F418181306C808FAEBE7B206",
+      "JobTitle": "Associate Risk Analyst",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:32 PM",
+      "URL": "https://de.jobsyn.org/B012B7F07D2F418181306C808FAEBE7B206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6F5D83EC189C423A889821779F3D0124206",
+      "JobTitle": "Deal Desk Analyst",
+      "Company": "Flexential",
+      "AccquisitionDate": "2023-3-14 5:11 AM",
+      "URL": "https://de.jobsyn.org/6F5D83EC189C423A889821779F3D0124206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CFB38EF7C96742F8BEC467BB6401AA68206",
+      "JobTitle": "Senior Financial Analyst",
+      "Company": "Cornerstone onDemand",
+      "AccquisitionDate": "2023-3-3 2:58 AM",
+      "URL": "https://de.jobsyn.org/CFB38EF7C96742F8BEC467BB6401AA68206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C0F246C58BBE49BBB99CD749FDC32F06206",
+      "JobTitle": "Credit Management Trainee",
+      "Company": "Consolidated Electrical Distributors",
+      "AccquisitionDate": "2023-3-2 3:00 AM",
+      "URL": "https://de.jobsyn.org/C0F246C58BBE49BBB99CD749FDC32F06206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D10616FA62E544ABBF5415F5AE7AD4B6206",
+      "JobTitle": "Subrogation Analyst-1",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-2-28 9:31 AM",
+      "URL": "https://de.jobsyn.org/D10616FA62E544ABBF5415F5AE7AD4B6206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "90C001DB41CC4443A93196D0E8128F67206",
+      "JobTitle": "Underwriter II - Tax Credit",
+      "Company": "PNC",
+      "AccquisitionDate": "2023-1-26 3:40 AM",
+      "URL": "https://de.jobsyn.org/90C001DB41CC4443A93196D0E8128F67206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "65363AC726104CACBD8662A676CB5A88206",
+      "JobTitle": "Subrogation Analyst",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2022-12-28 9:36 AM",
+      "URL": "https://de.jobsyn.org/65363AC726104CACBD8662A676CB5A88206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FBB3FD637247418397EF12B8B4F88B36206",
+      "JobTitle": "Underwriter II - Tax Credit Solutions",
+      "Company": "PNC",
+      "AccquisitionDate": "2022-11-17 2:54 AM",
+      "URL": "https://de.jobsyn.org/FBB3FD637247418397EF12B8B4F88B36206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "918EA13E11D8491BB463F0AC7180A2D2206",
+      "JobTitle": "Intern-Credit",
+      "Company": "Consolidated Electrical Distributors",
+      "AccquisitionDate": "2023-3-2 3:00 AM",
+      "URL": "https://de.jobsyn.org/918EA13E11D8491BB463F0AC7180A2D2206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "2D7C953EDF9149CD9E32ADED5D8C1EA0206",
+      "JobTitle": "Data Entry & Document Prep Clerk",
+      "Company": "Adecco US, Inc.",
+      "AccquisitionDate": "2023-3-1 2:47 AM",
+      "URL": "https://de.jobsyn.org/2D7C953EDF9149CD9E32ADED5D8C1EA0206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BC6659E5EC7C4A359B003BD67A163000206",
+      "JobTitle": "Retail Mortgage Loan Originator",
+      "Company": "Truist",
+      "AccquisitionDate": "2023-1-26 4:36 AM",
+      "URL": "https://de.jobsyn.org/BC6659E5EC7C4A359B003BD67A163000206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0397F5880FDA42B6AFDD85B826A1F46D206",
+      "JobTitle": "Loan Consultant",
+      "Company": "New American Funding",
+      "AccquisitionDate": "2022-9-23 9:16 AM",
+      "URL": "https://de.jobsyn.org/0397F5880FDA42B6AFDD85B826A1F46D206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "2BDF21BE3B814E4A8FBEF61EFC66B50D206",
+      "JobTitle": "Eng Design Tech B - Dist Optns",
+      "Company": "LG&E and KU Energy",
+      "AccquisitionDate": "2023-3-7 1:35 AM",
+      "URL": "https://de.jobsyn.org/2BDF21BE3B814E4A8FBEF61EFC66B50D206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "10DB2EB755654F7CA81330F6C0C151B6206",
+      "JobTitle": "Precision Medicine Consultant - Southeast (GA, SC, West NC, East TN, East KY)",
+      "Company": "Lilly",
+      "AccquisitionDate": "2023-3-14 2:45 AM",
+      "URL": "https://de.jobsyn.org/10DB2EB755654F7CA81330F6C0C151B6206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C5723B54CFB14ACFA96CEAC03DB203DA206",
+      "JobTitle": "Principal Scientist",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-11 4:48 AM",
+      "URL": "https://de.jobsyn.org/C5723B54CFB14ACFA96CEAC03DB203DA206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B92708D40815423290201161D42C3D80206",
+      "JobTitle": "Principal Scientist (non PhD), Compound Management",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2023-3-2 4:53 AM",
+      "URL": "https://de.jobsyn.org/B92708D40815423290201161D42C3D80206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E6BC123F1E824C63877D84E07FA2D327206",
+      "JobTitle": "Senior Director, CMC Pharmaceutics",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2023-2-25 2:38 AM",
+      "URL": "https://de.jobsyn.org/E6BC123F1E824C63877D84E07FA2D327206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B017D8769E534F119C7E1A3BB89DF933206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2023-2-16 2:16 AM",
+      "URL": "https://de.jobsyn.org/B017D8769E534F119C7E1A3BB89DF933206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F2A6D2266A8040DABCCA025162B7C9FD206",
+      "JobTitle": "Clinical Scientist",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-2-16 3:44 AM",
+      "URL": "https://de.jobsyn.org/F2A6D2266A8040DABCCA025162B7C9FD206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "125CD0B29D604CC1B5B81F80F028F165206",
+      "JobTitle": "Sr. or CRA II Cardio/Renal/or Metabolic East/Central US ; IQVIA Biotech",
+      "Company": "IQVIA",
+      "AccquisitionDate": "2023-2-14 2:31 AM",
+      "URL": "https://de.jobsyn.org/125CD0B29D604CC1B5B81F80F028F165206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "855EF520093147B8AB7B1E3CFCF7F8D1206",
+      "JobTitle": "Senior Manager, Clinical Trials",
+      "Company": "Bausch + Lomb",
+      "AccquisitionDate": "2023-2-14 4:23 AM",
+      "URL": "https://de.jobsyn.org/855EF520093147B8AB7B1E3CFCF7F8D1206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A1E8DE93819746258ACE4B1A22244CF7206",
+      "JobTitle": "Scientific Lead/Senior Scientific Lead, Structural Biology, Cryo-EM (with GCPR expertise)",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2023-2-10 4:30 AM",
+      "URL": "https://de.jobsyn.org/A1E8DE93819746258ACE4B1A22244CF7206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "89BCAC4D066A4998B66E0D6134C1F4E1206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology - Morning",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2023-2-1 11:26 PM",
+      "URL": "https://de.jobsyn.org/89BCAC4D066A4998B66E0D6134C1F4E1206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "380869FD6BB5416D91D8E8D772FFB3B0206",
+      "JobTitle": "Senior Scientist",
+      "Company": "Terracon",
+      "AccquisitionDate": "2023-1-23 11:01 PM",
+      "URL": "https://de.jobsyn.org/380869FD6BB5416D91D8E8D772FFB3B0206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AD52BD46E3A74A9DBE71C49FEB1D5E4F206",
+      "JobTitle": "Senior Scientific Lead, Medicinal Chemistry",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2023-1-24 4:13 AM",
+      "URL": "https://de.jobsyn.org/AD52BD46E3A74A9DBE71C49FEB1D5E4F206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2316EAC24A654E72BBC2A3A193001044206",
+      "JobTitle": "Scientific Lead/Senior Principal Scientist, Medicinal Chemistry",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2023-1-24 4:37 AM",
+      "URL": "https://de.jobsyn.org/2316EAC24A654E72BBC2A3A193001044206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3C5ECA53BCEB4EC8A1EADB85EC8A82F7206",
+      "JobTitle": "Director, Scientific Lead, ADME/DMPK",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2023-1-4 6:46 AM",
+      "URL": "https://de.jobsyn.org/3C5ECA53BCEB4EC8A1EADB85EC8A82F7206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7419D8E7D6FB4C2C965EE8122B6AE0ED206",
+      "JobTitle": "Manager, Clinical Pharmacology",
+      "Company": "Bausch Health",
+      "AccquisitionDate": "2022-12-14 10:07 PM",
+      "URL": "https://de.jobsyn.org/7419D8E7D6FB4C2C965EE8122B6AE0ED206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "94AC7B67F94A4016B27FFAB0B673AD76206",
+      "JobTitle": "Physician (Hematology-Oncology)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-12-12 11:47 PM",
+      "URL": "https://de.jobsyn.org/94AC7B67F94A4016B27FFAB0B673AD76206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "81E4272CF80F41C48A2051764D38B9B6206",
+      "JobTitle": "Senior Scientific Lead, Bioassay, Mass Spectroscopist",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2022-11-8 6:54 AM",
+      "URL": "https://de.jobsyn.org/81E4272CF80F41C48A2051764D38B9B6206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1DD4DAD14F194F06A1F7406B6ED65F9A206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology - Morning Shift",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2022-10-21 2:25 PM",
+      "URL": "https://de.jobsyn.org/1DD4DAD14F194F06A1F7406B6ED65F9A206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7AF29DDAECDE45BD8B4ECB76F624B6D9206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology - Morning Shift",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2022-10-21 2:26 PM",
+      "URL": "https://de.jobsyn.org/7AF29DDAECDE45BD8B4ECB76F624B6D9206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0EC79424572E4ECFB979AC125E7B96EF206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology - Morning Shift",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2022-10-21 2:25 PM",
+      "URL": "https://de.jobsyn.org/0EC79424572E4ECFB979AC125E7B96EF206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C7443692A30B4E769436D69AFA8B3573206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology - Morning Shift",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2022-10-21 2:27 PM",
+      "URL": "https://de.jobsyn.org/C7443692A30B4E769436D69AFA8B3573206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D945433215BC495C838C7BFC34F0F43F206",
+      "JobTitle": "Medical Scribe - Oncology - Medical Oncology - Morning Shift",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2022-10-21 2:27 PM",
+      "URL": "https://de.jobsyn.org/D945433215BC495C838C7BFC34F0F43F206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E04FEB7FFE164225B230D06C2192BADD206",
+      "JobTitle": "Senior/Principal Medical Writer - Regulatory CSR/Protocol/IBs  (Remote)",
+      "Company": "IQVIA",
+      "AccquisitionDate": "2022-8-4 2:37 AM",
+      "URL": "https://de.jobsyn.org/E04FEB7FFE164225B230D06C2192BADD206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CE8EF32AA8344516B330C35982EC2532206",
+      "JobTitle": "Lead Specialist/Scientist, Biophysics",
+      "Company": "Loxo@Lilly",
+      "AccquisitionDate": "2022-6-21 1:58 PM",
+      "URL": "https://de.jobsyn.org/CE8EF32AA8344516B330C35982EC2532206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "825EEA4E3C124764A93571034DACE504206",
+      "JobTitle": "Senior Staff Scientist - JUL21-02",
+      "Company": "Human Resources Research Organization",
+      "AccquisitionDate": "2021-8-3 3:53 PM",
+      "URL": "https://de.jobsyn.org/825EEA4E3C124764A93571034DACE504206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "64D6706D4A894396AA492F6030446EAD206",
+      "JobTitle": "Medical Instrument Technician- Ultrasound (Diagnostic and Vascular)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-12-7 1:12 AM",
+      "URL": "https://de.jobsyn.org/64D6706D4A894396AA492F6030446EAD206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A4D59B0F03D14D5AA10C13D025966E1B206",
+      "JobTitle": "Interventional Radiology Tech",
+      "Company": "Centura Health",
+      "AccquisitionDate": "2023-3-11 4:01 AM",
+      "URL": "https://de.jobsyn.org/A4D59B0F03D14D5AA10C13D025966E1B206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B4B7D14C67EA4F55AF5F792F0862DACB206",
+      "JobTitle": "Interventional Radiology Tech",
+      "Company": "Centura Health",
+      "AccquisitionDate": "2023-3-3 1:16 PM",
+      "URL": "https://de.jobsyn.org/B4B7D14C67EA4F55AF5F792F0862DACB206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2F4C33CF89F44518B7FA9DD9143298E4206",
+      "JobTitle": "Diagnostic Radiologic Technologist-Clinical Instructor",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2023-2-25 7:09 AM",
+      "URL": "https://de.jobsyn.org/2F4C33CF89F44518B7FA9DD9143298E4206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "E5ADCD2CD2804FED91C3391D2935A49C206",
+      "JobTitle": "Multi-Modality Tech II",
+      "Company": "Centura Health",
+      "AccquisitionDate": "2023-2-18 7:07 AM",
+      "URL": "https://de.jobsyn.org/E5ADCD2CD2804FED91C3391D2935A49C206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "90DF92B2AD3243C8ABED0B21F772A78E206",
+      "JobTitle": "Medical Scribe - Vascular - Vascular Surgery - Morning",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2023-2-16 10:40 PM",
+      "URL": "https://de.jobsyn.org/90DF92B2AD3243C8ABED0B21F772A78E206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A46D37D9A99E4441BDA876C1E8B4FDF9206",
+      "JobTitle": "Medical Scribe - Vascular - Vascular Surgery",
+      "Company": "ScribeAmerica",
+      "AccquisitionDate": "2023-2-16 8:42 AM",
+      "URL": "https://de.jobsyn.org/A46D37D9A99E4441BDA876C1E8B4FDF9206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "D75B1371E30147F1967238F6CC4E6FDF206",
+      "JobTitle": "Technologist Lead, IRL",
+      "Company": "American Red Cross",
+      "AccquisitionDate": "2023-1-12 12:07 AM",
+      "URL": "https://de.jobsyn.org/D75B1371E30147F1967238F6CC4E6FDF206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "CA028A7738984A8487EF5AED605F233C206",
+      "JobTitle": "Interventional Radiology Tech PRN",
+      "Company": "Centura Health",
+      "AccquisitionDate": "2023-1-8 3:34 AM",
+      "URL": "https://de.jobsyn.org/CA028A7738984A8487EF5AED605F233C206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C1627F199C214531AC3F475C1981681A206",
+      "JobTitle": "Diagnostic Radiologic Technologist (Computed Tomography)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-12-13 11:11 PM",
+      "URL": "https://de.jobsyn.org/C1627F199C214531AC3F475C1981681A206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2CD2277E5E3C4E7EAD743EFFD9DB96BB206",
+      "JobTitle": "Diagnostic Radiologic Technologist (Computed Tomography)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-11-17 1:52 AM",
+      "URL": "https://de.jobsyn.org/2CD2277E5E3C4E7EAD743EFFD9DB96BB206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F5D1F779773941F7B9C6807E51E7F982206",
+      "JobTitle": "Surgical Tech Certified (FT) - Surgecenter of Louisville",
+      "Company": "Surgery Care Affiliates",
+      "AccquisitionDate": "2022-11-12 7:50 AM",
+      "URL": "https://de.jobsyn.org/F5D1F779773941F7B9C6807E51E7F982206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "54B740BEC7214D33AD70D7BC4D380FDC206",
+      "JobTitle": "Medical Technologist II -IRL MT/MLS",
+      "Company": "American Red Cross",
+      "AccquisitionDate": "2021-12-16 6:54 PM",
+      "URL": "https://de.jobsyn.org/54B740BEC7214D33AD70D7BC4D380FDC206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "BE38BE56EB2F4B208CA2281E071F5972206",
+      "JobTitle": "Cytotechnologist - Per Diem",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2023-1-8 3:47 AM",
+      "URL": "https://de.jobsyn.org/BE38BE56EB2F4B208CA2281E071F5972206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5B0FF9AF3D0F40A884A49BCCD4025106206",
+      "JobTitle": "Cytotechnologist - Flexible Schedule",
+      "Company": "Labcorp",
+      "AccquisitionDate": "2022-12-13 2:49 AM",
+      "URL": "https://de.jobsyn.org/5B0FF9AF3D0F40A884A49BCCD4025106206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "64D6706D4A894396AA492F6030446EAD206",
+      "JobTitle": "Medical Instrument Technician- Ultrasound (Diagnostic and Vascular)",
+      "Company": "Veterans Affairs, Veterans Health Administration",
+      "AccquisitionDate": "2022-12-7 1:12 AM",
+      "URL": "https://de.jobsyn.org/64D6706D4A894396AA492F6030446EAD206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "24BEF1D6E75E44679AC409475C87F428206",
+      "JobTitle": "Medical Sonographer",
+      "Company": "Centura Health",
+      "AccquisitionDate": "2023-1-19 6:33 AM",
+      "URL": "https://de.jobsyn.org/24BEF1D6E75E44679AC409475C87F428206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0EDEF69584BB4ECDAFB138263D468469206",
+      "JobTitle": "Medical Sonographer Lead $15,000 Sign On",
+      "Company": "Centura Health",
+      "AccquisitionDate": "2023-1-14 4:40 AM",
+      "URL": "https://de.jobsyn.org/0EDEF69584BB4ECDAFB138263D468469206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "8BA51CAE9DBC48C4B51BCAC4A686BD10206",
+      "JobTitle": "Analyst, Business Intelligence",
+      "Company": "AES",
+      "AccquisitionDate": "2023-2-15 10:50 PM",
+      "URL": "https://de.jobsyn.org/8BA51CAE9DBC48C4B51BCAC4A686BD10206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "64122C8AEA7B423BA37E5432A0CC4E8F206",
+      "JobTitle": "Senior Analyst, Business Intelligence - R02656-4121",
+      "Company": "Invenergy LLC",
+      "AccquisitionDate": "2023-3-8 8:41 AM",
+      "URL": "https://de.jobsyn.org/64122C8AEA7B423BA37E5432A0CC4E8F206",
+      "Location": "Louisville, IL",
+      "Fc": "False"
+    },
+    {
+      "JvId": "57CA0F16F3194406BA776B0DD81B9F75206",
+      "JobTitle": "Sr. Business Intelligence Analyst - Specialized Solutions (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:06 AM",
+      "URL": "https://de.jobsyn.org/57CA0F16F3194406BA776B0DD81B9F75206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "43175737A6534839A3DE6ECE05A46F80206",
+      "JobTitle": "Data Analyst II, Operations Engineering - R05514-4121",
+      "Company": "Invenergy LLC",
+      "AccquisitionDate": "2023-2-24 8:48 AM",
+      "URL": "https://de.jobsyn.org/43175737A6534839A3DE6ECE05A46F80206",
+      "Location": "Louisville, IL",
+      "Fc": "False"
+    },
+    {
+      "JvId": "0F82430CCC5F4228893940BE069C47FD206",
+      "JobTitle": "Actuarial Analyst",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-21 1:38 AM",
+      "URL": "https://de.jobsyn.org/0F82430CCC5F4228893940BE069C47FD206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F0930710E62B4195B9AE706EDB95C1D0206",
+      "JobTitle": "Business Analyst - CrewPro",
+      "Company": "Union Pacific Corporation",
+      "AccquisitionDate": "2023-3-14 11:56 AM",
+      "URL": "https://de.jobsyn.org/F0930710E62B4195B9AE706EDB95C1D0206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "89B13EDBBE834A21B3CEA5D0660275C4206",
+      "JobTitle": "Data Analyst",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-10 5:20 AM",
+      "URL": "https://de.jobsyn.org/89B13EDBBE834A21B3CEA5D0660275C4206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "60FC5305A55C40838316024963E31A68206",
+      "JobTitle": "Audit Analytics Business Analyst",
+      "Company": "Lincoln Financial Group",
+      "AccquisitionDate": "2023-3-3 3:27 AM",
+      "URL": "https://de.jobsyn.org/60FC5305A55C40838316024963E31A68206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EB6F13004889448BBBBFE5AE8C41A51E206",
+      "JobTitle": "database marketing professional 3",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-1 7:41 AM",
+      "URL": "https://de.jobsyn.org/EB6F13004889448BBBBFE5AE8C41A51E206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7B0E92C4A1C64D4F86B06F19B0F7133C206",
+      "JobTitle": "Senior Associate, Learning Measurement & Evaluation",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-2-23 2:36 AM",
+      "URL": "https://de.jobsyn.org/7B0E92C4A1C64D4F86B06F19B0F7133C206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "765114AF65384744AFE95A6B7C37876F206",
+      "JobTitle": "Admissions Data Analyst - Work From Home",
+      "Company": "HCA, Hospital Corporation of America",
+      "AccquisitionDate": "2023-2-17 11:56 PM",
+      "URL": "https://de.jobsyn.org/765114AF65384744AFE95A6B7C37876F206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6467F019DF8740CF871121DD1E5606EC206",
+      "JobTitle": "Competitive & Market Intelligence Manager",
+      "Company": "Renaissance",
+      "AccquisitionDate": "2023-2-18 2:55 AM",
+      "URL": "https://de.jobsyn.org/6467F019DF8740CF871121DD1E5606EC206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "965B30050DF44EBC89366D6B23F2B988206",
+      "JobTitle": "Business Intelligence Engineer 3",
+      "Company": "Clear Choice Software, INC",
+      "AccquisitionDate": "2023-1-31 11:44 PM",
+      "URL": "https://de.jobsyn.org/965B30050DF44EBC89366D6B23F2B988206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "29E590BE5B784406B61894625E41BA83206",
+      "JobTitle": "Reporting Analyst",
+      "Company": "Trilogy Health Services",
+      "AccquisitionDate": "2023-1-28 8:03 AM",
+      "URL": "https://de.jobsyn.org/29E590BE5B784406B61894625E41BA83206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "817CE7A82DD54AA98FEE893CB0A18317206",
+      "JobTitle": "Business Intelligence Engineer",
+      "Company": "Brown-Forman",
+      "AccquisitionDate": "2023-1-24 12:13 AM",
+      "URL": "https://de.jobsyn.org/817CE7A82DD54AA98FEE893CB0A18317206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "515853B3E3644E32A744E2B29526703A206",
+      "JobTitle": "Business Intelligence Engineer",
+      "Company": "Brown-Forman",
+      "AccquisitionDate": "2023-1-23 5:21 PM",
+      "URL": "https://de.jobsyn.org/515853B3E3644E32A744E2B29526703A206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EA3C629C57504E3CB040ED7E246E0075206",
+      "JobTitle": "Business Intelligence Engineer 2 (Remote)",
+      "Company": "Conviva",
+      "AccquisitionDate": "2022-12-24 12:02 AM",
+      "URL": "https://de.jobsyn.org/EA3C629C57504E3CB040ED7E246E0075206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0CAA7108C264B8B905D757F5966D5A9206",
+      "JobTitle": "Power BI / Tableau Data Reporting Analyst",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2022-11-24 12:13 AM",
+      "URL": "https://de.jobsyn.org/A0CAA7108C264B8B905D757F5966D5A9206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "085799C2543E46248498D08079B6445B206",
+      "JobTitle": "Business Information Analyst, Sr. (SQL)",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2022-11-8 1:40 PM",
+      "URL": "https://de.jobsyn.org/085799C2543E46248498D08079B6445B206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55DDBDFA78CB4B5EB3E0A190EFE769E2206",
+      "JobTitle": "Group Manager, Data and Analytics Advisory",
+      "Company": "Avanade Inc.",
+      "AccquisitionDate": "2022-9-10 4:48 AM",
+      "URL": "https://de.jobsyn.org/55DDBDFA78CB4B5EB3E0A190EFE769E2206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6E78502D812A4EED97A54CE42296223E206",
+      "JobTitle": "Business Analyst - Loyalty Analytics",
+      "Company": "BP Americas, Inc.",
+      "AccquisitionDate": "2022-8-20 5:17 AM",
+      "URL": "https://de.jobsyn.org/6E78502D812A4EED97A54CE42296223E206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BCEC6CD799A34332BE1CAFD6DF1197A7206",
+      "JobTitle": "Transportation Data and Analytics Leader",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2021-8-26 3:19 AM",
+      "URL": "https://de.jobsyn.org/BCEC6CD799A34332BE1CAFD6DF1197A7206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "DBA21572569B4D80800C82A70216FDB1206",
+      "JobTitle": "Midrange Console Operator",
+      "Company": "UPS",
+      "AccquisitionDate": "2023-3-9 3:37 AM",
+      "URL": "https://de.jobsyn.org/DBA21572569B4D80800C82A70216FDB1206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AB0D0D4F59594DE1B0EF4F987B0AEADA206",
+      "JobTitle": "IT Operation Technicians",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-3 5:20 AM",
+      "URL": "https://de.jobsyn.org/AB0D0D4F59594DE1B0EF4F987B0AEADA206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "7D127DB1551047E9B013B4D278D66709206",
+      "JobTitle": "Principal Enterprise Architect",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-14 5:20 AM",
+      "URL": "https://de.jobsyn.org/7D127DB1551047E9B013B4D278D66709206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "3CA3173471084E799B84072C2FA5C800206",
+      "JobTitle": "3D Simulation Solutions Architect",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-4 4:25 AM",
+      "URL": "https://de.jobsyn.org/3CA3173471084E799B84072C2FA5C800206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "26A32E9DBC0F4CDFA86E7C3204E9B5D2206",
+      "JobTitle": "Senior Application Architect (Remote)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-11 12:29 AM",
+      "URL": "https://de.jobsyn.org/26A32E9DBC0F4CDFA86E7C3204E9B5D2206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "E43144114CBD4A82A7A9A2FA08B933F5206",
+      "JobTitle": "Senior Cloud Architect",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-10-15 12:43 AM",
+      "URL": "https://de.jobsyn.org/E43144114CBD4A82A7A9A2FA08B933F5206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8C8B9027A824454DB49FBBF17A43653A206",
+      "JobTitle": "Lead Solutions Architect Genesys PureCloud (Home office / Remote / Work from home eligible)",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-11-3 12:34 AM",
+      "URL": "https://de.jobsyn.org/8C8B9027A824454DB49FBBF17A43653A206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F0E60F49253B4BE69EB3A75DE897F983206",
+      "JobTitle": "AWS Solution Architect - Location Open",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-4-21 3:56 AM",
+      "URL": "https://de.jobsyn.org/F0E60F49253B4BE69EB3A75DE897F983206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1912842A1B1C4425B9CBB36EB3B31637206",
+      "JobTitle": "Systems Engineer III (Citrix)",
+      "Company": "Old Dominion Freight Line",
+      "AccquisitionDate": "2023-1-25 6:26 AM",
+      "URL": "https://de.jobsyn.org/1912842A1B1C4425B9CBB36EB3B31637206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "DD2AD9F7B17545C9A7839B8017CFA04E206",
+      "JobTitle": "Sr. Infrastructure Architect Cloud / Automation Linux Web Hosting ( Virtual / Remote )",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-7 12:45 AM",
+      "URL": "https://de.jobsyn.org/DD2AD9F7B17545C9A7839B8017CFA04E206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F02E4B48009E4A8BA9613B20A5EACB93206",
+      "JobTitle": "Principal Software Engineer",
+      "Company": "Papa John's International",
+      "AccquisitionDate": "2023-2-28 2:21 AM",
+      "URL": "https://de.jobsyn.org/F02E4B48009E4A8BA9613B20A5EACB93206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2753BF6B3CF044F79E1A7DDAABB70E5F206",
+      "JobTitle": "Lead Analyst, Data Architect",
+      "Company": "AES",
+      "AccquisitionDate": "2023-2-15 10:50 PM",
+      "URL": "https://de.jobsyn.org/2753BF6B3CF044F79E1A7DDAABB70E5F206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7BDA488A406941E5AD77EBC333BDAC41206",
+      "JobTitle": "Application Engineer - VRF",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:33 PM",
+      "URL": "https://de.jobsyn.org/7BDA488A406941E5AD77EBC333BDAC41206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5A05C6354F344B32AAAA9500A406C1F3206",
+      "JobTitle": "Principal Software Engineer",
+      "Company": "Papa John's International",
+      "AccquisitionDate": "2022-11-29 4:21 AM",
+      "URL": "https://de.jobsyn.org/5A05C6354F344B32AAAA9500A406C1F3206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BE596BA27AF84A129DBAAF8B351B40F9206",
+      "JobTitle": "Principal Engineer",
+      "Company": "Papa John's International",
+      "AccquisitionDate": "2023-1-18 5:15 AM",
+      "URL": "https://de.jobsyn.org/BE596BA27AF84A129DBAAF8B351B40F9206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "55B291E178E142C6A4D85F96AA88650E206",
+      "JobTitle": "Senior Software Engineer - REMOTE",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:30 PM",
+      "URL": "https://de.jobsyn.org/55B291E178E142C6A4D85F96AA88650E206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C9826E223B5141FA99A917D6D459662F206",
+      "JobTitle": "Senior Software Engineer - REMOTE",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:32 PM",
+      "URL": "https://de.jobsyn.org/C9826E223B5141FA99A917D6D459662F206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "36992C2B79D7499B820511C91F67EB9D206",
+      "JobTitle": "IAM Engineer Senior Consultant (Remote/Delivery Center)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-1 4:57 AM",
+      "URL": "https://de.jobsyn.org/36992C2B79D7499B820511C91F67EB9D206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2C102A0AD75C4CD0BC12682F3BF9A8E4206",
+      "JobTitle": "Senior Software Engineer \u2013 SmartHome Solutions - REMOTE",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:32 PM",
+      "URL": "https://de.jobsyn.org/2C102A0AD75C4CD0BC12682F3BF9A8E4206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BA6AB913FFE6480EB741DB104E43442F206",
+      "JobTitle": "Cloud Native Engineer",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-1 3:54 AM",
+      "URL": "https://de.jobsyn.org/BA6AB913FFE6480EB741DB104E43442F206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C5EC07BD2C3D4CDC8913101F398DD407206",
+      "JobTitle": "Solutions Architect (Flexible Work Location)",
+      "Company": "Old Dominion Freight Line",
+      "AccquisitionDate": "2022-10-5 3:38 AM",
+      "URL": "https://de.jobsyn.org/C5EC07BD2C3D4CDC8913101F398DD407206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EED3D876391642618BFB1BF0A42DCF61206",
+      "JobTitle": "Sr. Cloud Native Engineer",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-1 4:00 AM",
+      "URL": "https://de.jobsyn.org/EED3D876391642618BFB1BF0A42DCF61206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D479007B0BA4439F9DF9317AA0EBBA7C206",
+      "JobTitle": "Commerce Architect - Salesforce Commerce Cloud - Manager - Consulting - Location OPEN",
+      "Company": "EY",
+      "AccquisitionDate": "2022-10-22 4:37 AM",
+      "URL": "https://de.jobsyn.org/D479007B0BA4439F9DF9317AA0EBBA7C206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "0F56F29EF7C84F60BB7FE9B0DA9AC99B206",
+      "JobTitle": "Lead DevOps Engineer Azure",
+      "Company": "Humana",
+      "AccquisitionDate": "2022-12-1 12:10 AM",
+      "URL": "https://de.jobsyn.org/0F56F29EF7C84F60BB7FE9B0DA9AC99B206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "056FFDF068DB4EFCB293BF7ABF2BB439206",
+      "JobTitle": "Power Platform Architect and Engineer",
+      "Company": "PwC",
+      "AccquisitionDate": "2023-2-4 2:54 AM",
+      "URL": "https://de.jobsyn.org/056FFDF068DB4EFCB293BF7ABF2BB439206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "54E09F942D594AECA6B7D255E1596EBB206",
+      "JobTitle": "IAM Engineer Senior Consultant (Remote/Delivery Center)",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-2-11 3:23 AM",
+      "URL": "https://de.jobsyn.org/54E09F942D594AECA6B7D255E1596EBB206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C6DD4E6B978940D5AA0E2A2C4CCBB941206",
+      "JobTitle": "Digital Solution Architect",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-2 2:26 AM",
+      "URL": "https://de.jobsyn.org/C6DD4E6B978940D5AA0E2A2C4CCBB941206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "3F1EFC7971D0490993F0F3F8A8E8D29F206",
+      "JobTitle": "Technical Specialist",
+      "Company": "Spectrum",
+      "AccquisitionDate": "2023-3-9 5:19 AM",
+      "URL": "https://de.jobsyn.org/3F1EFC7971D0490993F0F3F8A8E8D29F206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "6A8C397D9BCB4A0389C93919D629A798206",
+      "JobTitle": "Senior Implementation Specialist",
+      "Company": "Elevance Health",
+      "AccquisitionDate": "2023-3-10 5:33 AM",
+      "URL": "https://de.jobsyn.org/6A8C397D9BCB4A0389C93919D629A798206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "94E5B4C218004E9E94E504FA4CF14C46206",
+      "JobTitle": "IT Support Specialist - CMTA",
+      "Company": "CMTA, Inc",
+      "AccquisitionDate": "2023-2-16 3:29 PM",
+      "URL": "https://de.jobsyn.org/94E5B4C218004E9E94E504FA4CF14C46206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "323A3B64FF664E18A41A998FA08073AE206",
+      "JobTitle": "System Specialist \u2013Smart Buildings/Automation-Louisville, KY",
+      "Company": "Siemens",
+      "AccquisitionDate": "2023-2-14 12:11 AM",
+      "URL": "https://de.jobsyn.org/323A3B64FF664E18A41A998FA08073AE206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5D78F7988EC64B48AF4A50C53F0988CC206",
+      "JobTitle": "Manager, Software Solutions Specialist - DAS GPS",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2022-11-23 2:03 AM",
+      "URL": "https://de.jobsyn.org/5D78F7988EC64B48AF4A50C53F0988CC206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8751B2E294964B2A99A99F087702B364206",
+      "JobTitle": "Senior Field Service Technical Training Specialist - Imaging, Navigation and Mazor",
+      "Company": "Medtronic",
+      "AccquisitionDate": "2022-12-10 5:21 AM",
+      "URL": "https://de.jobsyn.org/8751B2E294964B2A99A99F087702B364206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "80390989DF4648848CA1B06F93A63CBE206",
+      "JobTitle": "Sr. System Specialist \u2013Smart Buildings/Automation-Louisville, KY",
+      "Company": "Siemens",
+      "AccquisitionDate": "2023-2-14 12:02 AM",
+      "URL": "https://de.jobsyn.org/80390989DF4648848CA1B06F93A63CBE206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "9001DF4E83E44DB298426FA832771344206",
+      "JobTitle": "Genius (Oxmoor R264)",
+      "Company": "Apple",
+      "AccquisitionDate": "2023-2-1 3:06 AM",
+      "URL": "https://de.jobsyn.org/9001DF4E83E44DB298426FA832771344206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6443D0FF1997448EB92FA083C3EE4CDC206",
+      "JobTitle": "Intern",
+      "Company": "Atria Senior Living",
+      "AccquisitionDate": "2022-6-2 11:43 PM",
+      "URL": "https://de.jobsyn.org/6443D0FF1997448EB92FA083C3EE4CDC206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "502E2088BE7C4DCA84DDDB52DF004A3B206",
+      "JobTitle": "Equipment Support Trainee / 3300/2704/16238",
+      "Company": "The Taylor Group",
+      "AccquisitionDate": "2023-3-14 3:41 PM",
+      "URL": "https://de.jobsyn.org/502E2088BE7C4DCA84DDDB52DF004A3B206",
+      "Location": "Louisville, MS",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8CFA4AC650B74421A859B0FF746C686B206",
+      "JobTitle": "End User Computing (EUC)",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-14 5:20 AM",
+      "URL": "https://de.jobsyn.org/8CFA4AC650B74421A859B0FF746C686B206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "B39E16434196474D817F88E4723266A6206",
+      "JobTitle": "Network Administrator",
+      "Company": "Kforce",
+      "AccquisitionDate": "2023-3-14 5:20 AM",
+      "URL": "https://de.jobsyn.org/B39E16434196474D817F88E4723266A6206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "1979623777EB49BEAB3365629B2C3572206",
+      "JobTitle": "Help Desk Analyst I",
+      "Company": "Robert Half",
+      "AccquisitionDate": "2023-3-14 12:08 AM",
+      "URL": "https://de.jobsyn.org/1979623777EB49BEAB3365629B2C3572206",
+      "Location": "LOUISVILLE, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B55BA293C3B742DDB8E8A1D1B9A7F62F206",
+      "JobTitle": "Mid Office Services Analyst Sr",
+      "Company": "PNC",
+      "AccquisitionDate": "2023-3-14 4:18 AM",
+      "URL": "https://de.jobsyn.org/B55BA293C3B742DDB8E8A1D1B9A7F62F206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BB131B40820D4E6F84C22C7D8C510FDF206",
+      "JobTitle": "Workday HCM Functional Configuration Lead",
+      "Company": "Deloitte",
+      "AccquisitionDate": "2023-3-11 5:11 AM",
+      "URL": "https://de.jobsyn.org/BB131B40820D4E6F84C22C7D8C510FDF206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "EDF96C6AE7C74F29932F0EFCA17AF0C4206",
+      "JobTitle": "Manager, Systems & Infrastructure Administration - Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/EDF96C6AE7C74F29932F0EFCA17AF0C4206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8169A6C89EF443FE87EEFCCC6DBB69D9206",
+      "JobTitle": "direct hire entry level installation technician",
+      "Company": "Randstad US",
+      "AccquisitionDate": "2023-3-11 5:34 AM",
+      "URL": "https://de.jobsyn.org/8169A6C89EF443FE87EEFCCC6DBB69D9206",
+      "Location": "louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "5F5ADD143E684077B8CE6F423A562B6B206",
+      "JobTitle": "Traveling Security Specialist Technician",
+      "Company": "Evergreen Fire and Security",
+      "AccquisitionDate": "2023-3-11 10:35 PM",
+      "URL": "https://de.jobsyn.org/5F5ADD143E684077B8CE6F423A562B6B206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "4F9F8940CED649A8B04E3FDBB7C66533206",
+      "JobTitle": "Tax Tech Support II-Remote",
+      "Company": "KPMG",
+      "AccquisitionDate": "2023-3-11 5:17 AM",
+      "URL": "https://de.jobsyn.org/4F9F8940CED649A8B04E3FDBB7C66533206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "4112F82ACC344033BE825BFF59276D89206",
+      "JobTitle": "Traveling Security Specialist Technician",
+      "Company": "Evergreen Fire and Security",
+      "AccquisitionDate": "2023-3-11 10:35 PM",
+      "URL": "https://de.jobsyn.org/4112F82ACC344033BE825BFF59276D89206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C3B26E7246854FC1A7BA6F7E51DE48B6206",
+      "JobTitle": "Remote Customer Support Associate (11:00 AM - 7:00 PM ET, Monday - Friday)",
+      "Company": "Cengage Group",
+      "AccquisitionDate": "2023-3-11 2:18 AM",
+      "URL": "https://de.jobsyn.org/C3B26E7246854FC1A7BA6F7E51DE48B6206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6E067435A30F432DAD0EEC0DCD9A9FB9206",
+      "JobTitle": "2nd Shift Super User",
+      "Company": "Radial",
+      "AccquisitionDate": "2023-3-11 3:35 AM",
+      "URL": "https://de.jobsyn.org/6E067435A30F432DAD0EEC0DCD9A9FB9206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "938AE6BBA8E4455EBDB19B56CAA5235C206",
+      "JobTitle": "Senior Product Service Specialist (HVAC)",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:33 PM",
+      "URL": "https://de.jobsyn.org/938AE6BBA8E4455EBDB19B56CAA5235C206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "946DF38D5A4048DE8FFA969427275AC3206",
+      "JobTitle": "New Account Boarding and Data Maintenance Specialist",
+      "Company": "Beyond Inc.",
+      "AccquisitionDate": "2023-3-10 6:38 AM",
+      "URL": "https://de.jobsyn.org/946DF38D5A4048DE8FFA969427275AC3206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C01B9CD432CA441785D6656628BFAEB4206",
+      "JobTitle": "OnSite Specialist -- Elizabethtown, KY",
+      "Company": "Stryker",
+      "AccquisitionDate": "2023-3-11 4:55 AM",
+      "URL": "https://de.jobsyn.org/C01B9CD432CA441785D6656628BFAEB4206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "JvId": "B47E58C18ED34BB18A634105668B44D8206",
+      "JobTitle": "Aerospace Quality Engineer",
+      "Company": "Actalent",
+      "AccquisitionDate": "2023-3-14 3:31 AM",
+      "URL": "https://de.jobsyn.org/B47E58C18ED34BB18A634105668B44D8206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "56765BB759E04111875C72B68ED9FA5E206",
+      "JobTitle": "Mechanical Engineer III (Liason)",
+      "Company": "PDS Tech Inc",
+      "AccquisitionDate": "2022-11-3 2:55 AM",
+      "URL": "https://de.jobsyn.org/56765BB759E04111875C72B68ED9FA5E206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "70B5C24C5AB64473826B73540519D587206",
+      "JobTitle": "Sr Mechanical Engineer Lead- Build Team",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-22 2:14 PM",
+      "URL": "https://de.jobsyn.org/70B5C24C5AB64473826B73540519D587206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "AB949ADA7F35403AB150CA9D153C2D68206",
+      "JobTitle": "Sr Mechanical Engineer Lead- Build Team",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-22 3:13 PM",
+      "URL": "https://de.jobsyn.org/AB949ADA7F35403AB150CA9D153C2D68206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8C618BE6D2F34CFBB9B4F75D3B796CEC206",
+      "JobTitle": "Aircraft Engineering Co-Op",
+      "Company": "UPS",
+      "AccquisitionDate": "2023-2-15 4:41 AM",
+      "URL": "https://de.jobsyn.org/8C618BE6D2F34CFBB9B4F75D3B796CEC206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "797B05EBC2384F119E3AF79D1DF1856E206",
+      "JobTitle": "Welding Engineer III",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-4 2:10 PM",
+      "URL": "https://de.jobsyn.org/797B05EBC2384F119E3AF79D1DF1856E206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "88BCB95D25C8401086B80C160533481B206",
+      "JobTitle": "Director Engineering - Flight Sciences",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-7 2:16 PM",
+      "URL": "https://de.jobsyn.org/88BCB95D25C8401086B80C160533481B206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "81CBF7A7156B40798F7E60C9A7924958206",
+      "JobTitle": "Liaison Engineer II",
+      "Company": "PDS Tech Inc",
+      "AccquisitionDate": "2023-2-9 4:30 AM",
+      "URL": "https://de.jobsyn.org/81CBF7A7156B40798F7E60C9A7924958206",
+      "Location": "Louisville, CO",
+      "Fc": "True"
+    },
+    {
+      "JvId": "852F65C82A3F432EBBD49D099F0DDB5F206",
+      "JobTitle": "Principal Systems Engineer (Mission Engineering)",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-22 3:12 PM",
+      "URL": "https://de.jobsyn.org/852F65C82A3F432EBBD49D099F0DDB5F206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C26606EA2D2F426DBCC8FA99FB056D95206",
+      "JobTitle": "Test Engineer III - Solar Array Systems Test",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-7 2:16 PM",
+      "URL": "https://de.jobsyn.org/C26606EA2D2F426DBCC8FA99FB056D95206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8DE506D87C044091940BD14A251E521E206",
+      "JobTitle": "Sr. Systems Engineer (Avionics, Navigation)",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-1 2:27 PM",
+      "URL": "https://de.jobsyn.org/8DE506D87C044091940BD14A251E521E206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F8011C3954DA4ABEA1B2ABA3D4478F4C206",
+      "JobTitle": "Materials And Process Engineer III",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-16 2:20 PM",
+      "URL": "https://de.jobsyn.org/F8011C3954DA4ABEA1B2ABA3D4478F4C206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "21B7E986752A4EDAA84F0D419224EC1C206",
+      "JobTitle": "Quality Engineer III",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-14 11:56 AM",
+      "URL": "https://de.jobsyn.org/21B7E986752A4EDAA84F0D419224EC1C206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "93882E9D145C4271A1CFD5D6A79986C3206",
+      "JobTitle": "Engineer II, Mechanical Engineering",
+      "Company": "Raytheon Technologies",
+      "AccquisitionDate": "2022-10-14 5:39 AM",
+      "URL": "https://de.jobsyn.org/93882E9D145C4271A1CFD5D6A79986C3206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C6074358F35F4B1D86FDDE67B650D459206",
+      "JobTitle": "Mechanical Engineer II- Build Team (2nd Shift)",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-10 2:19 PM",
+      "URL": "https://de.jobsyn.org/C6074358F35F4B1D86FDDE67B650D459206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "133BD410AB1A4D0E8AB4018528003218206",
+      "JobTitle": "Launch Vehicle Integration Organization: Mission Integrator",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-16 2:16 PM",
+      "URL": "https://de.jobsyn.org/133BD410AB1A4D0E8AB4018528003218206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "9CE43A9509E644AEBDE6D8240019DD6F206",
+      "JobTitle": "Quality Engineer II (Structures) - 1st Shift",
+      "Company": "LAUNCH Technical Workforce Solutions",
+      "AccquisitionDate": "2023-3-7 5:42 AM",
+      "URL": "https://de.jobsyn.org/9CE43A9509E644AEBDE6D8240019DD6F206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "F2C047E8038E408FA7784398B4067020206",
+      "JobTitle": "Avionics Engineer",
+      "Company": "UPS",
+      "AccquisitionDate": "2023-2-5 2:44 AM",
+      "URL": "https://de.jobsyn.org/F2C047E8038E408FA7784398B4067020206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "BD2A45F7403F47EFBBAA067930F24251206",
+      "JobTitle": "Sr Systems Engineer-Avionics Instrumentation",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-4 2:10 PM",
+      "URL": "https://de.jobsyn.org/BD2A45F7403F47EFBBAA067930F24251206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "61C3B4DF70C04D1EA2F2C0ADD54A618E206",
+      "JobTitle": "Principal Material Science Engineer - M&P Destinations Lead",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-17 2:19 PM",
+      "URL": "https://de.jobsyn.org/61C3B4DF70C04D1EA2F2C0ADD54A618E206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "ECAA61117D8D4E89A24EBC7662CA8B14206",
+      "JobTitle": "Mechanical Engineer II- Build Team",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-4 2:10 PM",
+      "URL": "https://de.jobsyn.org/ECAA61117D8D4E89A24EBC7662CA8B14206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "61CBB6EF472C4053B25759761208F885206",
+      "JobTitle": "Quality Engineer III (Test/Harness) - 1st Shift (Contract)",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-16 2:17 PM",
+      "URL": "https://de.jobsyn.org/61CBB6EF472C4053B25759761208F885206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "A5B17BEB34064EBA8B013E511340FD56206",
+      "JobTitle": "Mechanical Engineer III",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-3-4 2:10 PM",
+      "URL": "https://de.jobsyn.org/A5B17BEB34064EBA8B013E511340FD56206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "8DA4AD0DF6CA408CB2162EB76BAAF403206",
+      "JobTitle": "Quality Engineer II - 4th Shift (Contract)",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-19 2:01 PM",
+      "URL": "https://de.jobsyn.org/8DA4AD0DF6CA408CB2162EB76BAAF403206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "99CF2221A7D04FBFAA61A23958B34826206",
+      "JobTitle": "Quality Engineer III - 3rd Shift (Contract)",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-17 2:21 PM",
+      "URL": "https://de.jobsyn.org/99CF2221A7D04FBFAA61A23958B34826206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "AB66EE41E5B74DCBBF2AE0836C0172EF206",
+      "JobTitle": "Design, Development, & Construction Senior Manager",
+      "Company": "BP Americas, Inc.",
+      "AccquisitionDate": "2022-11-10 3:36 AM",
+      "URL": "https://de.jobsyn.org/AB66EE41E5B74DCBBF2AE0836C0172EF206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2923E7144C214A0E8334B9609EEC89F8206",
+      "JobTitle": "Project Manager- Forensic Engineer - KY",
+      "Company": "American Structurepoint",
+      "AccquisitionDate": "2023-1-15 1:58 AM",
+      "URL": "https://de.jobsyn.org/2923E7144C214A0E8334B9609EEC89F8206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "51FC9EB0282B4515A56B7AA6E8632DC6206",
+      "JobTitle": "Wind Engineering Manager",
+      "Company": "AES",
+      "AccquisitionDate": "2023-3-8 6:51 AM",
+      "URL": "https://de.jobsyn.org/51FC9EB0282B4515A56B7AA6E8632DC6206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "EEA5B16FB3304433A52D098FEE96E0D1206",
+      "JobTitle": "Project Engineer, Global Sourcing Project Management - R05894-4121",
+      "Company": "Invenergy LLC",
+      "AccquisitionDate": "2023-3-10 8:41 AM",
+      "URL": "https://de.jobsyn.org/EEA5B16FB3304433A52D098FEE96E0D1206",
+      "Location": "Louisville, IL",
+      "Fc": "False"
+    },
+    {
+      "JvId": "860FB12F8C7B4823B804A1FC97ACB045206",
+      "JobTitle": "Principal Power Electronics Engineer",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:30 PM",
+      "URL": "https://de.jobsyn.org/860FB12F8C7B4823B804A1FC97ACB045206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "A0909A8C7AEF46EA9AAE564A9D24CE7F206",
+      "JobTitle": "Wind Engineering Manager",
+      "Company": "AES",
+      "AccquisitionDate": "2023-3-8 6:52 AM",
+      "URL": "https://de.jobsyn.org/A0909A8C7AEF46EA9AAE564A9D24CE7F206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "7A75F7DD70B742B78C73B235E304DAC1206",
+      "JobTitle": "Product Chief Engineer",
+      "Company": "ColdQuanta",
+      "AccquisitionDate": "2023-3-4 1:25 AM",
+      "URL": "https://de.jobsyn.org/7A75F7DD70B742B78C73B235E304DAC1206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "DFE268201AA34CD6BD48D9A94DFBEA43206",
+      "JobTitle": "Senior Mechanical Engineer - Federal HVAC/Plumbing - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-7 3:08 AM",
+      "URL": "https://de.jobsyn.org/DFE268201AA34CD6BD48D9A94DFBEA43206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "05999C789F5447928063B2833B6D3F11206",
+      "JobTitle": "Senior Project Manager",
+      "Company": "LPX Inc. and Subsidaries",
+      "AccquisitionDate": "2023-3-10 12:37 AM",
+      "URL": "https://de.jobsyn.org/05999C789F5447928063B2833B6D3F11206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "BCC0C6D3847D4D249B5D4BAAD3BD2E01206",
+      "JobTitle": "Senior Architectural Historian",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-1-31 5:40 AM",
+      "URL": "https://de.jobsyn.org/BCC0C6D3847D4D249B5D4BAAD3BD2E01206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D4FA7187B04341439E15FF1415B12D46206",
+      "JobTitle": "Project Architectural Historian",
+      "Company": "WSP USA",
+      "AccquisitionDate": "2023-1-31 6:37 AM",
+      "URL": "https://de.jobsyn.org/D4FA7187B04341439E15FF1415B12D46206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "65D82DB4ECE6484BBEB8998060E4D9F8206",
+      "JobTitle": "Project Manager",
+      "Company": "LPX Inc. and Subsidaries",
+      "AccquisitionDate": "2023-3-6 6:25 AM",
+      "URL": "https://de.jobsyn.org/65D82DB4ECE6484BBEB8998060E4D9F8206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "498865D270D0440195B4B7AE23AD7523206",
+      "JobTitle": "Pre-Sales Engineer (WAM) - Senior Manager - Consulting - Location Open",
+      "Company": "EY",
+      "AccquisitionDate": "2023-1-26 1:00 AM",
+      "URL": "https://de.jobsyn.org/498865D270D0440195B4B7AE23AD7523206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "6AE087442BF34BD39FF06D87C30497D7206",
+      "JobTitle": "Lead Mechanical Federal Engineer - HVAC/Plumbing - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-22 5:33 AM",
+      "URL": "https://de.jobsyn.org/6AE087442BF34BD39FF06D87C30497D7206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "427D08D43D5445C4875AD36736E12AF6206",
+      "JobTitle": "Principal NPI Lean Leader",
+      "Company": "GE Appliances, a Haier company",
+      "AccquisitionDate": "2023-3-10 1:32 PM",
+      "URL": "https://de.jobsyn.org/427D08D43D5445C4875AD36736E12AF6206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1737CCC8F4B34C58AA86A10A03B05BC1206",
+      "JobTitle": "Director Of Engineering",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-17 2:17 PM",
+      "URL": "https://de.jobsyn.org/1737CCC8F4B34C58AA86A10A03B05BC1206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "10994CF756AE4FDC80E00CE5F1695D97206",
+      "JobTitle": "Facilities / Engineering Operations Manager",
+      "Company": "Sodexo",
+      "AccquisitionDate": "2023-2-7 3:36 AM",
+      "URL": "https://de.jobsyn.org/10994CF756AE4FDC80E00CE5F1695D97206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "8902868A4F474E92BE3B9C51B24B0C26206",
+      "JobTitle": "Senior Electrical Engineer - Solar Utility Scale (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-1-12 3:15 AM",
+      "URL": "https://de.jobsyn.org/8902868A4F474E92BE3B9C51B24B0C26206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "537143C9F1CC4FD884FDFCC535D59E65206",
+      "JobTitle": "Transportation Discipline Leader-Bridge Practice",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-3-11 2:46 AM",
+      "URL": "https://de.jobsyn.org/537143C9F1CC4FD884FDFCC535D59E65206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "84EAFBCABD224652980865E83250E9D4206",
+      "JobTitle": "Environmental Project Manager",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-11 12:29 AM",
+      "URL": "https://de.jobsyn.org/84EAFBCABD224652980865E83250E9D4206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    },
+    {
+      "JvId": "378D9A65159345E091A3B12329FB2D44206",
+      "JobTitle": "Technical Program Manager III - Systems Engineering, Integra",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-24 2:08 PM",
+      "URL": "https://de.jobsyn.org/378D9A65159345E091A3B12329FB2D44206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    },
+    {
+      "JvId": "C0916CF15C0143EAA02EB8FE32DBA4FA206",
+      "JobTitle": "Environmental Project Manager",
+      "Company": "HNTB",
+      "AccquisitionDate": "2023-3-10 9:55 PM",
+      "URL": "https://de.jobsyn.org/C0916CF15C0143EAA02EB8FE32DBA4FA206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7DE351D9943F4E15BE6522E8525C8FCD206",
+      "JobTitle": "Manager, Rates & Regulatory - Water",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:46 AM",
+      "URL": "https://de.jobsyn.org/7DE351D9943F4E15BE6522E8525C8FCD206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2ECCAFE8CC6648DE8365E235FA5106DB206",
+      "JobTitle": "Project Manager - Federal - Construction Management - Arlington, VA",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-1-10 2:57 AM",
+      "URL": "https://de.jobsyn.org/2ECCAFE8CC6648DE8365E235FA5106DB206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C24C718D119B4245813991EABFACC215206",
+      "JobTitle": "Sr Program Manager",
+      "Company": "Sierra Space Corporation",
+      "AccquisitionDate": "2023-2-24 2:11 PM",
+      "URL": "https://de.jobsyn.org/C24C718D119B4245813991EABFACC215206",
+      "Location": "Louisville, CO",
+      "Fc": "False"
+    }
+  ],
+  [
+    {
+      "JvId": "42208B5BCB8F4BB8847A5BAECDFDD17F206",
+      "JobTitle": "Transmission Line Engineering Manager 5 - US Hybrid",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-4 5:41 AM",
+      "URL": "https://de.jobsyn.org/42208B5BCB8F4BB8847A5BAECDFDD17F206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    }
+  ],
+  [
+    {
+      "JvId": "2BDF21BE3B814E4A8FBEF61EFC66B50D206",
+      "JobTitle": "Eng Design Tech B - Dist Optns",
+      "Company": "LG&E and KU Energy",
+      "AccquisitionDate": "2023-3-7 1:35 AM",
+      "URL": "https://de.jobsyn.org/2BDF21BE3B814E4A8FBEF61EFC66B50D206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ],
+  [],
+  [
+    {
+      "JvId": "9151865E399D472B8E724D5E98341F30206",
+      "JobTitle": "Chemical Engineer 7 (Hydrogen Process Engineer)",
+      "Company": "CDM Smith",
+      "AccquisitionDate": "2023-2-1 2:53 AM",
+      "URL": "https://de.jobsyn.org/9151865E399D472B8E724D5E98341F30206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "CDC06879521E4F9EAD37C8F0FF381711206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:46 AM",
+      "URL": "https://de.jobsyn.org/CDC06879521E4F9EAD37C8F0FF381711206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C9135BAA511245CF8DBA585B996F6F4B206",
+      "JobTitle": "Electrical Engineer 3 - Oil, Gas & Chemical (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-11 4:12 AM",
+      "URL": "https://de.jobsyn.org/C9135BAA511245CF8DBA585B996F6F4B206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1BBE4BB693DD401694D18A14DC25EDEF206",
+      "JobTitle": "Process Engineer 4-Gas, Fuels & Chemicals-OKC",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/1BBE4BB693DD401694D18A14DC25EDEF206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "01AFF980FFFF4C0592DD7BC811821519206",
+      "JobTitle": "Process Engineer 6 - Fertilizer - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:34 AM",
+      "URL": "https://de.jobsyn.org/01AFF980FFFF4C0592DD7BC811821519206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "7F59FFFE26B44AED81E3DCBA06760FE5206",
+      "JobTitle": "Process Engineer 6 - Fertilizer - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:34 AM",
+      "URL": "https://de.jobsyn.org/7F59FFFE26B44AED81E3DCBA06760FE5206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "077F68B595E049E0AC5F38AAFCDC033F206",
+      "JobTitle": "Lead Process Engineer - Decarbonization - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/077F68B595E049E0AC5F38AAFCDC033F206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "338C6A37443C45AF91989A9AAC7E7668206",
+      "JobTitle": "Lead Process Engineer - Decarbonization - Gas, Fuels & Chemicals",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/338C6A37443C45AF91989A9AAC7E7668206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "FD9FEB1877934BB4969C84199A3FBAF8206",
+      "JobTitle": "Senior Electrical Engineer - Oil, Gas & Chemical (US Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-10 2:53 AM",
+      "URL": "https://de.jobsyn.org/FD9FEB1877934BB4969C84199A3FBAF8206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "B7893190797F439A9A1AAE79158ED4EA206",
+      "JobTitle": "Electrical Engineer 3 - Oil, Gas & Chemical - Houston, TX (Hybrid)",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-2-17 2:30 AM",
+      "URL": "https://de.jobsyn.org/B7893190797F439A9A1AAE79158ED4EA206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "C46BFCB7D4604F9BB316F7307845428E206",
+      "JobTitle": "Staff Engineer - Hydrogen - R05365-4121",
+      "Company": "Invenergy LLC",
+      "AccquisitionDate": "2023-3-10 8:41 AM",
+      "URL": "https://de.jobsyn.org/C46BFCB7D4604F9BB316F7307845428E206",
+      "Location": "Louisville, IL",
+      "Fc": "False"
+    },
+    {
+      "JvId": "11C6D10D4AEF451E9BF2B834134CCF6A206",
+      "JobTitle": "Project Engineer, Hydrogen - R05364-4121",
+      "Company": "Invenergy LLC",
+      "AccquisitionDate": "2023-3-2 8:49 AM",
+      "URL": "https://de.jobsyn.org/11C6D10D4AEF451E9BF2B834134CCF6A206",
+      "Location": "Louisville, IL",
+      "Fc": "False"
+    },
+    {
+      "JvId": "2B91A1AFF3FC40DCB0CAFE0F4EA80721206",
+      "JobTitle": "Process Engineer 4-Decarbonization",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/2B91A1AFF3FC40DCB0CAFE0F4EA80721206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "2A4D361EBC5745A0BE6612931CB09B1F206",
+      "JobTitle": "Process Engineer 4-Hydrogen",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/2A4D361EBC5745A0BE6612931CB09B1F206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "3AE27892040D47778F49D8A6A00690C5206",
+      "JobTitle": "Process Engineer 4-Fertilizer",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/3AE27892040D47778F49D8A6A00690C5206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "AF7867F40CBD46A186706C79F4F70596206",
+      "JobTitle": "Bioprocess Innovations Engineer",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/AF7867F40CBD46A186706C79F4F70596206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "D1F63201D9064FDEA8F59EC668EFE1B2206",
+      "JobTitle": "Process Engineer 4-LNG",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/D1F63201D9064FDEA8F59EC668EFE1B2206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "ACBEC07E9EC844BF8A9F9E15C2C2F114206",
+      "JobTitle": "Process Engineer 2, Oil & Gas",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/ACBEC07E9EC844BF8A9F9E15C2C2F114206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "191E890143984918B3F4F3D7D83F5400206",
+      "JobTitle": "Process Engineer - Organics Management",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-12 3:36 AM",
+      "URL": "https://de.jobsyn.org/191E890143984918B3F4F3D7D83F5400206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "F4EBCD2A432F4B0DB3302B058D147BA0206",
+      "JobTitle": "Process Engineer 4-Biofuels & Gasification",
+      "Company": "Black & Veatch",
+      "AccquisitionDate": "2023-3-10 3:48 AM",
+      "URL": "https://de.jobsyn.org/F4EBCD2A432F4B0DB3302B058D147BA0206",
+      "Location": "Louisville, KY",
+      "Fc": "True"
+    },
+    {
+      "JvId": "1C708F7DAC2842D4A7D2427A00EAE8C3206",
+      "JobTitle": "Engineering Development Program",
+      "Company": "Reynolds Consumer Products",
+      "AccquisitionDate": "2023-2-1 7:56 AM",
+      "URL": "https://de.jobsyn.org/1C708F7DAC2842D4A7D2427A00EAE8C3206",
+      "Location": "Louisville, KY",
+      "Fc": "False"
+    }
+  ]
+]
