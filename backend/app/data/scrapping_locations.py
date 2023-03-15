@@ -79,7 +79,7 @@ for city in states_id:
         photos = [x["attributes"]["image"]["large"] for x in filtered]
 
     print(population, state, budget, safety, rating, guide, photos)
-    
+
     entry = {
         "City": city_short,
         "State": state,

@@ -7,7 +7,11 @@ top_6_jobs = {}
 for code in clustersCodes:
     codes = []
     codes_employed = {}
-    url = "https://services.onetcenter.org/ws/online/career_clusters/" + code + "?start=0&end=200"
+    url = (
+        "https://services.onetcenter.org/ws/online/career_clusters/"
+        + code
+        + "?start=0&end=200"
+    )
     payload = {}
     headers = {
         "Accept": "application/json",
@@ -47,4 +51,3 @@ final = json.dumps(top_6_jobs, indent=2)
 
 with open("top_6_jobs.json", "w") as f:
     f.write(final)
-
