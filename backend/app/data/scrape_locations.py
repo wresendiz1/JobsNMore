@@ -94,5 +94,5 @@ for city in states_id:
 
 final = json.dumps(final_json, indent=2)
 
-with open("locations_raw_data.json", "w") as outfile:
+with open("locations.json", "w") as outfile:
     outfile.write(final)
