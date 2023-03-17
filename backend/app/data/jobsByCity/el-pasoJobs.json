@@ -1,19 +1,19 @@
 [
   {
-    "JvID": "24581AD4E935401F9AC1BB506B12F7F9206",
-    "JobTitle": "Branch Manager El Paso",
-    "Company": "The Hertz Corporation",
-    "DatePosted": "2023-3-16 5:02 AM",
-    "Url": "https://de.jobsyn.org/24581AD4E935401F9AC1BB506B12F7F9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "C72BF3BA792D418FBCBED256394588B8206",
     "JobTitle": "Assistant General Manager",
     "Company": "Raising Cane's",
     "DatePosted": "2023-3-9 2:24 AM",
     "Url": "https://de.jobsyn.org/C72BF3BA792D418FBCBED256394588B8206",
+    "Location": "El Paso, TX",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "24581AD4E935401F9AC1BB506B12F7F9206",
+    "JobTitle": "Branch Manager El Paso",
+    "Company": "The Hertz Corporation",
+    "DatePosted": "2023-3-16 5:02 AM",
+    "Url": "https://de.jobsyn.org/24581AD4E935401F9AC1BB506B12F7F9206",
     "Location": "El Paso, TX",
     "OnetCode": "11-1021.00"
   },
@@ -261,20 +261,20 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "6A9FF84C14EA47578DEB877E311DCD59206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "Capgemini",
-    "DatePosted": "2023-3-9 2:19 AM",
-    "Url": "https://de.jobsyn.org/6A9FF84C14EA47578DEB877E311DCD59206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "AEFBB2A925284BD0843B671E3C4ADB82206",
     "JobTitle": "Customer Service Representative (CSR)",
     "Company": "POORMANS INSURANCE GROUP; LEE RUBEN URIAS",
     "DatePosted": "2023-2-22 9:19 PM",
     "Url": "https://de.jobsyn.org/AEFBB2A925284BD0843B671E3C4ADB82206",
+    "Location": "El Paso, TX",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "6A9FF84C14EA47578DEB877E311DCD59206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "Capgemini",
+    "DatePosted": "2023-3-9 2:19 AM",
+    "Url": "https://de.jobsyn.org/6A9FF84C14EA47578DEB877E311DCD59206",
     "Location": "El Paso, TX",
     "OnetCode": "43-4051.00"
   },
@@ -756,6 +756,24 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "4CBD23F76AF243408AF716BACB1C5A1B206",
+    "JobTitle": "Chief Analyst (Paul L Foster SOM Admin Elp)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-16 7:44 AM",
+    "Url": "https://de.jobsyn.org/4CBD23F76AF243408AF716BACB1C5A1B206",
+    "Location": "El Paso, TX",
+    "OnetCode": "13-1111.00"
+  },
+  {
+    "JvID": "8D3767499F644D4FA7386D4D97A035EA206",
+    "JobTitle": "Chief Analyst (Paul L Foster SOM Admin Elp)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-16 7:44 AM",
+    "Url": "https://de.jobsyn.org/8D3767499F644D4FA7386D4D97A035EA206",
+    "Location": "El Paso, TX",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "24ABC867D1DA4D219E9396E82BC28893206",
     "JobTitle": "Records Analyst I",
     "Company": "TEXAS DEPARTMENT OF FAMILY AND PROTECTIVE SERVICES",
@@ -909,6 +927,15 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "27AF7B22DA5E43F6875D9A877089B028206",
+    "JobTitle": "Leasing Management Specialist - El Paso, TX",
+    "Company": "MIRACORP",
+    "DatePosted": "2023-3-16 6:39 AM",
+    "Url": "https://de.jobsyn.org/27AF7B22DA5E43F6875D9A877089B028206",
+    "Location": "El Paso, TX",
+    "OnetCode": "13-1082.00"
+  },
+  {
     "JvID": "3748830B5F88471681D484DFEF20A87F206",
     "JobTitle": "Sector Project Manager (El Paso)",
     "Company": "Vighter Medical Group",
@@ -999,6 +1026,24 @@
     "OnetCode": "13-1082.00"
   },
   {
+    "JvID": "4CBD23F76AF243408AF716BACB1C5A1B206",
+    "JobTitle": "Chief Analyst (Paul L Foster SOM Admin Elp)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-16 7:44 AM",
+    "Url": "https://de.jobsyn.org/4CBD23F76AF243408AF716BACB1C5A1B206",
+    "Location": "El Paso, TX",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "8D3767499F644D4FA7386D4D97A035EA206",
+    "JobTitle": "Chief Analyst (Paul L Foster SOM Admin Elp)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-16 7:44 AM",
+    "Url": "https://de.jobsyn.org/8D3767499F644D4FA7386D4D97A035EA206",
+    "Location": "El Paso, TX",
+    "OnetCode": "13-2011.00"
+  },
+  {
     "JvID": "67197FB04BF045BA8DCC0FE21A05E5DA206",
     "JobTitle": "Sr. Payroll Analyst",
     "Company": "CTG",
@@ -1069,15 +1114,6 @@
     "Url": "https://de.jobsyn.org/16F98D50CC7E4108878DEF91A8F126D8206",
     "Location": "El Paso, TX",
     "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "A87F1759E11C42B49909879FB50E5B70206",
-    "JobTitle": "Director, Reinsurance Accounting",
-    "Company": "Lincoln Financial Group",
-    "DatePosted": "2023-3-16 4:42 AM",
-    "Url": "https://de.jobsyn.org/A87F1759E11C42B49909879FB50E5B70206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-3031.00"
   },
   {
     "JvID": "E725034BB3F54671A0B0801E91D1070C206",
@@ -1629,15 +1665,6 @@
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "EEBB3A5DB1D84A0FBA88B259770DCAC9206",
-    "JobTitle": "Registered Nurse",
-    "Company": "AccessHR",
-    "DatePosted": "2023-2-7 11:56 PM",
-    "Url": "https://de.jobsyn.org/EEBB3A5DB1D84A0FBA88B259770DCAC9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "B739D9A5F2A04589908A4DA467EF4C30206",
     "JobTitle": "REGISTERED NURSE",
     "Company": "BrightSpring Health Services",
@@ -1737,6 +1764,15 @@
     "OnetCode": "29-1141.00"
   },
   {
+    "JvID": "2D1579D4AE384949A0FE367ECFBE931E206",
+    "JobTitle": "Registered Nurse (RN) | Medical Surgical - Contract - Days",
+    "Company": "HealthTrust Workforce Solutions",
+    "DatePosted": "2023-3-17 12:55 AM",
+    "Url": "https://de.jobsyn.org/2D1579D4AE384949A0FE367ECFBE931E206",
+    "Location": "El Paso, TX",
+    "OnetCode": "29-1141.00"
+  },
+  {
     "JvID": "C4183B2F65EC4BBBA999A66F88496AB2206",
     "JobTitle": "Registered Nurse (RN) - Emergency Room (ER) - Per Diem",
     "Company": "HealthTrust Workforce Solutions",
@@ -1791,15 +1827,6 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "F751CBF7A2DC49859F4775CFA0304A29206",
-    "JobTitle": "Registered Nurse (RN) | Medical Surgical - Contract - Days",
-    "Company": "HealthTrust Workforce Solutions",
-    "DatePosted": "2023-2-18 12:56 AM",
-    "Url": "https://de.jobsyn.org/F751CBF7A2DC49859F4775CFA0304A29206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "FCD528FC0387486FA0B38DCB94FF5EEA206",
     "JobTitle": "Registered Nurse (RN) - Clinical Instructor - Clinical Nurse Educator - Medical-Surgical/Telemetry (MST) - Full-Time",
     "Company": "HealthTrust Workforce Solutions",
@@ -1818,6 +1845,15 @@
     "OnetCode": "29-1141.00"
   },
   {
+    "JvID": "5944165AC2234463B4552876FF45B4FE206",
+    "JobTitle": "Registered Nurse (RN) | Pediatric Intensive Care Unit (PICU) - Contract - Nights",
+    "Company": "HealthTrust Workforce Solutions",
+    "DatePosted": "2023-3-17 12:55 AM",
+    "Url": "https://de.jobsyn.org/5944165AC2234463B4552876FF45B4FE206",
+    "Location": "El Paso, TX",
+    "OnetCode": "29-1141.00"
+  },
+  {
     "JvID": "190398692A214BEB98485D91ED2AC80F206",
     "JobTitle": "Registered Nurse (RN) - Intensive Care Unit (ICU) - Per Diem",
     "Company": "HealthTrust Workforce Solutions",
@@ -1827,29 +1863,29 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "98D5C37EEB874CD4BD069897682BEBBB206",
-    "JobTitle": "Registered Nurse (RN) | Pediatric Intensive Care Unit (PICU) - Contract - Nights",
-    "Company": "HealthTrust Workforce Solutions",
-    "DatePosted": "2023-2-28 6:55 PM",
-    "Url": "https://de.jobsyn.org/98D5C37EEB874CD4BD069897682BEBBB206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "0D463C2D53EC4488BDE4659E89E42ADA206",
-    "JobTitle": "Registered Nurse (RN) | Pediatric Intensive Care Unit (PICU) - Contract - Days",
-    "Company": "HealthTrust Workforce Solutions",
-    "DatePosted": "2023-2-19 12:58 AM",
-    "Url": "https://de.jobsyn.org/0D463C2D53EC4488BDE4659E89E42ADA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "0BA12CA0767F4AB2A17217BFCDBC1376206",
     "JobTitle": "Nurse III Nurse Educator",
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-2-22 9:18 PM",
     "Url": "https://de.jobsyn.org/0BA12CA0767F4AB2A17217BFCDBC1376206",
+    "Location": "EL PASO, TX",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "9A2AB96B1FFE4FA1917447162CAFDA55206",
+    "JobTitle": "Nurse IV/ Asst Chief Nurse Executive",
+    "Company": "Health and Human Services Commission",
+    "DatePosted": "2023-2-21 9:25 PM",
+    "Url": "https://de.jobsyn.org/9A2AB96B1FFE4FA1917447162CAFDA55206",
+    "Location": "EL PASO, TX",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "8BFD44B6A0374BEB8A33927DB8032059206",
+    "JobTitle": "Psychiatric Nursing Asst III/ PT Shifts",
+    "Company": "Health and Human Services Commission",
+    "DatePosted": "2023-3-15 8:22 PM",
+    "Url": "https://de.jobsyn.org/8BFD44B6A0374BEB8A33927DB8032059206",
     "Location": "EL PASO, TX",
     "OnetCode": "29-1141.00"
   },
@@ -1953,21 +1989,21 @@
     "OnetCode": "31-1131.00"
   },
   {
-    "JvID": "9FFDD0911FB74B4694AE5414C8500836206",
-    "JobTitle": "Psychiatric Nursing Asst II",
-    "Company": "Health and Human Services Commission",
-    "DatePosted": "2023-3-14 8:20 PM",
-    "Url": "https://de.jobsyn.org/9FFDD0911FB74B4694AE5414C8500836206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
     "JvID": "1BE1F57447B0434BB521F8ACFB9532A0206",
     "JobTitle": "LPN/RN Long Term Care (LTC) (Straight Nights).",
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-8 5:56 PM",
     "Url": "https://de.jobsyn.org/1BE1F57447B0434BB521F8ACFB9532A0206",
     "Location": "El Paso, TX",
+    "OnetCode": "31-1131.00"
+  },
+  {
+    "JvID": "9FFDD0911FB74B4694AE5414C8500836206",
+    "JobTitle": "Psychiatric Nursing Asst II",
+    "Company": "Health and Human Services Commission",
+    "DatePosted": "2023-3-14 8:20 PM",
+    "Url": "https://de.jobsyn.org/9FFDD0911FB74B4694AE5414C8500836206",
+    "Location": "EL PASO, TX",
     "OnetCode": "31-1131.00"
   },
   {
@@ -1998,15 +2034,6 @@
     "OnetCode": "31-1131.00"
   },
   {
-    "JvID": "18E28E6EC2D84A8CBBD5908A0B6055A3206",
-    "JobTitle": "Medical Assistant (11365)",
-    "Company": "InGenesis",
-    "DatePosted": "2023-3-15 1:41 AM",
-    "Url": "https://de.jobsyn.org/18E28E6EC2D84A8CBBD5908A0B6055A3206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
     "JvID": "021A70AF3729441FB1CE896601462088206",
     "JobTitle": "Psychiatric Nursing Asst II/FT Shifts",
     "Company": "Health and Human Services Commission",
@@ -2025,20 +2052,20 @@
     "OnetCode": "31-1131.00"
   },
   {
+    "JvID": "18E28E6EC2D84A8CBBD5908A0B6055A3206",
+    "JobTitle": "Medical Assistant (11365)",
+    "Company": "InGenesis",
+    "DatePosted": "2023-3-15 1:41 AM",
+    "Url": "https://de.jobsyn.org/18E28E6EC2D84A8CBBD5908A0B6055A3206",
+    "Location": "El Paso, TX",
+    "OnetCode": "31-1131.00"
+  },
+  {
     "JvID": "2A23D1EFFC33431385181D8A6835F36F206",
     "JobTitle": "Certified Medical Assistant - Breast Care Center (Surgery)",
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-7 2:11 AM",
     "Url": "https://de.jobsyn.org/2A23D1EFFC33431385181D8A6835F36F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "B298745F981342D59846E3B8F170D95D206",
-    "JobTitle": "Behavioral Health Associate  (FT) 11pm - 7am",
-    "Company": "Acadia Healthcare",
-    "DatePosted": "2023-2-21 5:27 AM",
-    "Url": "https://de.jobsyn.org/B298745F981342D59846E3B8F170D95D206",
     "Location": "El Paso, TX",
     "OnetCode": "31-1131.00"
   },
@@ -2079,6 +2106,15 @@
     "OnetCode": "31-1131.00"
   },
   {
+    "JvID": "6ADD0FAC84D143F4BBE31172051CF626206",
+    "JobTitle": "Certified Medical Assistant - El Paso, TX",
+    "Company": "UnitedHealth Group",
+    "DatePosted": "2023-3-8 2:29 PM",
+    "Url": "https://de.jobsyn.org/6ADD0FAC84D143F4BBE31172051CF626206",
+    "Location": "El Paso, TX",
+    "OnetCode": "31-1131.00"
+  },
+  {
     "JvID": "D4B8F246E3BF45048411386E7F7274FE206",
     "JobTitle": "Medical Assistant",
     "Company": "Pediatric Associates",
@@ -2097,11 +2133,29 @@
     "OnetCode": "31-9092.00"
   },
   {
+    "JvID": "B47D7311DD904AEF8625255AB4213213206",
+    "JobTitle": "Medical Support Assistant (Advanced)",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-16 10:24 PM",
+    "Url": "https://de.jobsyn.org/B47D7311DD904AEF8625255AB4213213206",
+    "Location": "El Paso, TX",
+    "OnetCode": "31-9092.00"
+  },
+  {
     "JvID": "D62BDE3D8AB84E2186D099785815A9C6206",
     "JobTitle": "Certified Medical Assistant",
     "Company": "Robert Half",
     "DatePosted": "2023-3-9 12:08 AM",
     "Url": "https://de.jobsyn.org/D62BDE3D8AB84E2186D099785815A9C6206",
+    "Location": "El Paso, TX",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "5D9E0ADE97524A11B81B661DFDB092D0206",
+    "JobTitle": "Medical Support Assistant (Advanced)",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-16 10:24 PM",
+    "Url": "https://de.jobsyn.org/5D9E0ADE97524A11B81B661DFDB092D0206",
     "Location": "El Paso, TX",
     "OnetCode": "31-9092.00"
   },
@@ -2133,11 +2187,11 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "0A5336EE9D8F4F1589A15A8F9E515C9F206",
-    "JobTitle": "Certified Medical Assistant (Neurology)",
+    "JvID": "C5855D33E1724CE69C13DD1053774643206",
+    "JobTitle": "Clinical Medical Assistant (Pediatrics)",
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-1 1:50 AM",
-    "Url": "https://de.jobsyn.org/0A5336EE9D8F4F1589A15A8F9E515C9F206",
+    "DatePosted": "2023-2-10 12:23 AM",
+    "Url": "https://de.jobsyn.org/C5855D33E1724CE69C13DD1053774643206",
     "Location": "El Paso, TX",
     "OnetCode": "31-9092.00"
   },
@@ -2286,24 +2340,6 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "421D2C46C61641B080D52897A7E49E38206",
-    "JobTitle": "Pharmacy Medication Coordinator",
-    "Company": "UnitedHealth Group",
-    "DatePosted": "2023-3-8 2:38 PM",
-    "Url": "https://de.jobsyn.org/421D2C46C61641B080D52897A7E49E38206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "F0E5CB401963400499E1C5D7512B2175206",
-    "JobTitle": "Patient Services Specialist (Orthopaedics)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-8 8:05 AM",
-    "Url": "https://de.jobsyn.org/F0E5CB401963400499E1C5D7512B2175206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
     "JvID": "8FB87B2704A74B83A47C2F14B44D4678206",
     "JobTitle": "Pharmacy Technician",
     "Company": "CVS Health",
@@ -2319,15 +2355,6 @@
     "DatePosted": "2023-3-10 3:46 AM",
     "Url": "https://de.jobsyn.org/9B9A55066E0F46F08F679D72B614B145206",
     "Location": "El Paso, IL",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "CC14AD9644F246D98F65BBE0795C074A206",
-    "JobTitle": "PHARMACY TECHNICIAN",
-    "Company": "BrightSpring Health Services",
-    "DatePosted": "2023-2-9 5:36 AM",
-    "Url": "https://de.jobsyn.org/CC14AD9644F246D98F65BBE0795C074A206",
-    "Location": "EL PASO, TX",
     "OnetCode": "29-2052.00"
   },
   {
@@ -2358,21 +2385,21 @@
     "OnetCode": "29-2052.00"
   },
   {
-    "JvID": "DB41D96242094C4CB5F9EA809471A4BD206",
-    "JobTitle": "PRN Staff Pharmacist",
-    "Company": "Omnicell, Inc.",
-    "DatePosted": "2023-3-10 4:12 AM",
-    "Url": "https://de.jobsyn.org/DB41D96242094C4CB5F9EA809471A4BD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-2052.00"
-  },
-  {
     "JvID": "92A3730626854D75A5042ABADE679812206",
     "JobTitle": "Pharmacy Customer Service Associate",
     "Company": "Walgreens",
     "DatePosted": "2023-3-10 4:43 AM",
     "Url": "https://de.jobsyn.org/92A3730626854D75A5042ABADE679812206",
     "Location": "EL PASO, TX",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "DB41D96242094C4CB5F9EA809471A4BD206",
+    "JobTitle": "PRN Staff Pharmacist",
+    "Company": "Omnicell, Inc.",
+    "DatePosted": "2023-3-10 4:12 AM",
+    "Url": "https://de.jobsyn.org/DB41D96242094C4CB5F9EA809471A4BD206",
+    "Location": "El Paso, TX",
     "OnetCode": "29-2052.00"
   },
   {
@@ -2466,6 +2493,15 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "5CBF14B866EB44D9B2329F076BC0AA09206",
+    "JobTitle": "Devops Engineer",
+    "Company": "Syms Strategic Group, LLC (SSG)",
+    "DatePosted": "2023-3-16 7:06 AM",
+    "Url": "https://de.jobsyn.org/5CBF14B866EB44D9B2329F076BC0AA09206",
+    "Location": "El Paso, TX",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "72D25BC9C7C64D73AC804C780B52E74A206",
     "JobTitle": "Network Architect 5",
     "Company": "CTG",
@@ -2478,7 +2514,7 @@
     "JvID": "DAECB67EC4B44FADA28DB03AC2A16E4C206",
     "JobTitle": "Scheduling and Blending Engineer/Professional",
     "Company": "Marathon Petroleum Corporation",
-    "DatePosted": "2023-3-9 4:25 AM",
+    "DatePosted": "2023-3-9 6:21 AM",
     "Url": "https://de.jobsyn.org/DAECB67EC4B44FADA28DB03AC2A16E4C206",
     "Location": "El Paso, TX",
     "OnetCode": "15-1252.00"
@@ -2516,15 +2552,6 @@
     "Company": "L3Harris",
     "DatePosted": "2023-2-18 2:15 AM",
     "Url": "https://de.jobsyn.org/55D8BD3923034F2187E653ECD5A956F2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "80C7E571E008409AA0EF687681BAE7ED206",
-    "JobTitle": "Java Developer",
-    "Company": "CTG",
-    "DatePosted": "2023-2-22 7:04 AM",
-    "Url": "https://de.jobsyn.org/80C7E571E008409AA0EF687681BAE7ED206",
     "Location": "El Paso, TX",
     "OnetCode": "15-1252.00"
   },
@@ -2889,15 +2916,6 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "19FC0938B3FB4C0B840B36016C3F58CC206",
-    "JobTitle": "Cerner Millennium Production Support Analyst",
-    "Company": "CTG",
-    "DatePosted": "2023-2-21 5:32 AM",
-    "Url": "https://de.jobsyn.org/19FC0938B3FB4C0B840B36016C3F58CC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "CAB2003DA2A74DD4B4DF0A0A901718A5206",
     "JobTitle": "Cerner Millennium Path/Net LIS Analyst",
     "Company": "CTG",
@@ -2912,6 +2930,15 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:34 AM",
     "Url": "https://de.jobsyn.org/801DAFBD1DDD4E56953702F9389C011E206",
+    "Location": "El Paso, TX",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "19FC0938B3FB4C0B840B36016C3F58CC206",
+    "JobTitle": "Cerner Millennium Production Support Analyst",
+    "Company": "CTG",
+    "DatePosted": "2023-2-21 5:32 AM",
+    "Url": "https://de.jobsyn.org/19FC0938B3FB4C0B840B36016C3F58CC206",
     "Location": "El Paso, TX",
     "OnetCode": "15-1211.00"
   },
@@ -2995,6 +3022,15 @@
     "Url": "https://de.jobsyn.org/8FEA869BAD774581849CA386C2475585206",
     "Location": "El Paso, TX",
     "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "5CBF14B866EB44D9B2329F076BC0AA09206",
+    "JobTitle": "Devops Engineer",
+    "Company": "Syms Strategic Group, LLC (SSG)",
+    "DatePosted": "2023-3-16 7:06 AM",
+    "Url": "https://de.jobsyn.org/5CBF14B866EB44D9B2329F076BC0AA09206",
+    "Location": "El Paso, TX",
+    "OnetCode": "15-1299.08"
   },
   {
     "JvID": "72D25BC9C7C64D73AC804C780B52E74A206",
@@ -3117,7 +3153,7 @@
     "JvID": "DAECB67EC4B44FADA28DB03AC2A16E4C206",
     "JobTitle": "Scheduling and Blending Engineer/Professional",
     "Company": "Marathon Petroleum Corporation",
-    "DatePosted": "2023-3-9 4:25 AM",
+    "DatePosted": "2023-3-9 6:21 AM",
     "Url": "https://de.jobsyn.org/DAECB67EC4B44FADA28DB03AC2A16E4C206",
     "Location": "El Paso, TX",
     "OnetCode": "17-2112.00"
