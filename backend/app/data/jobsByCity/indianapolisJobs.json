@@ -1,14 +1,5 @@
 [
   {
-    "JvID": "A9F0CDD2F67342E092A6E12D354E7EB1206",
-    "JobTitle": "Operations Manager",
-    "Company": "The Hertz Corporation",
-    "DatePosted": "2023-3-16 5:02 AM",
-    "Url": "https://de.jobsyn.org/A9F0CDD2F67342E092A6E12D354E7EB1206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "1195AEE3EDE1435EB628E4EDFDA3E65E206",
     "JobTitle": "General Manager",
     "Company": "Buffalo Wild Wings",
@@ -23,6 +14,15 @@
     "Company": "Buffalo Wild Wings",
     "DatePosted": "2023-3-15 4:00 AM",
     "Url": "https://de.jobsyn.org/6C0C33E66A614050BAAB2CFD6C390978206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "A9F0CDD2F67342E092A6E12D354E7EB1206",
+    "JobTitle": "Operations Manager",
+    "Company": "The Hertz Corporation",
+    "DatePosted": "2023-3-16 5:02 AM",
+    "Url": "https://de.jobsyn.org/A9F0CDD2F67342E092A6E12D354E7EB1206",
     "Location": "Indianapolis, IN",
     "OnetCode": "11-1021.00"
   },
@@ -81,6 +81,33 @@
     "OnetCode": "11-1021.00"
   },
   {
+    "JvID": "0C2625DF72F14EB3BBFA11A9A98A347F206",
+    "JobTitle": "Sbarro General Manager",
+    "Company": "Gpm Investments LLC",
+    "DatePosted": "2023-3-17 1:23 AM",
+    "Url": "https://de.jobsyn.org/0C2625DF72F14EB3BBFA11A9A98A347F206",
+    "Location": "Indianapolis city (balance), IN",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "10B90027BBD842539BE476F07AEC31D2206",
+    "JobTitle": "Store Manager, NCAA Hall of Champions",
+    "Company": "Legends Hospitality",
+    "DatePosted": "2023-3-16 7:34 AM",
+    "Url": "https://de.jobsyn.org/10B90027BBD842539BE476F07AEC31D2206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "30839AADFD92450682BD8E25EC940AC5206",
+    "JobTitle": "Branch Manager",
+    "Company": "Financial Center First Credit Union",
+    "DatePosted": "2023-3-17 1:42 AM",
+    "Url": "https://de.jobsyn.org/30839AADFD92450682BD8E25EC940AC5206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "B4E86D808D6641CB8C291AE48423E1AF206",
     "JobTitle": "Department Manager",
     "Company": "Buffalo Wild Wings",
@@ -108,15 +135,6 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "822B0C3C41D941AF9871FDA1896F398C206",
-    "JobTitle": "STORE MANAGER",
-    "Company": "Dollar General",
-    "DatePosted": "2023-3-15 12:59 AM",
-    "Url": "https://de.jobsyn.org/822B0C3C41D941AF9871FDA1896F398C206",
-    "Location": "INDIANAPOLIS, IN",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "9A2961D513254670BB84184E4F074309206",
     "JobTitle": "Department Manager",
     "Company": "Buffalo Wild Wings",
@@ -135,12 +153,39 @@
     "OnetCode": "11-1021.00"
   },
   {
+    "JvID": "822B0C3C41D941AF9871FDA1896F398C206",
+    "JobTitle": "STORE MANAGER",
+    "Company": "Dollar General",
+    "DatePosted": "2023-3-15 12:59 AM",
+    "Url": "https://de.jobsyn.org/822B0C3C41D941AF9871FDA1896F398C206",
+    "Location": "INDIANAPOLIS, IN",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "2967EA05D111489C9D4EEA4853163D1A206",
     "JobTitle": "Department Manager",
     "Company": "Buffalo Wild Wings",
     "DatePosted": "2023-3-15 4:00 AM",
     "Url": "https://de.jobsyn.org/2967EA05D111489C9D4EEA4853163D1A206",
     "Location": "Indianapolis, IN",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "44B47274C7B8436FB94B08838F9CA1A6206",
+    "JobTitle": "Proprietor (General Manager)",
+    "Company": "Ted's Montana Grill Inc",
+    "DatePosted": "2023-3-14 1:34 AM",
+    "Url": "https://de.jobsyn.org/44B47274C7B8436FB94B08838F9CA1A6206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "D76AA56729C140D58BE392A6FDBB4A8B206",
+    "JobTitle": "STORE MANAGER CANDIDATE",
+    "Company": "Dollar General",
+    "DatePosted": "2023-3-9 11:30 PM",
+    "Url": "https://de.jobsyn.org/D76AA56729C140D58BE392A6FDBB4A8B206",
+    "Location": "INDIANAPOLIS, IN",
     "OnetCode": "11-1021.00"
   },
   {
@@ -162,15 +207,6 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "44B47274C7B8436FB94B08838F9CA1A6206",
-    "JobTitle": "Proprietor (General Manager)",
-    "Company": "Ted's Montana Grill Inc",
-    "DatePosted": "2023-3-14 1:34 AM",
-    "Url": "https://de.jobsyn.org/44B47274C7B8436FB94B08838F9CA1A6206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "22E8C5E282E74EEEAFCCB0B313BF470B206",
     "JobTitle": "Manager-Operations, Luxury (Eastern Region)",
     "Company": "Marriott",
@@ -180,48 +216,12 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "AF5CDB16948247F2BDE383A4C38DBBD9206",
-    "JobTitle": "Operations and Support Team Manager",
-    "Company": "Siemens Digital Industries Software",
-    "DatePosted": "2023-3-15 12:33 AM",
-    "Url": "https://de.jobsyn.org/AF5CDB16948247F2BDE383A4C38DBBD9206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "D76AA56729C140D58BE392A6FDBB4A8B206",
-    "JobTitle": "STORE MANAGER CANDIDATE",
-    "Company": "Dollar General",
-    "DatePosted": "2023-3-9 11:30 PM",
-    "Url": "https://de.jobsyn.org/D76AA56729C140D58BE392A6FDBB4A8B206",
-    "Location": "INDIANAPOLIS, IN",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "EA86C020370342D7B7A558511A5D8D42206",
     "JobTitle": "STORE MANAGER CANDIDATE",
     "Company": "Dollar General",
     "DatePosted": "2023-3-9 11:30 PM",
     "Url": "https://de.jobsyn.org/EA86C020370342D7B7A558511A5D8D42206",
     "Location": "INDIANAPOLIS, IN",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "5D30EC088F824337AF21EF3AAD28E428206",
-    "JobTitle": "Sbarro General Manager",
-    "Company": "Gpm Investments LLC",
-    "DatePosted": "2023-3-14 6:28 AM",
-    "Url": "https://de.jobsyn.org/5D30EC088F824337AF21EF3AAD28E428206",
-    "Location": "Indianapolis city (balance), IN",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "3AB4899C5F9C4E948A88FFD82183FA39206",
-    "JobTitle": "SaaS Customer Success Director - ACS (REMOTE)",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-16 4:19 AM",
-    "Url": "https://de.jobsyn.org/3AB4899C5F9C4E948A88FFD82183FA39206",
-    "Location": "Indianapolis, IN",
     "OnetCode": "11-1021.00"
   },
   {
@@ -261,6 +261,15 @@
     "OnetCode": "43-4051.00"
   },
   {
+    "JvID": "E38905EADC2042799F0DD2409BEEA9ED206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "Heritage Environmental Services, LLC",
+    "DatePosted": "2023-3-4 6:33 AM",
+    "Url": "https://de.jobsyn.org/E38905EADC2042799F0DD2409BEEA9ED206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "43-4051.00"
+  },
+  {
     "JvID": "1BBD3D466D56472B96219B50BB782058206",
     "JobTitle": "Customer Service Representative",
     "Company": "Highmark Health",
@@ -279,11 +288,11 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "E38905EADC2042799F0DD2409BEEA9ED206",
+    "JvID": "8670E07F9D8F48B5B2482361887A22D7206",
     "JobTitle": "Customer Service Representative",
-    "Company": "Heritage Environmental Services, LLC",
-    "DatePosted": "2023-3-4 6:33 AM",
-    "Url": "https://de.jobsyn.org/E38905EADC2042799F0DD2409BEEA9ED206",
+    "Company": "PSG Global Solutions",
+    "DatePosted": "2023-2-24 3:33 AM",
+    "Url": "https://de.jobsyn.org/8670E07F9D8F48B5B2482361887A22D7206",
     "Location": "Indianapolis, IN",
     "OnetCode": "43-4051.00"
   },
@@ -293,15 +302,6 @@
     "Company": "State of Indiana",
     "DatePosted": "2023-3-13 10:32 PM",
     "Url": "https://de.jobsyn.org/E1AE7E6A227C43B788482A561F9346C8206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-4051.00"
-  },
-  {
-    "JvID": "8670E07F9D8F48B5B2482361887A22D7206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "PSG Global Solutions",
-    "DatePosted": "2023-2-24 3:33 AM",
-    "Url": "https://de.jobsyn.org/8670E07F9D8F48B5B2482361887A22D7206",
     "Location": "Indianapolis, IN",
     "OnetCode": "43-4051.00"
   },
@@ -522,20 +522,20 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "17706383418A4A42862BCC5C11DCE7FE206",
-    "JobTitle": "Administrative Assistant",
-    "Company": "State of Indiana",
-    "DatePosted": "2023-3-13 10:32 PM",
-    "Url": "https://de.jobsyn.org/17706383418A4A42862BCC5C11DCE7FE206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-6014.00"
-  },
-  {
     "JvID": "C8FDC76607114A14B56141C5D855D1EE206",
     "JobTitle": "Sales Coordinator",
     "Company": "Omni Hotels",
     "DatePosted": "2023-3-14 2:12 AM",
     "Url": "https://de.jobsyn.org/C8FDC76607114A14B56141C5D855D1EE206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "17706383418A4A42862BCC5C11DCE7FE206",
+    "JobTitle": "Administrative Assistant",
+    "Company": "State of Indiana",
+    "DatePosted": "2023-3-13 10:32 PM",
+    "Url": "https://de.jobsyn.org/17706383418A4A42862BCC5C11DCE7FE206",
     "Location": "Indianapolis, IN",
     "OnetCode": "43-6014.00"
   },
@@ -572,15 +572,6 @@
     "Company": "State of Indiana",
     "DatePosted": "2023-3-13 10:32 PM",
     "Url": "https://de.jobsyn.org/8BDAB943EA3B49918A69BF18620F52BA206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "38F0BD87B8C0409C8C914932D52B5977206",
-    "JobTitle": "Underwriting Assistant",
-    "Company": "Hub International",
-    "DatePosted": "2023-3-13 6:59 PM",
-    "Url": "https://de.jobsyn.org/38F0BD87B8C0409C8C914932D52B5977206",
     "Location": "Indianapolis, IN",
     "OnetCode": "43-6014.00"
   },
@@ -675,6 +666,15 @@
     "OnetCode": "43-6014.00"
   },
   {
+    "JvID": "9A92E02131BE452E8CD4A679D859AC19206",
+    "JobTitle": "Office Assistant - Universal",
+    "Company": "Indy Gov",
+    "DatePosted": "2023-3-9 12:42 AM",
+    "Url": "https://de.jobsyn.org/9A92E02131BE452E8CD4A679D859AC19206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "43-6014.00"
+  },
+  {
     "JvID": "8DA188B43506452DAEFA7FD891E3B2DA206",
     "JobTitle": "Bookkeeper",
     "Company": "Robert Half",
@@ -690,6 +690,60 @@
     "DatePosted": "2023-2-28 12:14 AM",
     "Url": "https://de.jobsyn.org/1F3F922CF84544F1B3C109A0D5789ABA206",
     "Location": "INDIANAPOLIS, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "1EF441F2906F49C5B2EFF4FF41FD8261206",
+    "JobTitle": "2023 Summer Intern (Finance, Accounting)",
+    "Company": "Ryder System",
+    "DatePosted": "2023-3-16 8:57 PM",
+    "Url": "https://de.jobsyn.org/1EF441F2906F49C5B2EFF4FF41FD8261206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "01681A62134448A5BED7830D4EB9295E206",
+    "JobTitle": "Accounts Receivable Specialist",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-17 12:32 AM",
+    "Url": "https://de.jobsyn.org/01681A62134448A5BED7830D4EB9295E206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "6DBB9AD8765441C69DB202D9E3FBB26D206",
+    "JobTitle": "Accounts Receivable Billing Clerk",
+    "Company": "American Senior Communities",
+    "DatePosted": "2023-3-17 1:39 AM",
+    "Url": "https://de.jobsyn.org/6DBB9AD8765441C69DB202D9E3FBB26D206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "D040297C64224D6FB0113836269BB8C8206",
+    "JobTitle": "Accounting/Office Assistant",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-17 12:32 AM",
+    "Url": "https://de.jobsyn.org/D040297C64224D6FB0113836269BB8C8206",
+    "Location": "INDIANAPOLIS, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "4F317B8552994F7FA9EA719F29BA0552206",
+    "JobTitle": "Business Office Manager",
+    "Company": "Trilogy Health Services",
+    "DatePosted": "2023-3-16 5:58 AM",
+    "Url": "https://de.jobsyn.org/4F317B8552994F7FA9EA719F29BA0552206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "23FD80A67E3C4B42A49FA7D7D4257E49206",
+    "JobTitle": "Accounting Clerk: Payroll & Accounts Payable",
+    "Company": "Indiana Hemophilia & Thrombosis Center",
+    "DatePosted": "2023-3-17 1:27 AM",
+    "Url": "https://de.jobsyn.org/23FD80A67E3C4B42A49FA7D7D4257E49206",
+    "Location": "Indianapolis, IN",
     "OnetCode": "43-3031.00"
   },
   {
@@ -744,15 +798,6 @@
     "DatePosted": "2023-3-15 12:15 AM",
     "Url": "https://de.jobsyn.org/2347F918C5164F1ABDE7F13685EA3E0A206",
     "Location": "INDIANAPOLIS, IN",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "D60A4911A351480A8E6FC78BD46AD7DB206",
-    "JobTitle": "Audit Specialist",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-15 12:28 AM",
-    "Url": "https://de.jobsyn.org/D60A4911A351480A8E6FC78BD46AD7DB206",
-    "Location": "Indianapolis, IN",
     "OnetCode": "43-3031.00"
   },
   {
@@ -846,15 +891,6 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "7D486D5383C44531A879DA56E1CA032A206",
-    "JobTitle": "Tax Accountant 2",
-    "Company": "Public Partnerships LLC",
-    "DatePosted": "2023-3-11 4:49 AM",
-    "Url": "https://de.jobsyn.org/7D486D5383C44531A879DA56E1CA032A206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-3031.00"
-  },
-  {
     "JvID": "E62414742B3240F991919572EF2D4157206",
     "JobTitle": "Audit & Reimbursement III (US)",
     "Company": "Elevance Health",
@@ -864,47 +900,20 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "3B16AF21085E41D195A44BB188CAA5DE206",
-    "JobTitle": "Accountant",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-10 2:26 AM",
-    "Url": "https://de.jobsyn.org/3B16AF21085E41D195A44BB188CAA5DE206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "14462B5B0BA64D14AAC51CC43C9845C9206",
-    "JobTitle": "Accountant",
-    "Company": "RR Donnelley",
-    "DatePosted": "2023-3-9 6:32 AM",
-    "Url": "https://de.jobsyn.org/14462B5B0BA64D14AAC51CC43C9845C9206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "A906A870F2E84746ACF65843F0AB00C3206",
-    "JobTitle": "Fixed Asset Accountant",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-10 2:26 AM",
-    "Url": "https://de.jobsyn.org/A906A870F2E84746ACF65843F0AB00C3206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "6AB0738650C540FEB3B16ED937C74CBD206",
-    "JobTitle": "Junior Billing Analyst",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-3-10 12:18 AM",
-    "Url": "https://de.jobsyn.org/6AB0738650C540FEB3B16ED937C74CBD206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "43-3031.00"
-  },
-  {
     "JvID": "61E5055641C346E6A5CA2C494058E089206",
     "JobTitle": "Technology Business Management Analyst",
     "Company": "Ford Motor Company",
     "DatePosted": "2023-2-28 3:41 AM",
     "Url": "https://de.jobsyn.org/61E5055641C346E6A5CA2C494058E089206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-1111.00"
+  },
+  {
+    "JvID": "6C0093BE2C18478B9121A76184CB4DD2206",
+    "JobTitle": "Senior Business Analyst, Occupancy Management",
+    "Company": "CBRE",
+    "DatePosted": "2023-3-16 6:22 AM",
+    "Url": "https://de.jobsyn.org/6C0093BE2C18478B9121A76184CB4DD2206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-1111.00"
   },
@@ -1017,6 +1026,15 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "39E1D73470B74D7D8CCF87EDC0A21FAB206",
+    "JobTitle": "Senior ServiceNow HR Business Analyst (Remote)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:14 AM",
+    "Url": "https://de.jobsyn.org/39E1D73470B74D7D8CCF87EDC0A21FAB206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "FF0312A412C2495DA534D427193747CA206",
     "JobTitle": "Business Analyst",
     "Company": "CTG",
@@ -1035,15 +1053,6 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "D2BFFE7A97714D64B8FAE80DE01C7676206",
-    "JobTitle": "Senior ServiceNow HR Business Analyst (Remote)",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-3-15 12:23 AM",
-    "Url": "https://de.jobsyn.org/D2BFFE7A97714D64B8FAE80DE01C7676206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-1111.00"
-  },
-  {
     "JvID": "F8984344AD5345BB902533E22F105242206",
     "JobTitle": "RBAC Analyst - 1333451",
     "Company": "Apex Systems, Inc",
@@ -1053,20 +1062,20 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "D2BFFE7A97714D64B8FAE80DE01C7676206",
+    "JobTitle": "Senior ServiceNow HR Business Analyst (Remote)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-15 12:23 AM",
+    "Url": "https://de.jobsyn.org/D2BFFE7A97714D64B8FAE80DE01C7676206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "8457DD123AB34B76B80CD40A2C29CACB206",
     "JobTitle": "RBAC Analyst (1333451)",
     "Company": "Apex Systems, Inc",
     "DatePosted": "2023-3-7 1:57 PM",
     "Url": "https://de.jobsyn.org/8457DD123AB34B76B80CD40A2C29CACB206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-1111.00"
-  },
-  {
-    "JvID": "280537295B0D4C05BF3EBFB63A4D7CA8206",
-    "JobTitle": "Commercial Performance Analyst (Remote)",
-    "Company": "Centene Corporation",
-    "DatePosted": "2023-3-16 5:08 AM",
-    "Url": "https://de.jobsyn.org/280537295B0D4C05BF3EBFB63A4D7CA8206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-1111.00"
   },
@@ -1089,6 +1098,15 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "280537295B0D4C05BF3EBFB63A4D7CA8206",
+    "JobTitle": "Commercial Performance Analyst (Remote)",
+    "Company": "Centene Corporation",
+    "DatePosted": "2023-3-16 5:08 AM",
+    "Url": "https://de.jobsyn.org/280537295B0D4C05BF3EBFB63A4D7CA8206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "BBFB77617DBE42DD960CF0C07C6BC1F4206",
     "JobTitle": "ServiceNow PPM Business Analyst (Remote)",
     "Company": "ICF Consulting Group, Inc.",
@@ -1098,29 +1116,11 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "7E798D1DC52E4403B5F32B4FFBFE60F4206",
-    "JobTitle": "Lead, Government and Public Sector, Resource Management Specialist, Deployment",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-16 4:39 AM",
-    "Url": "https://de.jobsyn.org/7E798D1DC52E4403B5F32B4FFBFE60F4206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-1111.00"
-  },
-  {
     "JvID": "EED98A149A2D49DD9960C8CE452C128E206",
     "JobTitle": "Data Center, AI Analyst Relations Professional",
     "Company": "Intel",
     "DatePosted": "2023-2-25 4:01 AM",
     "Url": "https://de.jobsyn.org/EED98A149A2D49DD9960C8CE452C128E206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-1111.00"
-  },
-  {
-    "JvID": "51DD4F095CA645D09A59E97DF98FB561206",
-    "JobTitle": "Data Analyst Sr - Remote",
-    "Company": "Sedgwick",
-    "DatePosted": "2023-3-16 3:37 AM",
-    "Url": "https://de.jobsyn.org/51DD4F095CA645D09A59E97DF98FB561206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-1111.00"
   },
@@ -1152,11 +1152,11 @@
     "OnetCode": "13-1082.00"
   },
   {
-    "JvID": "CCD6F959EDA3429EB45DEF03A1D93B8A206",
-    "JobTitle": "Hotel PMS Project Specialist - Oracle Hospitality (REMOTE)",
-    "Company": "Oracle",
-    "DatePosted": "2023-2-15 5:24 AM",
-    "Url": "https://de.jobsyn.org/CCD6F959EDA3429EB45DEF03A1D93B8A206",
+    "JvID": "53701F5A52D8469F80A25DFDFA3EC78B206",
+    "JobTitle": "Capacity Building Project Coordinator - REMOTE",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:22 AM",
+    "Url": "https://de.jobsyn.org/53701F5A52D8469F80A25DFDFA3EC78B206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-1082.00"
   },
@@ -1166,6 +1166,15 @@
     "Company": "Cummins Inc.",
     "DatePosted": "2023-2-17 8:58 PM",
     "Url": "https://de.jobsyn.org/9AFA9310563644A6B5FE727AEA4D65C4206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "CCD6F959EDA3429EB45DEF03A1D93B8A206",
+    "JobTitle": "Hotel PMS Project Specialist - Oracle Hospitality (REMOTE)",
+    "Company": "Oracle",
+    "DatePosted": "2023-2-15 5:24 AM",
+    "Url": "https://de.jobsyn.org/CCD6F959EDA3429EB45DEF03A1D93B8A206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-1082.00"
   },
@@ -1269,6 +1278,15 @@
     "OnetCode": "13-1082.00"
   },
   {
+    "JvID": "C917E9FF0EA84DF8BEE40E22FA1850EE206",
+    "JobTitle": "PJC, Project Controller III - SS",
+    "Company": "IPS \u2013 Integrated Project Services, Inc.",
+    "DatePosted": "2023-3-17 12:36 AM",
+    "Url": "https://de.jobsyn.org/C917E9FF0EA84DF8BEE40E22FA1850EE206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-1082.00"
+  },
+  {
     "JvID": "3B0862DEECBB487AAB8A5B3847E2A6C6206",
     "JobTitle": "PM Sr. Advisor, Physician Innovation - Evernorth Health Services - Remote",
     "Company": "The Cigna Group",
@@ -1323,29 +1341,11 @@
     "OnetCode": "13-1082.00"
   },
   {
-    "JvID": "2E0F02E4B06B46B39CF59DDBCE7577B7206",
-    "JobTitle": "CSSNAIT Project Management PMO Lead",
-    "Company": "Cummins Inc.",
-    "DatePosted": "2023-3-14 2:55 PM",
-    "Url": "https://de.jobsyn.org/2E0F02E4B06B46B39CF59DDBCE7577B7206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-1082.00"
-  },
-  {
     "JvID": "4F54F593FB1646B29EE409650C6C88DC206",
     "JobTitle": "Team Manager, Project Management",
     "Company": "Stoneridge Software",
     "DatePosted": "2023-3-15 4:35 AM",
     "Url": "https://de.jobsyn.org/4F54F593FB1646B29EE409650C6C88DC206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "422BE918DB65407C8D332D835D60C7CA206",
-    "JobTitle": "Project Manager (Health Insurance)",
-    "Company": "Indiana University Health",
-    "DatePosted": "2023-3-14 11:55 PM",
-    "Url": "https://de.jobsyn.org/422BE918DB65407C8D332D835D60C7CA206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-1082.00"
   },
@@ -1386,20 +1386,20 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "A62E524A1A2D40378E4BE76B1CDFEDDE206",
-    "JobTitle": "Senior Accountant",
-    "Company": "Cornerstone onDemand",
-    "DatePosted": "2023-3-15 2:46 AM",
-    "Url": "https://de.jobsyn.org/A62E524A1A2D40378E4BE76B1CDFEDDE206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "25E8B5CDEC994B599658732E16515508206",
     "JobTitle": "Revenue Tax Auditor",
     "Company": "State of Indiana",
     "DatePosted": "2023-3-2 2:08 AM",
     "Url": "https://de.jobsyn.org/25E8B5CDEC994B599658732E16515508206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "A62E524A1A2D40378E4BE76B1CDFEDDE206",
+    "JobTitle": "Senior Accountant",
+    "Company": "Cornerstone onDemand",
+    "DatePosted": "2023-3-15 2:46 AM",
+    "Url": "https://de.jobsyn.org/A62E524A1A2D40378E4BE76B1CDFEDDE206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-2011.00"
   },
@@ -1422,11 +1422,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "507965135A96472891AAF509578BACC9206",
-    "JobTitle": "Sr. Accountant",
+    "JvID": "ABC2623DC4BC499FBB39B74BF54A1042206",
+    "JobTitle": "Hybrid- Senior Accountant- Reporting",
     "Company": "Robert Half",
-    "DatePosted": "2023-3-16 12:25 AM",
-    "Url": "https://de.jobsyn.org/507965135A96472891AAF509578BACC9206",
+    "DatePosted": "2023-3-17 12:32 AM",
+    "Url": "https://de.jobsyn.org/ABC2623DC4BC499FBB39B74BF54A1042206",
     "Location": "INDIANAPOLIS, IN",
     "OnetCode": "13-2011.00"
   },
@@ -1436,6 +1436,24 @@
     "Company": "Rocket Software, Inc.",
     "DatePosted": "2023-3-2 4:16 AM",
     "Url": "https://de.jobsyn.org/CD5FAEBC3AE74BFCB4B8299E903BE0DF206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "507965135A96472891AAF509578BACC9206",
+    "JobTitle": "Sr. Accountant",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-16 12:25 AM",
+    "Url": "https://de.jobsyn.org/507965135A96472891AAF509578BACC9206",
+    "Location": "INDIANAPOLIS, IN",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "7E6227E937DC4ED9B71DDA9ABB4F972D206",
+    "JobTitle": "Senior Auditor",
+    "Company": "Corteva Agriscience",
+    "DatePosted": "2023-2-23 3:47 AM",
+    "Url": "https://de.jobsyn.org/7E6227E937DC4ED9B71DDA9ABB4F972D206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-2011.00"
   },
@@ -1458,11 +1476,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "7E6227E937DC4ED9B71DDA9ABB4F972D206",
-    "JobTitle": "Senior Auditor",
-    "Company": "Corteva Agriscience",
-    "DatePosted": "2023-2-23 3:47 AM",
-    "Url": "https://de.jobsyn.org/7E6227E937DC4ED9B71DDA9ABB4F972D206",
+    "JvID": "E270BCDEB03E4BF4BA8B916EBF01894A206",
+    "JobTitle": "Information Security Audit Analyst - Government and Public Sector",
+    "Company": "EY",
+    "DatePosted": "2023-3-15 12:55 AM",
+    "Url": "https://de.jobsyn.org/E270BCDEB03E4BF4BA8B916EBF01894A206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-2011.00"
   },
@@ -1476,12 +1494,12 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "E270BCDEB03E4BF4BA8B916EBF01894A206",
-    "JobTitle": "Information Security Audit Analyst",
-    "Company": "EY",
-    "DatePosted": "2023-3-15 12:55 AM",
-    "Url": "https://de.jobsyn.org/E270BCDEB03E4BF4BA8B916EBF01894A206",
-    "Location": "Indianapolis, IN",
+    "JvID": "298D60DA78BD4E13AE8FA3852D06DA27206",
+    "JobTitle": "Internal IT Auditor Sr",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-3-1 12:17 PM",
+    "Url": "https://de.jobsyn.org/298D60DA78BD4E13AE8FA3852D06DA27206",
+    "Location": "INDIANAPOLIS, IN",
     "OnetCode": "13-2011.00"
   },
   {
@@ -1491,15 +1509,6 @@
     "DatePosted": "2023-3-16 12:08 AM",
     "Url": "https://de.jobsyn.org/831B1B09466043AAAF307E8A850D9571206",
     "Location": "Indianapolis, IN",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "298D60DA78BD4E13AE8FA3852D06DA27206",
-    "JobTitle": "Internal IT Auditor Sr",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-1 12:17 PM",
-    "Url": "https://de.jobsyn.org/298D60DA78BD4E13AE8FA3852D06DA27206",
-    "Location": "INDIANAPOLIS, IN",
     "OnetCode": "13-2011.00"
   },
   {
@@ -1530,21 +1539,21 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "DDF1DAC6B70C494282447102B645120B206",
-    "JobTitle": "LEAD ACCOUNTANT",
-    "Company": "Defense Finance and Accounting Service",
-    "DatePosted": "2023-3-11 5:54 AM",
-    "Url": "https://de.jobsyn.org/DDF1DAC6B70C494282447102B645120B206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "A0D14112BB314E028D4A9015EA189632206",
     "JobTitle": "Manager of Finance - Indiana - McLaren Careers",
     "Company": "McLaren Health Care",
     "DatePosted": "2023-2-28 12:02 AM",
     "Url": "https://de.jobsyn.org/A0D14112BB314E028D4A9015EA189632206",
     "Location": "Indianapolis, IN",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "42EB94A1EBEF4A8F9D77EB8CDEC646B5206",
+    "JobTitle": "Internal IT Auditor Sr",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-2-25 8:09 AM",
+    "Url": "https://de.jobsyn.org/42EB94A1EBEF4A8F9D77EB8CDEC646B5206",
+    "Location": "INDIANAPOLIS, IN",
     "OnetCode": "13-2011.00"
   },
   {
@@ -1563,15 +1572,6 @@
     "DatePosted": "2023-3-2 2:39 AM",
     "Url": "https://de.jobsyn.org/D636AF9DBA3842CE8473368035AC0E34206",
     "Location": "Indianapolis, IN",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "42EB94A1EBEF4A8F9D77EB8CDEC646B5206",
-    "JobTitle": "Internal IT Auditor Sr",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-25 8:09 AM",
-    "Url": "https://de.jobsyn.org/42EB94A1EBEF4A8F9D77EB8CDEC646B5206",
-    "Location": "INDIANAPOLIS, IN",
     "OnetCode": "13-2011.00"
   },
   {
@@ -1710,6 +1710,15 @@
     "OnetCode": "11-3031.00"
   },
   {
+    "JvID": "2F857C5323434AA08C4107EBA366B222206",
+    "JobTitle": "FP&A Manager - CSSNA Supply Chain",
+    "Company": "Cummins Inc.",
+    "DatePosted": "2023-3-6 8:59 AM",
+    "Url": "https://de.jobsyn.org/2F857C5323434AA08C4107EBA366B222206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "11-3031.00"
+  },
+  {
     "JvID": "74FD869B1F974AAAB9873CF795BA9FA1206",
     "JobTitle": "Director, Financial Planning and Analysis",
     "Company": "Allison Transmission",
@@ -1728,20 +1737,47 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "2F857C5323434AA08C4107EBA366B222206",
-    "JobTitle": "FP&A Manager - CSSNA Supply Chain",
-    "Company": "Cummins Inc.",
-    "DatePosted": "2023-3-6 8:59 AM",
-    "Url": "https://de.jobsyn.org/2F857C5323434AA08C4107EBA366B222206",
+    "JvID": "5E0C07DEFE4A44F7B2A5B8ADD0C3057E206",
+    "JobTitle": "Finance and Operations Director \u2013 TB Diagnostics Network Strengthening (TBDNS)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:15 AM",
+    "Url": "https://de.jobsyn.org/5E0C07DEFE4A44F7B2A5B8ADD0C3057E206",
     "Location": "Indianapolis, IN",
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "D7DBD6D79C3142E6B0B52078D03B0FA9206",
-    "JobTitle": "Director, Reinsurance Accounting",
-    "Company": "Lincoln Financial Group",
-    "DatePosted": "2023-3-16 4:42 AM",
-    "Url": "https://de.jobsyn.org/D7DBD6D79C3142E6B0B52078D03B0FA9206",
+    "JvID": "E58C32012AF343B1AD86520B8D30C3C7206",
+    "JobTitle": "Senior Accountant",
+    "Company": "Indiana Hemophilia & Thrombosis Center",
+    "DatePosted": "2023-3-17 1:27 AM",
+    "Url": "https://de.jobsyn.org/E58C32012AF343B1AD86520B8D30C3C7206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "ABC2623DC4BC499FBB39B74BF54A1042206",
+    "JobTitle": "Hybrid- Senior Accountant- Reporting",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-17 12:32 AM",
+    "Url": "https://de.jobsyn.org/ABC2623DC4BC499FBB39B74BF54A1042206",
+    "Location": "INDIANAPOLIS, IN",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "FCDC16502B534C84A2322EC139E72CAA206",
+    "JobTitle": "Financial Consultant Sr",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-3-14 4:01 AM",
+    "Url": "https://de.jobsyn.org/FCDC16502B534C84A2322EC139E72CAA206",
+    "Location": "INDIANAPOLIS, IN",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "62BEBED1B3F14D63A8C0EB890E6BE26E206",
+    "JobTitle": "Tax Services Manager - FSO - Private Client Services, Family Office Services",
+    "Company": "EY",
+    "DatePosted": "2023-3-15 12:56 AM",
+    "Url": "https://de.jobsyn.org/62BEBED1B3F14D63A8C0EB890E6BE26E206",
     "Location": "Indianapolis, IN",
     "OnetCode": "11-3031.00"
   },
@@ -1755,47 +1791,11 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "4C7674EAB0DC4A34A6DC368EAA0C49DE206",
-    "JobTitle": "Director, Accounting Policy",
-    "Company": "Lincoln Financial Group",
-    "DatePosted": "2023-3-16 4:42 AM",
-    "Url": "https://de.jobsyn.org/4C7674EAB0DC4A34A6DC368EAA0C49DE206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "62BEBED1B3F14D63A8C0EB890E6BE26E206",
-    "JobTitle": "Tax Services Manager - FSO - Private Client Services, Family Office Services",
-    "Company": "EY",
-    "DatePosted": "2023-3-15 12:56 AM",
-    "Url": "https://de.jobsyn.org/62BEBED1B3F14D63A8C0EB890E6BE26E206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "FCDC16502B534C84A2322EC139E72CAA206",
-    "JobTitle": "Financial Consultant Sr",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-14 4:01 AM",
-    "Url": "https://de.jobsyn.org/FCDC16502B534C84A2322EC139E72CAA206",
-    "Location": "INDIANAPOLIS, IN",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "A62E524A1A2D40378E4BE76B1CDFEDDE206",
-    "JobTitle": "Senior Accountant",
-    "Company": "Cornerstone onDemand",
-    "DatePosted": "2023-3-15 2:46 AM",
-    "Url": "https://de.jobsyn.org/A62E524A1A2D40378E4BE76B1CDFEDDE206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "1BBE9D15B5244C3BBAA23CF0DEE56BBF206",
+    "JvID": "30839AADFD92450682BD8E25EC940AC5206",
     "JobTitle": "Branch Manager",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-3-15 3:14 AM",
-    "Url": "https://de.jobsyn.org/1BBE9D15B5244C3BBAA23CF0DEE56BBF206",
+    "Company": "Financial Center First Credit Union",
+    "DatePosted": "2023-3-17 1:42 AM",
+    "Url": "https://de.jobsyn.org/30839AADFD92450682BD8E25EC940AC5206",
     "Location": "Indianapolis, IN",
     "OnetCode": "11-3031.00"
   },
@@ -1926,20 +1926,20 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "86E68E7AD7554AB487D59FF9CD175E71206",
-    "JobTitle": "Agency Service Rep III",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-16 3:35 AM",
-    "Url": "https://de.jobsyn.org/86E68E7AD7554AB487D59FF9CD175E71206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "41-3021.00"
-  },
-  {
     "JvID": "00EE3D35B951409E983064515AF4A85D206",
     "JobTitle": "Medicare Inside Sales and Retention Agent",
     "Company": "Elevance Health",
     "DatePosted": "2023-2-22 6:38 AM",
     "Url": "https://de.jobsyn.org/00EE3D35B951409E983064515AF4A85D206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "41-3021.00"
+  },
+  {
+    "JvID": "86E68E7AD7554AB487D59FF9CD175E71206",
+    "JobTitle": "Agency Service Rep III",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-3-16 3:35 AM",
+    "Url": "https://de.jobsyn.org/86E68E7AD7554AB487D59FF9CD175E71206",
     "Location": "Indianapolis, IN",
     "OnetCode": "41-3021.00"
   },
@@ -2232,20 +2232,20 @@
     "OnetCode": "41-3031.00"
   },
   {
+    "JvID": "BE67DC019B4240DABDE88F2F8714D29A206",
+    "JobTitle": "Licensed Financial Services Representative",
+    "Company": "Charles Schwab",
+    "DatePosted": "2023-3-11 5:14 AM",
+    "Url": "https://de.jobsyn.org/BE67DC019B4240DABDE88F2F8714D29A206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "41-3031.00"
+  },
+  {
     "JvID": "0921184A8F6F496BB53AFDF86E888E98206",
     "JobTitle": "Client Service Associate",
     "Company": "JPMorgan Chase",
     "DatePosted": "2023-3-12 3:54 AM",
     "Url": "https://de.jobsyn.org/0921184A8F6F496BB53AFDF86E888E98206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "BE67DC019B4240DABDE88F2F8714D29A206",
-    "JobTitle": "Licensed, Financial Services Representative",
-    "Company": "Charles Schwab",
-    "DatePosted": "2023-3-11 5:14 AM",
-    "Url": "https://de.jobsyn.org/BE67DC019B4240DABDE88F2F8714D29A206",
     "Location": "Indianapolis, IN",
     "OnetCode": "41-3031.00"
   },
@@ -2313,20 +2313,20 @@
     "OnetCode": "13-2051.00"
   },
   {
-    "JvID": "487334BBE40F44119210857B01EFCA0B206",
-    "JobTitle": "Corporate Development Analyst",
-    "Company": "Cummins Inc.",
-    "DatePosted": "2023-3-8 2:56 AM",
-    "Url": "https://de.jobsyn.org/487334BBE40F44119210857B01EFCA0B206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-2051.00"
-  },
-  {
     "JvID": "38EDD1FAF37E472B949EC45AB1D7780B206",
     "JobTitle": "Capital Markets Compliance Analyst",
     "Company": "Treliant, LLC",
     "DatePosted": "2023-2-25 1:16 AM",
     "Url": "https://de.jobsyn.org/38EDD1FAF37E472B949EC45AB1D7780B206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "487334BBE40F44119210857B01EFCA0B206",
+    "JobTitle": "Corporate Development Analyst",
+    "Company": "Cummins Inc.",
+    "DatePosted": "2023-3-8 2:56 AM",
+    "Url": "https://de.jobsyn.org/487334BBE40F44119210857B01EFCA0B206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-2051.00"
   },
@@ -2349,15 +2349,6 @@
     "OnetCode": "13-2051.00"
   },
   {
-    "JvID": "C99EABBB7FA844BBA8F8400236E845A3206",
-    "JobTitle": "Finance Director",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-16 4:07 AM",
-    "Url": "https://de.jobsyn.org/C99EABBB7FA844BBA8F8400236E845A3206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-2051.00"
-  },
-  {
     "JvID": "F7D479D3D2964DEBB432A8346E11B3FB206",
     "JobTitle": "Asset Management - High Yield Fixed Income - Program Analyst",
     "Company": "JPMorgan Chase",
@@ -2372,6 +2363,15 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-3-4 4:50 AM",
     "Url": "https://de.jobsyn.org/778BBFD938574CCAB00A79C25240F5C2206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "C99EABBB7FA844BBA8F8400236E845A3206",
+    "JobTitle": "Finance Director",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-16 4:07 AM",
+    "Url": "https://de.jobsyn.org/C99EABBB7FA844BBA8F8400236E845A3206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-2051.00"
   },
@@ -2430,6 +2430,15 @@
     "OnetCode": "13-2051.00"
   },
   {
+    "JvID": "994959E4EACF46C3ABC89488C0A00557206",
+    "JobTitle": "Director of Financial Planning & Analysis",
+    "Company": "Beazer Homes",
+    "DatePosted": "2023-2-14 2:10 AM",
+    "Url": "https://de.jobsyn.org/994959E4EACF46C3ABC89488C0A00557206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-2051.00"
+  },
+  {
     "JvID": "E72DB1D5F7FB43718A13730D8D005A79206",
     "JobTitle": "Senior Financial Analyst, Americas HQ - Smart Infrastructure - Hybrid - Buffalo Grove, IL / Atlanta, GA preferred",
     "Company": "Siemens",
@@ -2448,11 +2457,11 @@
     "OnetCode": "13-2051.00"
   },
   {
-    "JvID": "994959E4EACF46C3ABC89488C0A00557206",
-    "JobTitle": "Director of Financial Planning & Analysis",
-    "Company": "Beazer Homes",
-    "DatePosted": "2023-2-14 2:10 AM",
-    "Url": "https://de.jobsyn.org/994959E4EACF46C3ABC89488C0A00557206",
+    "JvID": "8776B8C5B1984B56A71511E7595D9A67206",
+    "JobTitle": "Financial Data Analyst - Hybrid - Buffalo Grove, IL / Atlanta, GA preferred",
+    "Company": "Siemens",
+    "DatePosted": "2023-2-11 12:03 AM",
+    "Url": "https://de.jobsyn.org/8776B8C5B1984B56A71511E7595D9A67206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-2051.00"
   },
@@ -2466,20 +2475,20 @@
     "OnetCode": "13-2051.00"
   },
   {
-    "JvID": "8776B8C5B1984B56A71511E7595D9A67206",
-    "JobTitle": "Financial Data Analyst - Hybrid - Buffalo Grove, IL / Atlanta, GA preferred",
-    "Company": "Siemens",
-    "DatePosted": "2023-2-11 12:03 AM",
-    "Url": "https://de.jobsyn.org/8776B8C5B1984B56A71511E7595D9A67206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "13-2051.00"
-  },
-  {
     "JvID": "3D31DEBE871C428BBE36B848130CF549206",
     "JobTitle": "Credit Support Analyst",
     "Company": "JPMorgan Chase",
     "DatePosted": "2023-3-16 4:52 AM",
     "Url": "https://de.jobsyn.org/3D31DEBE871C428BBE36B848130CF549206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "44933685D4E04A438972061CA61F917C206",
+    "JobTitle": "FINANCIAL PROGRAM ANALYST (BANKING)",
+    "Company": "US Army Financial Management Command",
+    "DatePosted": "2023-3-17 12:32 AM",
+    "Url": "https://de.jobsyn.org/44933685D4E04A438972061CA61F917C206",
     "Location": "Indianapolis, IN",
     "OnetCode": "13-2041.00"
   },
@@ -2655,6 +2664,15 @@
     "OnetCode": "31-1121.00"
   },
   {
+    "JvID": "8A758C5670AD4C3BA876C64F2B9F91FF206",
+    "JobTitle": "Home Health Aide Assisted Living - HOMEH048217",
+    "Company": "Eagle Care LLC",
+    "DatePosted": "2023-3-16 1:19 PM",
+    "Url": "https://de.jobsyn.org/8A758C5670AD4C3BA876C64F2B9F91FF206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-1121.00"
+  },
+  {
     "JvID": "EF2E22997A2547589DD358371A1F88FB206",
     "JobTitle": "Home Health Aide -  Varius Shifts Available",
     "Company": "Gardant Management Solutions",
@@ -2781,6 +2799,33 @@
     "OnetCode": "31-1121.00"
   },
   {
+    "JvID": "30145CFC2115414892925D0CC840AF5B206",
+    "JobTitle": "CNA Assisted Living Weekend Option",
+    "Company": "American Senior Communities",
+    "DatePosted": "2023-3-17 1:39 AM",
+    "Url": "https://de.jobsyn.org/30145CFC2115414892925D0CC840AF5B206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "C1881081843C4EDDB2A15A6DF0E0CE3E206",
+    "JobTitle": "Qualified Medication Aide QMA PRN",
+    "Company": "SouthPointe Healthcare Center",
+    "DatePosted": "2023-3-16 9:58 PM",
+    "Url": "https://de.jobsyn.org/C1881081843C4EDDB2A15A6DF0E0CE3E206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "4725872EB8904D6E86F60056535DC5FF206",
+    "JobTitle": "Dietary Aide  Assisted Living - DIETA048219",
+    "Company": "Eagle Care LLC",
+    "DatePosted": "2023-3-16 1:19 PM",
+    "Url": "https://de.jobsyn.org/4725872EB8904D6E86F60056535DC5FF206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-1121.00"
+  },
+  {
     "JvID": "DD25A875FDB94F008CBC45E12CE89F36206",
     "JobTitle": "CNA (Certified Nursing Assistant) - ST",
     "Company": "Maxim Healthcare Staffing",
@@ -2799,56 +2844,20 @@
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "26882BB4668642BCBF81AD49D41D24E0206",
-    "JobTitle": "Nurse Aide in Training",
-    "Company": "American Senior Communities",
-    "DatePosted": "2023-3-15 10:28 PM",
-    "Url": "https://de.jobsyn.org/26882BB4668642BCBF81AD49D41D24E0206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "007E6F37F03B4CCB890FE6ABB7A34ED6206",
-    "JobTitle": "QMA Weekend Option - Assisted Living",
-    "Company": "American Senior Communities",
-    "DatePosted": "2023-3-15 10:30 PM",
-    "Url": "https://de.jobsyn.org/007E6F37F03B4CCB890FE6ABB7A34ED6206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "2AFC5A5B047E4C2898ECA4794A071379206",
-    "JobTitle": "Housekeeping Aide Assisted Living - HOUSE048190",
+    "JvID": "42EFA28CD3944A43896AB3D671332C70206",
+    "JobTitle": "CNA Assisted Living - CNAAS048216",
     "Company": "Eagle Care LLC",
-    "DatePosted": "2023-3-14 1:19 PM",
-    "Url": "https://de.jobsyn.org/2AFC5A5B047E4C2898ECA4794A071379206",
+    "DatePosted": "2023-3-16 1:19 PM",
+    "Url": "https://de.jobsyn.org/42EFA28CD3944A43896AB3D671332C70206",
     "Location": "Indianapolis, IN",
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "1A249BDC0F8C43AEB4A707118E403F4B206",
-    "JobTitle": "Qualified Medication Aide - (QMA) -  2nd Shift",
+    "JvID": "0D4ABEF0DFC545C49A9756F0B6D95E63206",
+    "JobTitle": "Qualified Medication Aide - (QMA) - Full-Time",
     "Company": "Gardant Management Solutions",
-    "DatePosted": "2023-3-14 10:11 PM",
-    "Url": "https://de.jobsyn.org/1A249BDC0F8C43AEB4A707118E403F4B206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "2C88C8E36D7B4B918FB857FF068B87FF206",
-    "JobTitle": "QMA Qualified Medication Aide",
-    "Company": "SouthPointe Healthcare Center",
-    "DatePosted": "2023-3-14 7:26 AM",
-    "Url": "https://de.jobsyn.org/2C88C8E36D7B4B918FB857FF068B87FF206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "6E0FBEF96BBD424D85581432533906BF206",
-    "JobTitle": "Dietary Aide -  1st Shift",
-    "Company": "Gardant Management Solutions",
-    "DatePosted": "2023-3-14 10:11 PM",
-    "Url": "https://de.jobsyn.org/6E0FBEF96BBD424D85581432533906BF206",
+    "DatePosted": "2023-3-16 7:37 AM",
+    "Url": "https://de.jobsyn.org/0D4ABEF0DFC545C49A9756F0B6D95E63206",
     "Location": "Indianapolis, IN",
     "OnetCode": "31-1121.00"
   },
@@ -2997,15 +3006,6 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "3B77B53E68C449E0A500F05CF80FA16C206",
-    "JobTitle": "Registered Nurse (RN)",
-    "Company": "Acadia Healthcare",
-    "DatePosted": "2023-2-18 12:38 AM",
-    "Url": "https://de.jobsyn.org/3B77B53E68C449E0A500F05CF80FA16C206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "6A21A402F0E841C89EA67D20FA5C260D206",
     "JobTitle": "RN Registered Nurse",
     "Company": "SouthPointe Healthcare Center",
@@ -3015,29 +3015,11 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "BF59A7756C9641B987E4A9829DFCF176206",
-    "JobTitle": "Registered Nurse PRN",
-    "Company": "Acadia Healthcare",
-    "DatePosted": "2023-3-2 11:18 PM",
-    "Url": "https://de.jobsyn.org/BF59A7756C9641B987E4A9829DFCF176206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "FD39DF938B464E54A27428CAEC190E85206",
     "JobTitle": "RN Registered Nurse, PRN",
     "Company": "SouthPointe Healthcare Center",
     "DatePosted": "2023-3-3 1:26 AM",
     "Url": "https://de.jobsyn.org/FD39DF938B464E54A27428CAEC190E85206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "5333139CE6B04ED2BD1CC3C6A8BE3F26206",
-    "JobTitle": "Registered Nurse - PRN",
-    "Company": "Acadia Healthcare",
-    "DatePosted": "2023-2-18 12:38 AM",
-    "Url": "https://de.jobsyn.org/5333139CE6B04ED2BD1CC3C6A8BE3F26206",
     "Location": "Indianapolis, IN",
     "OnetCode": "29-1141.00"
   },
@@ -3074,6 +3056,33 @@
     "Company": "American Senior Communities",
     "DatePosted": "2023-2-22 12:49 AM",
     "Url": "https://de.jobsyn.org/6068E6480015429A95736CCD0C08052C206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "4954E6EEB71D455CA692E5B85E85DF54206",
+    "JobTitle": "RN-Registered Nurse- PICU",
+    "Company": "Ascension Health",
+    "DatePosted": "2023-3-8 4:03 AM",
+    "Url": "https://de.jobsyn.org/4954E6EEB71D455CA692E5B85E85DF54206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "0AEA5EA795AD4E14A45B92E0C987D944206",
+    "JobTitle": "Registered Nurse RN",
+    "Company": "American Senior Communities",
+    "DatePosted": "2023-2-22 12:49 AM",
+    "Url": "https://de.jobsyn.org/0AEA5EA795AD4E14A45B92E0C987D944206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "CF914E0BD8B548828B4A2B322CFFDAB5206",
+    "JobTitle": "RN Registered Nurse",
+    "Company": "American Senior Communities",
+    "DatePosted": "2023-2-21 1:59 AM",
+    "Url": "https://de.jobsyn.org/CF914E0BD8B548828B4A2B322CFFDAB5206",
     "Location": "Indianapolis, IN",
     "OnetCode": "29-1141.00"
   },
@@ -3132,21 +3141,21 @@
     "OnetCode": "31-1131.00"
   },
   {
-    "JvID": "15D2D9160DF44226B921881FA5E0EA31206",
-    "JobTitle": "Certified Nursing Assistant",
-    "Company": "Magnolia Health Systems",
-    "DatePosted": "2023-3-14 6:08 AM",
-    "Url": "https://de.jobsyn.org/15D2D9160DF44226B921881FA5E0EA31206",
-    "Location": "INDIANAPOLIS, IN",
-    "OnetCode": "31-1131.00"
-  },
-  {
     "JvID": "666E13AE54B1419D86C74E1108234986206",
     "JobTitle": "Certified Nursing Assistant",
     "Company": "Acadia Healthcare",
     "DatePosted": "2023-3-2 11:18 PM",
     "Url": "https://de.jobsyn.org/666E13AE54B1419D86C74E1108234986206",
     "Location": "Indianapolis, IN",
+    "OnetCode": "31-1131.00"
+  },
+  {
+    "JvID": "15D2D9160DF44226B921881FA5E0EA31206",
+    "JobTitle": "Certified Nursing Assistant",
+    "Company": "Magnolia Health Systems",
+    "DatePosted": "2023-3-14 6:08 AM",
+    "Url": "https://de.jobsyn.org/15D2D9160DF44226B921881FA5E0EA31206",
+    "Location": "INDIANAPOLIS, IN",
     "OnetCode": "31-1131.00"
   },
   {
@@ -3258,15 +3267,6 @@
     "OnetCode": "31-1131.00"
   },
   {
-    "JvID": "8568A7CDC03F4D2BAFC6744FA2BBA9BC206",
-    "JobTitle": "CNA (Certified Nursing Assistant) - ST",
-    "Company": "Maxim Healthcare Staffing",
-    "DatePosted": "2023-3-15 3:13 AM",
-    "Url": "https://de.jobsyn.org/8568A7CDC03F4D2BAFC6744FA2BBA9BC206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-1131.00"
-  },
-  {
     "JvID": "31A467A1AA8E45FDB85966ADAC5B9AF5206",
     "JobTitle": "Certified Nursing Assistant\u00a0- CNA - Rehab Facility",
     "Company": "CareerStaff Unlimited",
@@ -3281,6 +3281,15 @@
     "Company": "CareerStaff Unlimited",
     "DatePosted": "2023-3-3 2:30 AM",
     "Url": "https://de.jobsyn.org/0472EBB9DF36468D9FC8222AED20CFB5206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-1131.00"
+  },
+  {
+    "JvID": "8568A7CDC03F4D2BAFC6744FA2BBA9BC206",
+    "JobTitle": "CNA (Certified Nursing Assistant) - ST",
+    "Company": "Maxim Healthcare Staffing",
+    "DatePosted": "2023-3-15 3:13 AM",
+    "Url": "https://de.jobsyn.org/8568A7CDC03F4D2BAFC6744FA2BBA9BC206",
     "Location": "Indianapolis, IN",
     "OnetCode": "31-1131.00"
   },
@@ -3348,15 +3357,6 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "91B3201CB7504307B780847FF5BDBE9F206",
-    "JobTitle": "Medical Assistant- Indy Downtown",
-    "Company": "Nova Medical Centers",
-    "DatePosted": "2023-2-23 12:57 AM",
-    "Url": "https://de.jobsyn.org/91B3201CB7504307B780847FF5BDBE9F206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-9092.00"
-  },
-  {
     "JvID": "EF4371D16C7746B3A3CB46A12C882807206",
     "JobTitle": "Medical Assistant Primary Care",
     "Company": "UnitedHealth Group",
@@ -3398,33 +3398,6 @@
     "Company": "Veterans Affairs, Veterans Health Administration",
     "DatePosted": "2023-3-9 5:52 AM",
     "Url": "https://de.jobsyn.org/AFF5CBC889F045DAADEC0262A5FD42F6206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "9B242A9ED9194EEABE8D43B48DB22CBF206",
-    "JobTitle": "Medical Support Assistant (Advanced)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-3 7:01 AM",
-    "Url": "https://de.jobsyn.org/9B242A9ED9194EEABE8D43B48DB22CBF206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "ECC2A59795714F728117FF457CD6BD23206",
-    "JobTitle": "Lead Medical Support Assistant",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-3 7:00 AM",
-    "Url": "https://de.jobsyn.org/ECC2A59795714F728117FF457CD6BD23206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "C90F08FC258A4F1A80B2C1B89467B904206",
-    "JobTitle": "Medical Support Assistant (Advanced)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-3 7:01 AM",
-    "Url": "https://de.jobsyn.org/C90F08FC258A4F1A80B2C1B89467B904206",
     "Location": "Indianapolis, IN",
     "OnetCode": "31-9092.00"
   },
@@ -3528,6 +3501,42 @@
     "OnetCode": "31-9092.00"
   },
   {
+    "JvID": "53FCEC7BFE3B4BDAAADC2A8405BE08AE206",
+    "JobTitle": "Medical Assistant - OBGYN Care South",
+    "Company": "Community Health Network",
+    "DatePosted": "2023-3-10 5:07 AM",
+    "Url": "https://de.jobsyn.org/53FCEC7BFE3B4BDAAADC2A8405BE08AE206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "13C7043FAB7A4582B8144DD0B985894C206",
+    "JobTitle": "Medical Assistant - Dawes Fretzin Dermatology",
+    "Company": "Community Health Network",
+    "DatePosted": "2023-3-8 6:01 AM",
+    "Url": "https://de.jobsyn.org/13C7043FAB7A4582B8144DD0B985894C206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "83D4B77A52224C0FA7724B50FC8A0F7F206",
+    "JobTitle": "Medical Assistant - Employee Health - East",
+    "Company": "Community Health Network",
+    "DatePosted": "2023-3-7 3:10 AM",
+    "Url": "https://de.jobsyn.org/83D4B77A52224C0FA7724B50FC8A0F7F206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "09FA34C576B4487AB2A01CE9A793E6E4206",
+    "JobTitle": "Medical Assistant I-Riley Peds Pulmonary-North",
+    "Company": "Indiana University Health",
+    "DatePosted": "2023-3-9 6:49 AM",
+    "Url": "https://de.jobsyn.org/09FA34C576B4487AB2A01CE9A793E6E4206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "31-9092.00"
+  },
+  {
     "JvID": "912537C019204F5BA82893160E52C0B6206",
     "JobTitle": "Pharmacy Technician",
     "Company": "CVS Health",
@@ -3570,6 +3579,15 @@
     "DatePosted": "2023-3-3 10:25 PM",
     "Url": "https://de.jobsyn.org/4644A6ED0C494113A4EFA55D158A176D206",
     "Location": "Indianapolis, IN",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "120ED07D77644383B17F75765D5C6812206",
+    "JobTitle": "Level 2 Pharmacy Technician",
+    "Company": "Meijer",
+    "DatePosted": "2023-3-17 1:11 AM",
+    "Url": "https://de.jobsyn.org/120ED07D77644383B17F75765D5C6812206",
+    "Location": "Keystone Ave - Indianapolis, IN",
     "OnetCode": "29-2052.00"
   },
   {
@@ -3663,20 +3681,20 @@
     "OnetCode": "29-2052.00"
   },
   {
-    "JvID": "11C917A0EE24465A9466A06976743AB3206",
-    "JobTitle": "Pharmacy Technician Community East",
-    "Company": "Community Health Network",
-    "DatePosted": "2023-3-10 5:07 AM",
-    "Url": "https://de.jobsyn.org/11C917A0EE24465A9466A06976743AB3206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "29-2052.00"
-  },
-  {
     "JvID": "21B375674D9C42E8BB1E840ACA1685C6206",
     "JobTitle": "PRN Pharmacy Technician I - Riley Hospital for Children",
     "Company": "Indiana University Health",
     "DatePosted": "2023-3-10 1:11 AM",
     "Url": "https://de.jobsyn.org/21B375674D9C42E8BB1E840ACA1685C6206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "11C917A0EE24465A9466A06976743AB3206",
+    "JobTitle": "Pharmacy Technician Community East",
+    "Company": "Community Health Network",
+    "DatePosted": "2023-3-10 5:07 AM",
+    "Url": "https://de.jobsyn.org/11C917A0EE24465A9466A06976743AB3206",
     "Location": "Indianapolis, IN",
     "OnetCode": "29-2052.00"
   },
@@ -3699,15 +3717,6 @@
     "OnetCode": "29-2052.00"
   },
   {
-    "JvID": "ED240CF6D56044CC8CFF726E2448E6FC206",
-    "JobTitle": "Pharmacy Technician North",
-    "Company": "Community Health Network",
-    "DatePosted": "2023-2-18 5:45 AM",
-    "Url": "https://de.jobsyn.org/ED240CF6D56044CC8CFF726E2448E6FC206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "29-2052.00"
-  },
-  {
     "JvID": "E359CEB0CC51470EAF1B15E009DE6AAE206",
     "JobTitle": "Retail Pharmacy Technician I - University Hospital (Full Time, Days)",
     "Company": "Indiana University Health",
@@ -3726,6 +3735,15 @@
     "OnetCode": "29-2052.00"
   },
   {
+    "JvID": "ED240CF6D56044CC8CFF726E2448E6FC206",
+    "JobTitle": "Pharmacy Technician North",
+    "Company": "Community Health Network",
+    "DatePosted": "2023-2-18 5:45 AM",
+    "Url": "https://de.jobsyn.org/ED240CF6D56044CC8CFF726E2448E6FC206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "29-2052.00"
+  },
+  {
     "JvID": "0AA989074A3F4D8FAA5F88246568AB80206",
     "JobTitle": "Pharmacy Technician Certified South",
     "Company": "Community Health Network",
@@ -3735,21 +3753,12 @@
     "OnetCode": "29-2052.00"
   },
   {
-    "JvID": "9D97C38D22FB4CF0B4BA351BF787B004206",
-    "JobTitle": "Pharmacy Technician-Retail/Discharge",
-    "Company": "Ascension Health",
-    "DatePosted": "2023-3-7 6:46 AM",
-    "Url": "https://de.jobsyn.org/9D97C38D22FB4CF0B4BA351BF787B004206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "B5A27C24045F4A4187CD7AFBBA5143F9206",
-    "JobTitle": "Pharmacy Technician - IV",
-    "Company": "PharmScript, LLC",
-    "DatePosted": "2023-2-23 7:57 AM",
-    "Url": "https://de.jobsyn.org/B5A27C24045F4A4187CD7AFBBA5143F9206",
-    "Location": "Indianapolis, IN",
+    "JvID": "3EEBBEA405C548D7988375781C0FA1AD206",
+    "JobTitle": "Licensed Pharmacy Technician",
+    "Company": "Meijer",
+    "DatePosted": "2023-3-17 1:13 AM",
+    "Url": "https://de.jobsyn.org/3EEBBEA405C548D7988375781C0FA1AD206",
+    "Location": "Keystone Ave - Indianapolis, IN",
     "OnetCode": "29-2052.00"
   },
   {
@@ -3825,20 +3834,20 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "AFFAD4DB13564C0688604E6F54AF3644206",
-    "JobTitle": "Software Developer 2",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-16 5:25 AM",
-    "Url": "https://de.jobsyn.org/AFFAD4DB13564C0688604E6F54AF3644206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1252.00"
-  },
-  {
     "JvID": "FD919F08BA4C4B33A93A25351C5EEC38206",
     "JobTitle": "Software Development Manager",
     "Company": "Black & Veatch",
     "DatePosted": "2023-3-10 3:46 AM",
     "Url": "https://de.jobsyn.org/FD919F08BA4C4B33A93A25351C5EEC38206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "AFFAD4DB13564C0688604E6F54AF3644206",
+    "JobTitle": "Software Developer 2",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-16 5:25 AM",
+    "Url": "https://de.jobsyn.org/AFFAD4DB13564C0688604E6F54AF3644206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1252.00"
   },
@@ -3888,11 +3897,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "09B88D9AF0254E4397B07DD41F7F0E8B206",
-    "JobTitle": "Senior Software Development Analyst",
-    "Company": "Thompson Thrift",
-    "DatePosted": "2023-2-5 1:48 AM",
-    "Url": "https://de.jobsyn.org/09B88D9AF0254E4397B07DD41F7F0E8B206",
+    "JvID": "91FB70EB964745FCB38C3F94EF1EB1AE206",
+    "JobTitle": "Software Developer III",
+    "Company": "ABBTECH Professional Resources, Inc.",
+    "DatePosted": "2023-2-23 5:13 AM",
+    "Url": "https://de.jobsyn.org/91FB70EB964745FCB38C3F94EF1EB1AE206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1252.00"
   },
@@ -3915,24 +3924,6 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "91FB70EB964745FCB38C3F94EF1EB1AE206",
-    "JobTitle": "Software Developer III",
-    "Company": "ABBTECH Professional Resources, Inc.",
-    "DatePosted": "2023-2-23 5:13 AM",
-    "Url": "https://de.jobsyn.org/91FB70EB964745FCB38C3F94EF1EB1AE206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "D228BC750C53482EBB8BB69429F8795A206",
-    "JobTitle": "Software Development Project Manager",
-    "Company": "Guidehouse",
-    "DatePosted": "2023-3-14 4:38 AM",
-    "Url": "https://de.jobsyn.org/D228BC750C53482EBB8BB69429F8795A206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1252.00"
-  },
-  {
     "JvID": "B58BFDAD6D83478281E49641964D175D206",
     "JobTitle": "Software Developer II",
     "Company": "Indiana Farm Bureau Insurance",
@@ -3947,6 +3938,33 @@
     "Company": "Oracle",
     "DatePosted": "2023-2-15 2:51 AM",
     "Url": "https://de.jobsyn.org/40E37C0CFD0B4586AE2C755A16E395FF206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "D228BC750C53482EBB8BB69429F8795A206",
+    "JobTitle": "Software Development Project Manager",
+    "Company": "Guidehouse",
+    "DatePosted": "2023-3-14 4:38 AM",
+    "Url": "https://de.jobsyn.org/D228BC750C53482EBB8BB69429F8795A206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "3BC230EFA5014E5F868533434150DF00206",
+    "JobTitle": "Senior Principal Software Developer",
+    "Company": "Oracle",
+    "DatePosted": "2023-2-22 3:09 AM",
+    "Url": "https://de.jobsyn.org/3BC230EFA5014E5F868533434150DF00206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "F3AA919284AE40D991EC6B134F94C6FC206",
+    "JobTitle": ".NET Software Developer- REMOTE",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-2-22 12:23 AM",
+    "Url": "https://de.jobsyn.org/F3AA919284AE40D991EC6B134F94C6FC206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1252.00"
   },
@@ -3978,15 +3996,6 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "3BC230EFA5014E5F868533434150DF00206",
-    "JobTitle": "Senior Principal Software Developer",
-    "Company": "Oracle",
-    "DatePosted": "2023-2-22 3:09 AM",
-    "Url": "https://de.jobsyn.org/3BC230EFA5014E5F868533434150DF00206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1252.00"
-  },
-  {
     "JvID": "3F4DF50689454E95ABAEE077CE35CB36206",
     "JobTitle": "Principal Software Developer",
     "Company": "Oracle",
@@ -4005,20 +4014,20 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "2E7FE0F03955463BADCD493F8B8CF7A2206",
+    "JobTitle": "Lead Software Developer",
+    "Company": "Oracle",
+    "DatePosted": "2023-2-23 4:45 AM",
+    "Url": "https://de.jobsyn.org/2E7FE0F03955463BADCD493F8B8CF7A2206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "FF4E9EF121E7433D96D5283EE24041D6206",
     "JobTitle": "Software Developer 3",
     "Company": "Oracle",
     "DatePosted": "2023-3-14 4:20 AM",
     "Url": "https://de.jobsyn.org/FF4E9EF121E7433D96D5283EE24041D6206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "F3AA919284AE40D991EC6B134F94C6FC206",
-    "JobTitle": ".NET Software Developer- REMOTE",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-2-22 12:23 AM",
-    "Url": "https://de.jobsyn.org/F3AA919284AE40D991EC6B134F94C6FC206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1252.00"
   },
@@ -4032,11 +4041,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "2E7FE0F03955463BADCD493F8B8CF7A2206",
-    "JobTitle": "Lead Software Developer",
+    "JvID": "3B3BB72C2ECA4D899EB40378D1C89788206",
+    "JobTitle": "Principal Software Developer",
     "Company": "Oracle",
-    "DatePosted": "2023-2-23 4:45 AM",
-    "Url": "https://de.jobsyn.org/2E7FE0F03955463BADCD493F8B8CF7A2206",
+    "DatePosted": "2023-3-10 4:03 AM",
+    "Url": "https://de.jobsyn.org/3B3BB72C2ECA4D899EB40378D1C89788206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1252.00"
   },
@@ -4230,6 +4239,15 @@
     "OnetCode": "15-1232.00"
   },
   {
+    "JvID": "B06A75E1DD104564A261C5611F6E6674206",
+    "JobTitle": "IT SPECIALIST (INFOSEC)",
+    "Company": "U.S. Marine Corps",
+    "DatePosted": "2023-3-16 11:31 PM",
+    "Url": "https://de.jobsyn.org/B06A75E1DD104564A261C5611F6E6674206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1232.00"
+  },
+  {
     "JvID": "EA94915D951C42B7BCDCC7D3AC422C26206",
     "JobTitle": "Information Technology Specialist",
     "Company": "Executive Office for U.S. Attorneys and the Office of the U.S. Attorneys",
@@ -4298,6 +4316,51 @@
     "Company": "BioLife Plasma Services",
     "DatePosted": "2023-3-16 5:28 AM",
     "Url": "https://de.jobsyn.org/9312424F202B4BA998ACD8F0D8009DEA206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "64D24DC9D48247BD8F647C993DF0D77C206",
+    "JobTitle": "Technology Solutions Success Specialist (Pennsylvania, Maryland, Virginia, Georgia, Florida)",
+    "Company": "Merck",
+    "DatePosted": "2023-3-17 2:19 AM",
+    "Url": "https://de.jobsyn.org/64D24DC9D48247BD8F647C993DF0D77C206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "92637135F37F49F690E01EA768B52ED2206",
+    "JobTitle": "FINANCIAL PROGRAM ANALYST (INSTRUCTOR)",
+    "Company": "US Army Financial Management Command",
+    "DatePosted": "2023-3-17 12:32 AM",
+    "Url": "https://de.jobsyn.org/92637135F37F49F690E01EA768B52ED2206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "39E1D73470B74D7D8CCF87EDC0A21FAB206",
+    "JobTitle": "Senior ServiceNow HR Business Analyst (Remote)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:14 AM",
+    "Url": "https://de.jobsyn.org/39E1D73470B74D7D8CCF87EDC0A21FAB206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "6A8C90E09AD24D7080306295F7D7B87C206",
+    "JobTitle": "e-Service Chat Representative -100% Remote",
+    "Company": "Frontdoor",
+    "DatePosted": "2023-3-16 6:52 PM",
+    "Url": "https://de.jobsyn.org/6A8C90E09AD24D7080306295F7D7B87C206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "805CAD03D72741D0A7B97902C2038BD9206",
+    "JobTitle": "Linux / Cyber Security Administrator - Remote",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:19 AM",
+    "Url": "https://de.jobsyn.org/805CAD03D72741D0A7B97902C2038BD9206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1232.00"
   },
@@ -4392,60 +4455,6 @@
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "8ECC1DED8D234BA7B2E3E74F6DE24150206",
-    "JobTitle": "Product Support Representative",
-    "Company": "Change Healthcare",
-    "DatePosted": "2023-3-16 2:58 AM",
-    "Url": "https://de.jobsyn.org/8ECC1DED8D234BA7B2E3E74F6DE24150206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "D2BFFE7A97714D64B8FAE80DE01C7676206",
-    "JobTitle": "Senior ServiceNow HR Business Analyst (Remote)",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-3-15 12:23 AM",
-    "Url": "https://de.jobsyn.org/D2BFFE7A97714D64B8FAE80DE01C7676206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "69F91A2B358F403C837E64B968308EE0206",
-    "JobTitle": "IT Event Specialist",
-    "Company": "Legends Hospitality",
-    "DatePosted": "2023-3-15 12:47 AM",
-    "Url": "https://de.jobsyn.org/69F91A2B358F403C837E64B968308EE0206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "BF1CF600949E4A85A68FB62D43CBAFE7206",
-    "JobTitle": "Systems Support Engineer I",
-    "Company": "Red River",
-    "DatePosted": "2023-3-15 3:42 AM",
-    "Url": "https://de.jobsyn.org/BF1CF600949E4A85A68FB62D43CBAFE7206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "372DA5A2D9E44A0184AF5DFCD970CEB3206",
-    "JobTitle": "Business Systems Administrator IV - ServiceNow - REMOTE",
-    "Company": "Ryder System",
-    "DatePosted": "2023-3-14 8:59 PM",
-    "Url": "https://de.jobsyn.org/372DA5A2D9E44A0184AF5DFCD970CEB3206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "403BEE71C7C94F5887DB8FEE3F9BE7F1206",
-    "JobTitle": "Associate Consultant",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-15 2:44 AM",
-    "Url": "https://de.jobsyn.org/403BEE71C7C94F5887DB8FEE3F9BE7F1206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1232.00"
-  },
-  {
     "JvID": "21A0D806D8A646E1968C7F5DC0470E48206",
     "JobTitle": "Business Analyst",
     "Company": "Asphalt Materials, Inc",
@@ -4500,29 +4509,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "B51BEE8E473C4B3C9D63B8DB4E7364FF206",
-    "JobTitle": "Specification Analyst",
-    "Company": "Grundfos Americas Corporation",
-    "DatePosted": "2023-3-15 4:22 AM",
-    "Url": "https://de.jobsyn.org/B51BEE8E473C4B3C9D63B8DB4E7364FF206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "CE302130FFB246A1B6C74AFAD3EA7A71206",
     "JobTitle": "Information Security Analyst Sr",
     "Company": "State of Indiana",
     "DatePosted": "2023-3-1 8:19 AM",
     "Url": "https://de.jobsyn.org/CE302130FFB246A1B6C74AFAD3EA7A71206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "18C97DC6580F41119B543D4783787144206",
-    "JobTitle": ".NET Software Developer",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-3-15 12:22 AM",
-    "Url": "https://de.jobsyn.org/18C97DC6580F41119B543D4783787144206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1211.00"
   },
@@ -4536,11 +4527,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "FA5BC0E0900E4701B61E3EF5AC30C8FE206",
-    "JobTitle": "Sr. Payroll Analyst",
-    "Company": "CTG",
-    "DatePosted": "2023-3-14 3:01 AM",
-    "Url": "https://de.jobsyn.org/FA5BC0E0900E4701B61E3EF5AC30C8FE206",
+    "JvID": "B51BEE8E473C4B3C9D63B8DB4E7364FF206",
+    "JobTitle": "Specification Analyst",
+    "Company": "Grundfos Americas Corporation",
+    "DatePosted": "2023-3-15 4:22 AM",
+    "Url": "https://de.jobsyn.org/B51BEE8E473C4B3C9D63B8DB4E7364FF206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1211.00"
   },
@@ -4554,20 +4545,20 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "B1CDEB6D4CB544A68B89E580C6B7C22A206",
+    "JvID": "18C97DC6580F41119B543D4783787144206",
     "JobTitle": ".NET Software Developer",
     "Company": "ICF Consulting Group, Inc.",
     "DatePosted": "2023-3-15 12:22 AM",
-    "Url": "https://de.jobsyn.org/B1CDEB6D4CB544A68B89E580C6B7C22A206",
+    "Url": "https://de.jobsyn.org/18C97DC6580F41119B543D4783787144206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "F30281EC5CC0489B80A1EA0DCB07FB1C206",
-    "JobTitle": "Business Analyst",
-    "Company": "American Heart Association",
-    "DatePosted": "2023-3-15 3:52 PM",
-    "Url": "https://de.jobsyn.org/F30281EC5CC0489B80A1EA0DCB07FB1C206",
+    "JvID": "FA5BC0E0900E4701B61E3EF5AC30C8FE206",
+    "JobTitle": "Sr. Payroll Analyst",
+    "Company": "CTG",
+    "DatePosted": "2023-3-14 3:01 AM",
+    "Url": "https://de.jobsyn.org/FA5BC0E0900E4701B61E3EF5AC30C8FE206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1211.00"
   },
@@ -4590,6 +4581,15 @@
     "OnetCode": "15-1211.00"
   },
   {
+    "JvID": "B1CDEB6D4CB544A68B89E580C6B7C22A206",
+    "JobTitle": ".NET Software Developer",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-15 12:22 AM",
+    "Url": "https://de.jobsyn.org/B1CDEB6D4CB544A68B89E580C6B7C22A206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1211.00"
+  },
+  {
     "JvID": "DF10A055532940D198A3921DFB49C8F5206",
     "JobTitle": "Technical Analyst IT - Customer Experience",
     "Company": "Lilly",
@@ -4608,11 +4608,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "ED00C268A7A5446BAFA558EB51E86A3F206",
-    "JobTitle": "Associate Technical Analyst \u2013 The Leading Edge",
-    "Company": "HealthEdge Software Inc",
-    "DatePosted": "2023-3-15 4:45 AM",
-    "Url": "https://de.jobsyn.org/ED00C268A7A5446BAFA558EB51E86A3F206",
+    "JvID": "F30281EC5CC0489B80A1EA0DCB07FB1C206",
+    "JobTitle": "Business Analyst",
+    "Company": "American Heart Association",
+    "DatePosted": "2023-3-15 3:52 PM",
+    "Url": "https://de.jobsyn.org/F30281EC5CC0489B80A1EA0DCB07FB1C206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1211.00"
   },
@@ -4635,11 +4635,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "6B57BF8F4C55447B948A72F084141B64206",
-    "JobTitle": "Pega Service Delivery Center Analyst - Tech Consulting - Staff II - Location Open",
-    "Company": "EY",
-    "DatePosted": "2023-3-11 12:58 AM",
-    "Url": "https://de.jobsyn.org/6B57BF8F4C55447B948A72F084141B64206",
+    "JvID": "ED00C268A7A5446BAFA558EB51E86A3F206",
+    "JobTitle": "Associate Technical Analyst \u2013 The Leading Edge",
+    "Company": "HealthEdge Software Inc",
+    "DatePosted": "2023-3-15 4:45 AM",
+    "Url": "https://de.jobsyn.org/ED00C268A7A5446BAFA558EB51E86A3F206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1211.00"
   },
@@ -4653,6 +4653,15 @@
     "OnetCode": "15-1211.00"
   },
   {
+    "JvID": "021BB290F3954F17A66E02CE884E2BAB206",
+    "JobTitle": "USA-IS&S Business Analyst-4-Financial Experience - J3S3MR6SQ906M1T58XY-3294",
+    "Company": "BC Forward",
+    "DatePosted": "2023-2-26 6:54 AM",
+    "Url": "https://de.jobsyn.org/021BB290F3954F17A66E02CE884E2BAB206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1211.00"
+  },
+  {
     "JvID": "7EB247EA94064CB2A4D4AD44EB1D8AB6206",
     "JobTitle": "Data  Analyst",
     "Company": "Robert Half",
@@ -4662,11 +4671,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "021BB290F3954F17A66E02CE884E2BAB206",
-    "JobTitle": "USA-IS&S Business Analyst-4-Financial Experience - J3S3MR6SQ906M1T58XY-3294",
-    "Company": "BC Forward",
-    "DatePosted": "2023-2-26 6:54 AM",
-    "Url": "https://de.jobsyn.org/021BB290F3954F17A66E02CE884E2BAB206",
+    "JvID": "03E8426D38D44C3A904661A418433BDC206",
+    "JobTitle": "Application Systems Analyst/Prog Senior",
+    "Company": "State of Indiana",
+    "DatePosted": "2023-2-16 8:11 AM",
+    "Url": "https://de.jobsyn.org/03E8426D38D44C3A904661A418433BDC206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1211.00"
   },
@@ -4689,15 +4698,6 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "C2CEEB2EE8EB4BDBBB1A9DDAE18294D6206",
-    "JobTitle": "GCP Cloud Architect",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-16 4:39 AM",
-    "Url": "https://de.jobsyn.org/C2CEEB2EE8EB4BDBBB1A9DDAE18294D6206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "1B99718D5AA4405895B9C6B173E872F0206",
     "JobTitle": "Delivery Architect - Parsec Traksys Consultant",
     "Company": "Capgemini",
@@ -4716,38 +4716,20 @@
     "OnetCode": "15-1299.08"
   },
   {
+    "JvID": "C2CEEB2EE8EB4BDBBB1A9DDAE18294D6206",
+    "JobTitle": "GCP Cloud Architect",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-16 4:39 AM",
+    "Url": "https://de.jobsyn.org/C2CEEB2EE8EB4BDBBB1A9DDAE18294D6206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1299.08"
+  },
+  {
     "JvID": "6BF7B9C750FF4FF8B025CE67E4BC2E76206",
     "JobTitle": "Principal Engineer, Data Engineering",
     "Company": "Somatus",
     "DatePosted": "2023-3-16 4:02 AM",
     "Url": "https://de.jobsyn.org/6BF7B9C750FF4FF8B025CE67E4BC2E76206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "E28D418DB20A4E35A9D1D461E5E5208A206",
-    "JobTitle": "Microsoft Dynamics Architect",
-    "Company": "Guidehouse",
-    "DatePosted": "2023-3-16 5:03 AM",
-    "Url": "https://de.jobsyn.org/E28D418DB20A4E35A9D1D461E5E5208A206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "5E620F50DE824C878848F83BB4913E82206",
-    "JobTitle": "Enterprise Architect - Location Open",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-15 4:29 AM",
-    "Url": "https://de.jobsyn.org/5E620F50DE824C878848F83BB4913E82206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "5D4EBB1EEC854D9AADBB1090799B6FAB206",
-    "JobTitle": "Application Engineer (Full Stack/Mobile)",
-    "Company": "Discover",
-    "DatePosted": "2023-3-15 3:36 AM",
-    "Url": "https://de.jobsyn.org/5D4EBB1EEC854D9AADBB1090799B6FAB206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1299.08"
   },
@@ -4770,6 +4752,42 @@
     "OnetCode": "15-1299.08"
   },
   {
+    "JvID": "5E620F50DE824C878848F83BB4913E82206",
+    "JobTitle": "Enterprise Architect - Location Open",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-15 4:29 AM",
+    "Url": "https://de.jobsyn.org/5E620F50DE824C878848F83BB4913E82206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "E28D418DB20A4E35A9D1D461E5E5208A206",
+    "JobTitle": "Microsoft Dynamics Architect",
+    "Company": "Guidehouse",
+    "DatePosted": "2023-3-16 5:03 AM",
+    "Url": "https://de.jobsyn.org/E28D418DB20A4E35A9D1D461E5E5208A206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "5D4EBB1EEC854D9AADBB1090799B6FAB206",
+    "JobTitle": "Application Engineer (Full Stack/Mobile)",
+    "Company": "Discover",
+    "DatePosted": "2023-3-15 3:36 AM",
+    "Url": "https://de.jobsyn.org/5D4EBB1EEC854D9AADBB1090799B6FAB206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "BA0EFB226ED84B929731761F412CE0A0206",
+    "JobTitle": "Architect",
+    "Company": "Rose International, Inc.",
+    "DatePosted": "2023-3-2 2:29 PM",
+    "Url": "https://de.jobsyn.org/BA0EFB226ED84B929731761F412CE0A0206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1299.08"
+  },
+  {
     "JvID": "D42831C220A74B8381CB5DDADA6304A3206",
     "JobTitle": "Staff Customer Success Architect - Opportunity for Working Remotely",
     "Company": "VMware",
@@ -4788,29 +4806,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "BA0EFB226ED84B929731761F412CE0A0206",
-    "JobTitle": "Architect",
-    "Company": "Rose International, Inc.",
-    "DatePosted": "2023-3-2 2:29 PM",
-    "Url": "https://de.jobsyn.org/BA0EFB226ED84B929731761F412CE0A0206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "6082BA00FF0D4DA287BC0F3D0442463C206",
     "JobTitle": "Cloud Solutions Architect (Remote)",
     "Company": "ICF Consulting Group, Inc.",
     "DatePosted": "2023-3-16 12:06 AM",
     "Url": "https://de.jobsyn.org/6082BA00FF0D4DA287BC0F3D0442463C206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "A98C048BC32D477C881ABD35C4A2DA8D206",
-    "JobTitle": "Senior Data Migration Architect",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-16 4:21 AM",
-    "Url": "https://de.jobsyn.org/A98C048BC32D477C881ABD35C4A2DA8D206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1299.08"
   },
@@ -4842,15 +4842,6 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "6D07A54D466B4DF0937284406687AA7B206",
-    "JobTitle": "Cloud Native Engineer - Location Open",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-11 3:54 AM",
-    "Url": "https://de.jobsyn.org/6D07A54D466B4DF0937284406687AA7B206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "60C2D2F47EAB4532A1650EC06E06F34D206",
     "JobTitle": "Director, Glove",
     "Company": "Meta",
@@ -4860,11 +4851,20 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "BCF69FDED0ED479F9C1A55EA05340376206",
-    "JobTitle": "Data Warehouse Architect",
-    "Company": "Nelnet",
-    "DatePosted": "2023-3-10 4:16 AM",
-    "Url": "https://de.jobsyn.org/BCF69FDED0ED479F9C1A55EA05340376206",
+    "JvID": "A98C048BC32D477C881ABD35C4A2DA8D206",
+    "JobTitle": "Senior Data Migration Architect",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-16 4:21 AM",
+    "Url": "https://de.jobsyn.org/A98C048BC32D477C881ABD35C4A2DA8D206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "6D07A54D466B4DF0937284406687AA7B206",
+    "JobTitle": "Cloud Native Engineer - Location Open",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-11 3:54 AM",
+    "Url": "https://de.jobsyn.org/6D07A54D466B4DF0937284406687AA7B206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1299.08"
   },
@@ -4878,12 +4878,12 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "E281F8B2907F452BA79AB19246C9ED22206",
-    "JobTitle": "Lead Pega Infrastructure Service Engineer Senior Advisor",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-13 6:46 PM",
-    "Url": "https://de.jobsyn.org/E281F8B2907F452BA79AB19246C9ED22206",
-    "Location": "INDIANAPOLIS, IN",
+    "JvID": "BCF69FDED0ED479F9C1A55EA05340376206",
+    "JobTitle": "Data Warehouse Architect",
+    "Company": "Nelnet",
+    "DatePosted": "2023-3-10 4:16 AM",
+    "Url": "https://de.jobsyn.org/BCF69FDED0ED479F9C1A55EA05340376206",
+    "Location": "Indianapolis, IN",
     "OnetCode": "15-1299.08"
   },
   {
@@ -4896,29 +4896,20 @@
     "OnetCode": "15-1299.08"
   },
   {
+    "JvID": "AB479E7041A84269B7058E45DF42CC1D206",
+    "JobTitle": "Senior Cloud Native Engineer - Location Open",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-11 1:57 AM",
+    "Url": "https://de.jobsyn.org/AB479E7041A84269B7058E45DF42CC1D206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1299.08"
+  },
+  {
     "JvID": "CE302130FFB246A1B6C74AFAD3EA7A71206",
     "JobTitle": "Information Security Analyst Sr",
     "Company": "State of Indiana",
     "DatePosted": "2023-3-1 8:19 AM",
     "Url": "https://de.jobsyn.org/CE302130FFB246A1B6C74AFAD3EA7A71206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1212.00"
-  },
-  {
-    "JvID": "E270BCDEB03E4BF4BA8B916EBF01894A206",
-    "JobTitle": "Information Security Audit Analyst",
-    "Company": "EY",
-    "DatePosted": "2023-3-15 12:55 AM",
-    "Url": "https://de.jobsyn.org/E270BCDEB03E4BF4BA8B916EBF01894A206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1212.00"
-  },
-  {
-    "JvID": "F0EAA165CBAB4FA78897CC20C5EDCF12206",
-    "JobTitle": "Information Security Operations Analyst",
-    "Company": "UMB Bank",
-    "DatePosted": "2023-3-11 4:42 AM",
-    "Url": "https://de.jobsyn.org/F0EAA165CBAB4FA78897CC20C5EDCF12206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1212.00"
   },
@@ -4946,6 +4937,15 @@
     "Company": "TTEC",
     "DatePosted": "2023-2-21 4:50 AM",
     "Url": "https://de.jobsyn.org/0E6297A868AF4B84BCB2DD491F0E7688206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "E270BCDEB03E4BF4BA8B916EBF01894A206",
+    "JobTitle": "Information Security Audit Analyst - Government and Public Sector",
+    "Company": "EY",
+    "DatePosted": "2023-3-15 12:55 AM",
+    "Url": "https://de.jobsyn.org/E270BCDEB03E4BF4BA8B916EBF01894A206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1212.00"
   },
@@ -4986,6 +4986,15 @@
     "OnetCode": "15-1212.00"
   },
   {
+    "JvID": "40E642681E42448D8876E5C6592CA57A206",
+    "JobTitle": "Security Vulnerability Analyst",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-2-22 6:41 AM",
+    "Url": "https://de.jobsyn.org/40E642681E42448D8876E5C6592CA57A206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1212.00"
+  },
+  {
     "JvID": "E6F63DC9D3CA47958CFF02B3E7DBCD20206",
     "JobTitle": "Senior Information System Security Officer (ISSO) - Secret Clearance - Remote",
     "Company": "MindPoint Group",
@@ -5004,11 +5013,11 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "40E642681E42448D8876E5C6592CA57A206",
-    "JobTitle": "Security Vulnerability Analyst",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-22 6:41 AM",
-    "Url": "https://de.jobsyn.org/40E642681E42448D8876E5C6592CA57A206",
+    "JvID": "B06A75E1DD104564A261C5611F6E6674206",
+    "JobTitle": "IT SPECIALIST (INFOSEC)",
+    "Company": "U.S. Marine Corps",
+    "DatePosted": "2023-3-16 11:31 PM",
+    "Url": "https://de.jobsyn.org/B06A75E1DD104564A261C5611F6E6674206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1212.00"
   },
@@ -5040,11 +5049,11 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "038B71B4564A48D293D3C8DC0B5662A9206",
-    "JobTitle": "Manager, Security Monitoring Operations",
-    "Company": "KPMG",
-    "DatePosted": "2023-3-12 4:38 AM",
-    "Url": "https://de.jobsyn.org/038B71B4564A48D293D3C8DC0B5662A9206",
+    "JvID": "805CAD03D72741D0A7B97902C2038BD9206",
+    "JobTitle": "Linux / Cyber Security Administrator - Remote",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:19 AM",
+    "Url": "https://de.jobsyn.org/805CAD03D72741D0A7B97902C2038BD9206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1212.00"
   },
@@ -5054,6 +5063,15 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:44 PM",
     "Url": "https://de.jobsyn.org/07584CA43E6A49BDA61CB11D394630C7206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "038B71B4564A48D293D3C8DC0B5662A9206",
+    "JobTitle": "Manager, Security Monitoring Operations",
+    "Company": "KPMG",
+    "DatePosted": "2023-3-12 4:38 AM",
+    "Url": "https://de.jobsyn.org/038B71B4564A48D293D3C8DC0B5662A9206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1212.00"
   },
@@ -5094,15 +5112,6 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "E9DB3D7E791E4C2D84822A10E92CD7AD206",
-    "JobTitle": "ServiceNow Business Analyst",
-    "Company": "Guidehouse",
-    "DatePosted": "2023-3-11 4:58 AM",
-    "Url": "https://de.jobsyn.org/E9DB3D7E791E4C2D84822A10E92CD7AD206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-1212.00"
-  },
-  {
     "JvID": "5B975A7056FB451E85DF5565259A6644206",
     "JobTitle": "Lead Risk & Compliance Analyst",
     "Company": "Deloitte",
@@ -5112,13 +5121,31 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "DB6C82026D1548F98FB519DB0C46F0EE206",
-    "JobTitle": "Data Loss Prevention Data Analyst",
-    "Company": "Ford Motor Company",
-    "DatePosted": "2023-3-8 5:12 AM",
-    "Url": "https://de.jobsyn.org/DB6C82026D1548F98FB519DB0C46F0EE206",
+    "JvID": "E9DB3D7E791E4C2D84822A10E92CD7AD206",
+    "JobTitle": "ServiceNow Business Analyst",
+    "Company": "Guidehouse",
+    "DatePosted": "2023-3-11 4:58 AM",
+    "Url": "https://de.jobsyn.org/E9DB3D7E791E4C2D84822A10E92CD7AD206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "6743E68C2FDF429E962748D979164741206",
+    "JobTitle": "Associate User Researcher (On-Call/Part-Time)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:20 AM",
+    "Url": "https://de.jobsyn.org/6743E68C2FDF429E962748D979164741206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.01"
+  },
+  {
+    "JvID": "02EFF3AE6D0B4B2AB86BA69CAC46CEF3206",
+    "JobTitle": "Senior UX/UI Designer (Remote)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-17 12:17 AM",
+    "Url": "https://de.jobsyn.org/02EFF3AE6D0B4B2AB86BA69CAC46CEF3206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.01"
   },
   {
     "JvID": "4181A9D938654C3287D48E4502843CF3206",
@@ -5346,15 +5373,6 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "05786DED2B144B22BDE3290CA7CB95A1206",
-    "JobTitle": "Lead Engineer Demand Forecasting",
-    "Company": "AES",
-    "DatePosted": "2023-3-16 1:11 AM",
-    "Url": "https://de.jobsyn.org/05786DED2B144B22BDE3290CA7CB95A1206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.00"
-  },
-  {
     "JvID": "5D24AA8654F14133B21D4021EF5538D7206",
     "JobTitle": "Field Engineer",
     "Company": "Terracon",
@@ -5364,11 +5382,38 @@
     "OnetCode": "17-2112.00"
   },
   {
+    "JvID": "05786DED2B144B22BDE3290CA7CB95A1206",
+    "JobTitle": "Lead Engineer Demand Forecasting",
+    "Company": "AES",
+    "DatePosted": "2023-3-16 1:11 AM",
+    "Url": "https://de.jobsyn.org/05786DED2B144B22BDE3290CA7CB95A1206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.00"
+  },
+  {
     "JvID": "7DCABCA4ADEE4132BF56AD191D0CA164206",
     "JobTitle": "Industrial Products & Construction Research Senior Manager, Deloitte Research Center for Energy & Industrials",
     "Company": "Deloitte",
     "DatePosted": "2023-3-15 4:30 AM",
     "Url": "https://de.jobsyn.org/7DCABCA4ADEE4132BF56AD191D0CA164206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "2A52E58BB5194703BF5FA18AA40D6238206",
+    "JobTitle": "Staff Engineer",
+    "Company": "Terracon",
+    "DatePosted": "2023-3-7 10:11 AM",
+    "Url": "https://de.jobsyn.org/2A52E58BB5194703BF5FA18AA40D6238206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "2147F860BF734834B0958182E4EE37EA206",
+    "JobTitle": "Lead Test Engineer",
+    "Company": "Intel",
+    "DatePosted": "2023-3-15 3:22 AM",
+    "Url": "https://de.jobsyn.org/2147F860BF734834B0958182E4EE37EA206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2112.00"
   },
@@ -5391,33 +5436,6 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "2147F860BF734834B0958182E4EE37EA206",
-    "JobTitle": "Lead Test Engineer",
-    "Company": "Intel",
-    "DatePosted": "2023-3-15 3:22 AM",
-    "Url": "https://de.jobsyn.org/2147F860BF734834B0958182E4EE37EA206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "2A52E58BB5194703BF5FA18AA40D6238206",
-    "JobTitle": "Staff Engineer",
-    "Company": "Terracon",
-    "DatePosted": "2023-3-7 10:11 AM",
-    "Url": "https://de.jobsyn.org/2A52E58BB5194703BF5FA18AA40D6238206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "2C3ACE5846E34658BF2E1F783F843A7F206",
-    "JobTitle": "Reliability & Maintenance Engineering Specialist (US Hybrid)",
-    "Company": "Black & Veatch",
-    "DatePosted": "2023-3-7 3:06 AM",
-    "Url": "https://de.jobsyn.org/2C3ACE5846E34658BF2E1F783F843A7F206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.00"
-  },
-  {
     "JvID": "932F3D89585A4145B02273CC93C78D9A206",
     "JobTitle": "Process Engineer - Organics Management",
     "Company": "Black & Veatch",
@@ -5436,11 +5454,20 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "B7517F4F2EC84AD7851C43C89E094525206",
-    "JobTitle": "Quality Assurance Manager - 23000658",
-    "Company": "PRAXAIR SURFACE TECHNOLOGIES INC",
-    "DatePosted": "2023-3-14 1:19 PM",
-    "Url": "https://de.jobsyn.org/B7517F4F2EC84AD7851C43C89E094525206",
+    "JvID": "9ADB1B5507514FD5B68D31FE56213DB7206",
+    "JobTitle": "Director of Industrial Machinery - Intralogistics Solutions",
+    "Company": "Siemens Digital Industries Software",
+    "DatePosted": "2023-3-4 12:15 AM",
+    "Url": "https://de.jobsyn.org/9ADB1B5507514FD5B68D31FE56213DB7206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "E0675438DB3D4895AC368E8A70D93B3F206",
+    "JobTitle": "Design Engineer - Aero",
+    "Company": "QuEST Global",
+    "DatePosted": "2023-2-23 1:27 AM",
+    "Url": "https://de.jobsyn.org/E0675438DB3D4895AC368E8A70D93B3F206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2112.00"
   },
@@ -5454,29 +5481,11 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "B4B7D35BEA3D4B71947E8F005DFC12D8206",
-    "JobTitle": "Process Engineer 2, Oil & Gas",
-    "Company": "Black & Veatch",
-    "DatePosted": "2023-3-12 3:36 AM",
-    "Url": "https://de.jobsyn.org/B4B7D35BEA3D4B71947E8F005DFC12D8206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "9ADB1B5507514FD5B68D31FE56213DB7206",
-    "JobTitle": "Director of Industrial Machinery - Intralogistics Solutions",
-    "Company": "Siemens Digital Industries Software",
-    "DatePosted": "2023-3-4 12:15 AM",
-    "Url": "https://de.jobsyn.org/9ADB1B5507514FD5B68D31FE56213DB7206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "A64276CFDF5A4140994C949B8ACE70BF206",
-    "JobTitle": "Manufacturing Technical Support, Production Engineering",
-    "Company": "Vertex Aerospace",
-    "DatePosted": "2023-3-15 5:40 AM",
-    "Url": "https://de.jobsyn.org/A64276CFDF5A4140994C949B8ACE70BF206",
+    "JvID": "C85303EF2776432A93DFCDB5B492DA16206",
+    "JobTitle": "Project Engineer - 3230SS",
+    "Company": "Verista",
+    "DatePosted": "2023-3-8 12:28 AM",
+    "Url": "https://de.jobsyn.org/C85303EF2776432A93DFCDB5B492DA16206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2112.00"
   },
@@ -5490,11 +5499,29 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "E0675438DB3D4895AC368E8A70D93B3F206",
-    "JobTitle": "Design Engineer - Aero",
-    "Company": "QuEST Global",
-    "DatePosted": "2023-2-23 1:27 AM",
-    "Url": "https://de.jobsyn.org/E0675438DB3D4895AC368E8A70D93B3F206",
+    "JvID": "B4B7D35BEA3D4B71947E8F005DFC12D8206",
+    "JobTitle": "Process Engineer 2, Oil & Gas",
+    "Company": "Black & Veatch",
+    "DatePosted": "2023-3-12 3:36 AM",
+    "Url": "https://de.jobsyn.org/B4B7D35BEA3D4B71947E8F005DFC12D8206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "B7517F4F2EC84AD7851C43C89E094525206",
+    "JobTitle": "Quality Assurance Manager - 23000658",
+    "Company": "PRAXAIR SURFACE TECHNOLOGIES INC",
+    "DatePosted": "2023-3-14 1:19 PM",
+    "Url": "https://de.jobsyn.org/B7517F4F2EC84AD7851C43C89E094525206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "5BA88BC446274B40B9DF6640CC45A3AC206",
+    "JobTitle": "Entry Level Electrical Controls Engineer",
+    "Company": "Matrix Technologies, Inc.",
+    "DatePosted": "2023-3-9 8:15 AM",
+    "Url": "https://de.jobsyn.org/5BA88BC446274B40B9DF6640CC45A3AC206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2112.00"
   },
@@ -5571,20 +5598,20 @@
     "OnetCode": "17-2112.03"
   },
   {
-    "JvID": "A06A299CFA594442AFD8C54284A55279206",
-    "JobTitle": "Supplier Technical Assistance Engineer: Battery Cells",
-    "Company": "Ford Motor Company",
-    "DatePosted": "2023-3-10 8:20 PM",
-    "Url": "https://de.jobsyn.org/A06A299CFA594442AFD8C54284A55279206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.03"
-  },
-  {
     "JvID": "2E340F35362C4B34A19A52B2B04C16B7206",
     "JobTitle": "Product Engineer - Corporate Architecture",
     "Company": "Oracle",
     "DatePosted": "2023-3-8 3:13 AM",
     "Url": "https://de.jobsyn.org/2E340F35362C4B34A19A52B2B04C16B7206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.03"
+  },
+  {
+    "JvID": "A06A299CFA594442AFD8C54284A55279206",
+    "JobTitle": "Supplier Technical Assistance Engineer: Battery Cells",
+    "Company": "Ford Motor Company",
+    "DatePosted": "2023-3-10 8:20 PM",
+    "Url": "https://de.jobsyn.org/A06A299CFA594442AFD8C54284A55279206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2112.03"
   },
@@ -5643,20 +5670,20 @@
     "OnetCode": "17-2112.03"
   },
   {
-    "JvID": "89B9EFF20CB248148D250923F176AABC206",
-    "JobTitle": "Regional Process Improvement Engineer - Travel Role with Multiple Home Base Options",
-    "Company": "International Paper",
-    "DatePosted": "2023-3-1 3:15 AM",
-    "Url": "https://de.jobsyn.org/89B9EFF20CB248148D250923F176AABC206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.03"
-  },
-  {
     "JvID": "98CF33F26E2D46B3BF33BAC26C9C9F17206",
     "JobTitle": "Sr. Engineering Specialist - Fabrication & Stamping",
     "Company": "Eaton Corporation",
     "DatePosted": "2023-2-18 5:06 AM",
     "Url": "https://de.jobsyn.org/98CF33F26E2D46B3BF33BAC26C9C9F17206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.03"
+  },
+  {
+    "JvID": "89B9EFF20CB248148D250923F176AABC206",
+    "JobTitle": "Regional Process Improvement Engineer - Travel Role with Multiple Home Base Options",
+    "Company": "International Paper",
+    "DatePosted": "2023-3-1 3:15 AM",
+    "Url": "https://de.jobsyn.org/89B9EFF20CB248148D250923F176AABC206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2112.03"
   },
@@ -5679,20 +5706,20 @@
     "OnetCode": "17-2112.03"
   },
   {
-    "JvID": "66D4535931EA4A558E03179BC9EFF48D206",
-    "JobTitle": "Manager Continuous Improvement Engineer",
-    "Company": "Ryder System",
-    "DatePosted": "2023-3-9 3:56 PM",
-    "Url": "https://de.jobsyn.org/66D4535931EA4A558E03179BC9EFF48D206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2112.03"
-  },
-  {
     "JvID": "BF5DAB143C4F4EEA86161681EA211526206",
     "JobTitle": "Mechanical Engineer",
     "Company": "Carrier",
     "DatePosted": "2023-2-10 5:17 AM",
     "Url": "https://de.jobsyn.org/BF5DAB143C4F4EEA86161681EA211526206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2112.03"
+  },
+  {
+    "JvID": "66D4535931EA4A558E03179BC9EFF48D206",
+    "JobTitle": "Manager Continuous Improvement Engineer",
+    "Company": "Ryder System",
+    "DatePosted": "2023-3-9 3:56 PM",
+    "Url": "https://de.jobsyn.org/66D4535931EA4A558E03179BC9EFF48D206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2112.03"
   },
@@ -5994,15 +6021,6 @@
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "A6F18F258B794C71BB9B892109AA8109206",
-    "JobTitle": "Electrical Engineer - Experienced",
-    "Company": "Siemens",
-    "DatePosted": "2023-2-5 12:20 AM",
-    "Url": "https://de.jobsyn.org/A6F18F258B794C71BB9B892109AA8109206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2071.00"
-  },
-  {
     "JvID": "5BA88BC446274B40B9DF6640CC45A3AC206",
     "JobTitle": "Entry Level Electrical Controls Engineer",
     "Company": "Matrix Technologies, Inc.",
@@ -6062,6 +6080,15 @@
     "Company": "Jacobs",
     "DatePosted": "2023-3-16 2:19 AM",
     "Url": "https://de.jobsyn.org/18FE335F3CD04957B3A19BE9B7995A0E206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2071.00"
+  },
+  {
+    "JvID": "0DA1BCF879854A6081D57AB5D22D6EF2206",
+    "JobTitle": "Electrical Engineering Intern \u2013 Test Engineering - Indianapolis, IN",
+    "Company": "Vertex Aerospace",
+    "DatePosted": "2023-3-16 6:25 AM",
+    "Url": "https://de.jobsyn.org/0DA1BCF879854A6081D57AB5D22D6EF2206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2071.00"
   },
@@ -6130,9 +6157,9 @@
   },
   {
     "JvID": "AF4F4DBB8F624820A6725BCB219AFD66206",
-    "JobTitle": "Lead Electrical Engineer - Federal Facility Design (US Hybrid)",
+    "JobTitle": "Electrical Engineer 5 - Federal Facility Design (US Hybrid)",
     "Company": "Black & Veatch",
-    "DatePosted": "2023-2-22 5:30 AM",
+    "DatePosted": "2023-2-22 7:56 AM",
     "Url": "https://de.jobsyn.org/AF4F4DBB8F624820A6725BCB219AFD66206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2071.00"
@@ -6147,20 +6174,20 @@
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "C78C86DC40AF4204A6C5A8874B52B597206",
-    "JobTitle": "Electrical Engineer 3 - Substation Design - Tualatin, OR (Hybrid)",
-    "Company": "Black & Veatch",
-    "DatePosted": "2023-3-10 3:48 AM",
-    "Url": "https://de.jobsyn.org/C78C86DC40AF4204A6C5A8874B52B597206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "17-2071.00"
-  },
-  {
     "JvID": "1EDF0F2BC13E4899B51F45D5D73EA8E6206",
     "JobTitle": "Lead Electrical Engineer - Solar Utility Design (US Hybrid)",
     "Company": "Black & Veatch",
     "DatePosted": "2023-3-2 2:26 AM",
     "Url": "https://de.jobsyn.org/1EDF0F2BC13E4899B51F45D5D73EA8E6206",
+    "Location": "Indianapolis, IN",
+    "OnetCode": "17-2071.00"
+  },
+  {
+    "JvID": "C78C86DC40AF4204A6C5A8874B52B597206",
+    "JobTitle": "Electrical Engineer 3 - Substation Design - Tualatin, OR (Hybrid)",
+    "Company": "Black & Veatch",
+    "DatePosted": "2023-3-10 3:48 AM",
+    "Url": "https://de.jobsyn.org/C78C86DC40AF4204A6C5A8874B52B597206",
     "Location": "Indianapolis, IN",
     "OnetCode": "17-2071.00"
   },
@@ -6323,24 +6350,6 @@
     "Company": "Corteva Agriscience",
     "DatePosted": "2023-3-8 4:06 AM",
     "Url": "https://de.jobsyn.org/FC3B04C47A234B768CFB56644A60FF02206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-2051.00"
-  },
-  {
-    "JvID": "ECF9643E52B94D10BDD8E72B9A353B16206",
-    "JobTitle": "Associate Director, Data Science & Analytics",
-    "Company": "Merck",
-    "DatePosted": "2023-3-2 4:32 AM",
-    "Url": "https://de.jobsyn.org/ECF9643E52B94D10BDD8E72B9A353B16206",
-    "Location": "Indianapolis, IN",
-    "OnetCode": "15-2051.00"
-  },
-  {
-    "JvID": "93929431944B442DBEBEEF7A696624BF206",
-    "JobTitle": "Associate Director, Data Science & Analytics",
-    "Company": "Merck",
-    "DatePosted": "2023-3-2 4:34 AM",
-    "Url": "https://de.jobsyn.org/93929431944B442DBEBEEF7A696624BF206",
     "Location": "Indianapolis, IN",
     "OnetCode": "15-2051.00"
   },

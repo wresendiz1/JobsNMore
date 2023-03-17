@@ -1,5 +1,23 @@
 [
   {
+    "JvID": "11D73A35DEB549D5B7D809F98F871751206",
+    "JobTitle": "Regional Manager",
+    "Company": "Sunbelt Rentals",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/11D73A35DEB549D5B7D809F98F871751206",
+    "Location": "Detroit, MI",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "B087B28CA2F24989BF2C2FAD51710877206",
+    "JobTitle": "Copy of Adecco Area Director, Michigan",
+    "Company": "Adecco General Staffing",
+    "DatePosted": "2023-3-16 12:48 PM",
+    "Url": "https://de.jobsyn.org/B087B28CA2F24989BF2C2FAD51710877206",
+    "Location": "Detroit, MI",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "1D1EF76E277E460C82CF4E70C9FA5D6D206",
     "JobTitle": "General Manager",
     "Company": "Pyramid Hotel Group",
@@ -15,15 +33,6 @@
     "DatePosted": "2023-3-15 12:53 PM",
     "Url": "https://de.jobsyn.org/19577A12F72C40289ED4CA87E25E9893206",
     "Location": "Detroit, MI",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "B8BE3D7D4F874FA8BB9859578CA403A7206",
-    "JobTitle": "Manager Safety",
-    "Company": "Delta Air Lines, Inc.",
-    "DatePosted": "2023-3-14 2:28 AM",
-    "Url": "https://de.jobsyn.org/B8BE3D7D4F874FA8BB9859578CA403A7206",
-    "Location": "DETROIT, MI",
     "OnetCode": "11-1021.00"
   },
   {
@@ -45,6 +54,15 @@
     "OnetCode": "11-1021.00"
   },
   {
+    "JvID": "B8BE3D7D4F874FA8BB9859578CA403A7206",
+    "JobTitle": "Manager Safety",
+    "Company": "Delta Air Lines, Inc.",
+    "DatePosted": "2023-3-14 2:28 AM",
+    "Url": "https://de.jobsyn.org/B8BE3D7D4F874FA8BB9859578CA403A7206",
+    "Location": "DETROIT, MI",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "F8909CCF6C854248A8776638C06CD974206",
     "JobTitle": "Oracle Americas Alliance Leader (DC Senior Manager) - National_Office",
     "Company": "Deloitte",
@@ -54,20 +72,20 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "30D98D0AD69B45C5AFEF90CE70727AAA206",
-    "JobTitle": "Director, International Development",
-    "Company": "Ilitch Holdings",
-    "DatePosted": "2023-3-14 12:35 AM",
-    "Url": "https://de.jobsyn.org/30D98D0AD69B45C5AFEF90CE70727AAA206",
-    "Location": "Detroit, MI",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "D9ED25C9D9FE412880FA21484B5F38BE206",
     "JobTitle": "International Operations Manager",
     "Company": "AIT Worldwide Logistics",
     "DatePosted": "2023-3-8 6:48 AM",
     "Url": "https://de.jobsyn.org/D9ED25C9D9FE412880FA21484B5F38BE206",
+    "Location": "Detroit, MI",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "30D98D0AD69B45C5AFEF90CE70727AAA206",
+    "JobTitle": "Director, International Development",
+    "Company": "Ilitch Holdings",
+    "DatePosted": "2023-3-14 12:35 AM",
+    "Url": "https://de.jobsyn.org/30D98D0AD69B45C5AFEF90CE70727AAA206",
     "Location": "Detroit, MI",
     "OnetCode": "11-1021.00"
   },
@@ -87,15 +105,6 @@
     "DatePosted": "2023-3-6 12:55 PM",
     "Url": "https://de.jobsyn.org/44A330C81C43498BB777E66F1237024C206",
     "Location": "Detroit, MI",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "86B9FC61FF3647C3A38552DC3F15AC42206",
-    "JobTitle": "STORE MANAGER CANDIDATE",
-    "Company": "Dollar General",
-    "DatePosted": "2023-2-5 1:56 AM",
-    "Url": "https://de.jobsyn.org/86B9FC61FF3647C3A38552DC3F15AC42206",
-    "Location": "DETROIT, MI",
     "OnetCode": "11-1021.00"
   },
   {
@@ -171,20 +180,20 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "53FD97A0646E479EA136815768DDF727206",
-    "JobTitle": "District Finance Manager - Construction Equipment",
-    "Company": "Volvo Group",
-    "DatePosted": "2023-3-8 5:42 AM",
-    "Url": "https://de.jobsyn.org/53FD97A0646E479EA136815768DDF727206",
-    "Location": "Detroit, MI",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "3578818E0A55462A8020261396418C18206",
     "JobTitle": "Plant & Operations Maintenance Manager Sr - GM Factory Zero",
     "Company": "ARAMARK",
     "DatePosted": "2023-2-9 3:51 AM",
     "Url": "https://de.jobsyn.org/3578818E0A55462A8020261396418C18206",
+    "Location": "Detroit, MI",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "8BF942860E8842A8BFDF98932D5E7F51206",
+    "JobTitle": "STORE MANAGER",
+    "Company": "Dollar Tree",
+    "DatePosted": "2023-2-8 5:00 AM",
+    "Url": "https://de.jobsyn.org/8BF942860E8842A8BFDF98932D5E7F51206",
     "Location": "Detroit, MI",
     "OnetCode": "11-1021.00"
   },
@@ -198,29 +207,20 @@
     "OnetCode": "11-1021.00"
   },
   {
+    "JvID": "53FD97A0646E479EA136815768DDF727206",
+    "JobTitle": "District Finance Manager - Construction Equipment",
+    "Company": "Volvo Group",
+    "DatePosted": "2023-3-8 5:42 AM",
+    "Url": "https://de.jobsyn.org/53FD97A0646E479EA136815768DDF727206",
+    "Location": "Detroit, MI",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "177E882662794450B8484BB9495BE962206",
     "JobTitle": "Store General Manager",
     "Company": "Petco",
     "DatePosted": "2023-2-9 5:04 AM",
     "Url": "https://de.jobsyn.org/177E882662794450B8484BB9495BE962206",
-    "Location": "Detroit, MI",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "C521E8F04A244DFC93C44B1F2D148A82206",
-    "JobTitle": "Burn Center Business Manager, North Central",
-    "Company": "Mallinckrodt Pharmaceuticals",
-    "DatePosted": "2023-2-19 1:20 PM",
-    "Url": "https://de.jobsyn.org/C521E8F04A244DFC93C44B1F2D148A82206",
-    "Location": "Detroit, MI",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "E2F147A265C841F9BF864C5E80CEF0D0206",
-    "JobTitle": "Burn Center Business Manager, Northeast",
-    "Company": "Mallinckrodt Pharmaceuticals",
-    "DatePosted": "2023-2-19 1:21 PM",
-    "Url": "https://de.jobsyn.org/E2F147A265C841F9BF864C5E80CEF0D0206",
     "Location": "Detroit, MI",
     "OnetCode": "11-1021.00"
   },
@@ -279,6 +279,15 @@
     "OnetCode": "43-4051.00"
   },
   {
+    "JvID": "038AEB7FFD514E10AFE38431085AB9EA206",
+    "JobTitle": "Customer Service",
+    "Company": "Wayne County Government",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/038AEB7FFD514E10AFE38431085AB9EA206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-4051.00"
+  },
+  {
     "JvID": "50C58B031EE24F22A03098B3DFCDC455206",
     "JobTitle": "Service Coordinator",
     "Company": "Nilfisk Inc",
@@ -315,15 +324,6 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "C400142F23064C4AAEE654893AF2CCFE206",
-    "JobTitle": "Entry- Level Customer Service and Claims! Training Program and Career Growth",
-    "Company": "Sedgwick",
-    "DatePosted": "2023-3-16 3:36 AM",
-    "Url": "https://de.jobsyn.org/C400142F23064C4AAEE654893AF2CCFE206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "2E1107DE388F402F87CFC815E298C8CE206",
     "JobTitle": "Slot Club Representative",
     "Company": "Penn National Gaming",
@@ -338,6 +338,15 @@
     "Company": "Penn National Gaming",
     "DatePosted": "2023-3-2 6:47 AM",
     "Url": "https://de.jobsyn.org/D493C5D483AA41B184822E2D558E1EF8206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "C400142F23064C4AAEE654893AF2CCFE206",
+    "JobTitle": "Entry- Level Customer Service and Claims! Training Program and Career Growth",
+    "Company": "Sedgwick",
+    "DatePosted": "2023-3-16 3:36 AM",
+    "Url": "https://de.jobsyn.org/C400142F23064C4AAEE654893AF2CCFE206",
     "Location": "Detroit, MI",
     "OnetCode": "43-4051.00"
   },
@@ -360,24 +369,6 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "61A966C25C324A91A5996B91A2DC95DC206",
-    "JobTitle": "Customer Return Representative PT",
-    "Company": "Avis Budget Group",
-    "DatePosted": "2023-3-9 12:52 PM",
-    "Url": "https://de.jobsyn.org/61A966C25C324A91A5996B91A2DC95DC206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-4051.00"
-  },
-  {
-    "JvID": "91C9B708C35245EA8816A0DE64148814206",
-    "JobTitle": "Service Coordinator",
-    "Company": "Nilfisk Inc",
-    "DatePosted": "2023-2-12 1:11 PM",
-    "Url": "https://de.jobsyn.org/91C9B708C35245EA8816A0DE64148814206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "4FBDAE9C6ED64D3D9F3644905CC922CD206",
     "JobTitle": "Field Service Representative II",
     "Company": "Canon USA Inc",
@@ -387,11 +378,29 @@
     "OnetCode": "43-4051.00"
   },
   {
+    "JvID": "61A966C25C324A91A5996B91A2DC95DC206",
+    "JobTitle": "Customer Return Representative PT",
+    "Company": "Avis Budget Group",
+    "DatePosted": "2023-3-9 12:52 PM",
+    "Url": "https://de.jobsyn.org/61A966C25C324A91A5996B91A2DC95DC206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-4051.00"
+  },
+  {
     "JvID": "8D903FD6FCE54EF0ADF85FB7674FDC2A206",
     "JobTitle": "Customer Return Representative FT",
     "Company": "Avis Budget Group",
     "DatePosted": "2023-3-9 12:52 PM",
     "Url": "https://de.jobsyn.org/8D903FD6FCE54EF0ADF85FB7674FDC2A206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "C52FE4CAF63148CD87AF8CA8BC18E714206",
+    "JobTitle": "Field Service Representative II",
+    "Company": "Canon USA Inc",
+    "DatePosted": "2023-2-17 1:33 PM",
+    "Url": "https://de.jobsyn.org/C52FE4CAF63148CD87AF8CA8BC18E714206",
     "Location": "Detroit, MI",
     "OnetCode": "43-4051.00"
   },
@@ -410,15 +419,6 @@
     "Company": "Avis Budget Group",
     "DatePosted": "2023-3-8 12:52 PM",
     "Url": "https://de.jobsyn.org/B730A3DEDB9F4CE0814B201BDC784E55206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-4051.00"
-  },
-  {
-    "JvID": "C52FE4CAF63148CD87AF8CA8BC18E714206",
-    "JobTitle": "Field Service Representative II",
-    "Company": "Canon USA Inc",
-    "DatePosted": "2023-2-17 1:33 PM",
-    "Url": "https://de.jobsyn.org/C52FE4CAF63148CD87AF8CA8BC18E714206",
     "Location": "Detroit, MI",
     "OnetCode": "43-4051.00"
   },
@@ -448,6 +448,69 @@
     "Url": "https://de.jobsyn.org/DE32B86B1956450EBF329B1E35687CF8206",
     "Location": "Detroit, MI",
     "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "EB81B3A03BF443BB8AC4B5EC2C3A21EB206",
+    "JobTitle": "Office Assistant",
+    "Company": "SmithGroup",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/EB81B3A03BF443BB8AC4B5EC2C3A21EB206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "0A7EB1F4110B4B748C9E78DB8580C8C9206",
+    "JobTitle": "Administrative Secretary (MiBAC CQI)",
+    "Company": "Henry Ford Health System",
+    "DatePosted": "2023-3-16 7:08 AM",
+    "Url": "https://de.jobsyn.org/0A7EB1F4110B4B748C9E78DB8580C8C9206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "90195536237640F38329FCD33E2414CE206",
+    "JobTitle": "Admin Secretary",
+    "Company": "Wayne County Government",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/90195536237640F38329FCD33E2414CE206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "2C08BF7A95764FB0A290E382116E1ECE206",
+    "JobTitle": "Administrative Assistant",
+    "Company": "Wayne County Government",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/2C08BF7A95764FB0A290E382116E1ECE206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "424201DEFF824E539C30FB397E99DB17206",
+    "JobTitle": "Administrative Assistant - 8892",
+    "Company": "Blue Cross Blue Shield of Michigan",
+    "DatePosted": "2023-3-16 12:48 PM",
+    "Url": "https://de.jobsyn.org/424201DEFF824E539C30FB397E99DB17206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "1FB6AB90C41746DD95A8B145FE0A1A97206",
+    "JobTitle": "Project Administrative Assistant",
+    "Company": "The Christman Company",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/1FB6AB90C41746DD95A8B145FE0A1A97206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "85E4B991C71743FF908DA865914E6C39206",
+    "JobTitle": "Administrative Assistant",
+    "Company": "Kelly Services",
+    "DatePosted": "2023-3-16 11:04 AM",
+    "Url": "https://de.jobsyn.org/85E4B991C71743FF908DA865914E6C39206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-6014.00"
   },
   {
     "JvID": "A89015E2A2954F759140DE1C30590E9F206",
@@ -594,24 +657,6 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "8AF328EE62FC49D29E26E92D07FCFD0C206",
-    "JobTitle": "Administrative Assistant",
-    "Company": "Kelly Services",
-    "DatePosted": "2023-3-8 4:16 AM",
-    "Url": "https://de.jobsyn.org/8AF328EE62FC49D29E26E92D07FCFD0C206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "338620AC8DEA4B68AC7678737FC30944206",
-    "JobTitle": "Administrative Assistant II",
-    "Company": "Harsco Corporation",
-    "DatePosted": "2023-3-7 4:35 AM",
-    "Url": "https://de.jobsyn.org/338620AC8DEA4B68AC7678737FC30944206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-6014.00"
-  },
-  {
     "JvID": "669DEA02BB7E46FC9304FBDEF1E71EAA206",
     "JobTitle": "Executive Administrative Asstistant",
     "Company": "Huntington National Bank",
@@ -630,51 +675,6 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "3775B5E1863D4D18A9234486C13D8406206",
-    "JobTitle": "Sales Coordinator",
-    "Company": "Spire Hospitality",
-    "DatePosted": "2023-3-3 1:47 PM",
-    "Url": "https://de.jobsyn.org/3775B5E1863D4D18A9234486C13D8406206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "49AFF00CDAB0426F876B10698F931C3D206",
-    "JobTitle": "the administrative assistant i",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-3 7:20 AM",
-    "Url": "https://de.jobsyn.org/49AFF00CDAB0426F876B10698F931C3D206",
-    "Location": "detroit, MI",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "0681D82B3D764C348AA66CCC2AD99627206",
-    "JobTitle": "Administrative Assistant I",
-    "Company": "PDS Tech Inc",
-    "DatePosted": "2023-3-4 4:09 AM",
-    "Url": "https://de.jobsyn.org/0681D82B3D764C348AA66CCC2AD99627206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "C521ECAB6D7C44538E8CD8C1E320E90E206",
-    "JobTitle": "Administrative Assistant",
-    "Company": "Wayne County Government",
-    "DatePosted": "2023-3-2 2:03 PM",
-    "Url": "https://de.jobsyn.org/C521ECAB6D7C44538E8CD8C1E320E90E206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "22041E5451144208A4BEA305051F4951206",
-    "JobTitle": "Assistant Community Manager - Detroit, MI",
-    "Company": "KMG Prestige",
-    "DatePosted": "2023-3-2 10:22 PM",
-    "Url": "https://de.jobsyn.org/22041E5451144208A4BEA305051F4951206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-6014.00"
-  },
-  {
     "JvID": "396FBC0A07A94E9E8E5CD4D9375BB766206",
     "JobTitle": "Accounts Payable Clerk",
     "Company": "Robert Half",
@@ -684,12 +684,30 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "84BD18621B6141278D48035E0553C86E206",
-    "JobTitle": "Accounting Clerk",
-    "Company": "Robert Half",
-    "DatePosted": "2023-2-15 12:32 AM",
-    "Url": "https://de.jobsyn.org/84BD18621B6141278D48035E0553C86E206",
-    "Location": "DETROIT, MI",
+    "JvID": "678AE45D70674ACEBCF242F4F8C32B62206",
+    "JobTitle": "Account Clerk",
+    "Company": "Wayne County Government",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/678AE45D70674ACEBCF242F4F8C32B62206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "B5CE7684EF934DA7B2E5CF1341CC69E7206",
+    "JobTitle": "Project Accountant",
+    "Company": "SmithGroup",
+    "DatePosted": "2023-3-16 12:48 PM",
+    "Url": "https://de.jobsyn.org/B5CE7684EF934DA7B2E5CF1341CC69E7206",
+    "Location": "Detroit, MI",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "3CDAD8E01EDA4DEA9FF3F9C0DB4AFFA6206",
+    "JobTitle": "Accountant",
+    "Company": "Wayne County Government",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/3CDAD8E01EDA4DEA9FF3F9C0DB4AFFA6206",
+    "Location": "Detroit, MI",
     "OnetCode": "43-3031.00"
   },
   {
@@ -882,24 +900,6 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "36B037EB29124935A559C9440DF379E3206",
-    "JobTitle": "Lead Transportation Assistant",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-2 7:32 AM",
-    "Url": "https://de.jobsyn.org/36B037EB29124935A559C9440DF379E3206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "EEE90CAE517144B98CC2CB73C7759419206",
-    "JobTitle": "Cost Accountant",
-    "Company": "Rock Family of Companies",
-    "DatePosted": "2023-3-2 6:58 AM",
-    "Url": "https://de.jobsyn.org/EEE90CAE517144B98CC2CB73C7759419206",
-    "Location": "Detroit, MI",
-    "OnetCode": "43-3031.00"
-  },
-  {
     "JvID": "7650560D4C424573B0AB455D7C963AFA206",
     "JobTitle": "Analyst-Data Management",
     "Company": "Ally",
@@ -990,6 +990,15 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "5D9C6A76200647569BC7A00B45623973206",
+    "JobTitle": "Senior AnalystFinancial Analysis Remote",
+    "Company": "TDS Telecom",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/5D9C6A76200647569BC7A00B45623973206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "D5CE507EFCD246E3B7DCDA93F2C8AC69206",
     "JobTitle": "Senior IT Analyst",
     "Company": "Wayne County Government",
@@ -1013,6 +1022,15 @@
     "Company": "CTG",
     "DatePosted": "2023-3-15 5:02 AM",
     "Url": "https://de.jobsyn.org/9BE9E2E8350449A1B4EFC39F59392F34206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-1111.00"
+  },
+  {
+    "JvID": "5321C81EE08C4632875E71CA78BF7F97206",
+    "JobTitle": "Program Analyst II",
+    "Company": "City of Detroit",
+    "DatePosted": "2023-3-16 10:09 PM",
+    "Url": "https://de.jobsyn.org/5321C81EE08C4632875E71CA78BF7F97206",
     "Location": "Detroit, MI",
     "OnetCode": "13-1111.00"
   },
@@ -1071,20 +1089,20 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "DC36EC8338D14FB79DC58F64764B90A4206",
-    "JobTitle": "Business Unit Risk Analyst Lead",
-    "Company": "Comerica Bank",
-    "DatePosted": "2023-3-13 12:53 PM",
-    "Url": "https://de.jobsyn.org/DC36EC8338D14FB79DC58F64764B90A4206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-1111.00"
-  },
-  {
     "JvID": "1B57D5AD9A574174A24FB63F056BEDBA206",
     "JobTitle": "Systems Analyst III",
     "Company": "G-TECH Services, Inc.",
     "DatePosted": "2023-3-8 10:51 PM",
     "Url": "https://de.jobsyn.org/1B57D5AD9A574174A24FB63F056BEDBA206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-1111.00"
+  },
+  {
+    "JvID": "DC36EC8338D14FB79DC58F64764B90A4206",
+    "JobTitle": "Business Unit Risk Analyst Lead",
+    "Company": "Comerica Bank",
+    "DatePosted": "2023-3-13 12:53 PM",
+    "Url": "https://de.jobsyn.org/DC36EC8338D14FB79DC58F64764B90A4206",
     "Location": "Detroit, MI",
     "OnetCode": "13-1111.00"
   },
@@ -1103,24 +1121,6 @@
     "Company": "DMI Digital Management Inc",
     "DatePosted": "2023-3-2 2:01 PM",
     "Url": "https://de.jobsyn.org/90DCEC64167E4706B0346A2F2B6CE4C2206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-1111.00"
-  },
-  {
-    "JvID": "547D9C26953D406AAD65FF45B2F92F3E206",
-    "JobTitle": "Trust Analyst",
-    "Company": "FIS",
-    "DatePosted": "2023-2-26 1:20 PM",
-    "Url": "https://de.jobsyn.org/547D9C26953D406AAD65FF45B2F92F3E206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-1111.00"
-  },
-  {
-    "JvID": "63F78C24348E4E778E58281DAD44E39A206",
-    "JobTitle": "Project Leader/Principal (Multiple Positions)",
-    "Company": "The Boston Consulting Group, Inc.",
-    "DatePosted": "2023-2-10 1:09 PM",
-    "Url": "https://de.jobsyn.org/63F78C24348E4E778E58281DAD44E39A206",
     "Location": "Detroit, MI",
     "OnetCode": "13-1111.00"
   },
@@ -1233,15 +1233,6 @@
     "OnetCode": "13-1082.00"
   },
   {
-    "JvID": "F19F09930D5A4149A9C7941F922CAEDB206",
-    "JobTitle": "Risk Management Coordinator",
-    "Company": "Acadia Healthcare",
-    "DatePosted": "2023-3-9 12:49 AM",
-    "Url": "https://de.jobsyn.org/F19F09930D5A4149A9C7941F922CAEDB206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-1082.00"
-  },
-  {
     "JvID": "2049F5A9F1F34001B828B0E09AC42A5D206",
     "JobTitle": "Project Manager",
     "Company": "InfraSource",
@@ -1350,6 +1341,15 @@
     "OnetCode": "13-1082.00"
   },
   {
+    "JvID": "E0C9E449CEF14767BFC431DF7439EB29206",
+    "JobTitle": "Project Coordinator",
+    "Company": "Rose International, Inc.",
+    "DatePosted": "2023-2-24 1:34 PM",
+    "Url": "https://de.jobsyn.org/E0C9E449CEF14767BFC431DF7439EB29206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-1082.00"
+  },
+  {
     "JvID": "1AAB4EF8789044CA82C3BEA2D029799D206",
     "JobTitle": "Lead Auditor - Finance and Accounting",
     "Company": "Ally",
@@ -1422,15 +1422,6 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "65CB1095B0564D1286DCD8166D74BC4F206",
-    "JobTitle": "Technical Accounting Manager",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-15 4:13 AM",
-    "Url": "https://de.jobsyn.org/65CB1095B0564D1286DCD8166D74BC4F206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "CC733EE877BE4789ABDB5C1E2CFDB24D206",
     "JobTitle": "Senior Internal Auditor",
     "Company": "American Axle  Mfg Inc",
@@ -1440,11 +1431,20 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "845EBB4644784F548C8DAD5DCDEE646C206",
+    "JvID": "65CB1095B0564D1286DCD8166D74BC4F206",
     "JobTitle": "Technical Accounting Manager",
     "Company": "Aston Carter",
-    "DatePosted": "2023-3-16 4:24 AM",
-    "Url": "https://de.jobsyn.org/845EBB4644784F548C8DAD5DCDEE646C206",
+    "DatePosted": "2023-3-15 4:13 AM",
+    "Url": "https://de.jobsyn.org/65CB1095B0564D1286DCD8166D74BC4F206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "B5CE7684EF934DA7B2E5CF1341CC69E7206",
+    "JobTitle": "Project Accountant",
+    "Company": "SmithGroup",
+    "DatePosted": "2023-3-16 12:48 PM",
+    "Url": "https://de.jobsyn.org/B5CE7684EF934DA7B2E5CF1341CC69E7206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2011.00"
   },
@@ -1458,11 +1458,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "B60080AB3F5E4F44B086F39337F1D369206",
-    "JobTitle": "Tax Senior Manager, Unclaimed Property Tax; State and Local Tax (SALT)",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-16 3:54 AM",
-    "Url": "https://de.jobsyn.org/B60080AB3F5E4F44B086F39337F1D369206",
+    "JvID": "845EBB4644784F548C8DAD5DCDEE646C206",
+    "JobTitle": "Technical Accounting Manager",
+    "Company": "Aston Carter",
+    "DatePosted": "2023-3-16 4:24 AM",
+    "Url": "https://de.jobsyn.org/845EBB4644784F548C8DAD5DCDEE646C206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2011.00"
   },
@@ -1472,6 +1472,15 @@
     "Company": "DNV GL USA",
     "DatePosted": "2023-2-28 1:03 PM",
     "Url": "https://de.jobsyn.org/1146C43D9F36449688A7C91781A2FB3B206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "B60080AB3F5E4F44B086F39337F1D369206",
+    "JobTitle": "Tax Senior Manager, Unclaimed Property Tax; State and Local Tax (SALT)",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-16 3:54 AM",
+    "Url": "https://de.jobsyn.org/B60080AB3F5E4F44B086F39337F1D369206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2011.00"
   },
@@ -1494,15 +1503,6 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "F1F8DA80E5AA4200B40E356BEC2C6553206",
-    "JobTitle": "Technical Accounting Manager",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-16 4:24 AM",
-    "Url": "https://de.jobsyn.org/F1F8DA80E5AA4200B40E356BEC2C6553206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "8E894118FB5942078AAC4608112FDCE8206",
     "JobTitle": "Accounting Manager",
     "Company": "Aston Carter",
@@ -1517,6 +1517,15 @@
     "Company": "AlixPartners",
     "DatePosted": "2023-3-2 1:57 PM",
     "Url": "https://de.jobsyn.org/489F3A4CAB7D47D183EAD591D022C2E7206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "F1F8DA80E5AA4200B40E356BEC2C6553206",
+    "JobTitle": "Technical Accounting Manager",
+    "Company": "Aston Carter",
+    "DatePosted": "2023-3-16 4:24 AM",
+    "Url": "https://de.jobsyn.org/F1F8DA80E5AA4200B40E356BEC2C6553206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2011.00"
   },
@@ -1539,15 +1548,6 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "D5712D8A17074E93B9C316D2A9168007206",
-    "JobTitle": "Audit Team Lead",
-    "Company": "Comerica Bank",
-    "DatePosted": "2023-3-11 12:56 PM",
-    "Url": "https://de.jobsyn.org/D5712D8A17074E93B9C316D2A9168007206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "AD50173E6B404FBFB45C4B61AA3CEB59206",
     "JobTitle": "Sr. Accountant",
     "Company": "Robert Half",
@@ -1557,11 +1557,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "30B0FA1999654351B46F5EF9A5A23E82206",
-    "JobTitle": "Auditor II - Finance and Treasury",
-    "Company": "Ally",
-    "DatePosted": "2023-3-11 3:49 AM",
-    "Url": "https://de.jobsyn.org/30B0FA1999654351B46F5EF9A5A23E82206",
+    "JvID": "D5712D8A17074E93B9C316D2A9168007206",
+    "JobTitle": "Audit Team Lead",
+    "Company": "Comerica Bank",
+    "DatePosted": "2023-3-11 12:56 PM",
+    "Url": "https://de.jobsyn.org/D5712D8A17074E93B9C316D2A9168007206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2011.00"
   },
@@ -1584,21 +1584,21 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "29396D2545F647B7806DFB9A48648981206",
-    "JobTitle": "Financial Reporting Manager",
-    "Company": "AlixPartners",
-    "DatePosted": "2023-3-6 12:55 PM",
-    "Url": "https://de.jobsyn.org/29396D2545F647B7806DFB9A48648981206",
-    "Location": "Detroit, MI",
-    "OnetCode": "11-3031.00"
-  },
-  {
     "JvID": "3C636DCD25E5448DA82E2C6E9D34ADF8206",
     "JobTitle": "Manager of Financial Reporting",
     "Company": "Robert Half",
     "DatePosted": "2023-3-2 12:20 AM",
     "Url": "https://de.jobsyn.org/3C636DCD25E5448DA82E2C6E9D34ADF8206",
     "Location": "DETROIT, MI",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "29396D2545F647B7806DFB9A48648981206",
+    "JobTitle": "Financial Reporting Manager",
+    "Company": "AlixPartners",
+    "DatePosted": "2023-3-6 12:55 PM",
+    "Url": "https://de.jobsyn.org/29396D2545F647B7806DFB9A48648981206",
+    "Location": "Detroit, MI",
     "OnetCode": "11-3031.00"
   },
   {
@@ -1710,6 +1710,15 @@
     "OnetCode": "11-3031.00"
   },
   {
+    "JvID": "1A4B7FC992924C6E946CEB9835697D15206",
+    "JobTitle": "Associate ManagerFinancial Analysis Reporting Rem",
+    "Company": "TDS Telecom",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/1A4B7FC992924C6E946CEB9835697D15206",
+    "Location": "Detroit, MI",
+    "OnetCode": "11-3031.00"
+  },
+  {
     "JvID": "D86C33E2338245868994C637E7C12054206",
     "JobTitle": "Director, Finance",
     "Company": "Ilitch Holdings",
@@ -1737,20 +1746,11 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "A89015E2A2954F759140DE1C30590E9F206",
-    "JobTitle": "Lending Assistant",
-    "Company": "Comerica",
-    "DatePosted": "2023-3-16 1:16 AM",
-    "Url": "https://de.jobsyn.org/A89015E2A2954F759140DE1C30590E9F206",
-    "Location": "Detroit, MI",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "8403FA3680E14A52AE3457D834247791206",
-    "JobTitle": "Senior Lending Assistant",
-    "Company": "Comerica",
-    "DatePosted": "2023-3-16 1:16 AM",
-    "Url": "https://de.jobsyn.org/8403FA3680E14A52AE3457D834247791206",
+    "JvID": "2C7FBC6FF2754C4781F25D865047AE45206",
+    "JobTitle": "Accounting Manager",
+    "Company": "Spartan Capital Group LLC",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/2C7FBC6FF2754C4781F25D865047AE45206",
     "Location": "Detroit, MI",
     "OnetCode": "11-3031.00"
   },
@@ -1764,15 +1764,6 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "25737A97FD1544AD925C270A9DB2C8F1206",
-    "JobTitle": "Director, Reinsurance Accounting",
-    "Company": "Lincoln Financial Group",
-    "DatePosted": "2023-3-16 4:42 AM",
-    "Url": "https://de.jobsyn.org/25737A97FD1544AD925C270A9DB2C8F1206",
-    "Location": "Detroit, MI",
-    "OnetCode": "11-3031.00"
-  },
-  {
     "JvID": "AF3CDFD276C04FBF904A6EBF150D23E3206",
     "JobTitle": "VP, Division Finance",
     "Company": "First American",
@@ -1782,20 +1773,29 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "B217B2AAD31A419A9CDC91172374A45A206",
-    "JobTitle": "Director, Accounting Policy",
-    "Company": "Lincoln Financial Group",
-    "DatePosted": "2023-3-16 4:42 AM",
-    "Url": "https://de.jobsyn.org/B217B2AAD31A419A9CDC91172374A45A206",
+    "JvID": "8403FA3680E14A52AE3457D834247791206",
+    "JobTitle": "Senior Lending Assistant",
+    "Company": "Comerica",
+    "DatePosted": "2023-3-16 1:16 AM",
+    "Url": "https://de.jobsyn.org/8403FA3680E14A52AE3457D834247791206",
     "Location": "Detroit, MI",
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "F1F8DA80E5AA4200B40E356BEC2C6553206",
-    "JobTitle": "Technical Accounting Manager",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-16 4:24 AM",
-    "Url": "https://de.jobsyn.org/F1F8DA80E5AA4200B40E356BEC2C6553206",
+    "JvID": "A89015E2A2954F759140DE1C30590E9F206",
+    "JobTitle": "Lending Assistant",
+    "Company": "Comerica",
+    "DatePosted": "2023-3-16 1:16 AM",
+    "Url": "https://de.jobsyn.org/A89015E2A2954F759140DE1C30590E9F206",
+    "Location": "Detroit, MI",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "8EAFD101CB3D4059AE32A8DFE85270CA206",
+    "JobTitle": "Accounting Manager",
+    "Company": "Spartan Capital Group LLC",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/8EAFD101CB3D4059AE32A8DFE85270CA206",
     "Location": "Detroit, MI",
     "OnetCode": "11-3031.00"
   },
@@ -1881,6 +1881,24 @@
     "OnetCode": "41-3021.00"
   },
   {
+    "JvID": "5D4FAC6204A445C992BFC0BB88D3FE1C206",
+    "JobTitle": "Control State Sales Representative",
+    "Company": "Republic National Distributing Company",
+    "DatePosted": "2023-3-16 6:01 AM",
+    "Url": "https://de.jobsyn.org/5D4FAC6204A445C992BFC0BB88D3FE1C206",
+    "Location": "Detroit, MI",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "6B762C232D7540949E816BF1C799A13F206",
+    "JobTitle": "HCM Account Executive",
+    "Company": "Paylocity",
+    "DatePosted": "2023-3-16 7:34 AM",
+    "Url": "https://de.jobsyn.org/6B762C232D7540949E816BF1C799A13F206",
+    "Location": "Detroit, MI",
+    "OnetCode": "41-3031.00"
+  },
+  {
     "JvID": "3FE33CE195D345D6A651C0E03C8C40EE206",
     "JobTitle": "Part Time Relationship Banker",
     "Company": "Comerica Bank",
@@ -1963,7 +1981,7 @@
   },
   {
     "JvID": "146F7714CB3B472EB25F3085682410FB206",
-    "JobTitle": "Client Relationship Manager (MW)",
+    "JobTitle": "Client Relationship Manager",
     "Company": "TIAA",
     "DatePosted": "2023-3-15 12:14 AM",
     "Url": "https://de.jobsyn.org/146F7714CB3B472EB25F3085682410FB206",
@@ -2088,24 +2106,6 @@
     "OnetCode": "41-3031.00"
   },
   {
-    "JvID": "0EB23B259F074A3595BA494592874B2E206",
-    "JobTitle": "Tax Senior - Financial Services Tax Transformation",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-4 3:54 AM",
-    "Url": "https://de.jobsyn.org/0EB23B259F074A3595BA494592874B2E206",
-    "Location": "Detroit, MI",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "3BBDC9AE82F64F53ADAF1A923AFBAECB206",
-    "JobTitle": "Business Tax Services Associate Winter 2024",
-    "Company": "RSM US LLP",
-    "DatePosted": "2023-3-3 1:47 PM",
-    "Url": "https://de.jobsyn.org/3BBDC9AE82F64F53ADAF1A923AFBAECB206",
-    "Location": "Detroit, MI",
-    "OnetCode": "41-3031.00"
-  },
-  {
     "JvID": "D063A325030148B3A53E6EC9890FFF15206",
     "JobTitle": "Financial Analyst",
     "Company": "Robert Half",
@@ -2214,11 +2214,29 @@
     "OnetCode": "13-2051.00"
   },
   {
+    "JvID": "5D9C6A76200647569BC7A00B45623973206",
+    "JobTitle": "Senior AnalystFinancial Analysis Remote",
+    "Company": "TDS Telecom",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/5D9C6A76200647569BC7A00B45623973206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-2051.00"
+  },
+  {
     "JvID": "2CC6F3BBA64B4D0199EE04D00C5F63FB206",
     "JobTitle": "Senior Healthcare Finance Specialist",
     "Company": "Kforce",
     "DatePosted": "2023-3-16 5:20 AM",
     "Url": "https://de.jobsyn.org/2CC6F3BBA64B4D0199EE04D00C5F63FB206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "1A4B7FC992924C6E946CEB9835697D15206",
+    "JobTitle": "Associate ManagerFinancial Analysis Reporting Rem",
+    "Company": "TDS Telecom",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/1A4B7FC992924C6E946CEB9835697D15206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2051.00"
   },
@@ -2313,38 +2331,11 @@
     "OnetCode": "13-2051.00"
   },
   {
-    "JvID": "93745152CF334EC7901A0BBDA2D7C3AC206",
-    "JobTitle": "ITAX TP Intern",
-    "Company": "RSM US LLP",
-    "DatePosted": "2023-3-8 12:52 PM",
-    "Url": "https://de.jobsyn.org/93745152CF334EC7901A0BBDA2D7C3AC206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "51A551107F294B4E96C6350482AAB937206",
-    "JobTitle": "Partnership Tax International Senior Associate",
-    "Company": "PwC",
-    "DatePosted": "2023-3-9 2:47 AM",
-    "Url": "https://de.jobsyn.org/51A551107F294B4E96C6350482AAB937206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-2051.00"
-  },
-  {
     "JvID": "74FFC35BB12E4F98B5A2EE142B43E7EB206",
     "JobTitle": "Credit Card Risk Strategy - Senior Analyst",
     "Company": "Huntington National Bank",
     "DatePosted": "2023-2-8 4:21 AM",
     "Url": "https://de.jobsyn.org/74FFC35BB12E4F98B5A2EE142B43E7EB206",
-    "Location": "Detroit, MI",
-    "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "A810032F460E46DD84AE31149B27DE49206",
-    "JobTitle": "Dealer Compliance Analyst",
-    "Company": "Comerica Bank",
-    "DatePosted": "2023-2-12 1:12 PM",
-    "Url": "https://de.jobsyn.org/A810032F460E46DD84AE31149B27DE49206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2041.00"
   },
@@ -2424,7 +2415,7 @@
     "JvID": "32D6D8DF0027431F82FD72168A3E0430206",
     "JobTitle": "Credit Support Specialist",
     "Company": "Comerica Bank",
-    "DatePosted": "2023-3-4 12:58 PM",
+    "DatePosted": "2023-3-4 1:07 PM",
     "Url": "https://de.jobsyn.org/32D6D8DF0027431F82FD72168A3E0430206",
     "Location": "Detroit, MI",
     "OnetCode": "13-2041.00"
@@ -2556,6 +2547,15 @@
     "OnetCode": "13-2041.00"
   },
   {
+    "JvID": "9BEAD862FFF648CD9D51323A86B9913A206",
+    "JobTitle": "Business Banking Underwriter III",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-2-24 3:42 AM",
+    "Url": "https://de.jobsyn.org/9BEAD862FFF648CD9D51323A86B9913A206",
+    "Location": "Detroit, MI",
+    "OnetCode": "13-2041.00"
+  },
+  {
     "JvID": "7814F8323B264B1D92C3DFD949B7EC33206",
     "JobTitle": "Resident Assistant",
     "Company": "Ecumen",
@@ -2652,15 +2652,6 @@
     "DatePosted": "2023-3-8 6:31 AM",
     "Url": "https://de.jobsyn.org/08B093FDB79445DBA9139BDE5EFD31A1206",
     "Location": "Detroit Lakes, MN",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "4972D9ACC98A4CD0987F3A1B39741642206",
-    "JobTitle": "Certified Nursing Assistant",
-    "Company": "Acadia Healthcare",
-    "DatePosted": "2023-3-9 12:49 AM",
-    "Url": "https://de.jobsyn.org/4972D9ACC98A4CD0987F3A1B39741642206",
-    "Location": "Detroit, MI",
     "OnetCode": "31-1121.00"
   },
   {
@@ -2772,21 +2763,21 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "C4251C410A8C41AEAED026D40597A7E7206",
-    "JobTitle": "Registered Nurse RN PRN",
-    "Company": "NaphCare Inc",
-    "DatePosted": "2023-3-8 12:52 PM",
-    "Url": "https://de.jobsyn.org/C4251C410A8C41AEAED026D40597A7E7206",
-    "Location": "Detroit, MI",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "58D01F8AD32548F883B6B5FCB8EE3B90206",
     "JobTitle": "Registered Nurse (RN)",
     "Company": "Ecumen",
     "DatePosted": "2023-2-23 9:23 AM",
     "Url": "https://de.jobsyn.org/58D01F8AD32548F883B6B5FCB8EE3B90206",
     "Location": "Detroit Lakes, MN",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "C4251C410A8C41AEAED026D40597A7E7206",
+    "JobTitle": "Registered Nurse RN PRN",
+    "Company": "NaphCare Inc",
+    "DatePosted": "2023-3-8 12:52 PM",
+    "Url": "https://de.jobsyn.org/C4251C410A8C41AEAED026D40597A7E7206",
+    "Location": "Detroit, MI",
     "OnetCode": "29-1141.00"
   },
   {
@@ -2813,6 +2804,15 @@
     "Company": "McLaren Health Care",
     "DatePosted": "2023-3-15 6:13 AM",
     "Url": "https://de.jobsyn.org/E189F2B39809416BB8180BC3FB6F7D3F206",
+    "Location": "Detroit, MI",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "38513E65E8214F65A4355D3EB3E626B9206",
+    "JobTitle": "Registered Nurse (RN)",
+    "Company": "Premise Health",
+    "DatePosted": "2023-2-25 4:56 AM",
+    "Url": "https://de.jobsyn.org/38513E65E8214F65A4355D3EB3E626B9206",
     "Location": "Detroit, MI",
     "OnetCode": "29-1141.00"
   },
@@ -2849,15 +2849,6 @@
     "Company": "McLaren Health Care",
     "DatePosted": "2023-3-15 6:14 AM",
     "Url": "https://de.jobsyn.org/2F934A5624D94740839E87BF0B191370206",
-    "Location": "Detroit, MI",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "38513E65E8214F65A4355D3EB3E626B9206",
-    "JobTitle": "Registered Nurse (RN)",
-    "Company": "Premise Health",
-    "DatePosted": "2023-2-25 4:56 AM",
-    "Url": "https://de.jobsyn.org/38513E65E8214F65A4355D3EB3E626B9206",
     "Location": "Detroit, MI",
     "OnetCode": "29-1141.00"
   },
@@ -2934,20 +2925,20 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "2D730E45D06E43CCB9BC55570027C1E7206",
-    "JobTitle": "RN-Registered Nurse Neonatal ICU",
-    "Company": "Ascension Health",
-    "DatePosted": "2023-3-11 3:22 AM",
-    "Url": "https://de.jobsyn.org/2D730E45D06E43CCB9BC55570027C1E7206",
-    "Location": "Detroit, MI",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "D243B970AF2A4D9FB379743591B60DC1206",
     "JobTitle": "RN Registered Nurse - Radiology",
     "Company": "Ascension Health",
     "DatePosted": "2023-3-9 4:56 AM",
     "Url": "https://de.jobsyn.org/D243B970AF2A4D9FB379743591B60DC1206",
+    "Location": "Detroit, MI",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "EFBD7285371341629005A9B52A3B50BF206",
+    "JobTitle": "RN Registered Nurse- Pediatric Clinic",
+    "Company": "Ascension Health",
+    "DatePosted": "2023-3-7 6:47 AM",
+    "Url": "https://de.jobsyn.org/EFBD7285371341629005A9B52A3B50BF206",
     "Location": "Detroit, MI",
     "OnetCode": "29-1141.00"
   },
@@ -2975,15 +2966,6 @@
     "Company": "Trilogy Health Services",
     "DatePosted": "2023-2-18 1:15 PM",
     "Url": "https://de.jobsyn.org/1A6E4BC29DEE466081EC9AC470AF7C71206",
-    "Location": "Detroit, MI",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "4972D9ACC98A4CD0987F3A1B39741642206",
-    "JobTitle": "Certified Nursing Assistant",
-    "Company": "Acadia Healthcare",
-    "DatePosted": "2023-3-9 12:49 AM",
-    "Url": "https://de.jobsyn.org/4972D9ACC98A4CD0987F3A1B39741642206",
     "Location": "Detroit, MI",
     "OnetCode": "31-1131.00"
   },
@@ -3060,20 +3042,20 @@
     "OnetCode": "31-1131.00"
   },
   {
-    "JvID": "E185B15BDAFC45AC9E7A63B60F85C572206",
-    "JobTitle": "Nurse Assistant - Pulmonary Medicine - 36 hrs/week - Midnights- Detroit",
-    "Company": "Henry Ford Health System",
-    "DatePosted": "2023-3-15 1:27 AM",
-    "Url": "https://de.jobsyn.org/E185B15BDAFC45AC9E7A63B60F85C572206",
-    "Location": "Detroit, MI",
-    "OnetCode": "31-1131.00"
-  },
-  {
     "JvID": "D8E4BD44958C4D1288FB7AC1648F63F0206",
     "JobTitle": "Certified Nursing Assistant (CNA) Afternoon  Sign On Bonus for Full and Part Time (For AFT only)",
     "Company": "Ciena Healthcare",
     "DatePosted": "2023-3-3 11:01 PM",
     "Url": "https://de.jobsyn.org/D8E4BD44958C4D1288FB7AC1648F63F0206",
+    "Location": "Detroit, MI",
+    "OnetCode": "31-1131.00"
+  },
+  {
+    "JvID": "E185B15BDAFC45AC9E7A63B60F85C572206",
+    "JobTitle": "Nurse Assistant - Pulmonary Medicine - 36 hrs/week - Midnights- Detroit",
+    "Company": "Henry Ford Health System",
+    "DatePosted": "2023-3-15 1:27 AM",
+    "Url": "https://de.jobsyn.org/E185B15BDAFC45AC9E7A63B60F85C572206",
     "Location": "Detroit, MI",
     "OnetCode": "31-1131.00"
   },
@@ -3177,6 +3159,15 @@
     "OnetCode": "31-1131.00"
   },
   {
+    "JvID": "245A55C234D849708A0180531CE46F18206",
+    "JobTitle": "Nurse Assistant - Surgical Specialty and Surgical Progressive Care - 36 hrs/week - Midnights- Detroit",
+    "Company": "Henry Ford Health System",
+    "DatePosted": "2023-2-15 1:57 AM",
+    "Url": "https://de.jobsyn.org/245A55C234D849708A0180531CE46F18206",
+    "Location": "Detroit, MI",
+    "OnetCode": "31-1131.00"
+  },
+  {
     "JvID": "C3C46A68366142C9869C8B94C8CCE968206",
     "JobTitle": "Medical Assistant-Hematology-Detroit",
     "Company": "Henry Ford Health System",
@@ -3204,15 +3195,6 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "FE8EE44B469247B4AA5249B89D8A7707206",
-    "JobTitle": "MA Medical Assistant-Pediatrics",
-    "Company": "Ascension Health",
-    "DatePosted": "2023-3-7 6:47 AM",
-    "Url": "https://de.jobsyn.org/FE8EE44B469247B4AA5249B89D8A7707206",
-    "Location": "Detroit, MI",
-    "OnetCode": "31-9092.00"
-  },
-  {
     "JvID": "2ACCB3B751364269A58F7BAEBC5160F9206",
     "JobTitle": "Medical Assistant II",
     "Company": "Beaumont Health System",
@@ -3231,11 +3213,29 @@
     "OnetCode": "31-9092.00"
   },
   {
+    "JvID": "FE8EE44B469247B4AA5249B89D8A7707206",
+    "JobTitle": "MA Medical Assistant-Pediatrics",
+    "Company": "Ascension Health",
+    "DatePosted": "2023-3-7 6:47 AM",
+    "Url": "https://de.jobsyn.org/FE8EE44B469247B4AA5249B89D8A7707206",
+    "Location": "Detroit, MI",
+    "OnetCode": "31-9092.00"
+  },
+  {
     "JvID": "260F61775947451399CBFC2D79076EC8206",
     "JobTitle": "Medical Assistant Apprentice- Part Time",
     "Company": "Henry Ford Health System",
     "DatePosted": "2023-2-23 10:45 PM",
     "Url": "https://de.jobsyn.org/260F61775947451399CBFC2D79076EC8206",
+    "Location": "Detroit, MI",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "AE769C7225FE455F89F508A90447268C206",
+    "JobTitle": "Health Systems Specialist (Executive Assistant to the Medical Director)",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-16 10:23 PM",
+    "Url": "https://de.jobsyn.org/AE769C7225FE455F89F508A90447268C206",
     "Location": "Detroit, MI",
     "OnetCode": "31-9092.00"
   },
@@ -3294,20 +3294,20 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "6986CEB92D8C4C818AB3CA9E97978C2D206",
-    "JobTitle": "Medical Office Assistant Days FT Sign on Bonus available",
-    "Company": "Tenet Healthcare",
-    "DatePosted": "2023-3-13 10:27 PM",
-    "Url": "https://de.jobsyn.org/6986CEB92D8C4C818AB3CA9E97978C2D206",
-    "Location": "Detroit, MI",
-    "OnetCode": "31-9092.00"
-  },
-  {
     "JvID": "83A3525BEA8E4960BD6471DB3162855C206",
     "JobTitle": "Medical Assistant Full time/School Based Programs-Western Health Center",
     "Company": "Henry Ford Health System",
     "DatePosted": "2023-2-25 6:14 AM",
     "Url": "https://de.jobsyn.org/83A3525BEA8E4960BD6471DB3162855C206",
+    "Location": "Detroit, MI",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "6986CEB92D8C4C818AB3CA9E97978C2D206",
+    "JobTitle": "Medical Office Assistant Days FT Sign on Bonus available",
+    "Company": "Tenet Healthcare",
+    "DatePosted": "2023-3-13 10:27 PM",
+    "Url": "https://de.jobsyn.org/6986CEB92D8C4C818AB3CA9E97978C2D206",
     "Location": "Detroit, MI",
     "OnetCode": "31-9092.00"
   },
@@ -3330,20 +3330,20 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "C2337DE2FF86494B800DA3B3524A1939206",
-    "JobTitle": "Health Systems Specialist (Executive Assistant to the Medical Center Director)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-12 1:04 AM",
-    "Url": "https://de.jobsyn.org/C2337DE2FF86494B800DA3B3524A1939206",
-    "Location": "Detroit, MI",
-    "OnetCode": "31-9092.00"
-  },
-  {
     "JvID": "E3226072FCD140549F8A32D72529BF02206",
     "JobTitle": "Medical Assistant - Gastroenterology Clinic- Detroit-Full Time",
     "Company": "Henry Ford Health System",
     "DatePosted": "2023-2-7 6:27 AM",
     "Url": "https://de.jobsyn.org/E3226072FCD140549F8A32D72529BF02206",
+    "Location": "Detroit, MI",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "C2337DE2FF86494B800DA3B3524A1939206",
+    "JobTitle": "Health Systems Specialist (Executive Assistant to the Medical Center Director)",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-12 1:04 AM",
+    "Url": "https://de.jobsyn.org/C2337DE2FF86494B800DA3B3524A1939206",
     "Location": "Detroit, MI",
     "OnetCode": "31-9092.00"
   },
@@ -3389,15 +3389,6 @@
     "Company": "Henry Ford Health System",
     "DatePosted": "2023-3-9 1:03 AM",
     "Url": "https://de.jobsyn.org/67A77AC5B8074EF78FE2B85A8433E222206",
-    "Location": "Detroit, MI",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "F23747815FAB42A48DEA205F64177423206",
-    "JobTitle": "Medical Assistant- Internal Medicine - Full-Time with Full-Time Benefits (40 Hours)/ Days-Detroit",
-    "Company": "Henry Ford Health System",
-    "DatePosted": "2023-3-9 1:03 AM",
-    "Url": "https://de.jobsyn.org/F23747815FAB42A48DEA205F64177423206",
     "Location": "Detroit, MI",
     "OnetCode": "31-9092.00"
   },
@@ -3489,15 +3480,6 @@
     "DatePosted": "2023-2-24 5:08 AM",
     "Url": "https://de.jobsyn.org/7BF4D20100F24ABFA16EC866EC65E3B0206",
     "Location": "DETROIT, MI",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "95CAAFED85FC42EF870B30861C1B4436206",
-    "JobTitle": "Pharmacy Technician PRN",
-    "Company": "NaphCare Inc",
-    "DatePosted": "2023-2-12 1:12 PM",
-    "Url": "https://de.jobsyn.org/95CAAFED85FC42EF870B30861C1B4436206",
-    "Location": "Detroit, MI",
     "OnetCode": "29-2052.00"
   },
   {
@@ -3627,6 +3609,15 @@
     "OnetCode": "29-2052.00"
   },
   {
+    "JvID": "F996447957D347BF938560FE6CDD8130206",
+    "JobTitle": "Pharmacy Specialist - 40 hrs/wk - Henry Ford Pharmacy Revenue Cycle",
+    "Company": "Henry Ford Health System",
+    "DatePosted": "2023-2-27 11:24 PM",
+    "Url": "https://de.jobsyn.org/F996447957D347BF938560FE6CDD8130206",
+    "Location": "Detroit, MI",
+    "OnetCode": "29-2052.00"
+  },
+  {
     "JvID": "FD4097AE967044D2B82E02B512ECD836206",
     "JobTitle": "Dental Assistant - RHRP",
     "Company": "DOCS Health",
@@ -3735,24 +3726,6 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "D62E174D3CC041F0B7C882321068332E206",
-    "JobTitle": "Software Development Engineer Socrata Solutions",
-    "Company": "Tyler Technologies",
-    "DatePosted": "2023-2-12 1:13 PM",
-    "Url": "https://de.jobsyn.org/D62E174D3CC041F0B7C882321068332E206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "371F10206C7E4965B656B9A9851D6256206",
-    "JobTitle": "Lead Software Engineers",
-    "Company": "American Axle  Mfg Inc",
-    "DatePosted": "2023-3-15 12:52 PM",
-    "Url": "https://de.jobsyn.org/371F10206C7E4965B656B9A9851D6256206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1252.00"
-  },
-  {
     "JvID": "5D5B6AFBC9F146EFA3B5F4009F7F89F5206",
     "JobTitle": "Software Technical Project Manager",
     "Company": "American Axle  Mfg Inc",
@@ -3762,11 +3735,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "1A8934BFF60D4AD6A95B0C5D9F9D33D8206",
-    "JobTitle": "Software Engineers",
+    "JvID": "371F10206C7E4965B656B9A9851D6256206",
+    "JobTitle": "Lead Software Engineers",
     "Company": "American Axle  Mfg Inc",
     "DatePosted": "2023-3-15 12:52 PM",
-    "Url": "https://de.jobsyn.org/1A8934BFF60D4AD6A95B0C5D9F9D33D8206",
+    "Url": "https://de.jobsyn.org/371F10206C7E4965B656B9A9851D6256206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1252.00"
   },
@@ -3789,6 +3762,15 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "1A8934BFF60D4AD6A95B0C5D9F9D33D8206",
+    "JobTitle": "Software Engineers",
+    "Company": "American Axle  Mfg Inc",
+    "DatePosted": "2023-3-15 12:52 PM",
+    "Url": "https://de.jobsyn.org/1A8934BFF60D4AD6A95B0C5D9F9D33D8206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "92152BA83A18416799147460D396E213206",
     "JobTitle": "Systems Engineer",
     "Company": "Actalent",
@@ -3807,15 +3789,6 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "BF95D522F9B8429FB705011E1F4AE9B0206",
-    "JobTitle": "Experienced Software Engineer (AWS)",
-    "Company": "Principal Financial Group",
-    "DatePosted": "2023-3-15 4:13 AM",
-    "Url": "https://de.jobsyn.org/BF95D522F9B8429FB705011E1F4AE9B0206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1252.00"
-  },
-  {
     "JvID": "7C00AB9EDB4A4E33AD12A061C01B2EB1206",
     "JobTitle": "Senior Embedded Software Engineer",
     "Company": "American Axle  Mfg Inc",
@@ -3830,6 +3803,15 @@
     "Company": "American Axle  Mfg Inc",
     "DatePosted": "2023-2-21 1:07 PM",
     "Url": "https://de.jobsyn.org/B0B909A8BFC847C5AE7679DEF3C3A840206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "BF95D522F9B8429FB705011E1F4AE9B0206",
+    "JobTitle": "Experienced Software Engineer (AWS)",
+    "Company": "Principal Financial Group",
+    "DatePosted": "2023-3-15 4:13 AM",
+    "Url": "https://de.jobsyn.org/BF95D522F9B8429FB705011E1F4AE9B0206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1252.00"
   },
@@ -3861,11 +3843,20 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "9B2165D6A6FA4E28B79FA55FF226F5DF206",
-    "JobTitle": "Lead Software Engineers",
-    "Company": "American Axle  Mfg Inc",
-    "DatePosted": "2023-2-12 1:12 PM",
-    "Url": "https://de.jobsyn.org/9B2165D6A6FA4E28B79FA55FF226F5DF206",
+    "JvID": "3A64236B5AD347A59896032CA67D5628206",
+    "JobTitle": "Jr. Software Dev Engineer",
+    "Company": "Amazoncom Services Inc",
+    "DatePosted": "2023-3-6 12:55 PM",
+    "Url": "https://de.jobsyn.org/3A64236B5AD347A59896032CA67D5628206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "B5C2430533714511822C7D5FBF92CB35206",
+    "JobTitle": "Software Engineer I (Ref# SE1RC) -- multiple openings",
+    "Company": "Rock Central LLC dba Rocket Central",
+    "DatePosted": "2023-3-1 1:50 PM",
+    "Url": "https://de.jobsyn.org/B5C2430533714511822C7D5FBF92CB35206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1252.00"
   },
@@ -3879,11 +3870,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "3A64236B5AD347A59896032CA67D5628206",
-    "JobTitle": "Jr. Software Dev Engineer",
-    "Company": "Amazoncom Services Inc",
-    "DatePosted": "2023-3-6 12:55 PM",
-    "Url": "https://de.jobsyn.org/3A64236B5AD347A59896032CA67D5628206",
+    "JvID": "0DC63A96D59845CE965A4CFB74435145206",
+    "JobTitle": "Software Engineer II (Ref# SE2RC) -- multiple openings",
+    "Company": "Rock Central LLC dba Rocket Central",
+    "DatePosted": "2023-3-1 1:43 PM",
+    "Url": "https://de.jobsyn.org/0DC63A96D59845CE965A4CFB74435145206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1252.00"
   },
@@ -4059,6 +4050,24 @@
     "OnetCode": "15-1232.00"
   },
   {
+    "JvID": "18722EFAF02346CEA09C7F205B3494DB206",
+    "JobTitle": "Call Center Specialist",
+    "Company": "Wayne County Government",
+    "DatePosted": "2023-3-16 12:48 PM",
+    "Url": "https://de.jobsyn.org/18722EFAF02346CEA09C7F205B3494DB206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "2CE723BEBE224B41951B4073F8D4F91F206",
+    "JobTitle": "Field Operations Specialist",
+    "Company": "SUEZ WTS USA INC",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/2CE723BEBE224B41951B4073F8D4F91F206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1232.00"
+  },
+  {
     "JvID": "F3153CE6C3F84A60B069FC001D799160206",
     "JobTitle": "Data Center Computer Operator - 8946",
     "Company": "Blue Cross Blue Shield of Michigan",
@@ -4185,29 +4194,20 @@
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "62F70B9B0B8D4B75B0FDB860157A9849206",
-    "JobTitle": "Salesforce Support Manager",
-    "Company": "Elastic",
-    "DatePosted": "2023-3-11 12:57 PM",
-    "Url": "https://de.jobsyn.org/62F70B9B0B8D4B75B0FDB860157A9849206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "8CB6C592651B489EBE83F45AE007EBDA206",
-    "JobTitle": "Manager, Systems & Infrastructure Administration - Remote",
-    "Company": "KPMG",
-    "DatePosted": "2023-3-11 5:17 AM",
-    "Url": "https://de.jobsyn.org/8CB6C592651B489EBE83F45AE007EBDA206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1232.00"
-  },
-  {
     "JvID": "A51EE1283C6646D3BEAE544DF271B250206",
     "JobTitle": "Systems Analyst III",
     "Company": "ICONMA, LLC",
     "DatePosted": "2023-3-9 12:44 AM",
     "Url": "https://de.jobsyn.org/A51EE1283C6646D3BEAE544DF271B250206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "D1DE330139FC43408B6E100FF3BBD093206",
+    "JobTitle": "Systems Analyst III",
+    "Company": "G-TECH Services, Inc.",
+    "DatePosted": "2023-3-16 5:54 PM",
+    "Url": "https://de.jobsyn.org/D1DE330139FC43408B6E100FF3BBD093206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1211.00"
   },
@@ -4230,21 +4230,30 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "3674DA4C009C423AB204972677554CEF206",
-    "JobTitle": "testing analyst iiii",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-16 5:36 AM",
-    "Url": "https://de.jobsyn.org/3674DA4C009C423AB204972677554CEF206",
-    "Location": "detroit, MI",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "26A56EF12B8D42AFA52E83DD856E2639206",
     "JobTitle": "Senior Business AnalystSalesforce",
     "Company": "Synopsys",
     "DatePosted": "2023-3-6 12:55 PM",
     "Url": "https://de.jobsyn.org/26A56EF12B8D42AFA52E83DD856E2639206",
     "Location": "Detroit, MI",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "547D9C26953D406AAD65FF45B2F92F3E206",
+    "JobTitle": "Trust Analyst",
+    "Company": "FIS",
+    "DatePosted": "2023-2-26 1:20 PM",
+    "Url": "https://de.jobsyn.org/547D9C26953D406AAD65FF45B2F92F3E206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "3674DA4C009C423AB204972677554CEF206",
+    "JobTitle": "testing analyst iiii",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-16 5:36 AM",
+    "Url": "https://de.jobsyn.org/3674DA4C009C423AB204972677554CEF206",
+    "Location": "detroit, MI",
     "OnetCode": "15-1211.00"
   },
   {
@@ -4266,11 +4275,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "23E37DA9B29A41AB9583BEDF07C2CDDE206",
-    "JobTitle": "IT Analyst - 9025",
-    "Company": "Blue Cross Blue Shield of Michigan",
-    "DatePosted": "2023-3-15 12:53 PM",
-    "Url": "https://de.jobsyn.org/23E37DA9B29A41AB9583BEDF07C2CDDE206",
+    "JvID": "6D558EEEDBD54E91920566F7D9CDCFAB206",
+    "JobTitle": "Business Analyst",
+    "Company": "G-TECH Services, Inc.",
+    "DatePosted": "2023-2-15 7:52 PM",
+    "Url": "https://de.jobsyn.org/6D558EEEDBD54E91920566F7D9CDCFAB206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1211.00"
   },
@@ -4284,11 +4293,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "6D558EEEDBD54E91920566F7D9CDCFAB206",
-    "JobTitle": "Business Analyst",
-    "Company": "G-TECH Services, Inc.",
-    "DatePosted": "2023-2-15 7:52 PM",
-    "Url": "https://de.jobsyn.org/6D558EEEDBD54E91920566F7D9CDCFAB206",
+    "JvID": "23E37DA9B29A41AB9583BEDF07C2CDDE206",
+    "JobTitle": "IT Analyst - 9025",
+    "Company": "Blue Cross Blue Shield of Michigan",
+    "DatePosted": "2023-3-15 12:53 PM",
+    "Url": "https://de.jobsyn.org/23E37DA9B29A41AB9583BEDF07C2CDDE206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1211.00"
   },
@@ -4338,11 +4347,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "EA9CCD96824648AC99F9F67C135FF6CE206",
-    "JobTitle": "IT Solution Architect - 8179",
-    "Company": "Blue Cross Blue Shield of Michigan",
-    "DatePosted": "2023-3-15 12:53 PM",
-    "Url": "https://de.jobsyn.org/EA9CCD96824648AC99F9F67C135FF6CE206",
+    "JvID": "B914D40D25DF415AB8253F7BE2EC2725206",
+    "JobTitle": "SharePoint Analyst",
+    "Company": "Amentum",
+    "DatePosted": "2023-2-16 1:03 PM",
+    "Url": "https://de.jobsyn.org/B914D40D25DF415AB8253F7BE2EC2725206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1211.00"
   },
@@ -4356,20 +4365,20 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "B914D40D25DF415AB8253F7BE2EC2725206",
-    "JobTitle": "SharePoint Analyst",
-    "Company": "Amentum",
-    "DatePosted": "2023-2-16 1:03 PM",
-    "Url": "https://de.jobsyn.org/B914D40D25DF415AB8253F7BE2EC2725206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "E9C2EA5B91CB4C67AC0E82018E78CAC6206",
     "JobTitle": "Systems Analyst III - 7100",
     "Company": "Blue Cross Blue Shield of Michigan",
     "DatePosted": "2023-3-2 2:04 PM",
     "Url": "https://de.jobsyn.org/E9C2EA5B91CB4C67AC0E82018E78CAC6206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "EA9CCD96824648AC99F9F67C135FF6CE206",
+    "JobTitle": "IT Solution Architect - 8179",
+    "Company": "Blue Cross Blue Shield of Michigan",
+    "DatePosted": "2023-3-15 12:53 PM",
+    "Url": "https://de.jobsyn.org/EA9CCD96824648AC99F9F67C135FF6CE206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1211.00"
   },
@@ -4392,15 +4401,6 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "9EF9EAEE051D40F2ABFC3158A2837062206",
-    "JobTitle": "Pega Service Delivery Center Analyst - Tech Consulting - Staff II - Location Open",
-    "Company": "EY",
-    "DatePosted": "2023-3-11 12:58 AM",
-    "Url": "https://de.jobsyn.org/9EF9EAEE051D40F2ABFC3158A2837062206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "36221BB4FF9D44BA92D948329ED6DDFB206",
     "JobTitle": "data analyst iii",
     "Company": "Randstad US",
@@ -4415,15 +4415,6 @@
     "Company": "McKinsey  Company",
     "DatePosted": "2023-2-21 1:07 PM",
     "Url": "https://de.jobsyn.org/A468CBBECD874334B9AE6BD6F7A5CE92206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "CDB1E7B3446A4F7B84FB328C7BB39593206",
-    "JobTitle": "Open Data Business Analyst (Special Services ARPA)",
-    "Company": "City of Detroit",
-    "DatePosted": "2023-2-18 9:12 AM",
-    "Url": "https://de.jobsyn.org/CDB1E7B3446A4F7B84FB328C7BB39593206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1211.00"
   },
@@ -4446,20 +4437,20 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "AE7D10E08D744731AEF5D0D22A47DA85206",
-    "JobTitle": "Kafka Architect (Client Facing)",
-    "Company": "TEKsystems",
-    "DatePosted": "2023-3-14 3:20 AM",
-    "Url": "https://de.jobsyn.org/AE7D10E08D744731AEF5D0D22A47DA85206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "89A8FDDC519241BBA4F398E70DB026E0206",
     "JobTitle": "Identity Management Architect",
     "Company": "American Axle  Mfg Inc",
     "DatePosted": "2023-2-18 1:17 PM",
     "Url": "https://de.jobsyn.org/89A8FDDC519241BBA4F398E70DB026E0206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "AE7D10E08D744731AEF5D0D22A47DA85206",
+    "JobTitle": "Kafka Architect (Client Facing)",
+    "Company": "TEKsystems",
+    "DatePosted": "2023-3-14 3:20 AM",
+    "Url": "https://de.jobsyn.org/AE7D10E08D744731AEF5D0D22A47DA85206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1299.08"
   },
@@ -4482,6 +4473,15 @@
     "OnetCode": "15-1299.08"
   },
   {
+    "JvID": "F112917EB13B46C2B142D3780C11465B206",
+    "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
+    "Company": "Deloitte",
+    "DatePosted": "2023-2-18 4:04 AM",
+    "Url": "https://de.jobsyn.org/F112917EB13B46C2B142D3780C11465B206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1299.08"
+  },
+  {
     "JvID": "8D3528876F624738BD64613576EE6F57206",
     "JobTitle": "Solutions Architect US Remote",
     "Company": "Motorola Solutions",
@@ -4491,11 +4491,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "F112917EB13B46C2B142D3780C11465B206",
-    "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
-    "Company": "Deloitte",
-    "DatePosted": "2023-2-18 4:04 AM",
-    "Url": "https://de.jobsyn.org/F112917EB13B46C2B142D3780C11465B206",
+    "JvID": "2F2AEF2F290D4AB396A1A5BC2648331D206",
+    "JobTitle": "Consulting Architect",
+    "Company": "Elastic",
+    "DatePosted": "2023-2-18 1:15 PM",
+    "Url": "https://de.jobsyn.org/2F2AEF2F290D4AB396A1A5BC2648331D206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1299.08"
   },
@@ -4514,15 +4514,6 @@
     "Company": "VMware",
     "DatePosted": "2023-3-15 4:16 AM",
     "Url": "https://de.jobsyn.org/160958F3B6A1491A9B1F39529BACA95F206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "2F2AEF2F290D4AB396A1A5BC2648331D206",
-    "JobTitle": "Consulting Architect",
-    "Company": "Elastic",
-    "DatePosted": "2023-2-18 1:15 PM",
-    "Url": "https://de.jobsyn.org/2F2AEF2F290D4AB396A1A5BC2648331D206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1299.08"
   },
@@ -4617,20 +4608,20 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "A45D8A784DE34ADBB98711292244BC77206",
-    "JobTitle": "Azure Data Platform Engineer - Senior Manager - MSFT Data & AI Tech Consulting",
-    "Company": "EY",
-    "DatePosted": "2023-3-15 12:55 AM",
-    "Url": "https://de.jobsyn.org/A45D8A784DE34ADBB98711292244BC77206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "7A5BB2DBED524147BCD8EE5980D5985A206",
     "JobTitle": "Senior Cloud Native Engineer - Location Open",
     "Company": "Deloitte",
     "DatePosted": "2023-3-1 4:00 AM",
     "Url": "https://de.jobsyn.org/7A5BB2DBED524147BCD8EE5980D5985A206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "A45D8A784DE34ADBB98711292244BC77206",
+    "JobTitle": "Azure Data Platform Engineer - Senior Manager - MSFT Data & AI Tech Consulting",
+    "Company": "EY",
+    "DatePosted": "2023-3-15 12:55 AM",
+    "Url": "https://de.jobsyn.org/A45D8A784DE34ADBB98711292244BC77206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1299.08"
   },
@@ -4671,6 +4662,15 @@
     "OnetCode": "15-1212.00"
   },
   {
+    "JvID": "03970B2559504545AA9C440F8A7E1DBD206",
+    "JobTitle": "IT Services-Lead Cyber Threat Defence Analyst - Senior Manager (US Remote)",
+    "Company": "PricewaterhouseCoopers ITServices US LLC",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/03970B2559504545AA9C440F8A7E1DBD206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1212.00"
+  },
+  {
     "JvID": "952832162DE24D2D971B209BD087BCB4206",
     "JobTitle": "Business Analyst",
     "Company": "G-TECH Services, Inc.",
@@ -4707,20 +4707,20 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "B71315F02BA24F5EA88B12FEFF52B5F3206",
-    "JobTitle": "Manager, Security Monitoring Operations",
-    "Company": "KPMG",
-    "DatePosted": "2023-3-12 4:38 AM",
-    "Url": "https://de.jobsyn.org/B71315F02BA24F5EA88B12FEFF52B5F3206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1212.00"
-  },
-  {
     "JvID": "1D51EE91F07646C98E2730D9E9EFCA41206",
     "JobTitle": "Cerner Millennium Security Analyst",
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:45 PM",
     "Url": "https://de.jobsyn.org/1D51EE91F07646C98E2730D9E9EFCA41206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "B71315F02BA24F5EA88B12FEFF52B5F3206",
+    "JobTitle": "Manager, Security Monitoring Operations",
+    "Company": "KPMG",
+    "DatePosted": "2023-3-12 4:38 AM",
+    "Url": "https://de.jobsyn.org/B71315F02BA24F5EA88B12FEFF52B5F3206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1212.00"
   },
@@ -4770,20 +4770,20 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "704C95E7E1174B87A34830DF5D607F84206",
-    "JobTitle": "IT Services- Cyber Incident Response Analyst - Manager (US Remote)",
-    "Company": "PwC IT Services Co.",
-    "DatePosted": "2023-3-2 3:19 AM",
-    "Url": "https://de.jobsyn.org/704C95E7E1174B87A34830DF5D607F84206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1212.00"
-  },
-  {
     "JvID": "B5F0EC610DE840258844642D03DEA085206",
     "JobTitle": "ICAM Application Onboarding Manager",
     "Company": "Deloitte",
     "DatePosted": "2023-2-15 4:14 AM",
     "Url": "https://de.jobsyn.org/B5F0EC610DE840258844642D03DEA085206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "704C95E7E1174B87A34830DF5D607F84206",
+    "JobTitle": "IT Services- Cyber Incident Response Analyst - Manager (US Remote)",
+    "Company": "PwC IT Services Co.",
+    "DatePosted": "2023-3-2 3:19 AM",
+    "Url": "https://de.jobsyn.org/704C95E7E1174B87A34830DF5D607F84206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1212.00"
   },
@@ -4851,29 +4851,20 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "161F0F5A75234E4DBB2EDE5BAB9B2BB7206",
-    "JobTitle": "Senior Python Engineer",
-    "Company": "McKinsey  Company",
-    "DatePosted": "2023-3-15 12:52 PM",
-    "Url": "https://de.jobsyn.org/161F0F5A75234E4DBB2EDE5BAB9B2BB7206",
+    "JvID": "D1DE330139FC43408B6E100FF3BBD093206",
+    "JobTitle": "Systems Analyst III",
+    "Company": "G-TECH Services, Inc.",
+    "DatePosted": "2023-3-16 5:54 PM",
+    "Url": "https://de.jobsyn.org/D1DE330139FC43408B6E100FF3BBD093206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "926EA5D0F8894DEFB6DBA87222BF9304206",
-    "JobTitle": "Database Analyst - EST or CST time zone cities",
-    "Company": "EY",
-    "DatePosted": "2023-3-16 12:57 AM",
-    "Url": "https://de.jobsyn.org/926EA5D0F8894DEFB6DBA87222BF9304206",
-    "Location": "Detroit, MI",
-    "OnetCode": "15-1212.00"
-  },
-  {
-    "JvID": "253110D016D1459D860565F40AC88E3C206",
-    "JobTitle": "IT Security Engineer",
-    "Company": "R1 RCM",
-    "DatePosted": "2023-3-16 4:46 AM",
-    "Url": "https://de.jobsyn.org/253110D016D1459D860565F40AC88E3C206",
+    "JvID": "CE69A2E6E04E4668A04CBFBA374053AE206",
+    "JobTitle": "Cloud Security Architect",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-17 1:56 AM",
+    "Url": "https://de.jobsyn.org/CE69A2E6E04E4668A04CBFBA374053AE206",
     "Location": "Detroit, MI",
     "OnetCode": "15-1212.00"
   },
@@ -5022,6 +5013,15 @@
     "OnetCode": "17-2112.00"
   },
   {
+    "JvID": "2FBFE5697FA544D4BB4B1ACAEE7D46FD206",
+    "JobTitle": "Cluster Design Release Engineer",
+    "Company": "Capgemini",
+    "DatePosted": "2023-2-25 4:58 AM",
+    "Url": "https://de.jobsyn.org/2FBFE5697FA544D4BB4B1ACAEE7D46FD206",
+    "Location": "Detroit, MI",
+    "OnetCode": "17-2112.00"
+  },
+  {
     "JvID": "BB17FCDAB1244D009B67977D9EBD4EFD206",
     "JobTitle": "Facilities Engineer",
     "Company": "Actalent",
@@ -5031,11 +5031,11 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "2FBFE5697FA544D4BB4B1ACAEE7D46FD206",
-    "JobTitle": "Cluster Design Release Engineer",
-    "Company": "Capgemini",
-    "DatePosted": "2023-2-25 4:58 AM",
-    "Url": "https://de.jobsyn.org/2FBFE5697FA544D4BB4B1ACAEE7D46FD206",
+    "JvID": "9A59F4988D904071AE4398CB9EE88EDE206",
+    "JobTitle": "Project Engineer - MEP - Renewable",
+    "Company": "DTE Energy",
+    "DatePosted": "2023-3-17 2:00 AM",
+    "Url": "https://de.jobsyn.org/9A59F4988D904071AE4398CB9EE88EDE206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2112.00"
   },
@@ -5049,29 +5049,11 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "425243B7C5284C7B933C944917079129206",
-    "JobTitle": "Industrial Products & Construction Research Senior Manager, Deloitte Research Center for Energy & Industrials",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-15 4:30 AM",
-    "Url": "https://de.jobsyn.org/425243B7C5284C7B933C944917079129206",
-    "Location": "Detroit, MI",
-    "OnetCode": "17-2112.00"
-  },
-  {
     "JvID": "DBE0DFF6B9664605968C7072E0D1FE6C206",
     "JobTitle": "Lead Systems Engineer Electrification",
     "Company": "American Axle  Mfg Inc",
     "DatePosted": "2023-2-17 1:34 PM",
     "Url": "https://de.jobsyn.org/DBE0DFF6B9664605968C7072E0D1FE6C206",
-    "Location": "Detroit, MI",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "C3E356EE8CB048FABC1F434D4BA2B19E206",
-    "JobTitle": "Senior Systems Engineer",
-    "Company": "American Axle  Mfg Inc",
-    "DatePosted": "2023-3-6 12:55 PM",
-    "Url": "https://de.jobsyn.org/C3E356EE8CB048FABC1F434D4BA2B19E206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2112.00"
   },
@@ -5085,11 +5067,11 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "5A0E8ABE83C44CB48966D3FAA63D0209206",
-    "JobTitle": "Tech Engineer / Tech Manager MEP Construction",
-    "Company": "Walbridge",
-    "DatePosted": "2023-3-11 12:56 PM",
-    "Url": "https://de.jobsyn.org/5A0E8ABE83C44CB48966D3FAA63D0209206",
+    "JvID": "C3E356EE8CB048FABC1F434D4BA2B19E206",
+    "JobTitle": "Senior Systems Engineer",
+    "Company": "American Axle  Mfg Inc",
+    "DatePosted": "2023-3-6 12:55 PM",
+    "Url": "https://de.jobsyn.org/C3E356EE8CB048FABC1F434D4BA2B19E206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2112.00"
   },
@@ -5099,6 +5081,24 @@
     "Company": "Wade Trim",
     "DatePosted": "2023-3-4 12:58 PM",
     "Url": "https://de.jobsyn.org/5B9148C38B2D4E5A94084003E507FF49206",
+    "Location": "Detroit, MI",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "5A0E8ABE83C44CB48966D3FAA63D0209206",
+    "JobTitle": "Tech Engineer / Tech Manager MEP Construction",
+    "Company": "Walbridge",
+    "DatePosted": "2023-3-11 12:56 PM",
+    "Url": "https://de.jobsyn.org/5A0E8ABE83C44CB48966D3FAA63D0209206",
+    "Location": "Detroit, MI",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "425243B7C5284C7B933C944917079129206",
+    "JobTitle": "Industrial Products & Construction Research Senior Manager, Deloitte Research Center for Energy & Industrials",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-15 4:30 AM",
+    "Url": "https://de.jobsyn.org/425243B7C5284C7B933C944917079129206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2112.00"
   },
@@ -5121,11 +5121,11 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "5B65ACCA7F9443CB8EB5B7F05F108FA4206",
-    "JobTitle": "Engineer - Senior",
-    "Company": "DTE Energy",
-    "DatePosted": "2023-3-11 1:41 AM",
-    "Url": "https://de.jobsyn.org/5B65ACCA7F9443CB8EB5B7F05F108FA4206",
+    "JvID": "2CE723BEBE224B41951B4073F8D4F91F206",
+    "JobTitle": "Field Operations Specialist",
+    "Company": "SUEZ WTS USA INC",
+    "DatePosted": "2023-3-16 12:47 PM",
+    "Url": "https://de.jobsyn.org/2CE723BEBE224B41951B4073F8D4F91F206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2112.00"
   },
@@ -5135,15 +5135,6 @@
     "Company": "American Axle  Mfg Inc",
     "DatePosted": "2023-2-19 1:20 PM",
     "Url": "https://de.jobsyn.org/CA2ECA1E9D944A77AD47BAA88A3F04E8206",
-    "Location": "Detroit, MI",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "437DC322A4064BBE846573EFEAADA1B8206",
-    "JobTitle": "Analytical Engineer",
-    "Company": "Advantage Resourcing",
-    "DatePosted": "2023-2-16 1:00 PM",
-    "Url": "https://de.jobsyn.org/437DC322A4064BBE846573EFEAADA1B8206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2112.00"
   },
@@ -5430,7 +5421,7 @@
     "JvID": "A7AFEB7B8581407D885E9BC006221049206",
     "JobTitle": "Studio Manager, Mechanical",
     "Company": "NORR",
-    "DatePosted": "2023-3-9 6:55 AM",
+    "DatePosted": "2023-3-9 9:47 AM",
     "Url": "https://de.jobsyn.org/A7AFEB7B8581407D885E9BC006221049206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2141.00"
@@ -5454,6 +5445,15 @@
     "OnetCode": "17-2141.00"
   },
   {
+    "JvID": "2CA64B708829478BA64654572BECBD27206",
+    "JobTitle": "Senior Functional Safety Engineer",
+    "Company": "ICONMA, LLC",
+    "DatePosted": "2023-2-23 11:51 PM",
+    "Url": "https://de.jobsyn.org/2CA64B708829478BA64654572BECBD27206",
+    "Location": "Detroit, MI",
+    "OnetCode": "17-2141.00"
+  },
+  {
     "JvID": "6FE93D4AB5564B00B3EE04C4DC13975F206",
     "JobTitle": "Sr. Functional Safety Engineer",
     "Company": "American Axle  Mfg Inc",
@@ -5468,15 +5468,6 @@
     "Company": "American Axle  Mfg Inc",
     "DatePosted": "2023-3-8 12:52 PM",
     "Url": "https://de.jobsyn.org/A0DC7E12979546588A8C2B0CDD84A64F206",
-    "Location": "Detroit, MI",
-    "OnetCode": "17-2141.00"
-  },
-  {
-    "JvID": "2CA64B708829478BA64654572BECBD27206",
-    "JobTitle": "Senior Functional Safety Engineer",
-    "Company": "ICONMA, LLC",
-    "DatePosted": "2023-2-23 11:51 PM",
-    "Url": "https://de.jobsyn.org/2CA64B708829478BA64654572BECBD27206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2141.00"
   },
@@ -5508,15 +5499,6 @@
     "OnetCode": "17-2141.00"
   },
   {
-    "JvID": "B9B4679F71FC40D69948C434F6929117206",
-    "JobTitle": "Engineering Business Leader",
-    "Company": "AECOM",
-    "DatePosted": "2023-3-14 10:55 PM",
-    "Url": "https://de.jobsyn.org/B9B4679F71FC40D69948C434F6929117206",
-    "Location": "Detroit, MI",
-    "OnetCode": "17-2141.00"
-  },
-  {
     "JvID": "C3E356EE8CB048FABC1F434D4BA2B19E206",
     "JobTitle": "Senior Systems Engineer",
     "Company": "American Axle  Mfg Inc",
@@ -5531,6 +5513,15 @@
     "Company": "ICONMA, LLC",
     "DatePosted": "2023-2-17 8:25 AM",
     "Url": "https://de.jobsyn.org/0BC9FE459E614D3BB400E5EA8E8E0B5C206",
+    "Location": "Detroit, MI",
+    "OnetCode": "17-2141.00"
+  },
+  {
+    "JvID": "4E26025854B54F098CD5EF5A9CFC2BEE206",
+    "JobTitle": "Specialist, Engineering Services",
+    "Company": "JLL",
+    "DatePosted": "2023-3-5 1:03 PM",
+    "Url": "https://de.jobsyn.org/4E26025854B54F098CD5EF5A9CFC2BEE206",
     "Location": "Detroit, MI",
     "OnetCode": "17-2141.00"
   },
@@ -5801,6 +5792,15 @@
     "Company": "McKinsey  Company",
     "DatePosted": "2023-2-26 1:22 PM",
     "Url": "https://de.jobsyn.org/AFACE44D43014544A038B058E6F682BD206",
+    "Location": "Detroit, MI",
+    "OnetCode": "15-2051.00"
+  },
+  {
+    "JvID": "B5E51DEF7E944D60BEA70791B24AEB04206",
+    "JobTitle": "Data Engineer Intern",
+    "Company": "First American",
+    "DatePosted": "2023-3-16 12:48 PM",
+    "Url": "https://de.jobsyn.org/B5E51DEF7E944D60BEA70791B24AEB04206",
     "Location": "Detroit, MI",
     "OnetCode": "15-2051.00"
   },
