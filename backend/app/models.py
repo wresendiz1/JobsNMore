@@ -12,6 +12,7 @@ class Location(db.Model):
 	Safety = db.Column(db.String(80), nullable = False)
 	Average_rat = db.Column(db.Integer, nullable = False)
 	Guide = db.Column(db.String(200), nullable = False)
+	CityID = db.Column(db.Integer, nullable = False)
 
 class Job(db.Model):
 	__tablename__ = 'jobs'
@@ -23,6 +24,8 @@ class Job(db.Model):
 	Url = db.Column(db.String(200), nullable = False)
 	JobLocation = db.Column(db.String(80), nullable = False)
 	OnetCode = db.Column(db.String(20), nullable = False)
+	CityID = db.Column(db.Integer, nullable = False)
+
 	
 class Course(db.Model):
 	__tablename__ = 'courses'
