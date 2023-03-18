@@ -1,5 +1,5 @@
 import json
-from .models import Location, Job, db
+from .models import Location, Job, Course, db
 import os
 
 cities = [
@@ -88,3 +88,28 @@ def create_jobs():
             db.session.add(newJob)
             # commit the session to my DB.
             db.session.commit()
+
+def create_courses():
+    raw_courses = load_json('/data/courses.json')
+    uniqueNames = []
+    courses = []
+    for i in raw_courses:
+        if(i["Id"] not in uniqueNames):
+            uniqueNames.append(i["Id"])
+            courses.append(i)
+
+    for course in courses:
+        Id = course["Id"]
+        OnetCode = course["OnetCode"]
+        Provider = course["Provider"]
+        Name = course["Name"]
+        Url = course["Url"]
+        Type = course["Type"]
+        Description = course["Description"]
+
+        newCourse = Course(
+            Id=Id, OnetCode=OnetCode, Provider=Provider, Name=Name, Url=Url, Type=Type, Description=Description)
+        # After I create the book, I can then add it to my session.
+        db.session.add(newCourse)
+        # commit the session to my DB.
+        db.session.commit()
