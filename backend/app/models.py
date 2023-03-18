@@ -13,9 +13,8 @@ class Location(db.Model):
 	Average_rat = db.Column(db.Integer, nullable = False)
 	Guide = db.Column(db.String(200), nullable = False)
 
-
 class Job(db.Model):
-	__tablename__ = 'job'
+	__tablename__ = 'jobs'
 
 	Id = db.Column(db.String(80), primary_key = True)
 	JobTitle = db.Column(db.String(200), nullable = False)
@@ -24,3 +23,14 @@ class Job(db.Model):
 	Url = db.Column(db.String(200), nullable = False)
 	JobLocation = db.Column(db.String(80), nullable = False)
 	OnetCode = db.Column(db.String(20), nullable = False)
+	
+class Course(db.Model):
+	__tablename__ = 'courses'
+
+	Id = db.Column(db.String(80), primary_key = True)
+	OnetCode = db.Column(db.String(20), nullable = False)
+	Provider = db.Column(db.String(200), nullable = False)
+	Name = db.Column(db.String(150), nullable = False)
+	Url = db.Column(db.String(200))
+	Type = db.Column(db.String(80), nullable = False)
+	Description = db.Column(db.String(5000))
