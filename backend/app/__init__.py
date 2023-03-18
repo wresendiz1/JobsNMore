@@ -21,7 +21,7 @@ def create_app():
         db.create_all()
     with app.app_context():
         create_locations()
-        #create_jobs()
+        create_jobs()
         create_courses()
 
     from . import data_dict

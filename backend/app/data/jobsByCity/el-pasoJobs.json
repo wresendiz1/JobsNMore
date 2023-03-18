@@ -5,8 +5,9 @@
     "Company": "Raising Cane's",
     "DatePosted": "2023-3-9 2:24 AM",
     "Url": "https://de.jobsyn.org/C72BF3BA792D418FBCBED256394588B8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "24581AD4E935401F9AC1BB506B12F7F9206",
@@ -14,8 +15,9 @@
     "Company": "The Hertz Corporation",
     "DatePosted": "2023-3-16 5:02 AM",
     "Url": "https://de.jobsyn.org/24581AD4E935401F9AC1BB506B12F7F9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "B5E01C6624AB4E2487F71F252C627224206",
@@ -23,8 +25,9 @@
     "Company": "Dollar General",
     "DatePosted": "2023-3-12 1:17 AM",
     "Url": "https://de.jobsyn.org/B5E01C6624AB4E2487F71F252C627224206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "F24FE9C87D1E478AA5D83C644C1D57B6206",
@@ -32,8 +35,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:58 AM",
     "Url": "https://de.jobsyn.org/F24FE9C87D1E478AA5D83C644C1D57B6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "BF74F5F072F74A0A87F9537C7E7CC550206",
@@ -41,8 +45,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 6:01 AM",
     "Url": "https://de.jobsyn.org/BF74F5F072F74A0A87F9537C7E7CC550206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "C4CC59A3A87B4434A26B97EEDC065E86206",
@@ -50,8 +55,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:57 AM",
     "Url": "https://de.jobsyn.org/C4CC59A3A87B4434A26B97EEDC065E86206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "2BB65E9A3C674AD499EBA97A891412F6206",
@@ -59,8 +65,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:58 AM",
     "Url": "https://de.jobsyn.org/2BB65E9A3C674AD499EBA97A891412F6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "5545076A535647DEB262892F0CE42D43206",
@@ -68,8 +75,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:58 AM",
     "Url": "https://de.jobsyn.org/5545076A535647DEB262892F0CE42D43206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "0E985AD6E89A4063AEB381C12A2D3286206",
@@ -77,8 +85,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:58 AM",
     "Url": "https://de.jobsyn.org/0E985AD6E89A4063AEB381C12A2D3286206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "43E3BCE118FA4307AFEF322648AF4364206",
@@ -86,8 +95,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 6:37 AM",
     "Url": "https://de.jobsyn.org/43E3BCE118FA4307AFEF322648AF4364206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "0BD8015344444CD8BFD797CF55ADE87D206",
@@ -95,8 +105,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:58 AM",
     "Url": "https://de.jobsyn.org/0BD8015344444CD8BFD797CF55ADE87D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "89E73E34D3C14F0891DDDDC5F9EF2824206",
@@ -104,8 +115,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 6:02 AM",
     "Url": "https://de.jobsyn.org/89E73E34D3C14F0891DDDDC5F9EF2824206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "88B4F6337F5D4CB19E6C407720BE8B3D206",
@@ -113,8 +125,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 6:00 AM",
     "Url": "https://de.jobsyn.org/88B4F6337F5D4CB19E6C407720BE8B3D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "0162873D11A44C8598E8781BC7510F1B206",
@@ -122,8 +135,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:20 AM",
     "Url": "https://de.jobsyn.org/0162873D11A44C8598E8781BC7510F1B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "BAFE9E33A0FC441984B461BF4B67143C206",
@@ -131,8 +145,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:57 AM",
     "Url": "https://de.jobsyn.org/BAFE9E33A0FC441984B461BF4B67143C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "82BBB9E77C614EEF82075AEAB329682F206",
@@ -140,8 +155,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 5:22 AM",
     "Url": "https://de.jobsyn.org/82BBB9E77C614EEF82075AEAB329682F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "9F32464C5BDC43FCB7FFFE3422EA22C4206",
@@ -149,8 +165,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 2:26 AM",
     "Url": "https://de.jobsyn.org/9F32464C5BDC43FCB7FFFE3422EA22C4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "22F6836A2D0D41F9BAE6EC73515E718B206",
@@ -158,8 +175,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 2:47 AM",
     "Url": "https://de.jobsyn.org/22F6836A2D0D41F9BAE6EC73515E718B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "99521AA8E0D44D61868FAF8CDDA3AE56206",
@@ -167,8 +185,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 2:44 AM",
     "Url": "https://de.jobsyn.org/99521AA8E0D44D61868FAF8CDDA3AE56206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "9BF1352355444B66B6D56D4C6821187C206",
@@ -176,8 +195,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 4:29 AM",
     "Url": "https://de.jobsyn.org/9BF1352355444B66B6D56D4C6821187C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "068A30F716C647C7A6FDDAADE5628CD3206",
@@ -185,8 +205,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 4:28 AM",
     "Url": "https://de.jobsyn.org/068A30F716C647C7A6FDDAADE5628CD3206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "54D58FF7BF244B2E8BC6D3A3BE7280D9206",
@@ -194,8 +215,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 2:28 AM",
     "Url": "https://de.jobsyn.org/54D58FF7BF244B2E8BC6D3A3BE7280D9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "CFB7FCA0325F4BB1AA6245BC57528F35206",
@@ -203,8 +225,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 2:27 AM",
     "Url": "https://de.jobsyn.org/CFB7FCA0325F4BB1AA6245BC57528F35206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "CEFC6D66078946F194DF06B1B0A038EF206",
@@ -212,8 +235,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 2:46 AM",
     "Url": "https://de.jobsyn.org/CEFC6D66078946F194DF06B1B0A038EF206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "2A3520A49BFF4F79895035ABDFED63B2206",
@@ -221,8 +245,9 @@
     "Company": "Pizza Hut",
     "DatePosted": "2023-2-11 2:44 AM",
     "Url": "https://de.jobsyn.org/2A3520A49BFF4F79895035ABDFED63B2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-1021.00"
+    "Location": "el-paso",
+    "OnetCode": "11-1021.00",
+    "cityID": 22
   },
   {
     "JvID": "DD54D7706C294C538C2D2EF6478AE408206",
@@ -230,8 +255,9 @@
     "Company": "GPC - Genuine Parts Company ",
     "DatePosted": "2023-3-8 8:18 AM",
     "Url": "https://de.jobsyn.org/DD54D7706C294C538C2D2EF6478AE408206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "0FD877B700E146129E0E194C3D034D2F206",
@@ -239,17 +265,19 @@
     "Company": "GPC - Genuine Parts Company ",
     "DatePosted": "2023-2-28 2:13 AM",
     "Url": "https://de.jobsyn.org/0FD877B700E146129E0E194C3D034D2F206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "6BA8FB642CE342DD9CE6693B543E1F0E206",
     "JobTitle": "Customer Service Representative",
     "Company": "PSG Global Solutions",
-    "DatePosted": "2023-3-10 4:39 AM",
+    "DatePosted": "2023-3-10 6:21 AM",
     "Url": "https://de.jobsyn.org/6BA8FB642CE342DD9CE6693B543E1F0E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "B6602502078142049F0CCE1D7A339FEB206",
@@ -257,8 +285,9 @@
     "Company": "C3I Solutions/TelerX",
     "DatePosted": "2023-2-11 9:03 PM",
     "Url": "https://de.jobsyn.org/B6602502078142049F0CCE1D7A339FEB206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "AEFBB2A925284BD0843B671E3C4ADB82206",
@@ -266,8 +295,9 @@
     "Company": "POORMANS INSURANCE GROUP; LEE RUBEN URIAS",
     "DatePosted": "2023-2-22 9:19 PM",
     "Url": "https://de.jobsyn.org/AEFBB2A925284BD0843B671E3C4ADB82206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "6A9FF84C14EA47578DEB877E311DCD59206",
@@ -275,8 +305,9 @@
     "Company": "Capgemini",
     "DatePosted": "2023-3-9 2:19 AM",
     "Url": "https://de.jobsyn.org/6A9FF84C14EA47578DEB877E311DCD59206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "9E5A2EC2E626412CAC13B9C9DCE16072206",
@@ -284,8 +315,9 @@
     "Company": "Xerox",
     "DatePosted": "2023-2-28 2:30 AM",
     "Url": "https://de.jobsyn.org/9E5A2EC2E626412CAC13B9C9DCE16072206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "64C0304E66464550A38288D7397CB2C1206",
@@ -293,8 +325,9 @@
     "Company": "Penske",
     "DatePosted": "2023-3-9 10:11 PM",
     "Url": "https://de.jobsyn.org/64C0304E66464550A38288D7397CB2C1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "BAC5C7A935C6470180270D039618CC76206",
@@ -302,8 +335,9 @@
     "Company": "Conn's HomePlus",
     "DatePosted": "2023-2-12 1:18 AM",
     "Url": "https://de.jobsyn.org/BAC5C7A935C6470180270D039618CC76206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "247BC80DA416465D93317A45AD0AFFF8206",
@@ -311,8 +345,9 @@
     "Company": "DISH",
     "DatePosted": "2023-3-7 1:58 AM",
     "Url": "https://de.jobsyn.org/247BC80DA416465D93317A45AD0AFFF8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "84A8B0F68F9045B59D3F64553D499312206",
@@ -320,8 +355,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-17 7:44 AM",
     "Url": "https://de.jobsyn.org/84A8B0F68F9045B59D3F64553D499312206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "A646B6C9742945DF93220775286267EA206",
@@ -329,8 +365,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-18 1:00 AM",
     "Url": "https://de.jobsyn.org/A646B6C9742945DF93220775286267EA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "C0FA8D03CF3A4029BF183F81D5002534206",
@@ -338,8 +375,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-14 6:18 AM",
     "Url": "https://de.jobsyn.org/C0FA8D03CF3A4029BF183F81D5002534206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "DD1F148C58704502AA59E731C1B71B1B206",
@@ -347,8 +385,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-6 11:33 PM",
     "Url": "https://de.jobsyn.org/DD1F148C58704502AA59E731C1B71B1B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "C05C3B8AB98547838556E3B52449EDC7206",
@@ -356,8 +395,9 @@
     "Company": "A TOUCH OF CLASS - SILVER WITH CLASS INC",
     "DatePosted": "2023-3-8 8:48 PM",
     "Url": "https://de.jobsyn.org/C05C3B8AB98547838556E3B52449EDC7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "DD41C05710844940BF7687D1C4A12757206",
@@ -365,8 +405,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-2 5:55 AM",
     "Url": "https://de.jobsyn.org/DD41C05710844940BF7687D1C4A12757206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "1135A49444A140169CB18F83362D01C3206",
@@ -374,8 +415,9 @@
     "Company": "STEEL SPECIALTIES INC",
     "DatePosted": "2023-2-14 9:10 PM",
     "Url": "https://de.jobsyn.org/1135A49444A140169CB18F83362D01C3206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "CDDA3D63E1624A48B3CE3C21ABF7AE3A206",
@@ -383,8 +425,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-2 5:55 AM",
     "Url": "https://de.jobsyn.org/CDDA3D63E1624A48B3CE3C21ABF7AE3A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "D7AD65444A1D44458D74C3696E63746E206",
@@ -392,8 +435,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-2-10 10:45 PM",
     "Url": "https://de.jobsyn.org/D7AD65444A1D44458D74C3696E63746E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "156C7CFFE0634300A92384786B1AA1C0206",
@@ -401,8 +445,9 @@
     "Company": "CIOX Health Talent Acquisition",
     "DatePosted": "2023-3-14 6:04 AM",
     "Url": "https://de.jobsyn.org/156C7CFFE0634300A92384786B1AA1C0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "75C95F82C5A24858AE54EB16F6D139BC206",
@@ -410,8 +455,9 @@
     "Company": "The Hertz Corporation",
     "DatePosted": "2023-3-10 7:18 PM",
     "Url": "https://de.jobsyn.org/75C95F82C5A24858AE54EB16F6D139BC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "DE62310F6CD54C97AB469C0F87DD57A1206",
@@ -419,8 +465,9 @@
     "Company": "The Hertz Corporation",
     "DatePosted": "2023-3-10 7:18 PM",
     "Url": "https://de.jobsyn.org/DE62310F6CD54C97AB469C0F87DD57A1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "BA0D80BD2E85489084329FE7C4B176BE206",
@@ -428,8 +475,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-8 4:52 AM",
     "Url": "https://de.jobsyn.org/BA0D80BD2E85489084329FE7C4B176BE206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "AD056908447941F69222045A13022609206",
@@ -437,8 +485,9 @@
     "Company": "ARAMARK",
     "DatePosted": "2023-3-3 2:29 AM",
     "Url": "https://de.jobsyn.org/AD056908447941F69222045A13022609206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "82D15E72403C454DB206365A429E7463206",
@@ -446,8 +495,9 @@
     "Company": "Teleperformance USA",
     "DatePosted": "2023-2-25 4:08 AM",
     "Url": "https://de.jobsyn.org/82D15E72403C454DB206365A429E7463206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-4051.00"
+    "Location": "el-paso",
+    "OnetCode": "43-4051.00",
+    "cityID": 22
   },
   {
     "JvID": "EC15DB766D9B441B83BFD3E9821FD8F4206",
@@ -455,8 +505,9 @@
     "Company": "Colorado State",
     "DatePosted": "2023-3-18 12:34 AM",
     "Url": "https://de.jobsyn.org/EC15DB766D9B441B83BFD3E9821FD8F4206",
-    "Location": "El Paso County, CO",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "58AA227FA75E44519BB10303FFEF59CC206",
@@ -464,8 +515,9 @@
     "Company": "TEXAS DEPARTMENT OF FAMILY AND PROTECTIVE SERVICES",
     "DatePosted": "2023-3-15 8:22 PM",
     "Url": "https://de.jobsyn.org/58AA227FA75E44519BB10303FFEF59CC206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "60F46C6DADCB40FDBEC4EB9179261BFE206",
@@ -473,8 +525,9 @@
     "Company": "SCI Shared Resources, LLC",
     "DatePosted": "2023-3-15 8:56 PM",
     "Url": "https://de.jobsyn.org/60F46C6DADCB40FDBEC4EB9179261BFE206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "E3033B1727CB4410B6E746FFFB2D723E206",
@@ -482,8 +535,9 @@
     "Company": "Texas Department of Criminal Justice",
     "DatePosted": "2023-3-15 8:22 PM",
     "Url": "https://de.jobsyn.org/E3033B1727CB4410B6E746FFFB2D723E206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "961F9E7C0898427B8D63621B5CC29845206",
@@ -491,8 +545,9 @@
     "Company": "Aspen Dental",
     "DatePosted": "2023-3-14 2:21 AM",
     "Url": "https://de.jobsyn.org/961F9E7C0898427B8D63621B5CC29845206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "241769C2DD9F4F6B95E4D1E68F5E9D6C206",
@@ -500,8 +555,9 @@
     "Company": "Veterans Affairs, Veterans Health Administration",
     "DatePosted": "2023-3-12 1:04 AM",
     "Url": "https://de.jobsyn.org/241769C2DD9F4F6B95E4D1E68F5E9D6C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "51D8FDAC2B574D6E8E95E3867C5504C2206",
@@ -509,8 +565,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-9 11:30 PM",
     "Url": "https://de.jobsyn.org/51D8FDAC2B574D6E8E95E3867C5504C2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "9A5F32CD112A4BC3A1645421295E6B3E206",
@@ -518,8 +575,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-9 11:30 PM",
     "Url": "https://de.jobsyn.org/9A5F32CD112A4BC3A1645421295E6B3E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "02186BEB252D4900AB68E3AFD4788737206",
@@ -527,8 +585,9 @@
     "Company": "Robert Half",
     "DatePosted": "2023-3-8 12:09 AM",
     "Url": "https://de.jobsyn.org/02186BEB252D4900AB68E3AFD4788737206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "684399DFEFDE4F738DF21315A1D9F79D206",
@@ -536,8 +595,9 @@
     "Company": "Freeport McMoRan",
     "DatePosted": "2023-3-8 12:10 AM",
     "Url": "https://de.jobsyn.org/684399DFEFDE4F738DF21315A1D9F79D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "06471CD3D9E6449F937FEE45E07D9195206",
@@ -545,8 +605,9 @@
     "Company": "C&E INDUSTRAIL SERVICES INC",
     "DatePosted": "2023-3-4 8:46 PM",
     "Url": "https://de.jobsyn.org/06471CD3D9E6449F937FEE45E07D9195206",
-    "Location": "EL PASO, NM",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "98A5C8571F114E82807B0991D5E14F27206",
@@ -554,8 +615,9 @@
     "Company": "BELTRAN ELECTRICAL",
     "DatePosted": "2023-3-4 8:46 PM",
     "Url": "https://de.jobsyn.org/98A5C8571F114E82807B0991D5E14F27206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "19E33131857248A1A0ADF17D26761F3B206",
@@ -563,8 +625,9 @@
     "Company": "Randstad US",
     "DatePosted": "2023-3-3 7:19 AM",
     "Url": "https://de.jobsyn.org/19E33131857248A1A0ADF17D26761F3B206",
-    "Location": "el paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "27AD1CF76D56412A8A150E389FDF447F206",
@@ -572,8 +635,9 @@
     "Company": "Southwest Key Programs",
     "DatePosted": "2023-3-1 5:25 AM",
     "Url": "https://de.jobsyn.org/27AD1CF76D56412A8A150E389FDF447F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "A02DB38E052E430CBA6D7EDF3F117798206",
@@ -581,8 +645,9 @@
     "Company": "ADP",
     "DatePosted": "2023-2-23 3:34 AM",
     "Url": "https://de.jobsyn.org/A02DB38E052E430CBA6D7EDF3F117798206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "FAAF2FB9222A40DB8A8363779855B229206",
@@ -590,8 +655,9 @@
     "Company": "SCI Shared Resources, LLC",
     "DatePosted": "2023-2-17 3:56 PM",
     "Url": "https://de.jobsyn.org/FAAF2FB9222A40DB8A8363779855B229206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "E0D98991F07A41069F13CCBCE1E124B2206",
@@ -599,8 +665,9 @@
     "Company": "Remsa USA Inc",
     "DatePosted": "2023-2-15 9:08 PM",
     "Url": "https://de.jobsyn.org/E0D98991F07A41069F13CCBCE1E124B2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "2ADA8289499A492E9149407B116C6678206",
@@ -608,8 +675,9 @@
     "Company": "MPI MACHINERY & DESIGN LLC",
     "DatePosted": "2023-2-9 8:59 PM",
     "Url": "https://de.jobsyn.org/2ADA8289499A492E9149407B116C6678206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-6014.00"
+    "Location": "el-paso",
+    "OnetCode": "43-6014.00",
+    "cityID": 22
   },
   {
     "JvID": "F2707083E3234D93B2C1A480169D8570206",
@@ -617,8 +685,9 @@
     "Company": "Hersha Hospitality Management LP",
     "DatePosted": "2023-2-16 1:45 AM",
     "Url": "https://de.jobsyn.org/F2707083E3234D93B2C1A480169D8570206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "18A16B4F2B1E4B00AFB49CD86F092751206",
@@ -626,8 +695,9 @@
     "Company": "LIFE AMBULANCE SERVICE INC",
     "DatePosted": "2023-3-7 8:56 PM",
     "Url": "https://de.jobsyn.org/18A16B4F2B1E4B00AFB49CD86F092751206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "504EB4A855E44EA4B76BDEF444BE733B206",
@@ -635,8 +705,9 @@
     "Company": "Robert Half",
     "DatePosted": "2023-3-15 12:31 AM",
     "Url": "https://de.jobsyn.org/504EB4A855E44EA4B76BDEF444BE733B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "649F39D6302B41DD96FA96EC357A8CB7206",
@@ -644,8 +715,9 @@
     "Company": "Aimbridge Hospitality",
     "DatePosted": "2023-3-8 10:51 PM",
     "Url": "https://de.jobsyn.org/649F39D6302B41DD96FA96EC357A8CB7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "6191AD1DBAA047EE8EF2CCE9772F256F206",
@@ -653,8 +725,9 @@
     "Company": "LIFE AMBULANCE SERVICE INC",
     "DatePosted": "2023-3-7 8:56 PM",
     "Url": "https://de.jobsyn.org/6191AD1DBAA047EE8EF2CCE9772F256F206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "BA0D80BD2E85489084329FE7C4B176BE206",
@@ -662,8 +735,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-8 4:52 AM",
     "Url": "https://de.jobsyn.org/BA0D80BD2E85489084329FE7C4B176BE206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "256D733F86F14A6AAB3EC2C885BC118F206",
@@ -671,8 +745,9 @@
     "Company": "Dairy Farmers of America",
     "DatePosted": "2023-3-7 12:45 AM",
     "Url": "https://de.jobsyn.org/256D733F86F14A6AAB3EC2C885BC118F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "C18B154532FF443484FFB493E167636F206",
@@ -680,8 +755,9 @@
     "Company": "Aimbridge Hospitality",
     "DatePosted": "2023-3-2 10:57 PM",
     "Url": "https://de.jobsyn.org/C18B154532FF443484FFB493E167636F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "4AF9CA09D80C4190AC558600282364A7206",
@@ -689,8 +765,9 @@
     "Company": "Hyatt",
     "DatePosted": "2023-3-1 4:28 AM",
     "Url": "https://de.jobsyn.org/4AF9CA09D80C4190AC558600282364A7206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "22C6DA4D163643728D7C8777ED6365A4206",
@@ -698,8 +775,9 @@
     "Company": "DA DEFENSE LOGISTICS HQ LLC",
     "DatePosted": "2023-2-22 9:18 PM",
     "Url": "https://de.jobsyn.org/22C6DA4D163643728D7C8777ED6365A4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "14A6BC594752408F90200CA952B1BAE9206",
@@ -707,8 +785,9 @@
     "Company": "ADP",
     "DatePosted": "2023-2-16 2:41 AM",
     "Url": "https://de.jobsyn.org/14A6BC594752408F90200CA952B1BAE9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "2ADA8289499A492E9149407B116C6678206",
@@ -716,8 +795,9 @@
     "Company": "MPI MACHINERY & DESIGN LLC",
     "DatePosted": "2023-2-9 8:59 PM",
     "Url": "https://de.jobsyn.org/2ADA8289499A492E9149407B116C6678206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "A24C8F62ABBE4A98B2434F112C6168B7206",
@@ -725,8 +805,9 @@
     "Company": "ADP",
     "DatePosted": "2023-2-7 3:52 AM",
     "Url": "https://de.jobsyn.org/A24C8F62ABBE4A98B2434F112C6168B7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "43-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "43-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "266DE54623D046158A0C1A326E7F0BBA206",
@@ -734,8 +815,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-15 5:02 AM",
     "Url": "https://de.jobsyn.org/266DE54623D046158A0C1A326E7F0BBA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "4CBD23F76AF243408AF716BACB1C5A1B206",
@@ -743,8 +825,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-16 7:44 AM",
     "Url": "https://de.jobsyn.org/4CBD23F76AF243408AF716BACB1C5A1B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "8D3767499F644D4FA7386D4D97A035EA206",
@@ -752,8 +835,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-16 7:44 AM",
     "Url": "https://de.jobsyn.org/8D3767499F644D4FA7386D4D97A035EA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "24ABC867D1DA4D219E9396E82BC28893206",
@@ -761,8 +845,9 @@
     "Company": "TEXAS DEPARTMENT OF FAMILY AND PROTECTIVE SERVICES",
     "DatePosted": "2023-3-11 8:18 PM",
     "Url": "https://de.jobsyn.org/24ABC867D1DA4D219E9396E82BC28893206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "67197FB04BF045BA8DCC0FE21A05E5DA206",
@@ -770,8 +855,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-14 3:01 AM",
     "Url": "https://de.jobsyn.org/67197FB04BF045BA8DCC0FE21A05E5DA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "C485D7916A344965AE72D09B2608173E206",
@@ -779,8 +865,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:05 AM",
     "Url": "https://de.jobsyn.org/C485D7916A344965AE72D09B2608173E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "498F96AB823343C594B2323D0D323FD7206",
@@ -788,8 +875,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:03 AM",
     "Url": "https://de.jobsyn.org/498F96AB823343C594B2323D0D323FD7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "171EB3C51347429994A4B196F87379B2206",
@@ -797,8 +885,9 @@
     "Company": "Danaher Corporation",
     "DatePosted": "2023-3-18 4:33 AM",
     "Url": "https://de.jobsyn.org/171EB3C51347429994A4B196F87379B2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "CD32A2CC2DF340B891FF6EA7821208DD206",
@@ -806,8 +895,9 @@
     "Company": "L3Harris",
     "DatePosted": "2023-2-8 5:49 AM",
     "Url": "https://de.jobsyn.org/CD32A2CC2DF340B891FF6EA7821208DD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "B39B0A11F7CC484386A3E4AA5EB8CDD4206",
@@ -815,8 +905,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-9 4:29 AM",
     "Url": "https://de.jobsyn.org/B39B0A11F7CC484386A3E4AA5EB8CDD4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "9AA43705185242408AED8D1B4F1D0EED206",
@@ -824,8 +915,9 @@
     "Company": "UnitedHealth Group",
     "DatePosted": "2023-3-8 2:28 PM",
     "Url": "https://de.jobsyn.org/9AA43705185242408AED8D1B4F1D0EED206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "09DC7CB8E72646E0BC47566FFB0D1C41206",
@@ -833,8 +925,9 @@
     "Company": "RELX INC",
     "DatePosted": "2023-3-10 4:03 AM",
     "Url": "https://de.jobsyn.org/09DC7CB8E72646E0BC47566FFB0D1C41206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "47C084F667B2488C9F210DD42AC95250206",
@@ -842,8 +935,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-10 3:53 PM",
     "Url": "https://de.jobsyn.org/47C084F667B2488C9F210DD42AC95250206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "6CB540DE5D62441D9DF87BA99B6DA64C206",
@@ -851,8 +945,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-11 12:28 AM",
     "Url": "https://de.jobsyn.org/6CB540DE5D62441D9DF87BA99B6DA64C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "543F13104F884CBF84AA7A4D737427DC206",
@@ -860,8 +955,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-3-3 3:27 AM",
     "Url": "https://de.jobsyn.org/543F13104F884CBF84AA7A4D737427DC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "EEA21942796F4BD4BE93A1F7CDE602D6206",
@@ -869,8 +965,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-4 5:24 AM",
     "Url": "https://de.jobsyn.org/EEA21942796F4BD4BE93A1F7CDE602D6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "1823D0628A9049AEA81CEC3AE93EC9E9206",
@@ -878,8 +975,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-16 3:43 AM",
     "Url": "https://de.jobsyn.org/1823D0628A9049AEA81CEC3AE93EC9E9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "E96D96CBED174143B5FC134635923FC1206",
@@ -887,8 +985,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-3-4 5:23 AM",
     "Url": "https://de.jobsyn.org/E96D96CBED174143B5FC134635923FC1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "A98FB005EAFE4CE2AB1D73E6F4D008D9206",
@@ -896,8 +995,9 @@
     "Company": "Biomat USA, Inc.",
     "DatePosted": "2023-3-2 12:21 AM",
     "Url": "https://de.jobsyn.org/A98FB005EAFE4CE2AB1D73E6F4D008D9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "10044E72DA9041549A6511D0D8C241F5206",
@@ -905,8 +1005,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-2-10 2:36 AM",
     "Url": "https://de.jobsyn.org/10044E72DA9041549A6511D0D8C241F5206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "393C9B48A9C245A5BABBBDE112A6E67D206",
@@ -914,8 +1015,9 @@
     "Company": "Teleperformance USA",
     "DatePosted": "2023-2-9 2:22 AM",
     "Url": "https://de.jobsyn.org/393C9B48A9C245A5BABBBDE112A6E67D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1111.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1111.00",
+    "cityID": 22
   },
   {
     "JvID": "27AF7B22DA5E43F6875D9A877089B028206",
@@ -923,8 +1025,9 @@
     "Company": "MIRACORP",
     "DatePosted": "2023-3-16 6:39 AM",
     "Url": "https://de.jobsyn.org/27AF7B22DA5E43F6875D9A877089B028206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "3748830B5F88471681D484DFEF20A87F206",
@@ -932,8 +1035,9 @@
     "Company": "Vighter Medical Group",
     "DatePosted": "2023-3-13 6:59 AM",
     "Url": "https://de.jobsyn.org/3748830B5F88471681D484DFEF20A87F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "96BE9A41C71F493DAF80C95BD3A16E37206",
@@ -941,8 +1045,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-3-18 3:55 AM",
     "Url": "https://de.jobsyn.org/96BE9A41C71F493DAF80C95BD3A16E37206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "B38BFD9A646B4810AEEE83099A7952B0206",
@@ -950,8 +1055,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-15 12:31 AM",
     "Url": "https://de.jobsyn.org/B38BFD9A646B4810AEEE83099A7952B0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "0A28AF8DECA9487EA3DB99B895605E89206",
@@ -959,8 +1065,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-14 9:56 PM",
     "Url": "https://de.jobsyn.org/0A28AF8DECA9487EA3DB99B895605E89206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "0EF027EADD9E4F149DCDB1B491610E92206",
@@ -968,8 +1075,9 @@
     "Company": "Terracon",
     "DatePosted": "2023-3-2 6:11 AM",
     "Url": "https://de.jobsyn.org/0EF027EADD9E4F149DCDB1B491610E92206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "FDADA9DBB39E4E0E83B17BD9A0AF2F50206",
@@ -977,8 +1085,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-1 6:52 PM",
     "Url": "https://de.jobsyn.org/FDADA9DBB39E4E0E83B17BD9A0AF2F50206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "5154BD52B67642F0BF6FAF99BF6FED25206",
@@ -986,8 +1095,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-2 12:02 AM",
     "Url": "https://de.jobsyn.org/5154BD52B67642F0BF6FAF99BF6FED25206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "5FD4EBB2E9CB4488B6193FC6F86D55B1206",
@@ -995,8 +1105,9 @@
     "Company": "OCEAN BAY LLC",
     "DatePosted": "2023-2-28 9:15 PM",
     "Url": "https://de.jobsyn.org/5FD4EBB2E9CB4488B6193FC6F86D55B1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "DE5CFC300627407E8AD09F41EA9D300D206",
@@ -1004,8 +1115,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:35 AM",
     "Url": "https://de.jobsyn.org/DE5CFC300627407E8AD09F41EA9D300D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "AF00F3C7F45F4FB0BBC90E0704F17D57206",
@@ -1013,8 +1125,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:47 PM",
     "Url": "https://de.jobsyn.org/AF00F3C7F45F4FB0BBC90E0704F17D57206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "10044E72DA9041549A6511D0D8C241F5206",
@@ -1022,8 +1135,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-2-10 2:36 AM",
     "Url": "https://de.jobsyn.org/10044E72DA9041549A6511D0D8C241F5206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-1082.00"
+    "Location": "el-paso",
+    "OnetCode": "13-1082.00",
+    "cityID": 22
   },
   {
     "JvID": "7B4E385C66C1485A849BDB09CD898C86206",
@@ -1031,8 +1145,9 @@
     "Company": "Charles Schwab",
     "DatePosted": "2023-3-18 2:59 AM",
     "Url": "https://de.jobsyn.org/7B4E385C66C1485A849BDB09CD898C86206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "4CBD23F76AF243408AF716BACB1C5A1B206",
@@ -1040,8 +1155,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-16 7:44 AM",
     "Url": "https://de.jobsyn.org/4CBD23F76AF243408AF716BACB1C5A1B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "8D3767499F644D4FA7386D4D97A035EA206",
@@ -1049,8 +1165,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-16 7:44 AM",
     "Url": "https://de.jobsyn.org/8D3767499F644D4FA7386D4D97A035EA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "67197FB04BF045BA8DCC0FE21A05E5DA206",
@@ -1058,8 +1175,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-14 3:01 AM",
     "Url": "https://de.jobsyn.org/67197FB04BF045BA8DCC0FE21A05E5DA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "47C084F667B2488C9F210DD42AC95250206",
@@ -1067,8 +1185,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-10 3:53 PM",
     "Url": "https://de.jobsyn.org/47C084F667B2488C9F210DD42AC95250206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "6CB540DE5D62441D9DF87BA99B6DA64C206",
@@ -1076,8 +1195,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-11 12:28 AM",
     "Url": "https://de.jobsyn.org/6CB540DE5D62441D9DF87BA99B6DA64C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "9AA43705185242408AED8D1B4F1D0EED206",
@@ -1085,8 +1205,9 @@
     "Company": "UnitedHealth Group",
     "DatePosted": "2023-3-8 2:28 PM",
     "Url": "https://de.jobsyn.org/9AA43705185242408AED8D1B4F1D0EED206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "256D733F86F14A6AAB3EC2C885BC118F206",
@@ -1094,8 +1215,9 @@
     "Company": "Dairy Farmers of America",
     "DatePosted": "2023-3-7 12:45 AM",
     "Url": "https://de.jobsyn.org/256D733F86F14A6AAB3EC2C885BC118F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "69B0B770280B437A8CB1A1D5747D934B206",
@@ -1103,8 +1225,9 @@
     "Company": "Danaher Corporation",
     "DatePosted": "2023-3-3 3:58 AM",
     "Url": "https://de.jobsyn.org/69B0B770280B437A8CB1A1D5747D934B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "16F98D50CC7E4108878DEF91A8F126D8206",
@@ -1112,8 +1235,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-2-14 4:26 AM",
     "Url": "https://de.jobsyn.org/16F98D50CC7E4108878DEF91A8F126D8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2011.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2011.00",
+    "cityID": 22
   },
   {
     "JvID": "E725034BB3F54671A0B0801E91D1070C206",
@@ -1121,8 +1245,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-3-16 4:42 AM",
     "Url": "https://de.jobsyn.org/E725034BB3F54671A0B0801E91D1070C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "11-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "A9F6A0AFE4DA4B4FA2D25507F06CEBBA206",
@@ -1130,8 +1255,9 @@
     "Company": "PNC",
     "DatePosted": "2023-3-11 2:52 AM",
     "Url": "https://de.jobsyn.org/A9F6A0AFE4DA4B4FA2D25507F06CEBBA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "11-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "4C0C52257DB446B48E38EDC12EF9BB06206",
@@ -1139,8 +1265,9 @@
     "Company": "Cottonwood Financial Administrative Services, LLC",
     "DatePosted": "2023-2-8 11:46 PM",
     "Url": "https://de.jobsyn.org/4C0C52257DB446B48E38EDC12EF9BB06206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "11-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "08BA4617497043BFB1BCAF01BECD95E1206",
@@ -1148,8 +1275,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-7 4:05 AM",
     "Url": "https://de.jobsyn.org/08BA4617497043BFB1BCAF01BECD95E1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "11-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "16F98D50CC7E4108878DEF91A8F126D8206",
@@ -1157,8 +1285,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-2-14 4:26 AM",
     "Url": "https://de.jobsyn.org/16F98D50CC7E4108878DEF91A8F126D8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "11-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "E124DBA2126E4BAF84D81464D84048B2206",
@@ -1166,8 +1295,9 @@
     "Company": "Charles Schwab",
     "DatePosted": "2023-2-12 5:49 AM",
     "Url": "https://de.jobsyn.org/E124DBA2126E4BAF84D81464D84048B2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "11-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "11-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "9CA0BAB321324DF48B2FF333C4C10617206",
@@ -1175,8 +1305,9 @@
     "Company": "ALLSTATE INSURANCE COMPANY",
     "DatePosted": "2023-3-14 8:20 PM",
     "Url": "https://de.jobsyn.org/9CA0BAB321324DF48B2FF333C4C10617206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "B0870B20F8144A7BB95F5ED0A8E906DA206",
@@ -1184,8 +1315,9 @@
     "Company": "Gallagher",
     "DatePosted": "2023-3-11 2:23 AM",
     "Url": "https://de.jobsyn.org/B0870B20F8144A7BB95F5ED0A8E906DA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "84F3859B676348608FD0A6D17FB28D6C206",
@@ -1193,8 +1325,9 @@
     "Company": "Gallagher",
     "DatePosted": "2023-3-10 2:36 AM",
     "Url": "https://de.jobsyn.org/84F3859B676348608FD0A6D17FB28D6C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "C862306CD11F4036A062668B0D514DE9206",
@@ -1202,8 +1335,9 @@
     "Company": "Hub International",
     "DatePosted": "2023-3-3 7:00 PM",
     "Url": "https://de.jobsyn.org/C862306CD11F4036A062668B0D514DE9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "9A9AD0D504A74F598F573390C44CDAC8206",
@@ -1211,8 +1345,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-18 4:22 AM",
     "Url": "https://de.jobsyn.org/9A9AD0D504A74F598F573390C44CDAC8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "6570D17A0C304DA18EA9A6F5157D637A206",
@@ -1220,8 +1355,9 @@
     "Company": "Farmers Insurance",
     "DatePosted": "2023-3-14 8:20 PM",
     "Url": "https://de.jobsyn.org/6570D17A0C304DA18EA9A6F5157D637A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "AEFBB2A925284BD0843B671E3C4ADB82206",
@@ -1229,8 +1365,9 @@
     "Company": "POORMANS INSURANCE GROUP; LEE RUBEN URIAS",
     "DatePosted": "2023-2-22 9:19 PM",
     "Url": "https://de.jobsyn.org/AEFBB2A925284BD0843B671E3C4ADB82206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "EBB5BD4033464D0C86F8428A6CD136E1206",
@@ -1238,8 +1375,9 @@
     "Company": "Hub International",
     "DatePosted": "2023-2-10 10:57 PM",
     "Url": "https://de.jobsyn.org/EBB5BD4033464D0C86F8428A6CD136E1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "485C1E2B81394D0E91750DDBE3FBF73C206",
@@ -1247,8 +1385,9 @@
     "Company": "Confie Administrative Services",
     "DatePosted": "2023-2-7 10:28 PM",
     "Url": "https://de.jobsyn.org/485C1E2B81394D0E91750DDBE3FBF73C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "9FA4A4AC4BF9487EBC92534294DD16D4206",
@@ -1256,8 +1395,9 @@
     "Company": "Confie Administrative Services",
     "DatePosted": "2023-2-7 10:28 PM",
     "Url": "https://de.jobsyn.org/9FA4A4AC4BF9487EBC92534294DD16D4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3021.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3021.00",
+    "cityID": 22
   },
   {
     "JvID": "5BC8F17FD1794D87A9520D264FB9535A206",
@@ -1265,8 +1405,9 @@
     "Company": "Charles Schwab",
     "DatePosted": "2023-3-18 2:59 AM",
     "Url": "https://de.jobsyn.org/5BC8F17FD1794D87A9520D264FB9535A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "E5F47940160541138B0030BF2B57A5AB206",
@@ -1274,8 +1415,9 @@
     "Company": "Bank of America",
     "DatePosted": "2023-3-17 6:57 PM",
     "Url": "https://de.jobsyn.org/E5F47940160541138B0030BF2B57A5AB206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "6447F18464A1459AB1A8BB562F65FB41206",
@@ -1283,8 +1425,9 @@
     "Company": "Aston Carter",
     "DatePosted": "2023-3-18 2:27 AM",
     "Url": "https://de.jobsyn.org/6447F18464A1459AB1A8BB562F65FB41206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "7883730073A347CC8062FE61733C52C6206",
@@ -1292,8 +1435,9 @@
     "Company": "Charles Schwab",
     "DatePosted": "2023-3-17 2:38 AM",
     "Url": "https://de.jobsyn.org/7883730073A347CC8062FE61733C52C6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "9CA0BAB321324DF48B2FF333C4C10617206",
@@ -1301,8 +1445,9 @@
     "Company": "ALLSTATE INSURANCE COMPANY",
     "DatePosted": "2023-3-14 8:20 PM",
     "Url": "https://de.jobsyn.org/9CA0BAB321324DF48B2FF333C4C10617206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "B0870B20F8144A7BB95F5ED0A8E906DA206",
@@ -1310,8 +1455,19 @@
     "Company": "Gallagher",
     "DatePosted": "2023-3-11 2:23 AM",
     "Url": "https://de.jobsyn.org/B0870B20F8144A7BB95F5ED0A8E906DA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "6BA8FB642CE342DD9CE6693B543E1F0E206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "PSG Global Solutions",
+    "DatePosted": "2023-3-10 6:21 AM",
+    "Url": "https://de.jobsyn.org/6BA8FB642CE342DD9CE6693B543E1F0E206",
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "84F3859B676348608FD0A6D17FB28D6C206",
@@ -1319,17 +1475,9 @@
     "Company": "Gallagher",
     "DatePosted": "2023-3-10 2:36 AM",
     "Url": "https://de.jobsyn.org/84F3859B676348608FD0A6D17FB28D6C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "6BA8FB642CE342DD9CE6693B543E1F0E206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "PSG Global Solutions",
-    "DatePosted": "2023-3-10 4:39 AM",
-    "Url": "https://de.jobsyn.org/6BA8FB642CE342DD9CE6693B543E1F0E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "4923CC7C1680419E9757DF356A6EC75D206",
@@ -1337,8 +1485,9 @@
     "Company": "DISH",
     "DatePosted": "2023-3-4 9:37 AM",
     "Url": "https://de.jobsyn.org/4923CC7C1680419E9757DF356A6EC75D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "20EE5635531B4266A8BD63770AE8AD52206",
@@ -1346,8 +1495,9 @@
     "Company": "Security Service Federal Credit Union",
     "DatePosted": "2023-3-3 11:48 PM",
     "Url": "https://de.jobsyn.org/20EE5635531B4266A8BD63770AE8AD52206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "82D15E72403C454DB206365A429E7463206",
@@ -1355,8 +1505,9 @@
     "Company": "Teleperformance USA",
     "DatePosted": "2023-2-25 4:08 AM",
     "Url": "https://de.jobsyn.org/82D15E72403C454DB206365A429E7463206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "3937E651F167462C997A18A218A6A111206",
@@ -1364,8 +1515,9 @@
     "Company": "ADP",
     "DatePosted": "2023-2-24 3:51 AM",
     "Url": "https://de.jobsyn.org/3937E651F167462C997A18A218A6A111206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "796F13F215E34D2283E02B4BF713D01F206",
@@ -1373,8 +1525,9 @@
     "Company": "U.S. LawShield",
     "DatePosted": "2023-2-22 1:11 AM",
     "Url": "https://de.jobsyn.org/796F13F215E34D2283E02B4BF713D01F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "6328F0126E4740789199843724D79457206",
@@ -1382,8 +1535,9 @@
     "Company": "J&J Family of Companies",
     "DatePosted": "2023-2-11 2:55 AM",
     "Url": "https://de.jobsyn.org/6328F0126E4740789199843724D79457206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "EBB5BD4033464D0C86F8428A6CD136E1206",
@@ -1391,8 +1545,9 @@
     "Company": "Hub International",
     "DatePosted": "2023-2-10 10:57 PM",
     "Url": "https://de.jobsyn.org/EBB5BD4033464D0C86F8428A6CD136E1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "485C1E2B81394D0E91750DDBE3FBF73C206",
@@ -1400,8 +1555,9 @@
     "Company": "Confie Administrative Services",
     "DatePosted": "2023-2-7 10:28 PM",
     "Url": "https://de.jobsyn.org/485C1E2B81394D0E91750DDBE3FBF73C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "9FA4A4AC4BF9487EBC92534294DD16D4206",
@@ -1409,8 +1565,9 @@
     "Company": "Confie Administrative Services",
     "DatePosted": "2023-2-7 10:28 PM",
     "Url": "https://de.jobsyn.org/9FA4A4AC4BF9487EBC92534294DD16D4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "41-3031.00"
+    "Location": "el-paso",
+    "OnetCode": "41-3031.00",
+    "cityID": 22
   },
   {
     "JvID": "543F13104F884CBF84AA7A4D737427DC206",
@@ -1418,8 +1575,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-3-3 3:27 AM",
     "Url": "https://de.jobsyn.org/543F13104F884CBF84AA7A4D737427DC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2051.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2051.00",
+    "cityID": 22
   },
   {
     "JvID": "47C084F667B2488C9F210DD42AC95250206",
@@ -1427,8 +1585,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-10 3:53 PM",
     "Url": "https://de.jobsyn.org/47C084F667B2488C9F210DD42AC95250206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2051.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2051.00",
+    "cityID": 22
   },
   {
     "JvID": "6CB540DE5D62441D9DF87BA99B6DA64C206",
@@ -1436,8 +1595,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-11 12:28 AM",
     "Url": "https://de.jobsyn.org/6CB540DE5D62441D9DF87BA99B6DA64C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2051.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2051.00",
+    "cityID": 22
   },
   {
     "JvID": "9AA43705185242408AED8D1B4F1D0EED206",
@@ -1445,8 +1605,9 @@
     "Company": "UnitedHealth Group",
     "DatePosted": "2023-3-8 2:28 PM",
     "Url": "https://de.jobsyn.org/9AA43705185242408AED8D1B4F1D0EED206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2051.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2051.00",
+    "cityID": 22
   },
   {
     "JvID": "558FA41521E6418E853A618D904E433C206",
@@ -1454,8 +1615,9 @@
     "Company": "Lincoln Financial Group",
     "DatePosted": "2023-3-3 3:27 AM",
     "Url": "https://de.jobsyn.org/558FA41521E6418E853A618D904E433C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2051.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2051.00",
+    "cityID": 22
   },
   {
     "JvID": "CD32A2CC2DF340B891FF6EA7821208DD206",
@@ -1463,8 +1625,9 @@
     "Company": "L3Harris",
     "DatePosted": "2023-2-8 5:49 AM",
     "Url": "https://de.jobsyn.org/CD32A2CC2DF340B891FF6EA7821208DD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "13-2051.00"
+    "Location": "el-paso",
+    "OnetCode": "13-2051.00",
+    "cityID": 22
   },
   {
     "JvID": "D0C7488AD40642DB82444494C9AFF182206",
@@ -1472,8 +1635,9 @@
     "Company": "AccentCare, Inc.",
     "DatePosted": "2023-3-13 10:49 PM",
     "Url": "https://de.jobsyn.org/D0C7488AD40642DB82444494C9AFF182206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "AF202C143FC8485996C1FC17F7E11A49206",
@@ -1481,8 +1645,9 @@
     "Company": "AccentCare, Inc.",
     "DatePosted": "2023-3-13 10:49 PM",
     "Url": "https://de.jobsyn.org/AF202C143FC8485996C1FC17F7E11A49206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "3F5F32B8638947A2A8615F914F52D63F206",
@@ -1490,8 +1655,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-17 9:56 PM",
     "Url": "https://de.jobsyn.org/3F5F32B8638947A2A8615F914F52D63F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "0B9CFF3FD8DD48018ACB2152601B7200206",
@@ -1499,8 +1665,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-7 5:56 PM",
     "Url": "https://de.jobsyn.org/0B9CFF3FD8DD48018ACB2152601B7200206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "85CFB8A3FA4844C8B2F27F93E609AE72206",
@@ -1508,8 +1675,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-7 5:56 PM",
     "Url": "https://de.jobsyn.org/85CFB8A3FA4844C8B2F27F93E609AE72206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "12C52BDCDA7246019DEA46C60FE18125206",
@@ -1517,8 +1685,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-1 9:56 PM",
     "Url": "https://de.jobsyn.org/12C52BDCDA7246019DEA46C60FE18125206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "5B8122894E7743F58373C8ACE354DAE7206",
@@ -1526,8 +1695,9 @@
     "Company": "Regent Management Services",
     "DatePosted": "2023-3-15 11:17 PM",
     "Url": "https://de.jobsyn.org/5B8122894E7743F58373C8ACE354DAE7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "169C38A650CA4C8687453FE66D3B9E0D206",
@@ -1535,8 +1705,9 @@
     "Company": "Always Best Care Senior Services",
     "DatePosted": "2023-3-15 11:57 PM",
     "Url": "https://de.jobsyn.org/169C38A650CA4C8687453FE66D3B9E0D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "47270CA24417487E99A2774BD916EBE0206",
@@ -1544,8 +1715,9 @@
     "Company": "Always Best Care Senior Services",
     "DatePosted": "2023-3-15 11:57 PM",
     "Url": "https://de.jobsyn.org/47270CA24417487E99A2774BD916EBE0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "6EAE41FF22EC43978462A6082C3BC7F9206",
@@ -1553,8 +1725,9 @@
     "Company": "Always Best Care Senior Services",
     "DatePosted": "2023-3-15 11:57 PM",
     "Url": "https://de.jobsyn.org/6EAE41FF22EC43978462A6082C3BC7F9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "4DBA2E076E7E4CC8ADDEB49E111D2D8D206",
@@ -1562,8 +1735,9 @@
     "Company": "Always Best Care Senior Services",
     "DatePosted": "2023-3-15 11:57 PM",
     "Url": "https://de.jobsyn.org/4DBA2E076E7E4CC8ADDEB49E111D2D8D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "5AC114A2418C48B8AE4C3995B677637B206",
@@ -1571,8 +1745,9 @@
     "Company": "Always Best Care Senior Services",
     "DatePosted": "2023-3-15 11:57 PM",
     "Url": "https://de.jobsyn.org/5AC114A2418C48B8AE4C3995B677637B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "CC759B0348FE4E22B490C2685ADC29F1206",
@@ -1580,8 +1755,9 @@
     "Company": "Heritage Operations Group",
     "DatePosted": "2023-3-15 6:12 AM",
     "Url": "https://de.jobsyn.org/CC759B0348FE4E22B490C2685ADC29F1206",
-    "Location": "El Paso, IL",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "34B2A410D35348298404E78244B88C09206",
@@ -1589,8 +1765,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-3-11 8:18 PM",
     "Url": "https://de.jobsyn.org/34B2A410D35348298404E78244B88C09206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "D4BF38087F85476CBA76C962B2A86AFD206",
@@ -1598,8 +1775,9 @@
     "Company": "Home Care Providers of Texas",
     "DatePosted": "2023-3-9 10:01 PM",
     "Url": "https://de.jobsyn.org/D4BF38087F85476CBA76C962B2A86AFD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "2747D7BBBD784E87A7E7CEB18A1AE908206",
@@ -1607,8 +1785,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-3-7 8:56 PM",
     "Url": "https://de.jobsyn.org/2747D7BBBD784E87A7E7CEB18A1AE908206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "BC293E82781646BB89B3754A8296615E206",
@@ -1616,8 +1795,9 @@
     "Company": "BIENVIVIR SENIOR HEALTH SERVICES",
     "DatePosted": "2023-3-4 8:46 PM",
     "Url": "https://de.jobsyn.org/BC293E82781646BB89B3754A8296615E206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "0EEF1E8EE87A486CA86BF87B16D4EF8B206",
@@ -1625,8 +1805,9 @@
     "Company": "Los Arcos del Norte Care Center",
     "DatePosted": "2023-3-4 1:25 AM",
     "Url": "https://de.jobsyn.org/0EEF1E8EE87A486CA86BF87B16D4EF8B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "FE98D7F11D3943D3953F10756BD5FFF9206",
@@ -1634,8 +1815,9 @@
     "Company": "BrightSpring Health Services",
     "DatePosted": "2023-3-3 12:26 AM",
     "Url": "https://de.jobsyn.org/FE98D7F11D3943D3953F10756BD5FFF9206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "AACF75F439DC488F8E8D31C9607EFD01206",
@@ -1643,8 +1825,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-2-22 9:19 PM",
     "Url": "https://de.jobsyn.org/AACF75F439DC488F8E8D31C9607EFD01206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "4B758C85A23F479B88FC24AF08F1A3E5206",
@@ -1652,8 +1835,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-2-22 9:19 PM",
     "Url": "https://de.jobsyn.org/4B758C85A23F479B88FC24AF08F1A3E5206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "0EDB48E9FE52460F8FD32C596737780E206",
@@ -1661,8 +1845,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-2-22 9:18 PM",
     "Url": "https://de.jobsyn.org/0EDB48E9FE52460F8FD32C596737780E206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "5B6EB542801347F88A872DE7D9CD7117206",
@@ -1670,8 +1855,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-2-22 9:19 PM",
     "Url": "https://de.jobsyn.org/5B6EB542801347F88A872DE7D9CD7117206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "038BBBFBDA144C67B0E32F75806CB4DF206",
@@ -1679,8 +1865,9 @@
     "Company": "Sanford Health",
     "DatePosted": "2023-2-14 4:47 PM",
     "Url": "https://de.jobsyn.org/038BBBFBDA144C67B0E32F75806CB4DF206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1121.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1121.00",
+    "cityID": 22
   },
   {
     "JvID": "B739D9A5F2A04589908A4DA467EF4C30206",
@@ -1688,8 +1875,9 @@
     "Company": "BrightSpring Health Services",
     "DatePosted": "2023-2-23 7:11 AM",
     "Url": "https://de.jobsyn.org/B739D9A5F2A04589908A4DA467EF4C30206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "934460F2C843443588AC6E0727426007206",
@@ -1697,8 +1885,9 @@
     "Company": "Vighter Medical Group",
     "DatePosted": "2023-3-12 2:09 AM",
     "Url": "https://de.jobsyn.org/934460F2C843443588AC6E0727426007206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "06DFAFC47D8D4C6693FF1A958973DA3B206",
@@ -1706,8 +1895,9 @@
     "Company": "Vighter Medical Group",
     "DatePosted": "2023-3-10 6:00 AM",
     "Url": "https://de.jobsyn.org/06DFAFC47D8D4C6693FF1A958973DA3B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "30641D7F6CBC456AAB824119232732EA206",
@@ -1715,8 +1905,9 @@
     "Company": "Regent Management Services",
     "DatePosted": "2023-3-15 11:17 PM",
     "Url": "https://de.jobsyn.org/30641D7F6CBC456AAB824119232732EA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "3B6DB7CCBB7C422AA3CBB7AA704C827A206",
@@ -1724,8 +1915,9 @@
     "Company": "Heritage Operations Group",
     "DatePosted": "2023-3-2 7:06 AM",
     "Url": "https://de.jobsyn.org/3B6DB7CCBB7C422AA3CBB7AA704C827A206",
-    "Location": "El Paso, IL",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "991EE9935C93458D966FCA502F74DE5C206",
@@ -1733,8 +1925,9 @@
     "Company": "Vighter Medical Group",
     "DatePosted": "2023-3-10 6:00 AM",
     "Url": "https://de.jobsyn.org/991EE9935C93458D966FCA502F74DE5C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "7F530274A8CC44D5A16337CA7536BB2B206",
@@ -1742,8 +1935,9 @@
     "Company": "Los Arcos del Norte Care Center",
     "DatePosted": "2023-3-12 8:25 AM",
     "Url": "https://de.jobsyn.org/7F530274A8CC44D5A16337CA7536BB2B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "93A5D3543D474719B885F374CB00B294206",
@@ -1751,8 +1945,9 @@
     "Company": "Veterans Affairs, Veterans Health Administration",
     "DatePosted": "2023-3-9 5:52 AM",
     "Url": "https://de.jobsyn.org/93A5D3543D474719B885F374CB00B294206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "5B584D28E4BF47DFBB6644D77017C68A206",
@@ -1760,8 +1955,19 @@
     "Company": "Veterans Affairs, Veterans Health Administration",
     "DatePosted": "2023-2-10 11:28 PM",
     "Url": "https://de.jobsyn.org/5B584D28E4BF47DFBB6644D77017C68A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "22E89813E66A4D7B95DA4A56D9EB24C3206",
+    "JobTitle": "Registered Nurse (RN) -Progressive Care Unit (PCU) - Per Diem",
+    "Company": "HealthTrust Workforce Solutions",
+    "DatePosted": "2023-3-18 12:53 PM",
+    "Url": "https://de.jobsyn.org/22E89813E66A4D7B95DA4A56D9EB24C3206",
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "9CF0140580F841FA9929B20C4FAE0B3B206",
@@ -1769,8 +1975,9 @@
     "Company": "Veterans Affairs, Veterans Health Administration",
     "DatePosted": "2023-3-11 6:14 AM",
     "Url": "https://de.jobsyn.org/9CF0140580F841FA9929B20C4FAE0B3B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "8146A8E1A9CD4DD196402224CEFE8976206",
@@ -1778,8 +1985,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-17 3:55 PM",
     "Url": "https://de.jobsyn.org/8146A8E1A9CD4DD196402224CEFE8976206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "41B1806C6ACC436BB0D1851B84E1B4B4206",
@@ -1787,8 +1995,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-13 12:53 PM",
     "Url": "https://de.jobsyn.org/41B1806C6ACC436BB0D1851B84E1B4B4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "5719F92A19514824B4926FD1E8F379C4206",
@@ -1796,8 +2005,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-18 4:52 AM",
     "Url": "https://de.jobsyn.org/5719F92A19514824B4926FD1E8F379C4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "A189F662E79248FCA3A920CC88B4E6C3206",
@@ -1805,8 +2015,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-18 4:52 AM",
     "Url": "https://de.jobsyn.org/A189F662E79248FCA3A920CC88B4E6C3206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "2D1579D4AE384949A0FE367ECFBE931E206",
@@ -1814,8 +2025,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-17 12:55 AM",
     "Url": "https://de.jobsyn.org/2D1579D4AE384949A0FE367ECFBE931E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "C4183B2F65EC4BBBA999A66F88496AB2206",
@@ -1823,17 +2035,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-2-24 3:57 PM",
     "Url": "https://de.jobsyn.org/C4183B2F65EC4BBBA999A66F88496AB2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "B31DCAF923B4454A8714201B71B2EB7A206",
-    "JobTitle": "Registered Nurse (RN) -Progressive Care Unit (PCU) - Per Diem",
-    "Company": "HealthTrust Workforce Solutions",
-    "DatePosted": "2023-2-14 3:57 PM",
-    "Url": "https://de.jobsyn.org/B31DCAF923B4454A8714201B71B2EB7A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "62886DB9D7874899967CFAF83D839A2E206",
@@ -1841,8 +2045,9 @@
     "Company": "Veterans Affairs, Veterans Health Administration",
     "DatePosted": "2023-2-19 7:17 AM",
     "Url": "https://de.jobsyn.org/62886DB9D7874899967CFAF83D839A2E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "21131E368A9C40BE950146B22A7B2A98206",
@@ -1850,8 +2055,19 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-15 6:54 PM",
     "Url": "https://de.jobsyn.org/21131E368A9C40BE950146B22A7B2A98206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "12C97EB97789422B8C72D77C91163416206",
+    "JobTitle": "Registered Nurse (RN) - Intensive Care Unit (ICU) - Per Diem",
+    "Company": "HealthTrust Workforce Solutions",
+    "DatePosted": "2023-3-18 12:53 PM",
+    "Url": "https://de.jobsyn.org/12C97EB97789422B8C72D77C91163416206",
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "FCD528FC0387486FA0B38DCB94FF5EEA206",
@@ -1859,8 +2075,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-15 6:54 PM",
     "Url": "https://de.jobsyn.org/FCD528FC0387486FA0B38DCB94FF5EEA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "60E1A53CB2FB4347AED41FD7F4B1BCB9206",
@@ -1868,8 +2085,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-15 9:57 PM",
     "Url": "https://de.jobsyn.org/60E1A53CB2FB4347AED41FD7F4B1BCB9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "E82DDD034E13448D8031867C43FBECB2206",
@@ -1877,8 +2095,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-18 4:52 AM",
     "Url": "https://de.jobsyn.org/E82DDD034E13448D8031867C43FBECB2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "26C2853BD3354B8FAB4010536EBCBC44206",
@@ -1886,8 +2105,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-18 4:52 AM",
     "Url": "https://de.jobsyn.org/26C2853BD3354B8FAB4010536EBCBC44206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "5944165AC2234463B4552876FF45B4FE206",
@@ -1895,17 +2115,9 @@
     "Company": "HealthTrust Workforce Solutions",
     "DatePosted": "2023-3-17 12:55 AM",
     "Url": "https://de.jobsyn.org/5944165AC2234463B4552876FF45B4FE206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "7BDCBEB7D9C447CF81838EF0BAAE0C75206",
-    "JobTitle": "Registered Nurse (RN) | Progressive Care Unit (PCU) - Contract - Days",
-    "Company": "HealthTrust Workforce Solutions",
-    "DatePosted": "2023-3-17 4:53 AM",
-    "Url": "https://de.jobsyn.org/7BDCBEB7D9C447CF81838EF0BAAE0C75206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-1141.00"
+    "Location": "el-paso",
+    "OnetCode": "29-1141.00",
+    "cityID": 22
   },
   {
     "JvID": "5B8122894E7743F58373C8ACE354DAE7206",
@@ -1913,8 +2125,9 @@
     "Company": "Regent Management Services",
     "DatePosted": "2023-3-15 11:17 PM",
     "Url": "https://de.jobsyn.org/5B8122894E7743F58373C8ACE354DAE7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "CC759B0348FE4E22B490C2685ADC29F1206",
@@ -1922,8 +2135,9 @@
     "Company": "Heritage Operations Group",
     "DatePosted": "2023-3-15 6:12 AM",
     "Url": "https://de.jobsyn.org/CC759B0348FE4E22B490C2685ADC29F1206",
-    "Location": "El Paso, IL",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "0EEF1E8EE87A486CA86BF87B16D4EF8B206",
@@ -1931,8 +2145,9 @@
     "Company": "Los Arcos del Norte Care Center",
     "DatePosted": "2023-3-4 1:25 AM",
     "Url": "https://de.jobsyn.org/0EEF1E8EE87A486CA86BF87B16D4EF8B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "D4BF38087F85476CBA76C962B2A86AFD206",
@@ -1940,8 +2155,9 @@
     "Company": "Home Care Providers of Texas",
     "DatePosted": "2023-3-9 10:01 PM",
     "Url": "https://de.jobsyn.org/D4BF38087F85476CBA76C962B2A86AFD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "BC293E82781646BB89B3754A8296615E206",
@@ -1949,8 +2165,9 @@
     "Company": "BIENVIVIR SENIOR HEALTH SERVICES",
     "DatePosted": "2023-3-4 8:46 PM",
     "Url": "https://de.jobsyn.org/BC293E82781646BB89B3754A8296615E206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "0B9CFF3FD8DD48018ACB2152601B7200206",
@@ -1958,8 +2175,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-7 5:56 PM",
     "Url": "https://de.jobsyn.org/0B9CFF3FD8DD48018ACB2152601B7200206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "85CFB8A3FA4844C8B2F27F93E609AE72206",
@@ -1967,8 +2185,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-7 5:56 PM",
     "Url": "https://de.jobsyn.org/85CFB8A3FA4844C8B2F27F93E609AE72206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "12C52BDCDA7246019DEA46C60FE18125206",
@@ -1976,8 +2195,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-1 9:56 PM",
     "Url": "https://de.jobsyn.org/12C52BDCDA7246019DEA46C60FE18125206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "038BBBFBDA144C67B0E32F75806CB4DF206",
@@ -1985,8 +2205,9 @@
     "Company": "Sanford Health",
     "DatePosted": "2023-2-14 4:47 PM",
     "Url": "https://de.jobsyn.org/038BBBFBDA144C67B0E32F75806CB4DF206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "8BFD44B6A0374BEB8A33927DB8032059206",
@@ -1994,8 +2215,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-3-15 8:22 PM",
     "Url": "https://de.jobsyn.org/8BFD44B6A0374BEB8A33927DB8032059206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "6BE8BE6E6A834FC0945BA8C4578AB409206",
@@ -2003,8 +2225,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-3-15 8:22 PM",
     "Url": "https://de.jobsyn.org/6BE8BE6E6A834FC0945BA8C4578AB409206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "1BE1F57447B0434BB521F8ACFB9532A0206",
@@ -2012,8 +2235,9 @@
     "Company": "Good Samaritan Society",
     "DatePosted": "2023-3-8 5:56 PM",
     "Url": "https://de.jobsyn.org/1BE1F57447B0434BB521F8ACFB9532A0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "62C98A3823A7437C8D5D0CEC94FD8203206",
@@ -2021,8 +2245,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-11 5:47 AM",
     "Url": "https://de.jobsyn.org/62C98A3823A7437C8D5D0CEC94FD8203206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "9FFDD0911FB74B4694AE5414C8500836206",
@@ -2030,8 +2255,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-3-14 8:20 PM",
     "Url": "https://de.jobsyn.org/9FFDD0911FB74B4694AE5414C8500836206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "5A7FA79C360F45E1AF6B760B46F6DB80206",
@@ -2039,8 +2265,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-17 10:38 PM",
     "Url": "https://de.jobsyn.org/5A7FA79C360F45E1AF6B760B46F6DB80206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "1A342C15BB934B0A9ECD6ED83C8132B4206",
@@ -2048,8 +2275,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-17 10:38 PM",
     "Url": "https://de.jobsyn.org/1A342C15BB934B0A9ECD6ED83C8132B4206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "FF6103D5D1AE44668AD8E1A1B9A09B02206",
@@ -2057,8 +2285,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-2-28 9:16 PM",
     "Url": "https://de.jobsyn.org/FF6103D5D1AE44668AD8E1A1B9A09B02206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "8438C42440C74B6DB9CDBB91C075106E206",
@@ -2066,17 +2295,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-2-28 9:15 PM",
     "Url": "https://de.jobsyn.org/8438C42440C74B6DB9CDBB91C075106E206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "F1BF88DB5D024EC4A6F6A2F667C5F9AB206",
-    "JobTitle": "Certified Medical Assistant -  (Clinical Operations-PEDI)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-17 10:38 PM",
-    "Url": "https://de.jobsyn.org/F1BF88DB5D024EC4A6F6A2F667C5F9AB206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "021A70AF3729441FB1CE896601462088206",
@@ -2084,188 +2305,9 @@
     "Company": "Health and Human Services Commission",
     "DatePosted": "2023-3-4 8:46 PM",
     "Url": "https://de.jobsyn.org/021A70AF3729441FB1CE896601462088206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "3F5F32B8638947A2A8615F914F52D63F206",
-    "JobTitle": "Resident Assistant, Medication Aide, Long Term Care (LTC)",
-    "Company": "Good Samaritan Society",
-    "DatePosted": "2023-3-17 9:56 PM",
-    "Url": "https://de.jobsyn.org/3F5F32B8638947A2A8615F914F52D63F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "545F23EBE1B440068955D5C363E968A6206",
-    "JobTitle": "Psychiatric Nursing Asst II/PT Shifts",
-    "Company": "Health and Human Services Commission",
-    "DatePosted": "2023-3-4 8:46 PM",
-    "Url": "https://de.jobsyn.org/545F23EBE1B440068955D5C363E968A6206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "E26DC1CBB95E4F5A985D92626D050609206",
-    "JobTitle": "Certified Medical Assistant -  (Clinical Operations-PEDI)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-17 10:38 PM",
-    "Url": "https://de.jobsyn.org/E26DC1CBB95E4F5A985D92626D050609206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "18E28E6EC2D84A8CBBD5908A0B6055A3206",
-    "JobTitle": "Medical Assistant (11365)",
-    "Company": "InGenesis",
-    "DatePosted": "2023-3-15 1:41 AM",
-    "Url": "https://de.jobsyn.org/18E28E6EC2D84A8CBBD5908A0B6055A3206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "2CAEE52161004919B6941C9B683055C9206",
-    "JobTitle": "Certified Medical Assistant-Neurology (Assc Dean Clinical Affairs)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-17 10:38 PM",
-    "Url": "https://de.jobsyn.org/2CAEE52161004919B6941C9B683055C9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-1131.00"
-  },
-  {
-    "JvID": "5A7FA79C360F45E1AF6B760B46F6DB80206",
-    "JobTitle": "Certified Medical Assistant (Pediatrics)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-17 10:38 PM",
-    "Url": "https://de.jobsyn.org/5A7FA79C360F45E1AF6B760B46F6DB80206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "18E28E6EC2D84A8CBBD5908A0B6055A3206",
-    "JobTitle": "Medical Assistant (11365)",
-    "Company": "InGenesis",
-    "DatePosted": "2023-3-15 1:41 AM",
-    "Url": "https://de.jobsyn.org/18E28E6EC2D84A8CBBD5908A0B6055A3206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "D62BDE3D8AB84E2186D099785815A9C6206",
-    "JobTitle": "Certified Medical Assistant",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-9 12:08 AM",
-    "Url": "https://de.jobsyn.org/D62BDE3D8AB84E2186D099785815A9C6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "B47D7311DD904AEF8625255AB4213213206",
-    "JobTitle": "Medical Support Assistant (Advanced)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-16 10:24 PM",
-    "Url": "https://de.jobsyn.org/B47D7311DD904AEF8625255AB4213213206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "5D9E0ADE97524A11B81B661DFDB092D0206",
-    "JobTitle": "Medical Support Assistant (Advanced)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-16 10:24 PM",
-    "Url": "https://de.jobsyn.org/5D9E0ADE97524A11B81B661DFDB092D0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "63ED500A0231441C8C96F6A1A8CDE143206",
-    "JobTitle": "Lead Medical Support Assistant",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-14 11:46 PM",
-    "Url": "https://de.jobsyn.org/63ED500A0231441C8C96F6A1A8CDE143206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "010E546ECDEE4F0FAA1899CCD4B76265206",
-    "JobTitle": "Certified Medical Assistant (Orthopedics)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-7 2:11 AM",
-    "Url": "https://de.jobsyn.org/010E546ECDEE4F0FAA1899CCD4B76265206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "DF68CC3B380C48319D6AC8B5936BDC09206",
-    "JobTitle": "Certified Medical Assistant (Surgery)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-7 2:11 AM",
-    "Url": "https://de.jobsyn.org/DF68CC3B380C48319D6AC8B5936BDC09206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "C5855D33E1724CE69C13DD1053774643206",
-    "JobTitle": "Clinical Medical Assistant (Pediatrics)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-2-10 12:23 AM",
-    "Url": "https://de.jobsyn.org/C5855D33E1724CE69C13DD1053774643206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "437C5DA58EE3485595336C0ACB7A676B206",
-    "JobTitle": "Medical Assistant- El Paso East",
-    "Company": "Nova Medical Centers",
-    "DatePosted": "2023-3-17 6:13 AM",
-    "Url": "https://de.jobsyn.org/437C5DA58EE3485595336C0ACB7A676B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "F65C2191574C41A9AC3FC228D6B76887206",
-    "JobTitle": "Certified Medical Assistant -  (Surgery)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-7 2:11 AM",
-    "Url": "https://de.jobsyn.org/F65C2191574C41A9AC3FC228D6B76887206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "9F26001E30DE4D95B06F96C93754E283206",
-    "JobTitle": "Clinical Medical Assistant (Family Medicine)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-7 2:11 AM",
-    "Url": "https://de.jobsyn.org/9F26001E30DE4D95B06F96C93754E283206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "7A21C47E6F49450887D000C30EEB70F6206",
-    "JobTitle": "Certified Medical Assistant -  (Pediatrics)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-7 2:11 AM",
-    "Url": "https://de.jobsyn.org/7A21C47E6F49450887D000C30EEB70F6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "D4B8F246E3BF45048411386E7F7274FE206",
-    "JobTitle": "Medical Assistant - Paso North",
-    "Company": "Pediatric Associates",
-    "DatePosted": "2023-2-16 11:13 PM",
-    "Url": "https://de.jobsyn.org/D4B8F246E3BF45048411386E7F7274FE206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "44B56B45664142D8A1733F105A05558C206",
-    "JobTitle": "Clinical Medical Assistant (Family Medicine)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-2-8 2:12 AM",
-    "Url": "https://de.jobsyn.org/44B56B45664142D8A1733F105A05558C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "F1BF88DB5D024EC4A6F6A2F667C5F9AB206",
@@ -2273,8 +2315,29 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-17 10:38 PM",
     "Url": "https://de.jobsyn.org/F1BF88DB5D024EC4A6F6A2F667C5F9AB206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "545F23EBE1B440068955D5C363E968A6206",
+    "JobTitle": "Psychiatric Nursing Asst II/PT Shifts",
+    "Company": "Health and Human Services Commission",
+    "DatePosted": "2023-3-4 8:46 PM",
+    "Url": "https://de.jobsyn.org/545F23EBE1B440068955D5C363E968A6206",
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "3F5F32B8638947A2A8615F914F52D63F206",
+    "JobTitle": "Resident Assistant, Medication Aide, Long Term Care (LTC)",
+    "Company": "Good Samaritan Society",
+    "DatePosted": "2023-3-17 9:56 PM",
+    "Url": "https://de.jobsyn.org/3F5F32B8638947A2A8615F914F52D63F206",
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "E26DC1CBB95E4F5A985D92626D050609206",
@@ -2282,71 +2345,19 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-17 10:38 PM",
     "Url": "https://de.jobsyn.org/E26DC1CBB95E4F5A985D92626D050609206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
-    "JvID": "38283BB05089420BAF410712D6D27631206",
-    "JobTitle": "Certified Medical Assistant (Clinical Operations-BCC)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-17 10:38 PM",
-    "Url": "https://de.jobsyn.org/38283BB05089420BAF410712D6D27631206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "6ADD0FAC84D143F4BBE31172051CF626206",
-    "JobTitle": "Certified Medical Assistant - El Paso, TX",
-    "Company": "UnitedHealth Group",
-    "DatePosted": "2023-3-8 2:29 PM",
-    "Url": "https://de.jobsyn.org/6ADD0FAC84D143F4BBE31172051CF626206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "9868BF6F6DF442A4A20CDB1649DC4643206",
-    "JobTitle": "Clinical Medical Assistant (Family Medicine-Transmountain)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-2-25 12:50 AM",
-    "Url": "https://de.jobsyn.org/9868BF6F6DF442A4A20CDB1649DC4643206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "CE25B36152744BCD8637DF0D8AB5D00E206",
-    "JobTitle": "Certified Medical Assistant-Family Medicine (Transmountain)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-2-9 7:01 AM",
-    "Url": "https://de.jobsyn.org/CE25B36152744BCD8637DF0D8AB5D00E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "2CAEE52161004919B6941C9B683055C9206",
-    "JobTitle": "Certified Medical Assistant-Neurology (Assc Dean Clinical Affairs)",
-    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
-    "DatePosted": "2023-3-17 10:38 PM",
-    "Url": "https://de.jobsyn.org/2CAEE52161004919B6941C9B683055C9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "C14CB76FC6FA400BA021A3A2116C1336206",
-    "JobTitle": "Medical Assistant WellMed El Paso TX Zaragoza Clinic",
-    "Company": "UnitedHealth Group",
-    "DatePosted": "2023-3-17 4:22 AM",
-    "Url": "https://de.jobsyn.org/C14CB76FC6FA400BA021A3A2116C1336206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "0E8562EABF37421EB906E763A5316EF9206",
-    "JobTitle": "Certified Medical Assistant - Mobile Clinic and PSU Team",
-    "Company": "UnitedHealth Group",
-    "DatePosted": "2023-3-11 3:05 AM",
-    "Url": "https://de.jobsyn.org/0E8562EABF37421EB906E763A5316EF9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
+    "JvID": "18E28E6EC2D84A8CBBD5908A0B6055A3206",
+    "JobTitle": "Medical Assistant (11365)",
+    "Company": "InGenesis",
+    "DatePosted": "2023-3-15 1:41 AM",
+    "Url": "https://de.jobsyn.org/18E28E6EC2D84A8CBBD5908A0B6055A3206",
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
   },
   {
     "JvID": "2A23D1EFFC33431385181D8A6835F36F206",
@@ -2354,8 +2365,259 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-7 2:11 AM",
     "Url": "https://de.jobsyn.org/2A23D1EFFC33431385181D8A6835F36F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9092.00"
+    "Location": "el-paso",
+    "OnetCode": "31-1131.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "5A7FA79C360F45E1AF6B760B46F6DB80206",
+    "JobTitle": "Certified Medical Assistant (Pediatrics)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-17 10:38 PM",
+    "Url": "https://de.jobsyn.org/5A7FA79C360F45E1AF6B760B46F6DB80206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "18E28E6EC2D84A8CBBD5908A0B6055A3206",
+    "JobTitle": "Medical Assistant (11365)",
+    "Company": "InGenesis",
+    "DatePosted": "2023-3-15 1:41 AM",
+    "Url": "https://de.jobsyn.org/18E28E6EC2D84A8CBBD5908A0B6055A3206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "D62BDE3D8AB84E2186D099785815A9C6206",
+    "JobTitle": "Certified Medical Assistant",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-9 12:08 AM",
+    "Url": "https://de.jobsyn.org/D62BDE3D8AB84E2186D099785815A9C6206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "B47D7311DD904AEF8625255AB4213213206",
+    "JobTitle": "Medical Support Assistant (Advanced)",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-16 10:24 PM",
+    "Url": "https://de.jobsyn.org/B47D7311DD904AEF8625255AB4213213206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "5D9E0ADE97524A11B81B661DFDB092D0206",
+    "JobTitle": "Medical Support Assistant (Advanced)",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-16 10:24 PM",
+    "Url": "https://de.jobsyn.org/5D9E0ADE97524A11B81B661DFDB092D0206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "63ED500A0231441C8C96F6A1A8CDE143206",
+    "JobTitle": "Lead Medical Support Assistant",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-14 11:46 PM",
+    "Url": "https://de.jobsyn.org/63ED500A0231441C8C96F6A1A8CDE143206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "DF68CC3B380C48319D6AC8B5936BDC09206",
+    "JobTitle": "Certified Medical Assistant (Surgery)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-7 2:11 AM",
+    "Url": "https://de.jobsyn.org/DF68CC3B380C48319D6AC8B5936BDC09206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "010E546ECDEE4F0FAA1899CCD4B76265206",
+    "JobTitle": "Certified Medical Assistant (Orthopedics)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-7 2:11 AM",
+    "Url": "https://de.jobsyn.org/010E546ECDEE4F0FAA1899CCD4B76265206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "C5855D33E1724CE69C13DD1053774643206",
+    "JobTitle": "Clinical Medical Assistant (Pediatrics)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-2-10 12:23 AM",
+    "Url": "https://de.jobsyn.org/C5855D33E1724CE69C13DD1053774643206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "437C5DA58EE3485595336C0ACB7A676B206",
+    "JobTitle": "Medical Assistant- El Paso East",
+    "Company": "Nova Medical Centers",
+    "DatePosted": "2023-3-17 6:13 AM",
+    "Url": "https://de.jobsyn.org/437C5DA58EE3485595336C0ACB7A676B206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "F65C2191574C41A9AC3FC228D6B76887206",
+    "JobTitle": "Certified Medical Assistant -  (Surgery)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-7 2:11 AM",
+    "Url": "https://de.jobsyn.org/F65C2191574C41A9AC3FC228D6B76887206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "9F26001E30DE4D95B06F96C93754E283206",
+    "JobTitle": "Clinical Medical Assistant (Family Medicine)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-7 2:11 AM",
+    "Url": "https://de.jobsyn.org/9F26001E30DE4D95B06F96C93754E283206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "7A21C47E6F49450887D000C30EEB70F6206",
+    "JobTitle": "Certified Medical Assistant -  (Pediatrics)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-7 2:11 AM",
+    "Url": "https://de.jobsyn.org/7A21C47E6F49450887D000C30EEB70F6206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "D4B8F246E3BF45048411386E7F7274FE206",
+    "JobTitle": "Medical Assistant - Paso North",
+    "Company": "Pediatric Associates",
+    "DatePosted": "2023-2-16 11:13 PM",
+    "Url": "https://de.jobsyn.org/D4B8F246E3BF45048411386E7F7274FE206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "44B56B45664142D8A1733F105A05558C206",
+    "JobTitle": "Clinical Medical Assistant (Family Medicine)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-2-8 2:12 AM",
+    "Url": "https://de.jobsyn.org/44B56B45664142D8A1733F105A05558C206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "F1BF88DB5D024EC4A6F6A2F667C5F9AB206",
+    "JobTitle": "Certified Medical Assistant -  (Clinical Operations-PEDI)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-17 10:38 PM",
+    "Url": "https://de.jobsyn.org/F1BF88DB5D024EC4A6F6A2F667C5F9AB206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "E26DC1CBB95E4F5A985D92626D050609206",
+    "JobTitle": "Certified Medical Assistant -  (Clinical Operations-PEDI)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-17 10:38 PM",
+    "Url": "https://de.jobsyn.org/E26DC1CBB95E4F5A985D92626D050609206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "38283BB05089420BAF410712D6D27631206",
+    "JobTitle": "Certified Medical Assistant (Clinical Operations-BCC)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-17 10:38 PM",
+    "Url": "https://de.jobsyn.org/38283BB05089420BAF410712D6D27631206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "6ADD0FAC84D143F4BBE31172051CF626206",
+    "JobTitle": "Certified Medical Assistant - El Paso, TX",
+    "Company": "UnitedHealth Group",
+    "DatePosted": "2023-3-8 2:29 PM",
+    "Url": "https://de.jobsyn.org/6ADD0FAC84D143F4BBE31172051CF626206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "9868BF6F6DF442A4A20CDB1649DC4643206",
+    "JobTitle": "Clinical Medical Assistant (Family Medicine-Transmountain)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-2-25 12:50 AM",
+    "Url": "https://de.jobsyn.org/9868BF6F6DF442A4A20CDB1649DC4643206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "CE25B36152744BCD8637DF0D8AB5D00E206",
+    "JobTitle": "Certified Medical Assistant-Family Medicine (Transmountain)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-2-9 7:01 AM",
+    "Url": "https://de.jobsyn.org/CE25B36152744BCD8637DF0D8AB5D00E206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "2CAEE52161004919B6941C9B683055C9206",
+    "JobTitle": "Certified Medical Assistant-Neurology (Assc Dean Clinical Affairs)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-17 10:38 PM",
+    "Url": "https://de.jobsyn.org/2CAEE52161004919B6941C9B683055C9206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "C14CB76FC6FA400BA021A3A2116C1336206",
+    "JobTitle": "Medical Assistant WellMed El Paso TX Zaragoza Clinic",
+    "Company": "UnitedHealth Group",
+    "DatePosted": "2023-3-17 4:22 AM",
+    "Url": "https://de.jobsyn.org/C14CB76FC6FA400BA021A3A2116C1336206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "0E8562EABF37421EB906E763A5316EF9206",
+    "JobTitle": "Certified Medical Assistant - Mobile Clinic and PSU Team",
+    "Company": "UnitedHealth Group",
+    "DatePosted": "2023-3-11 3:05 AM",
+    "Url": "https://de.jobsyn.org/0E8562EABF37421EB906E763A5316EF9206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
+  },
+  {
+    "JvID": "2A23D1EFFC33431385181D8A6835F36F206",
+    "JobTitle": "Certified Medical Assistant - Breast Care Center (Surgery)",
+    "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
+    "DatePosted": "2023-3-7 2:11 AM",
+    "Url": "https://de.jobsyn.org/2A23D1EFFC33431385181D8A6835F36F206",
+    "Location": "el-paso",
+    "OnetCode": "31-9092.00",
+    "cityID": 22
   },
   {
     "JvID": "8FB87B2704A74B83A47C2F14B44D4678206",
@@ -2363,8 +2625,9 @@
     "Company": "CVS Health",
     "DatePosted": "2023-3-11 2:37 AM",
     "Url": "https://de.jobsyn.org/8FB87B2704A74B83A47C2F14B44D4678206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "9B9A55066E0F46F08F679D72B614B145206",
@@ -2372,8 +2635,9 @@
     "Company": "CVS Health",
     "DatePosted": "2023-3-10 3:46 AM",
     "Url": "https://de.jobsyn.org/9B9A55066E0F46F08F679D72B614B145206",
-    "Location": "El Paso, IL",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "37E14EA8074846989106D5AFEBBEF832206",
@@ -2381,8 +2645,9 @@
     "Company": "Walgreens",
     "DatePosted": "2023-2-24 5:09 AM",
     "Url": "https://de.jobsyn.org/37E14EA8074846989106D5AFEBBEF832206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "C7181C4A353C463A83AC92EBF9FA55A1206",
@@ -2390,8 +2655,9 @@
     "Company": "Walgreens",
     "DatePosted": "2023-3-18 4:14 AM",
     "Url": "https://de.jobsyn.org/C7181C4A353C463A83AC92EBF9FA55A1206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "421D2C46C61641B080D52897A7E49E38206",
@@ -2399,8 +2665,9 @@
     "Company": "UnitedHealth Group",
     "DatePosted": "2023-3-8 2:38 PM",
     "Url": "https://de.jobsyn.org/421D2C46C61641B080D52897A7E49E38206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "AC6B9E3D7A24440EB9818AB1AE8F829E206",
@@ -2408,8 +2675,9 @@
     "Company": "Walgreens",
     "DatePosted": "2023-3-16 2:57 AM",
     "Url": "https://de.jobsyn.org/AC6B9E3D7A24440EB9818AB1AE8F829E206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "92A3730626854D75A5042ABADE679812206",
@@ -2417,8 +2685,9 @@
     "Company": "Walgreens",
     "DatePosted": "2023-3-10 4:43 AM",
     "Url": "https://de.jobsyn.org/92A3730626854D75A5042ABADE679812206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "DB41D96242094C4CB5F9EA809471A4BD206",
@@ -2426,8 +2695,9 @@
     "Company": "Omnicell, Inc.",
     "DatePosted": "2023-3-10 4:12 AM",
     "Url": "https://de.jobsyn.org/DB41D96242094C4CB5F9EA809471A4BD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "5E8CE32BA3D04222B80C0279759FD3F9206",
@@ -2435,8 +2705,9 @@
     "Company": "UnitedHealth Group",
     "DatePosted": "2023-3-8 2:33 PM",
     "Url": "https://de.jobsyn.org/5E8CE32BA3D04222B80C0279759FD3F9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "EEEB782173A84FAEA655FA8316CF5178206",
@@ -2444,8 +2715,9 @@
     "Company": "Walgreens",
     "DatePosted": "2023-2-23 2:39 AM",
     "Url": "https://de.jobsyn.org/EEEB782173A84FAEA655FA8316CF5178206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "66707A75E8414B70AD7D08661B6D511C206",
@@ -2453,8 +2725,9 @@
     "Company": "BrightSpring Health Services",
     "DatePosted": "2023-2-9 5:37 AM",
     "Url": "https://de.jobsyn.org/66707A75E8414B70AD7D08661B6D511C206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "29-2052.00"
+    "Location": "el-paso",
+    "OnetCode": "29-2052.00",
+    "cityID": 22
   },
   {
     "JvID": "65CD78BE788143D4914B02A8B3BCD822206",
@@ -2462,8 +2735,9 @@
     "Company": "InGenesis",
     "DatePosted": "2023-3-15 1:41 AM",
     "Url": "https://de.jobsyn.org/65CD78BE788143D4914B02A8B3BCD822206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9091.00"
+    "Location": "el-paso",
+    "OnetCode": "31-9091.00",
+    "cityID": 22
   },
   {
     "JvID": "4512AF2146404D85B6F605C470661E85206",
@@ -2471,8 +2745,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-8 8:05 AM",
     "Url": "https://de.jobsyn.org/4512AF2146404D85B6F605C470661E85206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9091.00"
+    "Location": "el-paso",
+    "OnetCode": "31-9091.00",
+    "cityID": 22
   },
   {
     "JvID": "961F9E7C0898427B8D63621B5CC29845206",
@@ -2480,8 +2755,9 @@
     "Company": "Aspen Dental",
     "DatePosted": "2023-3-14 2:21 AM",
     "Url": "https://de.jobsyn.org/961F9E7C0898427B8D63621B5CC29845206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9091.00"
+    "Location": "el-paso",
+    "OnetCode": "31-9091.00",
+    "cityID": 22
   },
   {
     "JvID": "28342739768446EC88087F0443F091DA206",
@@ -2489,8 +2765,9 @@
     "Company": "Affordable Care",
     "DatePosted": "2023-3-8 4:41 AM",
     "Url": "https://de.jobsyn.org/28342739768446EC88087F0443F091DA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9091.00"
+    "Location": "el-paso",
+    "OnetCode": "31-9091.00",
+    "cityID": 22
   },
   {
     "JvID": "FF650C8803394C7CB54640B2661C2044206",
@@ -2498,8 +2775,9 @@
     "Company": "DOCS Health",
     "DatePosted": "2023-2-16 1:12 AM",
     "Url": "https://de.jobsyn.org/FF650C8803394C7CB54640B2661C2044206",
-    "Location": "El Paso, TX",
-    "OnetCode": "31-9091.00"
+    "Location": "el-paso",
+    "OnetCode": "31-9091.00",
+    "cityID": 22
   },
   {
     "JvID": "8775F14D2ECE43C39662AA2D606ED1FC206",
@@ -2507,8 +2785,9 @@
     "Company": "Old Dominion Freight Line",
     "DatePosted": "2023-3-9 4:34 AM",
     "Url": "https://de.jobsyn.org/8775F14D2ECE43C39662AA2D606ED1FC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "5CBF14B866EB44D9B2329F076BC0AA09206",
@@ -2516,8 +2795,9 @@
     "Company": "Syms Strategic Group, LLC (SSG)",
     "DatePosted": "2023-3-16 7:06 AM",
     "Url": "https://de.jobsyn.org/5CBF14B866EB44D9B2329F076BC0AA09206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "72D25BC9C7C64D73AC804C780B52E74A206",
@@ -2525,8 +2805,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-12 5:00 AM",
     "Url": "https://de.jobsyn.org/72D25BC9C7C64D73AC804C780B52E74A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "DAECB67EC4B44FADA28DB03AC2A16E4C206",
@@ -2534,8 +2815,9 @@
     "Company": "Marathon Petroleum Corporation",
     "DatePosted": "2023-3-9 6:21 AM",
     "Url": "https://de.jobsyn.org/DAECB67EC4B44FADA28DB03AC2A16E4C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "72443D9911BD43AB95745F46CC32A850206",
@@ -2543,8 +2825,9 @@
     "Company": "Applied Materials",
     "DatePosted": "2023-2-10 4:42 AM",
     "Url": "https://de.jobsyn.org/72443D9911BD43AB95745F46CC32A850206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "9CE65CB224A941718828D37681D09FE1206",
@@ -2552,8 +2835,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-7 4:05 AM",
     "Url": "https://de.jobsyn.org/9CE65CB224A941718828D37681D09FE1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "55D8BD3923034F2187E653ECD5A956F2206",
@@ -2561,8 +2845,9 @@
     "Company": "L3Harris",
     "DatePosted": "2023-2-18 2:15 AM",
     "Url": "https://de.jobsyn.org/55D8BD3923034F2187E653ECD5A956F2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "D6957338B1104084B1E07FE4317E6E44206",
@@ -2570,8 +2855,9 @@
     "Company": "Old Dominion Freight Line",
     "DatePosted": "2023-2-22 4:30 AM",
     "Url": "https://de.jobsyn.org/D6957338B1104084B1E07FE4317E6E44206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "3055EA55D4434D379B22FB79FD228F16206",
@@ -2579,8 +2865,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:45 PM",
     "Url": "https://de.jobsyn.org/3055EA55D4434D379B22FB79FD228F16206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1252.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1252.00",
+    "cityID": 22
   },
   {
     "JvID": "8BA30C490E4048738609661014FB8EE2206",
@@ -2588,8 +2875,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-10 3:30 AM",
     "Url": "https://de.jobsyn.org/8BA30C490E4048738609661014FB8EE2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "A0DC885EACDF4C1DB894E94846B6A079206",
@@ -2597,8 +2885,9 @@
     "Company": "SMX",
     "DatePosted": "2023-2-18 2:45 AM",
     "Url": "https://de.jobsyn.org/A0DC885EACDF4C1DB894E94846B6A079206",
-    "Location": "El Paso, NM",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "227B5660601E439D9B5E2C7BA5BF64FC206",
@@ -2606,8 +2895,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-2 5:04 AM",
     "Url": "https://de.jobsyn.org/227B5660601E439D9B5E2C7BA5BF64FC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "5D1C862474144CC48CE5008BF500D89A206",
@@ -2615,8 +2905,9 @@
     "Company": "ADP",
     "DatePosted": "2023-2-24 3:51 AM",
     "Url": "https://de.jobsyn.org/5D1C862474144CC48CE5008BF500D89A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "A646B6C9742945DF93220775286267EA206",
@@ -2624,8 +2915,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-18 1:00 AM",
     "Url": "https://de.jobsyn.org/A646B6C9742945DF93220775286267EA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "297D1B1F84564565935470D5F42C7823206",
@@ -2633,8 +2925,9 @@
     "Company": "ASRC Federal Holding Company",
     "DatePosted": "2023-3-17 5:04 AM",
     "Url": "https://de.jobsyn.org/297D1B1F84564565935470D5F42C7823206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "7D23939D132F4297AE29BF7D3AD8C48B206",
@@ -2642,8 +2935,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-18 4:23 AM",
     "Url": "https://de.jobsyn.org/7D23939D132F4297AE29BF7D3AD8C48B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "DF49A29984DC4BB9B36A8209447AA546206",
@@ -2651,8 +2945,9 @@
     "Company": "Raytheon Technologies",
     "DatePosted": "2023-3-15 5:35 AM",
     "Url": "https://de.jobsyn.org/DF49A29984DC4BB9B36A8209447AA546206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "1D12EBC164114D6184F74AE44B9F0561206",
@@ -2660,8 +2955,9 @@
     "Company": "ECONOMY CASH AND CARRY INC",
     "DatePosted": "2023-3-15 8:22 PM",
     "Url": "https://de.jobsyn.org/1D12EBC164114D6184F74AE44B9F0561206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "C841FF2A34AA47269707D0F055A03E17206",
@@ -2669,8 +2965,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-14 2:55 AM",
     "Url": "https://de.jobsyn.org/C841FF2A34AA47269707D0F055A03E17206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "76D94BDE4AAD487BB3E30A8EB06F329C206",
@@ -2678,8 +2975,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-3-9 11:30 PM",
     "Url": "https://de.jobsyn.org/76D94BDE4AAD487BB3E30A8EB06F329C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "69B3DC40052F4190A06729F50C278B41206",
@@ -2687,8 +2985,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-9 2:59 AM",
     "Url": "https://de.jobsyn.org/69B3DC40052F4190A06729F50C278B41206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "73F444C229684570BA0A66D424E43EF6206",
@@ -2696,8 +2995,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-9 2:58 AM",
     "Url": "https://de.jobsyn.org/73F444C229684570BA0A66D424E43EF6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "EDC722BDCF754C1B8F870BFC88DA63DB206",
@@ -2705,8 +3005,9 @@
     "Company": "TJX",
     "DatePosted": "2023-3-8 7:25 AM",
     "Url": "https://de.jobsyn.org/EDC722BDCF754C1B8F870BFC88DA63DB206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "419236E1E58C49EC965EF8EE6DFB4F5F206",
@@ -2714,8 +3015,9 @@
     "Company": "Customs and Border Protection",
     "DatePosted": "2023-3-8 10:03 PM",
     "Url": "https://de.jobsyn.org/419236E1E58C49EC965EF8EE6DFB4F5F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "95005E96308F403AA31A52C15809AFC3206",
@@ -2723,8 +3025,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-8 4:53 AM",
     "Url": "https://de.jobsyn.org/95005E96308F403AA31A52C15809AFC3206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "DD1F148C58704502AA59E731C1B71B1B206",
@@ -2732,8 +3035,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-6 11:33 PM",
     "Url": "https://de.jobsyn.org/DD1F148C58704502AA59E731C1B71B1B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "679C5F19E2AA4475A27521F84CE531B0206",
@@ -2741,8 +3045,9 @@
     "Company": "Raytheon Technologies",
     "DatePosted": "2023-3-4 5:37 AM",
     "Url": "https://de.jobsyn.org/679C5F19E2AA4475A27521F84CE531B0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "DD63E09732E3420DAF70F0D385CE526D206",
@@ -2750,8 +3055,9 @@
     "Company": "NCR",
     "DatePosted": "2023-3-4 5:35 AM",
     "Url": "https://de.jobsyn.org/DD63E09732E3420DAF70F0D385CE526D206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "F8B23A9634624AC5B6525DDE56A81079206",
@@ -2759,8 +3065,9 @@
     "Company": "PDS Tech Inc",
     "DatePosted": "2023-3-4 4:09 AM",
     "Url": "https://de.jobsyn.org/F8B23A9634624AC5B6525DDE56A81079206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "498DF980291D4C85A144E30971006DE8206",
@@ -2768,8 +3075,9 @@
     "Company": "ASRC Federal Holding Company",
     "DatePosted": "2023-3-3 2:33 AM",
     "Url": "https://de.jobsyn.org/498DF980291D4C85A144E30971006DE8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "DD41C05710844940BF7687D1C4A12757206",
@@ -2777,8 +3085,9 @@
     "Company": "Spectrum",
     "DatePosted": "2023-3-2 5:55 AM",
     "Url": "https://de.jobsyn.org/DD41C05710844940BF7687D1C4A12757206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "1416AD5BDACA41E18189E2735302D92A206",
@@ -2786,8 +3095,9 @@
     "Company": "ADP",
     "DatePosted": "2023-3-1 4:06 AM",
     "Url": "https://de.jobsyn.org/1416AD5BDACA41E18189E2735302D92A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "32D65EAC6CD144468D38C94644E052D2206",
@@ -2795,8 +3105,9 @@
     "Company": "TJX",
     "DatePosted": "2023-3-1 1:57 AM",
     "Url": "https://de.jobsyn.org/32D65EAC6CD144468D38C94644E052D2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "3F345A26B8F24ECB95E3472EE8199EEF206",
@@ -2804,8 +3115,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-2-28 3:31 AM",
     "Url": "https://de.jobsyn.org/3F345A26B8F24ECB95E3472EE8199EEF206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1232.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1232.00",
+    "cityID": 22
   },
   {
     "JvID": "9D7553B45B464774898E9FA2A5F68E1B206",
@@ -2813,8 +3125,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-10 5:13 AM",
     "Url": "https://de.jobsyn.org/9D7553B45B464774898E9FA2A5F68E1B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "67197FB04BF045BA8DCC0FE21A05E5DA206",
@@ -2822,8 +3135,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-14 3:01 AM",
     "Url": "https://de.jobsyn.org/67197FB04BF045BA8DCC0FE21A05E5DA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "F23D17BC6B75438FA058ABB4BF81121B206",
@@ -2831,8 +3145,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-2-17 2:15 AM",
     "Url": "https://de.jobsyn.org/F23D17BC6B75438FA058ABB4BF81121B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "1823D0628A9049AEA81CEC3AE93EC9E9206",
@@ -2840,8 +3155,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-16 3:43 AM",
     "Url": "https://de.jobsyn.org/1823D0628A9049AEA81CEC3AE93EC9E9206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "266DE54623D046158A0C1A326E7F0BBA206",
@@ -2849,8 +3165,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-15 5:02 AM",
     "Url": "https://de.jobsyn.org/266DE54623D046158A0C1A326E7F0BBA206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "8775F14D2ECE43C39662AA2D606ED1FC206",
@@ -2858,8 +3175,9 @@
     "Company": "Old Dominion Freight Line",
     "DatePosted": "2023-3-9 4:34 AM",
     "Url": "https://de.jobsyn.org/8775F14D2ECE43C39662AA2D606ED1FC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "3643CCE0B88F45CFB0079B7377BDCFB8206",
@@ -2867,8 +3185,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:03 AM",
     "Url": "https://de.jobsyn.org/3643CCE0B88F45CFB0079B7377BDCFB8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "498F96AB823343C594B2323D0D323FD7206",
@@ -2876,8 +3195,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:03 AM",
     "Url": "https://de.jobsyn.org/498F96AB823343C594B2323D0D323FD7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "C485D7916A344965AE72D09B2608173E206",
@@ -2885,8 +3205,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:05 AM",
     "Url": "https://de.jobsyn.org/C485D7916A344965AE72D09B2608173E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "3DD77E70009B49B39E005F870D16FA5D206",
@@ -2894,8 +3215,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:03 AM",
     "Url": "https://de.jobsyn.org/3DD77E70009B49B39E005F870D16FA5D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "FBEC5B3AC5D64AE1BEBF5F5DD269E914206",
@@ -2903,8 +3225,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:06 AM",
     "Url": "https://de.jobsyn.org/FBEC5B3AC5D64AE1BEBF5F5DD269E914206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "14B6F131CDF240B3BDC530E094DA8D18206",
@@ -2912,8 +3235,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-22 7:02 AM",
     "Url": "https://de.jobsyn.org/14B6F131CDF240B3BDC530E094DA8D18206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "FCDEDD5E1AF7494786CB19FFDB9D47C7206",
@@ -2921,8 +3245,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:36 AM",
     "Url": "https://de.jobsyn.org/FCDEDD5E1AF7494786CB19FFDB9D47C7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "CAB2003DA2A74DD4B4DF0A0A901718A5206",
@@ -2930,8 +3255,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:35 AM",
     "Url": "https://de.jobsyn.org/CAB2003DA2A74DD4B4DF0A0A901718A5206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "801DAFBD1DDD4E56953702F9389C011E206",
@@ -2939,8 +3265,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:34 AM",
     "Url": "https://de.jobsyn.org/801DAFBD1DDD4E56953702F9389C011E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "F32ECE859F894A879849404BA9755DC0206",
@@ -2948,8 +3275,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:35 AM",
     "Url": "https://de.jobsyn.org/F32ECE859F894A879849404BA9755DC0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "38D0B3F9AE704179981439D492C4C530206",
@@ -2957,8 +3285,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:33 AM",
     "Url": "https://de.jobsyn.org/38D0B3F9AE704179981439D492C4C530206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "BEFFD1BD7AEB419C90BC0767A1CDAE9A206",
@@ -2966,8 +3295,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:35 AM",
     "Url": "https://de.jobsyn.org/BEFFD1BD7AEB419C90BC0767A1CDAE9A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "19FC0938B3FB4C0B840B36016C3F58CC206",
@@ -2975,8 +3305,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-21 5:32 AM",
     "Url": "https://de.jobsyn.org/19FC0938B3FB4C0B840B36016C3F58CC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "D6957338B1104084B1E07FE4317E6E44206",
@@ -2984,8 +3315,9 @@
     "Company": "Old Dominion Freight Line",
     "DatePosted": "2023-2-22 4:30 AM",
     "Url": "https://de.jobsyn.org/D6957338B1104084B1E07FE4317E6E44206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "F9BFF189787B49D280334697C6286394206",
@@ -2993,8 +3325,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:47 PM",
     "Url": "https://de.jobsyn.org/F9BFF189787B49D280334697C6286394206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "D636BB2E5E7E4026BB36EFEBC98AB2C1206",
@@ -3002,8 +3335,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:47 PM",
     "Url": "https://de.jobsyn.org/D636BB2E5E7E4026BB36EFEBC98AB2C1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "FA795DFB62D4405BB542DA9A207E7A23206",
@@ -3011,8 +3345,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:48 PM",
     "Url": "https://de.jobsyn.org/FA795DFB62D4405BB542DA9A207E7A23206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "3055EA55D4434D379B22FB79FD228F16206",
@@ -3020,8 +3355,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:45 PM",
     "Url": "https://de.jobsyn.org/3055EA55D4434D379B22FB79FD228F16206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "8FEA869BAD774581849CA386C2475585206",
@@ -3029,8 +3365,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:46 PM",
     "Url": "https://de.jobsyn.org/8FEA869BAD774581849CA386C2475585206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1211.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1211.00",
+    "cityID": 22
   },
   {
     "JvID": "5CBF14B866EB44D9B2329F076BC0AA09206",
@@ -3038,8 +3375,9 @@
     "Company": "Syms Strategic Group, LLC (SSG)",
     "DatePosted": "2023-3-16 7:06 AM",
     "Url": "https://de.jobsyn.org/5CBF14B866EB44D9B2329F076BC0AA09206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1299.08"
+    "Location": "el-paso",
+    "OnetCode": "15-1299.08",
+    "cityID": 22
   },
   {
     "JvID": "72D25BC9C7C64D73AC804C780B52E74A206",
@@ -3047,8 +3385,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-12 5:00 AM",
     "Url": "https://de.jobsyn.org/72D25BC9C7C64D73AC804C780B52E74A206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1299.08"
+    "Location": "el-paso",
+    "OnetCode": "15-1299.08",
+    "cityID": 22
   },
   {
     "JvID": "1789D246C6C94DE7A808AF4EE0FC5EC2206",
@@ -3056,8 +3395,9 @@
     "Company": "Danaher Corporation",
     "DatePosted": "2023-3-7 5:02 AM",
     "Url": "https://de.jobsyn.org/1789D246C6C94DE7A808AF4EE0FC5EC2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1299.08"
+    "Location": "el-paso",
+    "OnetCode": "15-1299.08",
+    "cityID": 22
   },
   {
     "JvID": "9CE65CB224A941718828D37681D09FE1206",
@@ -3065,8 +3405,9 @@
     "Company": "CTG",
     "DatePosted": "2023-3-7 4:05 AM",
     "Url": "https://de.jobsyn.org/9CE65CB224A941718828D37681D09FE1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1299.08"
+    "Location": "el-paso",
+    "OnetCode": "15-1299.08",
+    "cityID": 22
   },
   {
     "JvID": "D0659FDBF4D9420FB035A647D6940C6B206",
@@ -3074,8 +3415,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-16 2:52 AM",
     "Url": "https://de.jobsyn.org/D0659FDBF4D9420FB035A647D6940C6B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1299.08"
+    "Location": "el-paso",
+    "OnetCode": "15-1299.08",
+    "cityID": 22
   },
   {
     "JvID": "297D1B1F84564565935470D5F42C7823206",
@@ -3083,8 +3425,9 @@
     "Company": "ASRC Federal Holding Company",
     "DatePosted": "2023-3-17 5:04 AM",
     "Url": "https://de.jobsyn.org/297D1B1F84564565935470D5F42C7823206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1212.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1212.00",
+    "cityID": 22
   },
   {
     "JvID": "758E8D6E6D284C6F9DFC43F07A332D8D206",
@@ -3092,8 +3435,9 @@
     "Company": "Texas Tech University Health Sciences Center \u2013 El Paso",
     "DatePosted": "2023-2-17 2:15 AM",
     "Url": "https://de.jobsyn.org/758E8D6E6D284C6F9DFC43F07A332D8D206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1212.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1212.00",
+    "cityID": 22
   },
   {
     "JvID": "498DF980291D4C85A144E30971006DE8206",
@@ -3101,8 +3445,9 @@
     "Company": "ASRC Federal Holding Company",
     "DatePosted": "2023-3-3 2:33 AM",
     "Url": "https://de.jobsyn.org/498DF980291D4C85A144E30971006DE8206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1212.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1212.00",
+    "cityID": 22
   },
   {
     "JvID": "99E2221D83E94DABBD1B6E9EB843C1EC206",
@@ -3110,8 +3455,9 @@
     "Company": "ASRC Federal Holding Company",
     "DatePosted": "2023-2-14 4:19 AM",
     "Url": "https://de.jobsyn.org/99E2221D83E94DABBD1B6E9EB843C1EC206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1212.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1212.00",
+    "cityID": 22
   },
   {
     "JvID": "DD46314B3D854C818DBC332DB29D9FD6206",
@@ -3119,8 +3465,9 @@
     "Company": "CTG",
     "DatePosted": "2023-2-20 3:47 PM",
     "Url": "https://de.jobsyn.org/DD46314B3D854C818DBC332DB29D9FD6206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1212.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1212.00",
+    "cityID": 22
   },
   {
     "JvID": "1D12EBC164114D6184F74AE44B9F0561206",
@@ -3128,8 +3475,9 @@
     "Company": "ECONOMY CASH AND CARRY INC",
     "DatePosted": "2023-3-15 8:22 PM",
     "Url": "https://de.jobsyn.org/1D12EBC164114D6184F74AE44B9F0561206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "15-1212.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1212.00",
+    "cityID": 22
   },
   {
     "JvID": "2559BF67CA65442682873D2E169F504F206",
@@ -3137,8 +3485,9 @@
     "Company": "Raytheon Technologies",
     "DatePosted": "2023-2-9 3:51 AM",
     "Url": "https://de.jobsyn.org/2559BF67CA65442682873D2E169F504F206",
-    "Location": "El Paso, TX",
-    "OnetCode": "15-1212.00"
+    "Location": "el-paso",
+    "OnetCode": "15-1212.00",
+    "cityID": 22
   },
   {
     "JvID": "E90323CBC62C46ABAA9DF00FA90539C7206",
@@ -3146,8 +3495,9 @@
     "Company": "TJX",
     "DatePosted": "2023-2-17 11:04 PM",
     "Url": "https://de.jobsyn.org/E90323CBC62C46ABAA9DF00FA90539C7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "712D642AB66B4409AFEC3742F9212234206",
@@ -3155,8 +3505,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-3-10 4:50 AM",
     "Url": "https://de.jobsyn.org/712D642AB66B4409AFEC3742F9212234206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "E5EEE3A33BF049FFB7B70A24366E192E206",
@@ -3164,8 +3515,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-2-21 5:07 AM",
     "Url": "https://de.jobsyn.org/E5EEE3A33BF049FFB7B70A24366E192E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "B67CF6A99A3E45758619AD998E28EEE0206",
@@ -3173,8 +3525,9 @@
     "Company": "Emerson",
     "DatePosted": "2023-3-14 4:25 AM",
     "Url": "https://de.jobsyn.org/B67CF6A99A3E45758619AD998E28EEE0206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "DAECB67EC4B44FADA28DB03AC2A16E4C206",
@@ -3182,8 +3535,9 @@
     "Company": "Marathon Petroleum Corporation",
     "DatePosted": "2023-3-9 6:21 AM",
     "Url": "https://de.jobsyn.org/DAECB67EC4B44FADA28DB03AC2A16E4C206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "1789D246C6C94DE7A808AF4EE0FC5EC2206",
@@ -3191,8 +3545,9 @@
     "Company": "Danaher Corporation",
     "DatePosted": "2023-3-7 5:02 AM",
     "Url": "https://de.jobsyn.org/1789D246C6C94DE7A808AF4EE0FC5EC2206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "E84E5D0ABBBE4111970F5D9571DCB893206",
@@ -3200,8 +3555,9 @@
     "Company": "Corteva Agriscience",
     "DatePosted": "2023-3-16 4:07 AM",
     "Url": "https://de.jobsyn.org/E84E5D0ABBBE4111970F5D9571DCB893206",
-    "Location": "El Paso, IL",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "5BFDCB0BBB834F8D87BA98E438AD4D48206",
@@ -3209,8 +3565,9 @@
     "Company": "PARTNERS PERSONNEL MANAGEMENT",
     "DatePosted": "2023-3-14 8:20 PM",
     "Url": "https://de.jobsyn.org/5BFDCB0BBB834F8D87BA98E438AD4D48206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "E46775B0C6F34453A637CEA52FAC2515206",
@@ -3218,8 +3575,9 @@
     "Company": "PDS Tech Inc",
     "DatePosted": "2023-3-15 4:45 AM",
     "Url": "https://de.jobsyn.org/E46775B0C6F34453A637CEA52FAC2515206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "7AF50F62BE4B48039EB786B07C3CEDCB206",
@@ -3227,8 +3585,9 @@
     "Company": "The Toro Company",
     "DatePosted": "2023-3-12 3:52 AM",
     "Url": "https://de.jobsyn.org/7AF50F62BE4B48039EB786B07C3CEDCB206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "97930105014745E7AC769FC9AFD8F6DD206",
@@ -3236,8 +3595,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-11 12:28 AM",
     "Url": "https://de.jobsyn.org/97930105014745E7AC769FC9AFD8F6DD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "AA562B6C3E884B7592D2810A2E7ECC13206",
@@ -3245,8 +3605,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-10 3:53 PM",
     "Url": "https://de.jobsyn.org/AA562B6C3E884B7592D2810A2E7ECC13206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "2A180CF7210B43CE87EF0D4B2B067B1E206",
@@ -3254,8 +3615,9 @@
     "Company": "EL PASO PAPER BOX INC",
     "DatePosted": "2023-3-7 8:56 PM",
     "Url": "https://de.jobsyn.org/2A180CF7210B43CE87EF0D4B2B067B1E206",
-    "Location": "EL PASO, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "9195C9C7E218433E88ED5F82935BA514206",
@@ -3263,8 +3625,9 @@
     "Company": "BD (Becton, Dickinson and Company)",
     "DatePosted": "2023-3-8 3:26 AM",
     "Url": "https://de.jobsyn.org/9195C9C7E218433E88ED5F82935BA514206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "7599825DF4E5401C894310E023E7D80B206",
@@ -3272,8 +3635,9 @@
     "Company": "Training Rehabilitation & Development Institute",
     "DatePosted": "2023-2-16 6:40 AM",
     "Url": "https://de.jobsyn.org/7599825DF4E5401C894310E023E7D80B206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.00",
+    "cityID": 22
   },
   {
     "JvID": "E46775B0C6F34453A637CEA52FAC2515206",
@@ -3281,8 +3645,9 @@
     "Company": "PDS Tech Inc",
     "DatePosted": "2023-3-15 4:45 AM",
     "Url": "https://de.jobsyn.org/E46775B0C6F34453A637CEA52FAC2515206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.03"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.03",
+    "cityID": 22
   },
   {
     "JvID": "E84E5D0ABBBE4111970F5D9571DCB893206",
@@ -3290,8 +3655,9 @@
     "Company": "Corteva Agriscience",
     "DatePosted": "2023-3-16 4:07 AM",
     "Url": "https://de.jobsyn.org/E84E5D0ABBBE4111970F5D9571DCB893206",
-    "Location": "El Paso, IL",
-    "OnetCode": "17-2112.03"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.03",
+    "cityID": 22
   },
   {
     "JvID": "712D642AB66B4409AFEC3742F9212234206",
@@ -3299,8 +3665,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-3-10 4:50 AM",
     "Url": "https://de.jobsyn.org/712D642AB66B4409AFEC3742F9212234206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.03"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.03",
+    "cityID": 22
   },
   {
     "JvID": "E5EEE3A33BF049FFB7B70A24366E192E206",
@@ -3308,8 +3675,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-2-21 5:07 AM",
     "Url": "https://de.jobsyn.org/E5EEE3A33BF049FFB7B70A24366E192E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2112.03"
+    "Location": "el-paso",
+    "OnetCode": "17-2112.03",
+    "cityID": 22
   },
   {
     "JvID": "712D642AB66B4409AFEC3742F9212234206",
@@ -3317,8 +3685,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-3-10 4:50 AM",
     "Url": "https://de.jobsyn.org/712D642AB66B4409AFEC3742F9212234206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2141.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2141.00",
+    "cityID": 22
   },
   {
     "JvID": "E5EEE3A33BF049FFB7B70A24366E192E206",
@@ -3326,8 +3695,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-2-21 5:07 AM",
     "Url": "https://de.jobsyn.org/E5EEE3A33BF049FFB7B70A24366E192E206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2141.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2141.00",
+    "cityID": 22
   },
   {
     "JvID": "41A11183D235485AA6528235BA6F3682206",
@@ -3335,8 +3705,9 @@
     "Company": "Nucor Steel Auburn, Inc.",
     "DatePosted": "2023-3-2 1:22 AM",
     "Url": "https://de.jobsyn.org/41A11183D235485AA6528235BA6F3682206",
-    "Location": "El Paso, IL",
-    "OnetCode": "17-2141.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2141.00",
+    "cityID": 22
   },
   {
     "JvID": "6C11240A0E48426F838BFB0402ADC1D1206",
@@ -3344,8 +3715,9 @@
     "Company": "Siemens",
     "DatePosted": "2023-2-11 12:00 AM",
     "Url": "https://de.jobsyn.org/6C11240A0E48426F838BFB0402ADC1D1206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2141.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2141.00",
+    "cityID": 22
   },
   {
     "JvID": "CA974FA3ED1C420EA186B13F6D12EA66206",
@@ -3353,8 +3725,9 @@
     "Company": "Eaton Corporation",
     "DatePosted": "2023-2-21 5:06 AM",
     "Url": "https://de.jobsyn.org/CA974FA3ED1C420EA186B13F6D12EA66206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2141.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2141.00",
+    "cityID": 22
   },
   {
     "JvID": "C6E70A4E1B4E47019E559FAFFF6C4690206",
@@ -3362,8 +3735,9 @@
     "Company": "CDM Smith",
     "DatePosted": "2023-2-8 5:24 AM",
     "Url": "https://de.jobsyn.org/C6E70A4E1B4E47019E559FAFFF6C4690206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2071.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2071.00",
+    "cityID": 22
   },
   {
     "JvID": "CA974FA3ED1C420EA186B13F6D12EA66206",
@@ -3371,8 +3745,9 @@
     "Company": "Eaton Corporation",
     "DatePosted": "2023-2-21 5:06 AM",
     "Url": "https://de.jobsyn.org/CA974FA3ED1C420EA186B13F6D12EA66206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2071.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2071.00",
+    "cityID": 22
   },
   {
     "JvID": "97930105014745E7AC769FC9AFD8F6DD206",
@@ -3380,8 +3755,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-11 12:28 AM",
     "Url": "https://de.jobsyn.org/97930105014745E7AC769FC9AFD8F6DD206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2071.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2071.00",
+    "cityID": 22
   },
   {
     "JvID": "AA562B6C3E884B7592D2810A2E7ECC13206",
@@ -3389,8 +3765,9 @@
     "Company": "HNTB",
     "DatePosted": "2023-3-10 3:53 PM",
     "Url": "https://de.jobsyn.org/AA562B6C3E884B7592D2810A2E7ECC13206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2071.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2071.00",
+    "cityID": 22
   },
   {
     "JvID": "E90323CBC62C46ABAA9DF00FA90539C7206",
@@ -3398,8 +3775,9 @@
     "Company": "TJX",
     "DatePosted": "2023-2-17 11:04 PM",
     "Url": "https://de.jobsyn.org/E90323CBC62C46ABAA9DF00FA90539C7206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2071.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2071.00",
+    "cityID": 22
   },
   {
     "JvID": "EA5A343B13944636AEC8045454576771206",
@@ -3407,7 +3785,8 @@
     "Company": "MasTec Industrial",
     "DatePosted": "2023-2-15 11:20 PM",
     "Url": "https://de.jobsyn.org/EA5A343B13944636AEC8045454576771206",
-    "Location": "El Paso, TX",
-    "OnetCode": "17-2071.00"
+    "Location": "el-paso",
+    "OnetCode": "17-2071.00",
+    "cityID": 22
   }
 ]
