@@ -1,7 +1,7 @@
 from flask import Flask, request, send_file
 from flask_sqlalchemy import SQLAlchemy
 import os
-from .create_db import db, Location, create_locations
+from .create_db import db, Location, Job, create_locations, create_jobs
 
 # Application factory, use run.py to create an instance of the app
 
@@ -19,7 +19,9 @@ def create_app():
     with app.app_context():
         db.drop_all()
         db.create_all()
+    with app.app_context():
         create_locations()
+        create_jobs()
 
     from . import data_dict
     from . import gitlab

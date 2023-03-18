@@ -1,6 +1,39 @@
 import json
-from .models import Location, db
+from .models import Location, Job, db
 import os
+
+cities = [
+    "new york, ny",
+    "los-angeles",
+    "chicago",
+    "houston",
+    "phoenix",
+    "philadelphia",
+    "san-antonio",
+    "san-diego",
+    "dallas",
+    "san-jose",
+    "austin",
+    "jacksonville",
+    "fort-worth",
+    "columbus",
+    "indianapolis",
+    "charlotte",
+    "san-francisco",
+    "seattle",
+    "denver",
+    "oklahoma-city",
+    "nashville",
+    "el-paso",
+    "washington-dc",
+    "boston",
+    "las-vegas",
+    "portland",
+    "detroit",
+    "louisville",
+    "memphis",
+    "baltimore",
+]
 
 def load_json(filename):
     script_dir = os.path.dirname(__file__)
@@ -28,3 +61,30 @@ def create_locations():
         # commit the session to my DB.
         db.session.commit()
 
+def create_jobs():
+    uniqueNames = []
+    
+    for city in cities:
+        new_city = load_json("/data/jobsByCity/" + city + "Jobs.json")
+        
+        curr_city = []
+        for i in new_city:
+            if(i["JvID"] not in uniqueNames):
+                uniqueNames.append(i["JvID"])
+                curr_city.append(i)
+
+        for job in curr_city:
+            Id = job["JvID"]
+            JobTitle = job["JobTitle"]
+            Company = job["Company"]
+            DatePosted = job["DatePosted"]
+            Url = job["Url"]
+            JobLocation = job["Location"]
+            OnetCode = job["OnetCode"]
+
+            newJob = Job(
+                Id=Id, JobTitle=JobTitle, Company=Company, DatePosted=DatePosted, Url=Url, JobLocation=JobLocation, OnetCode=OnetCode)
+            # After I create the book, I can then add it to my session.
+            db.session.add(newJob)
+            # commit the session to my DB.
+            db.session.commit()

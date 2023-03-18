@@ -1,10 +1,46 @@
 [
   {
+    "JvID": "6730096ABEB6480F9F7CECC5A9251C73206",
+    "JobTitle": "Fulfillment Center General Manager",
+    "Company": "Odeko",
+    "DatePosted": "2023-3-17 12:35 PM",
+    "Url": "https://de.jobsyn.org/6730096ABEB6480F9F7CECC5A9251C73206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "1F9714E247CA451BAE248676CBD840CD206",
+    "JobTitle": "Manager 3, Regional Operations Support",
+    "Company": "Sodexo",
+    "DatePosted": "2023-3-17 3:50 AM",
+    "Url": "https://de.jobsyn.org/1F9714E247CA451BAE248676CBD840CD206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "E37C233D7A804C869A71205C5DF12ABD206",
+    "JobTitle": "Manager 2, Regional Operations Support",
+    "Company": "Sodexo",
+    "DatePosted": "2023-3-17 3:50 AM",
+    "Url": "https://de.jobsyn.org/E37C233D7A804C869A71205C5DF12ABD206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "4E7684C6345A423AB8F64784FEFC6880206",
     "JobTitle": "Customer Experience and Operations Executive",
     "Company": "Cambia Health Solutions",
     "DatePosted": "2023-3-14 10:30 PM",
     "Url": "https://de.jobsyn.org/4E7684C6345A423AB8F64784FEFC6880206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "8D1B5AF62A174C2FBB87C63DE1516BD3206",
+    "JobTitle": "DIRECTOR OF FINANCE AND OPERATIONS",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-17 3:42 AM",
+    "Url": "https://de.jobsyn.org/8D1B5AF62A174C2FBB87C63DE1516BD3206",
     "Location": "Seattle, WA",
     "OnetCode": "11-1021.00"
   },
@@ -18,20 +54,20 @@
     "OnetCode": "11-1021.00"
   },
   {
+    "JvID": "B96B49F8B5F2403B97133FF7109884E4206",
+    "JobTitle": "Superintendent - Seattle, WA",
+    "Company": "Bilfinger Industrial Services Inc.",
+    "DatePosted": "2023-3-18 2:00 AM",
+    "Url": "https://de.jobsyn.org/B96B49F8B5F2403B97133FF7109884E4206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "4769A6AF4FDC44D285864E88B9660D63206",
     "JobTitle": "District Manager - IFM - Aerospace & Defense",
     "Company": "ARAMARK",
     "DatePosted": "2023-3-15 3:27 AM",
     "Url": "https://de.jobsyn.org/4769A6AF4FDC44D285864E88B9660D63206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "21F2B08BCFF64B5C808354ABDBCBE01E206",
-    "JobTitle": "Senior Officer, Strategy, Planning, & Management, Nutrition",
-    "Company": "Bill and Melinda Gates Foundation",
-    "DatePosted": "2023-3-16 5:49 AM",
-    "Url": "https://de.jobsyn.org/21F2B08BCFF64B5C808354ABDBCBE01E206",
     "Location": "Seattle, WA",
     "OnetCode": "11-1021.00"
   },
@@ -45,15 +81,6 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "E822C926EA8C4BBB975AD4599A132BC7206",
-    "JobTitle": "Senior Commercial Product Manager",
-    "Company": "Alaska Airlines",
-    "DatePosted": "2023-3-15 8:06 PM",
-    "Url": "https://de.jobsyn.org/E822C926EA8C4BBB975AD4599A132BC7206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
     "JvID": "0D8441820D6143E594C2D691FA3929C9206",
     "JobTitle": "Food & Beverage Manager (at Sky View Observatory)",
     "Company": "Legends Hospitality",
@@ -63,65 +90,29 @@
     "OnetCode": "11-1021.00"
   },
   {
+    "JvID": "21F2B08BCFF64B5C808354ABDBCBE01E206",
+    "JobTitle": "Senior Officer, Strategy, Planning, & Management, Nutrition",
+    "Company": "Bill and Melinda Gates Foundation",
+    "DatePosted": "2023-3-16 5:49 AM",
+    "Url": "https://de.jobsyn.org/21F2B08BCFF64B5C808354ABDBCBE01E206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "E822C926EA8C4BBB975AD4599A132BC7206",
+    "JobTitle": "Senior Commercial Product Manager",
+    "Company": "Alaska Airlines",
+    "DatePosted": "2023-3-15 8:06 PM",
+    "Url": "https://de.jobsyn.org/E822C926EA8C4BBB975AD4599A132BC7206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
     "JvID": "CFFA03706B1340DBB3A49895F5C70516206",
     "JobTitle": "Regional Business Manager - Core Lab - Pacific Northwest",
     "Company": "Roche Diagnostics Seattle, Inc.",
     "DatePosted": "2023-3-13 10:22 PM",
     "Url": "https://de.jobsyn.org/CFFA03706B1340DBB3A49895F5C70516206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "43E637DFDB2E4D7AB7B9E9B2F91211BB206",
-    "JobTitle": "Workplace Experience Manager - Downtown Seattle",
-    "Company": "CBRE",
-    "DatePosted": "2023-3-15 4:55 AM",
-    "Url": "https://de.jobsyn.org/43E637DFDB2E4D7AB7B9E9B2F91211BB206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "D86E14EBAA114AC0B23E63A34D964987206",
-    "JobTitle": "Principal Commercial Product Manager",
-    "Company": "Alaska Airlines",
-    "DatePosted": "2023-3-13 8:06 PM",
-    "Url": "https://de.jobsyn.org/D86E14EBAA114AC0B23E63A34D964987206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "78A4C44CCB15412B9A16F1918C90B0FC206",
-    "JobTitle": "Director of Strategic Initiatives",
-    "Company": "McKinstry",
-    "DatePosted": "2023-3-10 10:25 PM",
-    "Url": "https://de.jobsyn.org/78A4C44CCB15412B9A16F1918C90B0FC206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "A468FB27F16447AC8C7D30D93528C9A3206",
-    "JobTitle": "Retail Store Manager I",
-    "Company": "FedEx Office",
-    "DatePosted": "2023-3-14 2:55 AM",
-    "Url": "https://de.jobsyn.org/A468FB27F16447AC8C7D30D93528C9A3206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "2405619AC0B04AEEACBB6D26CA4CA92A206",
-    "JobTitle": "OPERATION MANAGER",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-10 3:01 AM",
-    "Url": "https://de.jobsyn.org/2405619AC0B04AEEACBB6D26CA4CA92A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "EF0A2D46BB18420998F529ADD6D475CD206",
-    "JobTitle": "Resource Manager, National Tax Operations",
-    "Company": "BDO USA, LLP",
-    "DatePosted": "2023-3-8 10:36 PM",
-    "Url": "https://de.jobsyn.org/EF0A2D46BB18420998F529ADD6D475CD206",
     "Location": "Seattle, WA",
     "OnetCode": "11-1021.00"
   },
@@ -171,11 +162,56 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "EFE205EF6311461E8D182A3376FE657E206",
-    "JobTitle": "Oracle Americas Alliance Leader (DC Senior Manager) - National_Office",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-15 2:50 AM",
-    "Url": "https://de.jobsyn.org/EFE205EF6311461E8D182A3376FE657E206",
+    "JvID": "43E637DFDB2E4D7AB7B9E9B2F91211BB206",
+    "JobTitle": "Workplace Experience Manager - Downtown Seattle",
+    "Company": "CBRE",
+    "DatePosted": "2023-3-15 4:55 AM",
+    "Url": "https://de.jobsyn.org/43E637DFDB2E4D7AB7B9E9B2F91211BB206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "EF0A2D46BB18420998F529ADD6D475CD206",
+    "JobTitle": "Resource Manager, National Tax Operations",
+    "Company": "BDO USA, LLP",
+    "DatePosted": "2023-3-8 10:36 PM",
+    "Url": "https://de.jobsyn.org/EF0A2D46BB18420998F529ADD6D475CD206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "2405619AC0B04AEEACBB6D26CA4CA92A206",
+    "JobTitle": "OPERATION MANAGER",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-10 3:01 AM",
+    "Url": "https://de.jobsyn.org/2405619AC0B04AEEACBB6D26CA4CA92A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "78A4C44CCB15412B9A16F1918C90B0FC206",
+    "JobTitle": "Director of Strategic Initiatives",
+    "Company": "McKinstry",
+    "DatePosted": "2023-3-10 10:25 PM",
+    "Url": "https://de.jobsyn.org/78A4C44CCB15412B9A16F1918C90B0FC206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "D86E14EBAA114AC0B23E63A34D964987206",
+    "JobTitle": "Principal Commercial Product Manager",
+    "Company": "Alaska Airlines",
+    "DatePosted": "2023-3-13 8:06 PM",
+    "Url": "https://de.jobsyn.org/D86E14EBAA114AC0B23E63A34D964987206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "A468FB27F16447AC8C7D30D93528C9A3206",
+    "JobTitle": "Retail Store Manager I",
+    "Company": "FedEx Office",
+    "DatePosted": "2023-3-14 2:55 AM",
+    "Url": "https://de.jobsyn.org/A468FB27F16447AC8C7D30D93528C9A3206",
     "Location": "Seattle, WA",
     "OnetCode": "11-1021.00"
   },
@@ -185,42 +221,6 @@
     "Company": "C&W of Washington, Inc",
     "DatePosted": "2023-2-22 11:13 PM",
     "Url": "https://de.jobsyn.org/262217B5E333485A9828E7FC990C1328206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "CDF1C3D8677841F984C91AEF711BD5F7206",
-    "JobTitle": "Senior Operations Manager",
-    "Company": "C&W of Washington, Inc",
-    "DatePosted": "2023-2-10 11:25 PM",
-    "Url": "https://de.jobsyn.org/CDF1C3D8677841F984C91AEF711BD5F7206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "8D1E244B20F349C49B991B4B5FBDD15E206",
-    "JobTitle": "Operations Manager - Eurofins Environment Testing - Seattle, WA",
-    "Company": "EUROFINS FRONTIER GLOBAL SCIENCES",
-    "DatePosted": "2023-2-18 11:48 PM",
-    "Url": "https://de.jobsyn.org/8D1E244B20F349C49B991B4B5FBDD15E206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "F4DC5E7E9FF54C6BB884C3DCC1643832206",
-    "JobTitle": "Retail Lead - University of Washington",
-    "Company": "Fanatics Retail group Fulfillment LLC",
-    "DatePosted": "2023-3-12 10:18 PM",
-    "Url": "https://de.jobsyn.org/F4DC5E7E9FF54C6BB884C3DCC1643832206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "9C60D3DC4BAB4E30B65FA73AEDAC9CF4206",
-    "JobTitle": "Divisional Vice President, Marketing Operations",
-    "Company": "REI",
-    "DatePosted": "2023-3-11 3:27 AM",
-    "Url": "https://de.jobsyn.org/9C60D3DC4BAB4E30B65FA73AEDAC9CF4206",
     "Location": "Seattle, WA",
     "OnetCode": "11-1021.00"
   },
@@ -252,24 +252,6 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "552011E76ECB40228EC2D8368287DE6D206",
-    "JobTitle": "Customer Service Representative (Float)",
-    "Company": "Washington Federal",
-    "DatePosted": "2023-3-8 10:27 PM",
-    "Url": "https://de.jobsyn.org/552011E76ECB40228EC2D8368287DE6D206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-4051.00"
-  },
-  {
-    "JvID": "74C3822E7CF34721AB67744DA0AD48B3206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "Washington Federal",
-    "DatePosted": "2023-3-8 10:32 PM",
-    "Url": "https://de.jobsyn.org/74C3822E7CF34721AB67744DA0AD48B3206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "C9C61BBAAC144E87A420910A7CD2FFA5206",
     "JobTitle": "Customer Service Representative",
     "Company": "Mohawk ESV, Inc.",
@@ -288,6 +270,24 @@
     "OnetCode": "43-4051.00"
   },
   {
+    "JvID": "552011E76ECB40228EC2D8368287DE6D206",
+    "JobTitle": "Customer Service Representative (Float)",
+    "Company": "Washington Federal",
+    "DatePosted": "2023-3-8 10:27 PM",
+    "Url": "https://de.jobsyn.org/552011E76ECB40228EC2D8368287DE6D206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "74C3822E7CF34721AB67744DA0AD48B3206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "Washington Federal",
+    "DatePosted": "2023-3-8 10:32 PM",
+    "Url": "https://de.jobsyn.org/74C3822E7CF34721AB67744DA0AD48B3206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-4051.00"
+  },
+  {
     "JvID": "5165328FEEEE48858BB51BEDFDD9CF71206",
     "JobTitle": "Rogge Customer Service Representative",
     "Company": "Charlie's Produce",
@@ -302,15 +302,6 @@
     "Company": "Washington Federal",
     "DatePosted": "2023-3-3 11:24 PM",
     "Url": "https://de.jobsyn.org/C585D08FD0AB412E97EDB3C1F75D3D5E206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-4051.00"
-  },
-  {
-    "JvID": "58EEE873C15645F1901E5FB82E7BC998206",
-    "JobTitle": "Customer Services Representative",
-    "Company": "CBRE",
-    "DatePosted": "2023-2-18 5:22 AM",
-    "Url": "https://de.jobsyn.org/58EEE873C15645F1901E5FB82E7BC998206",
     "Location": "Seattle, WA",
     "OnetCode": "43-4051.00"
   },
@@ -396,6 +387,24 @@
     "OnetCode": "43-4051.00"
   },
   {
+    "JvID": "9C5F4F94EDA847838F0DEE1F870985A7206",
+    "JobTitle": "Customer Service Representative - Russian",
+    "Company": "PACE Staffing Network",
+    "DatePosted": "2023-3-17 10:29 PM",
+    "Url": "https://de.jobsyn.org/9C5F4F94EDA847838F0DEE1F870985A7206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "F73B389D012E4D59A150DC9E2212A9FB206",
+    "JobTitle": "Entry Level Customer Service Representative",
+    "Company": "Aston Carter",
+    "DatePosted": "2023-3-17 4:44 AM",
+    "Url": "https://de.jobsyn.org/F73B389D012E4D59A150DC9E2212A9FB206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-4051.00"
+  },
+  {
     "JvID": "800C12E27FC3463881C008BBA80C915E206",
     "JobTitle": "Customer Service Representative - 1314721",
     "Company": "Apex Systems, Inc.",
@@ -441,15 +450,6 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "334CF9285DAF474CAE04698D58B4DDA2206",
-    "JobTitle": "Customer Service Representative (Crown Hill)",
-    "Company": "Washington Federal",
-    "DatePosted": "2023-3-2 10:54 PM",
-    "Url": "https://de.jobsyn.org/334CF9285DAF474CAE04698D58B4DDA2206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "80CE341A7B9E40CDACFE77A491EC16DD206",
     "JobTitle": "Corporate Admin Assistant with a Future to $60,000 -",
     "Company": "AppleOne",
@@ -477,11 +477,56 @@
     "OnetCode": "43-6014.00"
   },
   {
+    "JvID": "5DAFCC82AA864C9F9430E26FC43FFA74206",
+    "JobTitle": "Assistant Front Desk Manager",
+    "Company": "Marriott",
+    "DatePosted": "2023-3-18 2:52 AM",
+    "Url": "https://de.jobsyn.org/5DAFCC82AA864C9F9430E26FC43FFA74206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "656BB559A72C448CAF32D06338705EB7206",
+    "JobTitle": "Mail Room Assistant II, Retail Banking (Federal Way, WA)",
+    "Company": "HomeStreet Bank",
+    "DatePosted": "2023-3-17 10:25 PM",
+    "Url": "https://de.jobsyn.org/656BB559A72C448CAF32D06338705EB7206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "79CCC7335A8949C99EFEB4F6697B37BD206",
+    "JobTitle": "Office Manager - MEC Transportation",
+    "Company": "Kiewit",
+    "DatePosted": "2023-3-18 3:27 AM",
+    "Url": "https://de.jobsyn.org/79CCC7335A8949C99EFEB4F6697B37BD206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "AC17112ACD1C42C4949A2D99DDB9E657206",
+    "JobTitle": "SAP/asset Management Coordinator",
+    "Company": "Aston Carter",
+    "DatePosted": "2023-3-17 4:44 AM",
+    "Url": "https://de.jobsyn.org/AC17112ACD1C42C4949A2D99DDB9E657206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-6014.00"
+  },
+  {
     "JvID": "BD09AE5552204DAE94C9BB969D55256E206",
     "JobTitle": "Administrative Specialist",
     "Company": "Ardent Eagle Solutions",
     "DatePosted": "2023-3-17 1:37 AM",
     "Url": "https://de.jobsyn.org/BD09AE5552204DAE94C9BB969D55256E206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "370BEDAAD6494428864FD877F396105F206",
+    "JobTitle": "FACILITIES COORDINATOR",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-17 3:42 AM",
+    "Url": "https://de.jobsyn.org/370BEDAAD6494428864FD877F396105F206",
     "Location": "Seattle, WA",
     "OnetCode": "43-6014.00"
   },
@@ -531,15 +576,6 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "53A55976BD2C48ED8F3F4B6521BC9F29206",
-    "JobTitle": "Senior Administrative Assistant",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-14 2:47 AM",
-    "Url": "https://de.jobsyn.org/53A55976BD2C48ED8F3F4B6521BC9F29206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-6014.00"
-  },
-  {
     "JvID": "3B7CC112D1C1459ABF36C25919A5214B206",
     "JobTitle": "ASSISTANT TO THE ASSOCIATE AND ASSISTANT DEANS",
     "Company": "University of Washington",
@@ -549,11 +585,11 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "C8971C11102C45EF997223232FA96C80206",
-    "JobTitle": "Secretary",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-12 1:04 AM",
-    "Url": "https://de.jobsyn.org/C8971C11102C45EF997223232FA96C80206",
+    "JvID": "3107A85D9908474DB4BA9EB512B2B2F5206",
+    "JobTitle": "Customer Service Administrative Assistant",
+    "Company": "Northwest Center",
+    "DatePosted": "2023-3-11 10:26 PM",
+    "Url": "https://de.jobsyn.org/3107A85D9908474DB4BA9EB512B2B2F5206",
     "Location": "Seattle, WA",
     "OnetCode": "43-6014.00"
   },
@@ -563,15 +599,6 @@
     "Company": "AssuredPartners",
     "DatePosted": "2023-3-12 1:11 AM",
     "Url": "https://de.jobsyn.org/327F4DA11540420E99F1D3A612CEA5AB206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "3107A85D9908474DB4BA9EB512B2B2F5206",
-    "JobTitle": "Customer Service Administrative Assistant",
-    "Company": "Northwest Center",
-    "DatePosted": "2023-3-11 10:26 PM",
-    "Url": "https://de.jobsyn.org/3107A85D9908474DB4BA9EB512B2B2F5206",
     "Location": "Seattle, WA",
     "OnetCode": "43-6014.00"
   },
@@ -612,11 +639,11 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "A3AC41B185E84CA8A968B707A6A7D1ED206",
-    "JobTitle": "ADVANCEMENT ASSISTANT (ADMINISTRATIVE ASSISTANT 3)",
+    "JvID": "C656A070258A4D8A8BFBCDD52F41BFB2206",
+    "JobTitle": "CONFERENCE COORDINATOR ASSISTANT(HOURLY/TEMPORARY)",
     "Company": "University of Washington",
-    "DatePosted": "2023-3-11 3:16 AM",
-    "Url": "https://de.jobsyn.org/A3AC41B185E84CA8A968B707A6A7D1ED206",
+    "DatePosted": "2023-3-11 3:26 AM",
+    "Url": "https://de.jobsyn.org/C656A070258A4D8A8BFBCDD52F41BFB2206",
     "Location": "Seattle, WA",
     "OnetCode": "43-6014.00"
   },
@@ -626,15 +653,6 @@
     "Company": "Port of Seattle",
     "DatePosted": "2023-3-11 4:40 AM",
     "Url": "https://de.jobsyn.org/4196CFF46CD54BB6AA0EA6EA2157C441206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "58A689F762084F2BAAFD85EAEDB7E6FB206",
-    "JobTitle": "Associate Administrative Coordinator",
-    "Company": "Pacific Northwest National Laboratory",
-    "DatePosted": "2023-3-11 3:33 AM",
-    "Url": "https://de.jobsyn.org/58A689F762084F2BAAFD85EAEDB7E6FB206",
     "Location": "Seattle, WA",
     "OnetCode": "43-6014.00"
   },
@@ -657,24 +675,6 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "661286FED9FC4EE597FD2BAF881AEDE8206",
-    "JobTitle": "Administrative Assistant",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-11 12:06 AM",
-    "Url": "https://de.jobsyn.org/661286FED9FC4EE597FD2BAF881AEDE8206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "C656A070258A4D8A8BFBCDD52F41BFB2206",
-    "JobTitle": "CONFERENCE COORDINATOR ASSISTANT(HOURLY/TEMPORARY)",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-11 3:16 AM",
-    "Url": "https://de.jobsyn.org/C656A070258A4D8A8BFBCDD52F41BFB2206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-6014.00"
-  },
-  {
     "JvID": "AD862735DBD147AB912E1832924DA94B206",
     "JobTitle": "Accounting Assistant",
     "Company": "PCC Natural Markets",
@@ -684,11 +684,47 @@
     "OnetCode": "43-3031.00"
   },
   {
+    "JvID": "059EE2D7697B41CE9597133CF3BED12B206",
+    "JobTitle": "Accountant",
+    "Company": "PCL Construction Services, Inc.",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/059EE2D7697B41CE9597133CF3BED12B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "9F38F5A8996845CA90F4FCADE1FFEDE3206",
+    "JobTitle": "Bookkeeper/Accountant",
+    "Company": "501 Commons",
+    "DatePosted": "2023-3-17 10:29 PM",
+    "Url": "https://de.jobsyn.org/9F38F5A8996845CA90F4FCADE1FFEDE3206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "FDFFD9EF655F410DB7E01D63245E7CD2206",
+    "JobTitle": "Treasury Accountant",
+    "Company": "Cambia Health Solutions",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/FDFFD9EF655F410DB7E01D63245E7CD2206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-3031.00"
+  },
+  {
     "JvID": "472433F7A17D4461BFA8A5A808B902BA206",
     "JobTitle": "Payroll Coordinator - Lumen Field",
     "Company": "Compass Group, North America",
     "DatePosted": "2023-3-16 5:15 AM",
     "Url": "https://de.jobsyn.org/472433F7A17D4461BFA8A5A808B902BA206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "FBC24F942ABB488187EF8494E71DE343206",
+    "JobTitle": "FISCAL TECHNICIAN 2 (PART TIME, DAY SHIFT)",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-17 3:42 AM",
+    "Url": "https://de.jobsyn.org/FBC24F942ABB488187EF8494E71DE343206",
     "Location": "Seattle, WA",
     "OnetCode": "43-3031.00"
   },
@@ -774,15 +810,6 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "85B972474A2B42548443AA4A2B2AD8D3206",
-    "JobTitle": "Lockbox Payment Processor - Seattle WA (Capitol Hi",
-    "Company": "Kelly Services",
-    "DatePosted": "2023-3-15 3:41 AM",
-    "Url": "https://de.jobsyn.org/85B972474A2B42548443AA4A2B2AD8D3206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-3031.00"
-  },
-  {
     "JvID": "C47512B6C9DB42A8BCB199BF1A4B2635206",
     "JobTitle": "Payroll Tax Accountant",
     "Company": "Accenture",
@@ -806,6 +833,15 @@
     "Company": "Cambia Health Solutions",
     "DatePosted": "2023-3-14 10:30 PM",
     "Url": "https://de.jobsyn.org/58FF732C9CF345629A0D76E9485DC59B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "85B972474A2B42548443AA4A2B2AD8D3206",
+    "JobTitle": "Lockbox Payment Processor - Seattle WA (Capitol Hi",
+    "Company": "Kelly Services",
+    "DatePosted": "2023-3-15 3:41 AM",
+    "Url": "https://de.jobsyn.org/85B972474A2B42548443AA4A2B2AD8D3206",
     "Location": "Seattle, WA",
     "OnetCode": "43-3031.00"
   },
@@ -837,15 +873,6 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "F04FE37B1C714C36AF9AE4E1B62D964A206",
-    "JobTitle": "Billing Clerk",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-12 12:19 AM",
-    "Url": "https://de.jobsyn.org/F04FE37B1C714C36AF9AE4E1B62D964A206",
-    "Location": "SEATTLE, WA",
-    "OnetCode": "43-3031.00"
-  },
-  {
     "JvID": "12414EFD0BAB460A9D317733885BD881206",
     "JobTitle": "Credit Balance Analyst - Remote (Seattle, WA)",
     "Company": "Swedish Health Services",
@@ -864,24 +891,6 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "4F349DD96F54485C99589BB130044193206",
-    "JobTitle": "Accountant II",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-11 3:40 AM",
-    "Url": "https://de.jobsyn.org/4F349DD96F54485C99589BB130044193206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "EA9252B2142641269736BA4A6B580F39206",
-    "JobTitle": "Junior Staff Accountant",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-11 12:34 AM",
-    "Url": "https://de.jobsyn.org/EA9252B2142641269736BA4A6B580F39206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-3031.00"
-  },
-  {
     "JvID": "2163FD8E46064DC690855C20EA499288206",
     "JobTitle": "Underwriting Team Assistant II",
     "Company": "CRC Insurance Services, Inc.",
@@ -891,29 +900,20 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "D9301E8E4E884FCDB322155628FACC61206",
-    "JobTitle": "Staff Accountant",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-11 12:33 AM",
-    "Url": "https://de.jobsyn.org/D9301E8E4E884FCDB322155628FACC61206",
-    "Location": "Seattle, WA",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "3E738CB2CF774D82A9F12B368CDFDFEA206",
-    "JobTitle": "Business Analyst Manager",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-5 10:56 PM",
-    "Url": "https://de.jobsyn.org/3E738CB2CF774D82A9F12B368CDFDFEA206",
+    "JvID": "444E152F826B467985AB16196C6B9BE2206",
+    "JobTitle": "Workforce Management Scheduling Analyst",
+    "Company": "Crisis Connections",
+    "DatePosted": "2023-3-17 10:29 PM",
+    "Url": "https://de.jobsyn.org/444E152F826B467985AB16196C6B9BE2206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "1F321430A29648679ABD654BD91021D8206",
-    "JobTitle": "Revenue Management Analyst",
-    "Company": "Fairmont",
-    "DatePosted": "2023-2-15 2:02 AM",
-    "Url": "https://de.jobsyn.org/1F321430A29648679ABD654BD91021D8206",
+    "JvID": "DC8242E7CEBF4EE2BAC2DC9C34CF93D0206",
+    "JobTitle": "Data Management Analyst",
+    "Company": "BlackRock",
+    "DatePosted": "2023-3-17 4:28 AM",
+    "Url": "https://de.jobsyn.org/DC8242E7CEBF4EE2BAC2DC9C34CF93D0206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
@@ -957,7 +957,7 @@
     "JvID": "01D7DD1D6A2C4383AB24EF97605174B4206",
     "JobTitle": "Service Management Business Analyst-Multiple positions",
     "Company": "University of Washington",
-    "DatePosted": "2023-3-2 4:32 AM",
+    "DatePosted": "2023-3-2 6:28 AM",
     "Url": "https://de.jobsyn.org/01D7DD1D6A2C4383AB24EF97605174B4206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
@@ -972,20 +972,20 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "8F1744C1C3154368BFCDE5E883B6A196206",
-    "JobTitle": "Public Markets Analyst",
-    "Company": "Verus",
-    "DatePosted": "2023-3-16 10:29 PM",
-    "Url": "https://de.jobsyn.org/8F1744C1C3154368BFCDE5E883B6A196206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1111.00"
-  },
-  {
     "JvID": "DCC634BA39D1433DA68CDBB71443C48A206",
     "JobTitle": "Senior Data Analyst (Risk Adjustment Consulting Research Analyst Sr)",
     "Company": "Cambia Health Solutions",
     "DatePosted": "2023-3-14 10:30 PM",
     "Url": "https://de.jobsyn.org/DCC634BA39D1433DA68CDBB71443C48A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1111.00"
+  },
+  {
+    "JvID": "8F1744C1C3154368BFCDE5E883B6A196206",
+    "JobTitle": "Public Markets Analyst",
+    "Company": "Verus",
+    "DatePosted": "2023-3-16 10:29 PM",
+    "Url": "https://de.jobsyn.org/8F1744C1C3154368BFCDE5E883B6A196206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
@@ -999,11 +999,11 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "EE77F233753742A8B7F4F0908B29BF54206",
-    "JobTitle": "Business Analyst",
-    "Company": "CTG",
-    "DatePosted": "2023-3-15 5:02 AM",
-    "Url": "https://de.jobsyn.org/EE77F233753742A8B7F4F0908B29BF54206",
+    "JvID": "7D1C03952C9D4492872112B66760561B206",
+    "JobTitle": "Conflicts Analyst",
+    "Company": "DLA Piper",
+    "DatePosted": "2023-3-18 4:53 AM",
+    "Url": "https://de.jobsyn.org/7D1C03952C9D4492872112B66760561B206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
@@ -1017,11 +1017,11 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "687DCDFA955E45A98194B92FCE41594D206",
-    "JobTitle": "Data Reporting Analyst Senior",
-    "Company": "Cambia Health Solutions",
-    "DatePosted": "2023-3-14 10:30 PM",
-    "Url": "https://de.jobsyn.org/687DCDFA955E45A98194B92FCE41594D206",
+    "JvID": "EE77F233753742A8B7F4F0908B29BF54206",
+    "JobTitle": "Business Analyst",
+    "Company": "CTG",
+    "DatePosted": "2023-3-15 5:02 AM",
+    "Url": "https://de.jobsyn.org/EE77F233753742A8B7F4F0908B29BF54206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
@@ -1035,20 +1035,20 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "687DCDFA955E45A98194B92FCE41594D206",
+    "JobTitle": "Data Reporting Analyst Senior",
+    "Company": "Cambia Health Solutions",
+    "DatePosted": "2023-3-14 10:30 PM",
+    "Url": "https://de.jobsyn.org/687DCDFA955E45A98194B92FCE41594D206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "F3620EC0D7DF42DE97122A1282ED920F206",
     "JobTitle": "Sr Analyst",
     "Company": "Forrester Research, Inc.",
     "DatePosted": "2023-3-4 11:31 PM",
     "Url": "https://de.jobsyn.org/F3620EC0D7DF42DE97122A1282ED920F206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1111.00"
-  },
-  {
-    "JvID": "88091E9A6BB44A99B7A865578920441A206",
-    "JobTitle": "Business Systems Analyst or SR - Support Services",
-    "Company": "Cambia Health Solutions",
-    "DatePosted": "2023-3-14 10:30 PM",
-    "Url": "https://de.jobsyn.org/88091E9A6BB44A99B7A865578920441A206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
@@ -1062,6 +1062,15 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "AF662D682A774B6A9EC67B074F9C56DD206",
+    "JobTitle": "Human Services Research Analyst (Remote Eligible)",
+    "Company": "Mathematica",
+    "DatePosted": "2023-3-18 4:16 AM",
+    "Url": "https://de.jobsyn.org/AF662D682A774B6A9EC67B074F9C56DD206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "3B35FB105F8D4FE585EBF3A47A3C0CF3206",
     "JobTitle": "Technical Business Operations Manager (Salesforce)",
     "Company": "Jack Henry & Associates, Inc.",
@@ -1071,11 +1080,11 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "CDE60014EE80404987CEFDF1C8A94B35206",
-    "JobTitle": "Data Reporting Analyst Senior",
+    "JvID": "88091E9A6BB44A99B7A865578920441A206",
+    "JobTitle": "Business Systems Analyst or SR - Support Services",
     "Company": "Cambia Health Solutions",
-    "DatePosted": "2023-3-11 10:19 PM",
-    "Url": "https://de.jobsyn.org/CDE60014EE80404987CEFDF1C8A94B35206",
+    "DatePosted": "2023-3-14 10:30 PM",
+    "Url": "https://de.jobsyn.org/88091E9A6BB44A99B7A865578920441A206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
@@ -1089,29 +1098,20 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "4024189F02E64B5CA666EB823503F56A206",
-    "JobTitle": "Risk Analyst (Junior Broker) - Seattle - Guy Carpenter - College Program 2023",
-    "Company": "Marsh & McLennan",
-    "DatePosted": "2023-2-5 10:56 PM",
-    "Url": "https://de.jobsyn.org/4024189F02E64B5CA666EB823503F56A206",
+    "JvID": "CDE60014EE80404987CEFDF1C8A94B35206",
+    "JobTitle": "Data Reporting Analyst Senior",
+    "Company": "Cambia Health Solutions",
+    "DatePosted": "2023-3-11 10:19 PM",
+    "Url": "https://de.jobsyn.org/CDE60014EE80404987CEFDF1C8A94B35206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "E8E32E8229794D7FAE351B14E3E1794A206",
-    "JobTitle": "BUSINESS ANALYST",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-16 2:34 AM",
-    "Url": "https://de.jobsyn.org/E8E32E8229794D7FAE351B14E3E1794A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1111.00"
-  },
-  {
-    "JvID": "E2D0C0C6445C418997B0A05BE3083B25206",
-    "JobTitle": "Lead, Government and Public Sector, Resource Management Specialist, Deployment",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-16 4:39 AM",
-    "Url": "https://de.jobsyn.org/E2D0C0C6445C418997B0A05BE3083B25206",
+    "JvID": "B7B03861DEBB405FA531AD899AC4200C206",
+    "JobTitle": "Senior Financial Analyst, Legal",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-2-6 10:51 PM",
+    "Url": "https://de.jobsyn.org/B7B03861DEBB405FA531AD899AC4200C206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1111.00"
   },
@@ -1287,65 +1287,65 @@
     "OnetCode": "13-1082.00"
   },
   {
+    "JvID": "1BAD085BC0084AC5857EE869BCA4F2F5206",
+    "JobTitle": "Associate Project Manager",
+    "Company": "Heartland LLC",
+    "DatePosted": "2023-3-17 10:26 PM",
+    "Url": "https://de.jobsyn.org/1BAD085BC0084AC5857EE869BCA4F2F5206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "88C992192ED74620BD28D40F85314383206",
+    "JobTitle": "Senior Project Scheduler",
+    "Company": "CDM Smith",
+    "DatePosted": "2023-3-18 3:55 AM",
+    "Url": "https://de.jobsyn.org/88C992192ED74620BD28D40F85314383206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "828BF79FC4154577A1F01A13EE75990B206",
+    "JobTitle": "Associate Project Manager",
+    "Company": "Heartland LLC",
+    "DatePosted": "2023-3-17 10:25 PM",
+    "Url": "https://de.jobsyn.org/828BF79FC4154577A1F01A13EE75990B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "FADDDB8B772F415CA4E2D033038E954B206",
+    "JobTitle": "Creative Project Manager",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-18 12:12 AM",
+    "Url": "https://de.jobsyn.org/FADDDB8B772F415CA4E2D033038E954B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "B57F781CC7CB4550880EE3E43909848D206",
+    "JobTitle": "Associate Project Manager",
+    "Company": "Heartland LLC",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/B57F781CC7CB4550880EE3E43909848D206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "3C0EC3466B3A4CCBA0699792FB7D200F206",
+    "JobTitle": "Grid Modernization Project Management, Senior Associate",
+    "Company": "PwC",
+    "DatePosted": "2023-3-17 3:11 AM",
+    "Url": "https://de.jobsyn.org/3C0EC3466B3A4CCBA0699792FB7D200F206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1082.00"
+  },
+  {
     "JvID": "04E34B7512484C6581C0FE713979F7EA206",
     "JobTitle": "Project Manager",
     "Company": "Allied Universal",
     "DatePosted": "2023-3-16 12:09 AM",
     "Url": "https://de.jobsyn.org/04E34B7512484C6581C0FE713979F7EA206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "5414FC0AE74B44FBBF44096FB1E8864C206",
-    "JobTitle": "Associate Project Intern",
-    "Company": "Holland Residential",
-    "DatePosted": "2023-3-16 1:46 AM",
-    "Url": "https://de.jobsyn.org/5414FC0AE74B44FBBF44096FB1E8864C206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "76C67ED5E6DF4B4D9713916F152409F4206",
-    "JobTitle": "Program Manager III",
-    "Company": "Cambia Health Solutions",
-    "DatePosted": "2023-3-14 10:30 PM",
-    "Url": "https://de.jobsyn.org/76C67ED5E6DF4B4D9713916F152409F4206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "B8C7201E57CC4B93AA906722837489A5206",
-    "JobTitle": "sr. project manager",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-14 5:28 AM",
-    "Url": "https://de.jobsyn.org/B8C7201E57CC4B93AA906722837489A5206",
-    "Location": "seattle, WA",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "AEEABF077C7C4EE2A9E85520852825C3206",
-    "JobTitle": "Senior Project Manager",
-    "Company": "Actalent",
-    "DatePosted": "2023-3-14 3:31 AM",
-    "Url": "https://de.jobsyn.org/AEEABF077C7C4EE2A9E85520852825C3206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "4A6854D7C6FE48EA947D7039A1994AB7206",
-    "JobTitle": "Project Coordinator - R0024603",
-    "Company": "Epiq Class Action & Claims Solutions",
-    "DatePosted": "2023-3-10 10:25 PM",
-    "Url": "https://de.jobsyn.org/4A6854D7C6FE48EA947D7039A1994AB7206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "6A51DD9DE70A4CD9A919F1C026764218206",
-    "JobTitle": "Actuarial Delivery Group Project Manager",
-    "Company": "WTW",
-    "DatePosted": "2023-3-8 5:30 AM",
-    "Url": "https://de.jobsyn.org/6A51DD9DE70A4CD9A919F1C026764218206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1082.00"
   },
@@ -1359,6 +1359,15 @@
     "OnetCode": "13-2011.00"
   },
   {
+    "JvID": "CC7496ADF531429DA764E572A92574F2206",
+    "JobTitle": "Audit & Assurance Staff Intern - Summer 2025",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-18 3:41 AM",
+    "Url": "https://de.jobsyn.org/CC7496ADF531429DA764E572A92574F2206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2011.00"
+  },
+  {
     "JvID": "6096BE6D9EA74B55BE90EEE7A73797B7206",
     "JobTitle": "Financial Internal Auditor",
     "Company": "Jack Henry & Associates, Inc.",
@@ -1368,20 +1377,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "40118D9941E84D20A0EE6D7000610B4F206",
-    "JobTitle": "Senior Accountant",
-    "Company": "Cornerstone onDemand",
-    "DatePosted": "2023-3-15 2:46 AM",
-    "Url": "https://de.jobsyn.org/40118D9941E84D20A0EE6D7000610B4F206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "9D75C56E204646D98EF77FC45B808AE8206",
-    "JobTitle": "Senior IT Auditor",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-5 11:01 PM",
-    "Url": "https://de.jobsyn.org/9D75C56E204646D98EF77FC45B808AE8206",
+    "JvID": "FDFFD9EF655F410DB7E01D63245E7CD2206",
+    "JobTitle": "Treasury Accountant",
+    "Company": "Cambia Health Solutions",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/FDFFD9EF655F410DB7E01D63245E7CD2206",
     "Location": "Seattle, WA",
     "OnetCode": "13-2011.00"
   },
@@ -1413,6 +1413,15 @@
     "OnetCode": "13-2011.00"
   },
   {
+    "JvID": "6BDEF6E5D1294774AEC657DE909C2BE2206",
+    "JobTitle": "IT Internal Auditor",
+    "Company": "Jack Henry & Associates, Inc.",
+    "DatePosted": "2023-3-8 10:34 PM",
+    "Url": "https://de.jobsyn.org/6BDEF6E5D1294774AEC657DE909C2BE2206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2011.00"
+  },
+  {
     "JvID": "9BD0D2E4584A4C5A99F24671C00E3541206",
     "JobTitle": "Tax Manager, Unclaimed Property Tax; State and Local Tax (SALT)",
     "Company": "Deloitte",
@@ -1427,15 +1436,6 @@
     "Company": "Nordstrom",
     "DatePosted": "2023-3-15 7:27 AM",
     "Url": "https://de.jobsyn.org/DDFCA02D582D460294F6549F825FB932206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "6BDEF6E5D1294774AEC657DE909C2BE2206",
-    "JobTitle": "IT Internal Auditor",
-    "Company": "Jack Henry & Associates, Inc.",
-    "DatePosted": "2023-3-8 10:34 PM",
-    "Url": "https://de.jobsyn.org/6BDEF6E5D1294774AEC657DE909C2BE2206",
     "Location": "Seattle, WA",
     "OnetCode": "13-2011.00"
   },
@@ -1503,24 +1503,6 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "73D8677A08984FA299C58918D8F4AFF3206",
-    "JobTitle": "Sr. Manager, Tax Modeling",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-3-13 10:24 PM",
-    "Url": "https://de.jobsyn.org/73D8677A08984FA299C58918D8F4AFF3206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "949047F747984E1EBBCF254CC7C8B847206",
-    "JobTitle": "Mileage Plan Accountant",
-    "Company": "Alaska Airlines",
-    "DatePosted": "2023-3-15 10:05 PM",
-    "Url": "https://de.jobsyn.org/949047F747984E1EBBCF254CC7C8B847206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "403E35719D2F4A83879072A952436649206",
     "JobTitle": "Sr. Compliance Specialist - People + Culture",
     "Company": "Federal Reserve System",
@@ -1530,11 +1512,29 @@
     "OnetCode": "13-2011.00"
   },
   {
+    "JvID": "73D8677A08984FA299C58918D8F4AFF3206",
+    "JobTitle": "Sr. Manager, Tax Modeling",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-3-13 10:24 PM",
+    "Url": "https://de.jobsyn.org/73D8677A08984FA299C58918D8F4AFF3206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2011.00"
+  },
+  {
     "JvID": "6B248DB4CC5A4F959C9E40417F8DFC2E206",
     "JobTitle": "Staff Accountant",
     "Company": "Robert Half",
     "DatePosted": "2023-3-11 12:05 AM",
     "Url": "https://de.jobsyn.org/6B248DB4CC5A4F959C9E40417F8DFC2E206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "949047F747984E1EBBCF254CC7C8B847206",
+    "JobTitle": "Mileage Plan Accountant",
+    "Company": "Alaska Airlines",
+    "DatePosted": "2023-3-15 10:05 PM",
+    "Url": "https://de.jobsyn.org/949047F747984E1EBBCF254CC7C8B847206",
     "Location": "Seattle, WA",
     "OnetCode": "13-2011.00"
   },
@@ -1566,11 +1566,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "721E16C4604A4D9BBF8B920406C7BF65206",
-    "JobTitle": "FINANCIAL SERVICES SUPERVISOR",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-16 2:33 AM",
-    "Url": "https://de.jobsyn.org/721E16C4604A4D9BBF8B920406C7BF65206",
+    "JvID": "15F08AE72EA4480B8A9FD2A8DD4792F2206",
+    "JobTitle": "Senior Auditor, Audit Programs",
+    "Company": "Alaska Airlines",
+    "DatePosted": "2023-2-8 4:06 AM",
+    "Url": "https://de.jobsyn.org/15F08AE72EA4480B8A9FD2A8DD4792F2206",
     "Location": "Seattle, WA",
     "OnetCode": "13-2011.00"
   },
@@ -1607,15 +1607,6 @@
     "Company": "PwC",
     "DatePosted": "2023-2-11 3:16 AM",
     "Url": "https://de.jobsyn.org/EB321D98091A43C29ADA7469F4AE1339206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "2C561EE65FD740E0B93C567E58D1A0D1206",
-    "JobTitle": "VP, Portfolio Management (Native American Financial Services Group) \"Remote\"",
-    "Company": "KeyBank",
-    "DatePosted": "2023-2-5 10:56 PM",
-    "Url": "https://de.jobsyn.org/2C561EE65FD740E0B93C567E58D1A0D1206",
     "Location": "Seattle, WA",
     "OnetCode": "11-3031.00"
   },
@@ -1719,6 +1710,42 @@
     "OnetCode": "11-3031.00"
   },
   {
+    "JvID": "8D1B5AF62A174C2FBB87C63DE1516BD3206",
+    "JobTitle": "DIRECTOR OF FINANCE AND OPERATIONS",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-17 3:42 AM",
+    "Url": "https://de.jobsyn.org/8D1B5AF62A174C2FBB87C63DE1516BD3206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "555DE1EB57924558A62B3419C3F70F99206",
+    "JobTitle": "Finance and Contracts Administrator",
+    "Company": "King County",
+    "DatePosted": "2023-3-17 10:29 PM",
+    "Url": "https://de.jobsyn.org/555DE1EB57924558A62B3419C3F70F99206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "9079533886DD46C7B5E82D3193DA3FD8206",
+    "JobTitle": "Relationship Manager IV, Commercial Banking (Irvine, CA)",
+    "Company": "HomeStreet Bank",
+    "DatePosted": "2023-3-17 10:29 PM",
+    "Url": "https://de.jobsyn.org/9079533886DD46C7B5E82D3193DA3FD8206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "5D35D1047A2641BD94C5DC9DC2E572AB206",
+    "JobTitle": "Relationship Banker",
+    "Company": "Bank of America",
+    "DatePosted": "2023-3-17 2:43 AM",
+    "Url": "https://de.jobsyn.org/5D35D1047A2641BD94C5DC9DC2E572AB206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-3031.00"
+  },
+  {
     "JvID": "56FA5711838F44EDB9C2871DA155BBC7206",
     "JobTitle": "Business Relationship Manager Senior Acquisition - Business Banking - Vice President",
     "Company": "JPMorgan Chase",
@@ -1737,6 +1764,24 @@
     "OnetCode": "11-3031.00"
   },
   {
+    "JvID": "7F2F2F36042F43ABB96652B2DAF31138206",
+    "JobTitle": "Risk Manager, Pay by Invoice, B2B Payments",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-3-17 10:24 PM",
+    "Url": "https://de.jobsyn.org/7F2F2F36042F43ABB96652B2DAF31138206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "3C106C90BEBF44AF838C7DBD3C3FDF3E206",
+    "JobTitle": "Staff Accountant",
+    "Company": "501 Commons",
+    "DatePosted": "2023-3-17 10:25 PM",
+    "Url": "https://de.jobsyn.org/3C106C90BEBF44AF838C7DBD3C3FDF3E206",
+    "Location": "Seattle, WA",
+    "OnetCode": "11-3031.00"
+  },
+  {
     "JvID": "B6C59448226B4A6A926A3BB18137F9E9206",
     "JobTitle": "Accountant",
     "Company": "Northwest Bank",
@@ -1746,56 +1791,11 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "5138FB55639A4DEB8E343A13720EAC1C206",
-    "JobTitle": "business analysis manager, Digital and Loyalty Finance",
-    "Company": "Starbucks Coffee Company",
-    "DatePosted": "2023-3-16 11:55 PM",
-    "Url": "https://de.jobsyn.org/5138FB55639A4DEB8E343A13720EAC1C206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-3031.00"
-  },
-  {
     "JvID": "2B5209E8AB0F4B7AA8B71445D810E8A1206",
     "JobTitle": "Relationship Banker",
     "Company": "Bank of America",
     "DatePosted": "2023-3-15 4:34 AM",
     "Url": "https://de.jobsyn.org/2B5209E8AB0F4B7AA8B71445D810E8A1206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "86C55CBA901645DB970F81604DD6C73A206",
-    "JobTitle": "Relationship Banker",
-    "Company": "Bank of America",
-    "DatePosted": "2023-3-15 4:34 AM",
-    "Url": "https://de.jobsyn.org/86C55CBA901645DB970F81604DD6C73A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "48DA8CE7D89841E0AB3655497820C6F8206",
-    "JobTitle": "Sr Manager, Product Management, Consumer Payments",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-3-16 10:27 PM",
-    "Url": "https://de.jobsyn.org/48DA8CE7D89841E0AB3655497820C6F8206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "22AB335D62D7466499C1970A376120DC206",
-    "JobTitle": "VP, Branch Manager - Seattle, WA",
-    "Company": "Charles Schwab",
-    "DatePosted": "2023-3-16 3:01 AM",
-    "Url": "https://de.jobsyn.org/22AB335D62D7466499C1970A376120DC206",
-    "Location": "Seattle, WA",
-    "OnetCode": "11-3031.00"
-  },
-  {
-    "JvID": "721E16C4604A4D9BBF8B920406C7BF65206",
-    "JobTitle": "FINANCIAL SERVICES SUPERVISOR",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-16 2:33 AM",
-    "Url": "https://de.jobsyn.org/721E16C4604A4D9BBF8B920406C7BF65206",
     "Location": "Seattle, WA",
     "OnetCode": "11-3031.00"
   },
@@ -1842,6 +1842,15 @@
     "DatePosted": "2023-3-2 6:38 AM",
     "Url": "https://de.jobsyn.org/A66908510FA64391923DD4BE5938EACB206",
     "Location": "SEATTLE, WA",
+    "OnetCode": "41-3021.00"
+  },
+  {
+    "JvID": "7306F1CFBD154C279A4D5EB26B0A9547206",
+    "JobTitle": "Sr. Underwriter - PST - Remote",
+    "Company": "UnitedHealth Group",
+    "DatePosted": "2023-3-17 4:22 AM",
+    "Url": "https://de.jobsyn.org/7306F1CFBD154C279A4D5EB26B0A9547206",
+    "Location": "Seattle, WA",
     "OnetCode": "41-3021.00"
   },
   {
@@ -1908,6 +1917,15 @@
     "OnetCode": "41-3021.00"
   },
   {
+    "JvID": "327F4DA11540420E99F1D3A612CEA5AB206",
+    "JobTitle": "Commercial Account Coordinator",
+    "Company": "AssuredPartners",
+    "DatePosted": "2023-3-12 1:11 AM",
+    "Url": "https://de.jobsyn.org/327F4DA11540420E99F1D3A612CEA5AB206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3021.00"
+  },
+  {
     "JvID": "5189419EBC84466F96BE480A910FD00E206",
     "JobTitle": "Health & Benefits Producer",
     "Company": "Aon",
@@ -1944,20 +1962,20 @@
     "OnetCode": "41-3021.00"
   },
   {
+    "JvID": "56C81526EEAE4E078C8713F98DA069B7206",
+    "JobTitle": "Sales Development Program - Group Benefits (Associate Sales Representative)",
+    "Company": "Principal Financial Group",
+    "DatePosted": "2023-3-7 6:13 AM",
+    "Url": "https://de.jobsyn.org/56C81526EEAE4E078C8713F98DA069B7206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3021.00"
+  },
+  {
     "JvID": "AB633B51F1EE4FD69ED4FA2B1758F7A5206",
     "JobTitle": "Senior Account Representative",
     "Company": "Marsh & McLennan",
     "DatePosted": "2023-3-7 10:38 PM",
     "Url": "https://de.jobsyn.org/AB633B51F1EE4FD69ED4FA2B1758F7A5206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3021.00"
-  },
-  {
-    "JvID": "56C81526EEAE4E078C8713F98DA069B7206",
-    "JobTitle": "Sales Development Program - Group Benefits (Associate Sales Representative)",
-    "Company": "Principal Financial Group",
-    "DatePosted": "2023-3-7 4:32 AM",
-    "Url": "https://de.jobsyn.org/56C81526EEAE4E078C8713F98DA069B7206",
     "Location": "Seattle, WA",
     "OnetCode": "41-3021.00"
   },
@@ -1989,15 +2007,6 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "C497A126311844A490D348C5BB219EC0206",
-    "JobTitle": "Sales Representative Non Exempt",
-    "Company": "Confie Administrative Services",
-    "DatePosted": "2023-3-1 11:43 PM",
-    "Url": "https://de.jobsyn.org/C497A126311844A490D348C5BB219EC0206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3021.00"
-  },
-  {
     "JvID": "2A4FAAEE9153443FA2D46D6CB49A05A7206",
     "JobTitle": "Sales Representative Non Exempt",
     "Company": "Confie Administrative Services",
@@ -2016,20 +2025,83 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "D82225D7B9CB4F4AB4A321D15892CF61206",
-    "JobTitle": "Field Sales Representative",
-    "Company": "AT&T",
-    "DatePosted": "2023-2-25 2:16 AM",
-    "Url": "https://de.jobsyn.org/D82225D7B9CB4F4AB4A321D15892CF61206",
+    "JvID": "9E5F532D57A14AAEBFFDB7C0BEFBB4F3206",
+    "JobTitle": "Merrill Financial Advisor \u2013 Accelerated Growth Role",
+    "Company": "Bank of America",
+    "DatePosted": "2023-3-17 6:56 PM",
+    "Url": "https://de.jobsyn.org/9E5F532D57A14AAEBFFDB7C0BEFBB4F3206",
     "Location": "Seattle, WA",
-    "OnetCode": "41-3021.00"
+    "OnetCode": "41-3031.00"
   },
   {
-    "JvID": "B9DC8C3E33C84A21B03504DF6DE476F6206",
-    "JobTitle": "Intern *",
-    "Company": "Morgan Stanley",
-    "DatePosted": "2023-3-4 6:16 AM",
-    "Url": "https://de.jobsyn.org/B9DC8C3E33C84A21B03504DF6DE476F6206",
+    "JvID": "9079533886DD46C7B5E82D3193DA3FD8206",
+    "JobTitle": "Relationship Manager IV, Commercial Banking (Irvine, CA)",
+    "Company": "HomeStreet Bank",
+    "DatePosted": "2023-3-17 10:29 PM",
+    "Url": "https://de.jobsyn.org/9079533886DD46C7B5E82D3193DA3FD8206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "DC42F87CDD91408180FC20AD993F5528206",
+    "JobTitle": "Seasonal Tax Senior Associate, Asset Management",
+    "Company": "KPMG",
+    "DatePosted": "2023-3-18 4:18 AM",
+    "Url": "https://de.jobsyn.org/DC42F87CDD91408180FC20AD993F5528206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "1277545974F1444B861647B4C66C89A2206",
+    "JobTitle": "Personal Banker",
+    "Company": "Columbia Bank",
+    "DatePosted": "2023-3-17 10:26 PM",
+    "Url": "https://de.jobsyn.org/1277545974F1444B861647B4C66C89A2206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "7F2F2F36042F43ABB96652B2DAF31138206",
+    "JobTitle": "Risk Manager, Pay by Invoice, B2B Payments",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-3-17 10:24 PM",
+    "Url": "https://de.jobsyn.org/7F2F2F36042F43ABB96652B2DAF31138206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "45242736CCC040C791F1721E21D2B6A6206",
+    "JobTitle": "Account Executive",
+    "Company": "Evolv Technology",
+    "DatePosted": "2023-3-17 6:30 AM",
+    "Url": "https://de.jobsyn.org/45242736CCC040C791F1721E21D2B6A6206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "E7F8E18B5F134440B90A50CF85F34420206",
+    "JobTitle": "Foodservice Sales Representative",
+    "Company": "Charlie's Produce",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/E7F8E18B5F134440B90A50CF85F34420206",
+    "Location": "Seattle, WA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "4213CE395DC94765B59BF061A2D0E27A206",
+    "JobTitle": "Personal Banker Laurelhurst",
+    "Company": "Wells Fargo",
+    "DatePosted": "2023-3-17 4:35 AM",
+    "Url": "https://de.jobsyn.org/4213CE395DC94765B59BF061A2D0E27A206",
+    "Location": "SEATTLE, WA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "5D35D1047A2641BD94C5DC9DC2E572AB206",
+    "JobTitle": "Relationship Banker",
+    "Company": "Bank of America",
+    "DatePosted": "2023-3-17 2:43 AM",
+    "Url": "https://de.jobsyn.org/5D35D1047A2641BD94C5DC9DC2E572AB206",
     "Location": "Seattle, WA",
     "OnetCode": "41-3031.00"
   },
@@ -2174,78 +2246,6 @@
     "Company": "Citigroup",
     "DatePosted": "2023-3-11 5:02 AM",
     "Url": "https://de.jobsyn.org/55A06D5AAAED4401980735FBB8111902206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "EC4CEE01BB284E2E91FFF3B4B8881B0E206",
-    "JobTitle": "Inside Business Development Consultant - Autotrader",
-    "Company": "Cox Enterprises",
-    "DatePosted": "2023-3-11 10:20 PM",
-    "Url": "https://de.jobsyn.org/EC4CEE01BB284E2E91FFF3B4B8881B0E206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "530070EC6B974B8187D0D092547B2A11206",
-    "JobTitle": "Sales Representative - University Village Restore Hyper Wellness",
-    "Company": "Restore Hyper Wellness",
-    "DatePosted": "2023-3-11 10:23 PM",
-    "Url": "https://de.jobsyn.org/530070EC6B974B8187D0D092547B2A11206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "7355F1BC3203491FB0D2F6480B102346206",
-    "JobTitle": "Sales Finance Manager - Nestl\u00e9 Coffee Partners",
-    "Company": "Nestle",
-    "DatePosted": "2023-3-11 5:08 AM",
-    "Url": "https://de.jobsyn.org/7355F1BC3203491FB0D2F6480B102346206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "7C9DF2EF672F4FE1871A0F46F0BD2180206",
-    "JobTitle": "Relationship Banker - Seattle Market & 15th - Seattle, WA",
-    "Company": "JPMorgan Chase",
-    "DatePosted": "2023-3-12 3:54 AM",
-    "Url": "https://de.jobsyn.org/7C9DF2EF672F4FE1871A0F46F0BD2180206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "5189419EBC84466F96BE480A910FD00E206",
-    "JobTitle": "Health & Benefits Producer",
-    "Company": "Aon",
-    "DatePosted": "2023-3-11 10:21 PM",
-    "Url": "https://de.jobsyn.org/5189419EBC84466F96BE480A910FD00E206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "4293979E08AF427D8134DB1536CFF3EE206",
-    "JobTitle": "Service Sales Account Manager",
-    "Company": "KONE, Inc",
-    "DatePosted": "2023-3-10 5:10 AM",
-    "Url": "https://de.jobsyn.org/4293979E08AF427D8134DB1536CFF3EE206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "879C03014AD44652970B9AEF4716F943206",
-    "JobTitle": "Financial Wellness Banker - Seattle, WA",
-    "Company": "KeyBank",
-    "DatePosted": "2023-3-10 10:25 PM",
-    "Url": "https://de.jobsyn.org/879C03014AD44652970B9AEF4716F943206",
-    "Location": "Seattle, WA",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "5171BAC237E444B7B42BCE67C418E363206",
-    "JobTitle": "Commercial Relationship Manager II",
-    "Company": "Banner Bank",
-    "DatePosted": "2023-3-10 10:25 PM",
-    "Url": "https://de.jobsyn.org/5171BAC237E444B7B42BCE67C418E363206",
     "Location": "Seattle, WA",
     "OnetCode": "41-3031.00"
   },
@@ -2430,6 +2430,33 @@
     "OnetCode": "13-2051.00"
   },
   {
+    "JvID": "FC9D75C5E52F4A45A7BAEAA8AC01ABD2206",
+    "JobTitle": "Actuarial Intern - Summer 2023",
+    "Company": "Milliman, Inc",
+    "DatePosted": "2023-3-17 10:26 PM",
+    "Url": "https://de.jobsyn.org/FC9D75C5E52F4A45A7BAEAA8AC01ABD2206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "3F2EA3B35C0F4871BB96686FE031E261206",
+    "JobTitle": "Financial Analysis & Operations Staff Accountant, Finance (Seattle, WA)",
+    "Company": "HomeStreet Bank",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/3F2EA3B35C0F4871BB96686FE031E261206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "DC42F87CDD91408180FC20AD993F5528206",
+    "JobTitle": "Seasonal Tax Senior Associate, Asset Management",
+    "Company": "KPMG",
+    "DatePosted": "2023-3-18 4:18 AM",
+    "Url": "https://de.jobsyn.org/DC42F87CDD91408180FC20AD993F5528206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2051.00"
+  },
+  {
     "JvID": "8E790F9C09354920ABD2ACDA921156E1206",
     "JobTitle": "Equity Compensation Reporting Analyst",
     "Company": "Moss Adams LLP",
@@ -2444,33 +2471,6 @@
     "Company": "Verus",
     "DatePosted": "2023-3-16 10:29 PM",
     "Url": "https://de.jobsyn.org/8F1744C1C3154368BFCDE5E883B6A196206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "BDF3EC47C1D545468820A8675501DC25206",
-    "JobTitle": "Financial Analyst",
-    "Company": "Ivanti, Inc.",
-    "DatePosted": "2023-3-16 10:22 PM",
-    "Url": "https://de.jobsyn.org/BDF3EC47C1D545468820A8675501DC25206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "B6135FD3AAC349F8AB5083F3DE5A40C8206",
-    "JobTitle": "Sr. Associate, Institutional Client Service - Parametric",
-    "Company": "Morgan Stanley",
-    "DatePosted": "2023-3-15 6:43 AM",
-    "Url": "https://de.jobsyn.org/B6135FD3AAC349F8AB5083F3DE5A40C8206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "A4CBB56BDE614DF2820EEA1D6F45B9DF206",
-    "JobTitle": "Associate, Finance and Accounting",
-    "Company": "Bill and Melinda Gates Foundation",
-    "DatePosted": "2023-3-15 7:39 AM",
-    "Url": "https://de.jobsyn.org/A4CBB56BDE614DF2820EEA1D6F45B9DF206",
     "Location": "Seattle, WA",
     "OnetCode": "13-2051.00"
   },
@@ -2520,15 +2520,6 @@
     "OnetCode": "13-2041.00"
   },
   {
-    "JvID": "875504ACF2364A92AA5C4FA6C1A452C0206",
-    "JobTitle": "Senior Credit Officer",
-    "Company": "KeyBank",
-    "DatePosted": "2023-2-5 11:00 PM",
-    "Url": "https://de.jobsyn.org/875504ACF2364A92AA5C4FA6C1A452C0206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2041.00"
-  },
-  {
     "JvID": "F0DB0C23BA62482C8C0E9A1D9A5613AB206",
     "JobTitle": "Client Services and Financial Institution Analyst",
     "Company": "Jack Henry & Associates, Inc.",
@@ -2538,20 +2529,20 @@
     "OnetCode": "13-2041.00"
   },
   {
-    "JvID": "D61118EDF6824BCAA7C8248A5CE74F57206",
-    "JobTitle": "Senior Underwriter - Affordable Housing",
-    "Company": "CBRE",
-    "DatePosted": "2023-3-15 6:33 AM",
-    "Url": "https://de.jobsyn.org/D61118EDF6824BCAA7C8248A5CE74F57206",
-    "Location": "Seattle, WA",
-    "OnetCode": "13-2041.00"
-  },
-  {
     "JvID": "1381F0B59A10425190AEB61D56557428206",
     "JobTitle": "Trade Desk Analyst",
     "Company": "StoneX",
     "DatePosted": "2023-2-23 5:31 AM",
     "Url": "https://de.jobsyn.org/1381F0B59A10425190AEB61D56557428206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "D61118EDF6824BCAA7C8248A5CE74F57206",
+    "JobTitle": "Senior Underwriter - Affordable Housing",
+    "Company": "CBRE",
+    "DatePosted": "2023-3-15 6:33 AM",
+    "Url": "https://de.jobsyn.org/D61118EDF6824BCAA7C8248A5CE74F57206",
     "Location": "Seattle, WA",
     "OnetCode": "13-2041.00"
   },
@@ -2570,6 +2561,24 @@
     "Company": "University of Washington",
     "DatePosted": "2023-3-15 3:10 AM",
     "Url": "https://de.jobsyn.org/77B5547649D84253B163F6865FABC6E1206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "7F2F2F36042F43ABB96652B2DAF31138206",
+    "JobTitle": "Risk Manager, Pay by Invoice, B2B Payments",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-3-17 10:24 PM",
+    "Url": "https://de.jobsyn.org/7F2F2F36042F43ABB96652B2DAF31138206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "CD296126B91449028FAB72791A49953B206",
+    "JobTitle": "Senior Underwriter - Stop Loss",
+    "Company": "Cambia Health Solutions",
+    "DatePosted": "2023-3-17 10:27 PM",
+    "Url": "https://de.jobsyn.org/CD296126B91449028FAB72791A49953B206",
     "Location": "Seattle, WA",
     "OnetCode": "13-2041.00"
   },
@@ -2682,6 +2691,60 @@
     "OnetCode": "31-1121.00"
   },
   {
+    "JvID": "93732EE5BA824A0A9B437936E29E0751206",
+    "JobTitle": "CNA / CERTIFIED NURSING ASSISTANT (PART-TIME, PER DIEM, ALTERNATE SHIFTS)",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/93732EE5BA824A0A9B437936E29E0751206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "7B2C0D18400848CA800F71DA026BF0EF206",
+    "JobTitle": "CNA / FLOAT CERTIFIED NURSING ASSISTANT (DAYS, PART TIME)",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/7B2C0D18400848CA800F71DA026BF0EF206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "9C03EBCC8655480892B622B897DE9946206",
+    "JobTitle": "CNA / CERTiIFIED NURSING ASSTANT (PART-TIME, NIGHTS)",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/9C03EBCC8655480892B622B897DE9946206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "369BEA2304814E6E8D27DBFDD2B04D42206",
+    "JobTitle": "CNA / CERTIFIED NURSING ASSISTANT (PART-TIME, NIGHTS)",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/369BEA2304814E6E8D27DBFDD2B04D42206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "4AFCCDAB56B14E5DAD58B6F3F1D7084D206",
+    "JobTitle": "CNA / CERTIFIED NURSING ASSISTANT (PART-TIME, NIGHTS)",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/4AFCCDAB56B14E5DAD58B6F3F1D7084D206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "8EFD3D64932F4392A56FBE3287E3477B206",
+    "JobTitle": "Certified Nursing Assistant\u00a0- CNA - Skilled Nursing Facility - PRN",
+    "Company": "CareerStaff Unlimited",
+    "DatePosted": "2023-3-18 4:54 AM",
+    "Url": "https://de.jobsyn.org/8EFD3D64932F4392A56FBE3287E3477B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-1121.00"
+  },
+  {
     "JvID": "ECE016C9B828470FA6E50E24259DBFF0206",
     "JobTitle": "Caregiver",
     "Company": "Aegis Living",
@@ -2790,65 +2853,20 @@
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "BE04908CCA0E4465B75966B309180935206",
-    "JobTitle": "CERT NURSING ASST",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-11 3:16 AM",
-    "Url": "https://de.jobsyn.org/BE04908CCA0E4465B75966B309180935206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "B1761E47CCBD42969D3FA3782F8472DC206",
-    "JobTitle": "Certified Nursing Assistant",
-    "Company": "CommonSpirit Health",
-    "DatePosted": "2023-3-11 12:34 AM",
-    "Url": "https://de.jobsyn.org/B1761E47CCBD42969D3FA3782F8472DC206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "4D4352FBE46943EDB005D9D0AE1473AF206",
-    "JobTitle": "Certified Nursing Assistant",
-    "Company": "Virginia Mason Franciscan Health",
-    "DatePosted": "2023-3-11 12:29 AM",
-    "Url": "https://de.jobsyn.org/4D4352FBE46943EDB005D9D0AE1473AF206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "EB69245296234D89863F0B93B70B079A206",
-    "JobTitle": "CERT NURSING ASST",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-11 3:16 AM",
-    "Url": "https://de.jobsyn.org/EB69245296234D89863F0B93B70B079A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "36317DCCA4C844FE9F3EC5C7EA406486206",
-    "JobTitle": "Certified Nursing Assistant",
-    "Company": "Virginia Mason Franciscan Health",
-    "DatePosted": "2023-3-10 12:20 AM",
-    "Url": "https://de.jobsyn.org/36317DCCA4C844FE9F3EC5C7EA406486206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "6935475D6EEC48BFA284E9EBEEADB345206",
-    "JobTitle": "Caregiver",
-    "Company": "Aegis Living",
-    "DatePosted": "2023-3-10 1:26 AM",
-    "Url": "https://de.jobsyn.org/6935475D6EEC48BFA284E9EBEEADB345206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-1121.00"
-  },
-  {
     "JvID": "00A2F66EEB6F43B0949B1D997E6343C7206",
     "JobTitle": "Registered Nurse",
     "Company": "Seattle Children\u2019s Hospital",
     "DatePosted": "2023-2-13 11:12 PM",
     "Url": "https://de.jobsyn.org/00A2F66EEB6F43B0949B1D997E6343C7206",
+    "Location": "Seattle, WA",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "A4CCE62BF70C474B9629572AF1B4BB34206",
+    "JobTitle": "Registered Nurse",
+    "Company": "CCSWW",
+    "DatePosted": "2023-3-17 5:30 AM",
+    "Url": "https://de.jobsyn.org/A4CCE62BF70C474B9629572AF1B4BB34206",
     "Location": "Seattle, WA",
     "OnetCode": "29-1141.00"
   },
@@ -2871,15 +2889,6 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "410F11ED16D249738C2111493D93567F206",
-    "JobTitle": "Registered Nurse Manager (Gastroenterology)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-5 2:09 AM",
-    "Url": "https://de.jobsyn.org/410F11ED16D249738C2111493D93567F206",
-    "Location": "Seattle, WA",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "81AA5ABD1ED44FA89DA8687CC742967E206",
     "JobTitle": "Registered Nurse (RN)",
     "Company": "Aveanna",
@@ -2898,20 +2907,20 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "DDC61CAFC8D94A6F9F4B52A154CC0397206",
-    "JobTitle": "Registered Nurse Resident",
-    "Company": "Fred Hutchinson Cancer Research Center",
-    "DatePosted": "2023-3-12 12:42 AM",
-    "Url": "https://de.jobsyn.org/DDC61CAFC8D94A6F9F4B52A154CC0397206",
-    "Location": "Seattle, WA",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "F10719FBDDD1403FBFF1CB4A37C85B4B206",
     "JobTitle": "Ambulatory Care Registered Nurse",
     "Company": "Allyon, Inc.",
     "DatePosted": "2023-2-12 11:01 PM",
     "Url": "https://de.jobsyn.org/F10719FBDDD1403FBFF1CB4A37C85B4B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "DDC61CAFC8D94A6F9F4B52A154CC0397206",
+    "JobTitle": "Registered Nurse Resident",
+    "Company": "Fred Hutchinson Cancer Research Center",
+    "DatePosted": "2023-3-12 12:42 AM",
+    "Url": "https://de.jobsyn.org/DDC61CAFC8D94A6F9F4B52A154CC0397206",
     "Location": "Seattle, WA",
     "OnetCode": "29-1141.00"
   },
@@ -2952,20 +2961,20 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "6733DC1BEA214626BF7EED7B83C41D8F206",
-    "JobTitle": "Registered Nurse - Supervisor",
-    "Company": "Virginia Mason Franciscan Health",
-    "DatePosted": "2023-3-11 12:29 AM",
-    "Url": "https://de.jobsyn.org/6733DC1BEA214626BF7EED7B83C41D8F206",
-    "Location": "Seattle, WA",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "6D018A498BAC4E23980392B89E65E662206",
     "JobTitle": "Registered Nurse Pulmonary Unit",
     "Company": "Virginia Mason Franciscan Health",
     "DatePosted": "2023-2-24 12:24 AM",
     "Url": "https://de.jobsyn.org/6D018A498BAC4E23980392B89E65E662206",
+    "Location": "Seattle, WA",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "6733DC1BEA214626BF7EED7B83C41D8F206",
+    "JobTitle": "Registered Nurse - Supervisor",
+    "Company": "Virginia Mason Franciscan Health",
+    "DatePosted": "2023-3-11 12:29 AM",
+    "Url": "https://de.jobsyn.org/6733DC1BEA214626BF7EED7B83C41D8F206",
     "Location": "Seattle, WA",
     "OnetCode": "29-1141.00"
   },
@@ -3042,20 +3051,11 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "7009A567ABD54072B7AB9FA27CB4B818206",
-    "JobTitle": "Registered Nurse (Acute Care Clinical Educator)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-16 10:24 PM",
-    "Url": "https://de.jobsyn.org/7009A567ABD54072B7AB9FA27CB4B818206",
-    "Location": "Seattle, WA",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "24C9D27A8E5F48499C3BC9D35702F48D206",
-    "JobTitle": "Registered Nurse (Inpatient Mental Health Assistant Manager)",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-14 11:47 PM",
-    "Url": "https://de.jobsyn.org/24C9D27A8E5F48499C3BC9D35702F48D206",
+    "JvID": "5B99DDE155D643188D47C7FDFC4A3510206",
+    "JobTitle": "Registered Nurse - RN - Skilled Nursing Facility",
+    "Company": "CareerStaff Unlimited",
+    "DatePosted": "2023-3-18 4:54 AM",
+    "Url": "https://de.jobsyn.org/5B99DDE155D643188D47C7FDFC4A3510206",
     "Location": "Seattle, WA",
     "OnetCode": "29-1141.00"
   },
@@ -3065,6 +3065,15 @@
     "Company": "A-TEAM SOLUTIONS LLC",
     "DatePosted": "2023-2-20 11:15 PM",
     "Url": "https://de.jobsyn.org/620F6BD46EB64A44BA47238A9058475C206",
+    "Location": "Seattle, WA",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "24C9D27A8E5F48499C3BC9D35702F48D206",
+    "JobTitle": "Registered Nurse (Inpatient Mental Health Assistant Manager)",
+    "Company": "Veterans Affairs, Veterans Health Administration",
+    "DatePosted": "2023-3-14 11:47 PM",
+    "Url": "https://de.jobsyn.org/24C9D27A8E5F48499C3BC9D35702F48D206",
     "Location": "Seattle, WA",
     "OnetCode": "29-1141.00"
   },
@@ -3249,6 +3258,15 @@
     "OnetCode": "31-1131.00"
   },
   {
+    "JvID": "8EFD3D64932F4392A56FBE3287E3477B206",
+    "JobTitle": "Certified Nursing Assistant\u00a0- CNA - Skilled Nursing Facility - PRN",
+    "Company": "CareerStaff Unlimited",
+    "DatePosted": "2023-3-18 4:54 AM",
+    "Url": "https://de.jobsyn.org/8EFD3D64932F4392A56FBE3287E3477B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-1131.00"
+  },
+  {
     "JvID": "FD6169D1BD5140F3BA574FDC13386EEA206",
     "JobTitle": "Medical Assistant - Travel Nursing",
     "Company": "Aya Healthcare, Inc.",
@@ -3285,13 +3303,40 @@
     "OnetCode": "31-1131.00"
   },
   {
-    "JvID": "203062810693438EABE357AE531615EC206",
-    "JobTitle": "Medical Assistant - Travel Nursing",
-    "Company": "Aya Healthcare, Inc.",
-    "DatePosted": "2023-2-25 11:10 PM",
-    "Url": "https://de.jobsyn.org/203062810693438EABE357AE531615EC206",
+    "JvID": "EE5B56D02D5444949DB072C1C165ECA3206",
+    "JobTitle": "Medical Assistant",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/EE5B56D02D5444949DB072C1C165ECA3206",
     "Location": "Seattle, WA",
-    "OnetCode": "31-1131.00"
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "542F216E5DBB4D4DB040D3D434AACFBD206",
+    "JobTitle": "Medical Assistant",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/542F216E5DBB4D4DB040D3D434AACFBD206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "F43C1F0401FD4AE1921B6DF97AFDB650206",
+    "JobTitle": "Medical Assistant",
+    "Company": "Allyon, Inc.",
+    "DatePosted": "2023-3-17 10:29 PM",
+    "Url": "https://de.jobsyn.org/F43C1F0401FD4AE1921B6DF97AFDB650206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "5E9F7717816145829F99C76E7EA74840206",
+    "JobTitle": "Medical Assistant",
+    "Company": "Virginia Mason Franciscan Health",
+    "DatePosted": "2023-3-18 12:35 AM",
+    "Url": "https://de.jobsyn.org/5E9F7717816145829F99C76E7EA74840206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-9092.00"
   },
   {
     "JvID": "46CF9DECC85F40A29081CEDB0630BBBB206",
@@ -3420,15 +3465,6 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "34333A2E2B164541BA244570AD940416206",
-    "JobTitle": "Medical Assistant Staffing Resource",
-    "Company": "Virginia Mason Franciscan Health",
-    "DatePosted": "2023-3-10 12:20 AM",
-    "Url": "https://de.jobsyn.org/34333A2E2B164541BA244570AD940416206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-9092.00"
-  },
-  {
     "JvID": "8151BFD692974B24B2084A96AB5A2FB6206",
     "JobTitle": "Medical Assistant (Sign On Bonus)",
     "Company": "Seattle Children\u2019s Hospital",
@@ -3438,20 +3474,20 @@
     "OnetCode": "31-9092.00"
   },
   {
+    "JvID": "34333A2E2B164541BA244570AD940416206",
+    "JobTitle": "Medical Assistant Staffing Resource",
+    "Company": "Virginia Mason Franciscan Health",
+    "DatePosted": "2023-3-10 12:20 AM",
+    "Url": "https://de.jobsyn.org/34333A2E2B164541BA244570AD940416206",
+    "Location": "Seattle, WA",
+    "OnetCode": "31-9092.00"
+  },
+  {
     "JvID": "ECB7C6619BF64F95A36B0AC62874893A206",
     "JobTitle": "Medical Assistant Virtual Health",
     "Company": "CommonSpirit Health",
     "DatePosted": "2023-2-11 12:18 AM",
     "Url": "https://de.jobsyn.org/ECB7C6619BF64F95A36B0AC62874893A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "36F0DC17526C49E3A330B1EFA58B5801206",
-    "JobTitle": "Medical Assistant (Sign On Bonus)",
-    "Company": "Seattle Children\u2019s Hospital",
-    "DatePosted": "2023-2-5 10:56 PM",
-    "Url": "https://de.jobsyn.org/36F0DC17526C49E3A330B1EFA58B5801206",
     "Location": "Seattle, WA",
     "OnetCode": "31-9092.00"
   },
@@ -3492,38 +3528,20 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "5F801E1A583F4E7BBCCDC714908462A2206",
-    "JobTitle": "Medical Assistant Certified/Registered",
-    "Company": "Maxim Healthcare Staffing",
-    "DatePosted": "2023-2-16 2:24 AM",
-    "Url": "https://de.jobsyn.org/5F801E1A583F4E7BBCCDC714908462A2206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "C8898BA215924D219923743CF9E7DD29206",
-    "JobTitle": "Medical Assistant Staffing Resource",
-    "Company": "Virginia Mason Franciscan Health",
-    "DatePosted": "2023-2-14 3:10 AM",
-    "Url": "https://de.jobsyn.org/C8898BA215924D219923743CF9E7DD29206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "22E68DF82FA14E3FA3A71AC0F9EF0D8F206",
-    "JobTitle": "Medical Assistant Virtual Health",
-    "Company": "Virginia Mason Franciscan Health",
-    "DatePosted": "2023-2-10 5:03 AM",
-    "Url": "https://de.jobsyn.org/22E68DF82FA14E3FA3A71AC0F9EF0D8F206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-9092.00"
-  },
-  {
-    "JvID": "66EDBABCD2964904B35A3C35FA064CCC206",
+    "JvID": "18567A2D999041F691F1327C6D0A5829206",
     "JobTitle": "Pharmacy Technician",
     "Company": "CVS Health",
-    "DatePosted": "2023-3-16 2:22 AM",
-    "Url": "https://de.jobsyn.org/66EDBABCD2964904B35A3C35FA064CCC206",
+    "DatePosted": "2023-3-17 4:20 AM",
+    "Url": "https://de.jobsyn.org/18567A2D999041F691F1327C6D0A5829206",
+    "Location": "Seattle, WA",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "B6B9F1D83B664AF98EE5807E22473259206",
+    "JobTitle": "Pharmacy Technician",
+    "Company": "CVS Health",
+    "DatePosted": "2023-3-10 4:16 AM",
+    "Url": "https://de.jobsyn.org/B6B9F1D83B664AF98EE5807E22473259206",
     "Location": "Seattle, WA",
     "OnetCode": "29-2052.00"
   },
@@ -3578,6 +3596,15 @@
     "Company": "Actalent",
     "DatePosted": "2023-2-23 4:18 AM",
     "Url": "https://de.jobsyn.org/DCD8A2A417D344628677BFA5050E716B206",
+    "Location": "Seattle, WA",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "F9D4D1F46121435891922A75C5EBC39E206",
+    "JobTitle": "Pharmacy Technician - 46837",
+    "Company": "Rite Aid",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/F9D4D1F46121435891922A75C5EBC39E206",
     "Location": "Seattle, WA",
     "OnetCode": "29-2052.00"
   },
@@ -3717,40 +3744,13 @@
     "OnetCode": "29-2052.00"
   },
   {
-    "JvID": "8778B8386C1F4B29856231278412445D206",
-    "JobTitle": "Pharmacy Technician-Relief Pool",
-    "Company": "Kaiser Permanente",
-    "DatePosted": "2023-3-11 12:16 AM",
-    "Url": "https://de.jobsyn.org/8778B8386C1F4B29856231278412445D206",
-    "Location": "Seattle, WA",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "412C5FBF0C0F46329F5573AA9DAC5636206",
-    "JobTitle": "Certified Pharmacy Technician",
-    "Company": "Walgreens",
-    "DatePosted": "2023-3-15 5:45 AM",
-    "Url": "https://de.jobsyn.org/412C5FBF0C0F46329F5573AA9DAC5636206",
-    "Location": "SEATTLE, WA",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "5BC6F39DA9074CF084128E1BBCDC3C5A206",
+    "JvID": "9CB633F556E94BA68A9AADEDB5A59A47206",
     "JobTitle": "Pharmacy Services Technician I",
     "Company": "Cambia Health Solutions",
-    "DatePosted": "2023-3-14 10:30 PM",
-    "Url": "https://de.jobsyn.org/5BC6F39DA9074CF084128E1BBCDC3C5A206",
+    "DatePosted": "2023-3-17 10:24 PM",
+    "Url": "https://de.jobsyn.org/9CB633F556E94BA68A9AADEDB5A59A47206",
     "Location": "Seattle, WA",
     "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "B67F544DEBDC440F9CE612991BCD6531206",
-    "JobTitle": "STERILIZATION DENTAL ASSISTANT (DENTAL ASSISTANT 2)",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-11 3:16 AM",
-    "Url": "https://de.jobsyn.org/B67F544DEBDC440F9CE612991BCD6531206",
-    "Location": "Seattle, WA",
-    "OnetCode": "31-9091.00"
   },
   {
     "JvID": "FFA86D3F60C64550918CECC3882ABD18206",
@@ -3777,6 +3777,15 @@
     "DatePosted": "2023-2-23 1:57 AM",
     "Url": "https://de.jobsyn.org/DCBE5093EA87483582EB52C0141983F4206",
     "Location": "Seattle - White Center, WA",
+    "OnetCode": "31-9091.00"
+  },
+  {
+    "JvID": "1E19A7D5621E4B73BB590C0361A49B92206",
+    "JobTitle": "DENTAL ASSISTANT - ORAL RADIOLOGY (DENTAL XRAY TECHNICIAN 2)",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-2 6:28 AM",
+    "Url": "https://de.jobsyn.org/1E19A7D5621E4B73BB590C0361A49B92206",
+    "Location": "Seattle, WA",
     "OnetCode": "31-9091.00"
   },
   {
@@ -3870,6 +3879,15 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "8C575ECB2371491593A4F8B4D119E8AC206",
+    "JobTitle": "Sr. Software Development Engineer",
+    "Company": "Highspot, Inc.",
+    "DatePosted": "2023-3-17 10:24 PM",
+    "Url": "https://de.jobsyn.org/8C575ECB2371491593A4F8B4D119E8AC206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "0010305C18194A52A49603F7A24C3865206",
     "JobTitle": "Software Development Engineer II",
     "Company": "Remitly, Inc.",
@@ -3884,15 +3902,6 @@
     "Company": "Remitly, Inc.",
     "DatePosted": "2023-3-2 11:00 PM",
     "Url": "https://de.jobsyn.org/AB99B89ADB1A47718182827971ED716C206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "46661215FD60442FA6B11A70BA42182F206",
-    "JobTitle": "Software Development Engineer",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-5 10:57 PM",
-    "Url": "https://de.jobsyn.org/46661215FD60442FA6B11A70BA42182F206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1252.00"
   },
@@ -3915,11 +3924,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "F4F7EF007E2843388564BFE311709878206",
-    "JobTitle": "Software Development Engineer",
-    "Company": "ZILLOW  INC",
-    "DatePosted": "2023-2-14 11:19 PM",
-    "Url": "https://de.jobsyn.org/F4F7EF007E2843388564BFE311709878206",
+    "JvID": "207932D2EEE54F129D7C702DC5856A73206",
+    "JobTitle": "Software Developer Staff",
+    "Company": "Moss Adams LLP",
+    "DatePosted": "2023-3-18 2:25 AM",
+    "Url": "https://de.jobsyn.org/207932D2EEE54F129D7C702DC5856A73206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1252.00"
   },
@@ -3947,15 +3956,6 @@
     "Company": "Amazon Corporate LLC",
     "DatePosted": "2023-2-6 10:44 PM",
     "Url": "https://de.jobsyn.org/4775C7049989476A8B4ABFBE38D0005F206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "61AE9BD8002E49BCA12B29F5AA34AAA3206",
-    "JobTitle": "Software Development Engineer II",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-5 10:58 PM",
-    "Url": "https://de.jobsyn.org/61AE9BD8002E49BCA12B29F5AA34AAA3206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1252.00"
   },
@@ -4023,6 +4023,15 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "DA3ACEDB32764B34B78D3F761DF758E0206",
+    "JobTitle": "Senior Software Developer",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-2-6 10:54 PM",
+    "Url": "https://de.jobsyn.org/DA3ACEDB32764B34B78D3F761DF758E0206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "24B0C699F1DE4765A6D7FB5E59D9FBF3206",
     "JobTitle": "Deloitte Digital: Webmaster & Digital Strategist - National_Office",
     "Company": "Deloitte",
@@ -4037,6 +4046,24 @@
     "Company": "Fred Hutchinson Cancer Research Center",
     "DatePosted": "2023-3-16 7:14 AM",
     "Url": "https://de.jobsyn.org/D3C27201B0C04B0B858DAE02C8A17DA3206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1161.01"
+  },
+  {
+    "JvID": "14AC4A39282646E6B60C83753194FBF1206",
+    "JobTitle": "Digital Marketing Specialist (Remote)",
+    "Company": "Cengage Group",
+    "DatePosted": "2023-3-17 4:40 AM",
+    "Url": "https://de.jobsyn.org/14AC4A39282646E6B60C83753194FBF1206",
+    "Location": "Seattle, WA",
+    "OnetCode": "13-1161.01"
+  },
+  {
+    "JvID": "A1FAB3D691DA413EAD96FA2F62EDB1F7206",
+    "JobTitle": "Senior Analyst, eCommerce Analytics",
+    "Company": "Newell Brands",
+    "DatePosted": "2023-3-14 3:20 AM",
+    "Url": "https://de.jobsyn.org/A1FAB3D691DA413EAD96FA2F62EDB1F7206",
     "Location": "Seattle, WA",
     "OnetCode": "13-1161.01"
   },
@@ -4185,6 +4212,15 @@
     "OnetCode": "13-1161.01"
   },
   {
+    "JvID": "F9A86C9269A34AAE8FE5F85C50A3BD67206",
+    "JobTitle": "END DEVICE SUPPORT SPECIALIST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-17 3:42 AM",
+    "Url": "https://de.jobsyn.org/F9A86C9269A34AAE8FE5F85C50A3BD67206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
     "JvID": "40DBA1DE195B442197882D743FB490CD206",
     "JobTitle": "SENIOR COMPUTER SPECIALIST",
     "Company": "University of Washington",
@@ -4194,20 +4230,20 @@
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "2C210BE87DD64902ACBCB9265ED4CCAE206",
-    "JobTitle": "IT Support Specialist",
-    "Company": "ZGF Architects LLP",
-    "DatePosted": "2023-3-8 10:32 PM",
-    "Url": "https://de.jobsyn.org/2C210BE87DD64902ACBCB9265ED4CCAE206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
     "JvID": "2871DD67ACC445089F134EFF8AABFA2A206",
     "JobTitle": "SENIOR COMPUTER SPECIALIST",
     "Company": "University of Washington",
     "DatePosted": "2023-2-9 2:49 AM",
     "Url": "https://de.jobsyn.org/2871DD67ACC445089F134EFF8AABFA2A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "2C210BE87DD64902ACBCB9265ED4CCAE206",
+    "JobTitle": "IT Support Specialist",
+    "Company": "ZGF Architects LLP",
+    "DatePosted": "2023-3-8 10:32 PM",
+    "Url": "https://de.jobsyn.org/2C210BE87DD64902ACBCB9265ED4CCAE206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1232.00"
   },
@@ -4251,7 +4287,7 @@
     "JvID": "6DBC1609D6184975B42ED324D0B5B7BF206",
     "JobTitle": "SENIOR COMPUTER SPECIALIST",
     "Company": "University of Washington",
-    "DatePosted": "2023-3-2 4:32 AM",
+    "DatePosted": "2023-3-2 6:28 AM",
     "Url": "https://de.jobsyn.org/6DBC1609D6184975B42ED324D0B5B7BF206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1232.00"
@@ -4262,6 +4298,24 @@
     "Company": "Motorola Solutions",
     "DatePosted": "2023-3-10 10:25 PM",
     "Url": "https://de.jobsyn.org/10DA1931C5CB461D94E7231668EE5CD4206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "C7EAC49402684DA7A0DDBA5FFC71C9FB206",
+    "JobTitle": "SENIOR SECURITY SPECIALIST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-2-25 5:21 AM",
+    "Url": "https://de.jobsyn.org/C7EAC49402684DA7A0DDBA5FFC71C9FB206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "53721FC8117D4FC38499FC1C73A99662206",
+    "JobTitle": "SECURITY SPECIALIST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-2-25 5:21 AM",
+    "Url": "https://de.jobsyn.org/53721FC8117D4FC38499FC1C73A99662206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1232.00"
   },
@@ -4302,112 +4356,94 @@
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "6DBE9E57C316495BB12C4BA8F82EE35C206",
-    "JobTitle": "Customer Support Specialist",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-3-16 10:23 PM",
-    "Url": "https://de.jobsyn.org/6DBE9E57C316495BB12C4BA8F82EE35C206",
+    "JvID": "E1611E21709C49DE92C7E86E2FEC5BD2206",
+    "JobTitle": "Technical Support Specialist",
+    "Company": "Renaissance",
+    "DatePosted": "2023-3-18 5:22 AM",
+    "Url": "https://de.jobsyn.org/E1611E21709C49DE92C7E86E2FEC5BD2206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "6EFC450177C64595A2E32A9526BD053A206",
-    "JobTitle": "Field Technical Support",
-    "Company": "Bucher & Christian Consulting, Inc. dba BCforward (BCF)",
-    "DatePosted": "2023-3-16 10:24 PM",
-    "Url": "https://de.jobsyn.org/6EFC450177C64595A2E32A9526BD053A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "C04A0FBB230C4BF0A25378B2075EED77206",
-    "JobTitle": "Customer Success Coordinator II - edo",
-    "Company": "McKinstry",
-    "DatePosted": "2023-3-17 1:10 AM",
-    "Url": "https://de.jobsyn.org/C04A0FBB230C4BF0A25378B2075EED77206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "2B7028A322D741C9AAFB9F36617667E1206",
-    "JobTitle": "Field Service Technician",
-    "Company": "Motion Recruitment Partners",
-    "DatePosted": "2023-3-16 3:21 AM",
-    "Url": "https://de.jobsyn.org/2B7028A322D741C9AAFB9F36617667E1206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "5715E28B116E48C9A50B7C411C1BF855206",
-    "JobTitle": "representative, Partner Contact Center",
-    "Company": "Starbucks Coffee Company",
-    "DatePosted": "2023-3-15 11:53 PM",
-    "Url": "https://de.jobsyn.org/5715E28B116E48C9A50B7C411C1BF855206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "A8B434B4E7EE4AACB6053F5E57AA1FCB206",
-    "JobTitle": "POS And Network Support Analyst",
-    "Company": "TEKsystems",
-    "DatePosted": "2023-3-15 5:00 AM",
-    "Url": "https://de.jobsyn.org/A8B434B4E7EE4AACB6053F5E57AA1FCB206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "46ECA6E7AC624E8BB9FD9D29095C6286206",
-    "JobTitle": "Product Support Specialist Hybrid",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-16 4:24 AM",
-    "Url": "https://de.jobsyn.org/46ECA6E7AC624E8BB9FD9D29095C6286206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "DC376824A0704A10B8BFF83C5314DA31206",
-    "JobTitle": "Software Asset Manager",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-16 4:39 AM",
-    "Url": "https://de.jobsyn.org/DC376824A0704A10B8BFF83C5314DA31206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "C51B2E9917A74B05B99A8FCE4438AE51206",
-    "JobTitle": "Support Engineer III",
-    "Company": "TEKsystems",
-    "DatePosted": "2023-3-15 5:00 AM",
-    "Url": "https://de.jobsyn.org/C51B2E9917A74B05B99A8FCE4438AE51206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "E0D751203E9746D7B498B26F5DD42805206",
-    "JobTitle": "ENTERPRISE SERVICE CENTER REPRESENTATIVE",
+    "JvID": "DFC66F95826B47C4873D7363DE7C1D9F206",
+    "JobTitle": "SERVICENOW CMDB PROCESS ANALYST",
     "Company": "University of Washington",
-    "DatePosted": "2023-3-16 2:34 AM",
-    "Url": "https://de.jobsyn.org/E0D751203E9746D7B498B26F5DD42805206",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/DFC66F95826B47C4873D7363DE7C1D9F206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "AA9CCE16F0094B2CB6AF36DB4BB16199206",
-    "JobTitle": "REPORTING ANALYST",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-16 2:34 AM",
-    "Url": "https://de.jobsyn.org/AA9CCE16F0094B2CB6AF36DB4BB16199206",
+    "JvID": "611F2A92D70249F390DD4A76E9751BA0206",
+    "JobTitle": "Technical Support",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/611F2A92D70249F390DD4A76E9751BA0206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "49A42A5F825840CF94B455DE51C40934206",
-    "JobTitle": "IT Sys Analyst - 1332067",
-    "Company": "Apex Systems, Inc.",
-    "DatePosted": "2023-3-15 10:29 PM",
-    "Url": "https://de.jobsyn.org/49A42A5F825840CF94B455DE51C40934206",
+    "JvID": "059D5A3A976C41359597CC15BFD99CC1206",
+    "JobTitle": "Technical Support Specialist",
+    "Company": "Renaissance",
+    "DatePosted": "2023-3-18 5:22 AM",
+    "Url": "https://de.jobsyn.org/059D5A3A976C41359597CC15BFD99CC1206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "4BE9528E7EB5467A863674C6DAD6F73F206",
+    "JobTitle": "Customer Support Representative I",
+    "Company": "Renaissance",
+    "DatePosted": "2023-3-18 5:22 AM",
+    "Url": "https://de.jobsyn.org/4BE9528E7EB5467A863674C6DAD6F73F206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "20A9EBED59F64A5CAF5473293E0D735D206",
+    "JobTitle": "Cloud Support Engineer (Japanese Proficiency)",
+    "Company": "Amazon Web Services",
+    "DatePosted": "2023-3-18 2:15 AM",
+    "Url": "https://de.jobsyn.org/20A9EBED59F64A5CAF5473293E0D735D206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "AAB8F99EA39449B3B20A096F8DE87486206",
+    "JobTitle": "Cloud Support Engineer (Japanese Proficiency)",
+    "Company": "Amazon Web Services",
+    "DatePosted": "2023-3-18 2:15 AM",
+    "Url": "https://de.jobsyn.org/AAB8F99EA39449B3B20A096F8DE87486206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "D982925DC038479484FD364891ABE396206",
+    "JobTitle": "Infrastructure Analyst",
+    "Company": "CommonSpirit Health",
+    "DatePosted": "2023-3-18 12:25 AM",
+    "Url": "https://de.jobsyn.org/D982925DC038479484FD364891ABE396206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "AC1E8CD5224C4E2B9D609466476D32D2206",
+    "JobTitle": "IT Helpdesk Support Specialist",
+    "Company": "Reynolds & Reynolds",
+    "DatePosted": "2023-3-17 11:40 PM",
+    "Url": "https://de.jobsyn.org/AC1E8CD5224C4E2B9D609466476D32D2206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "30D0F866F55F450FB0ABAB24111A9EA5206",
+    "JobTitle": "Sr. Technical Analyst - Adobe Experience Manager",
+    "Company": "Splunk, Inc.",
+    "DatePosted": "2023-3-17 10:28 PM",
+    "Url": "https://de.jobsyn.org/30D0F866F55F450FB0ABAB24111A9EA5206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1211.00"
   },
   {
     "JvID": "88091E9A6BB44A99B7A865578920441A206",
@@ -4428,20 +4464,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "5B16558CF9304DADB7510651C2C0FAA2206",
-    "JobTitle": "business analysis - business analyst i",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-16 5:35 AM",
-    "Url": "https://de.jobsyn.org/5B16558CF9304DADB7510651C2C0FAA2206",
-    "Location": "seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "0620E7C322154FE59297077B8432903A206",
-    "JobTitle": "Clinical Analyst",
-    "Company": "CTG",
-    "DatePosted": "2023-3-10 5:13 AM",
-    "Url": "https://de.jobsyn.org/0620E7C322154FE59297077B8432903A206",
+    "JvID": "DFC66F95826B47C4873D7363DE7C1D9F206",
+    "JobTitle": "SERVICENOW CMDB PROCESS ANALYST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/DFC66F95826B47C4873D7363DE7C1D9F206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1211.00"
   },
@@ -4455,11 +4482,47 @@
     "OnetCode": "15-1211.00"
   },
   {
+    "JvID": "0620E7C322154FE59297077B8432903A206",
+    "JobTitle": "Clinical Analyst",
+    "Company": "CTG",
+    "DatePosted": "2023-3-10 5:13 AM",
+    "Url": "https://de.jobsyn.org/0620E7C322154FE59297077B8432903A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1211.00"
+  },
+  {
     "JvID": "16C078E0A40C497B95C4A108C34A5F84206",
     "JobTitle": "Tax - Technology Support - Analyst - TTO",
     "Company": "Deloitte",
     "DatePosted": "2023-2-22 4:12 AM",
     "Url": "https://de.jobsyn.org/16C078E0A40C497B95C4A108C34A5F84206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "D60CC846080545C48408C3B38C887F9A206",
+    "JobTitle": "68124 Technology Consultant, Database Architect",
+    "Company": "Slalom, Inc",
+    "DatePosted": "2023-3-17 10:24 PM",
+    "Url": "https://de.jobsyn.org/D60CC846080545C48408C3B38C887F9A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "5B16558CF9304DADB7510651C2C0FAA2206",
+    "JobTitle": "business analysis - business analyst i",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-16 5:35 AM",
+    "Url": "https://de.jobsyn.org/5B16558CF9304DADB7510651C2C0FAA2206",
+    "Location": "seattle, WA",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "C536E33DE24245CDA58F96E7AC8A7C54206",
+    "JobTitle": "Business Systems Analyst ll",
+    "Company": "Darigold",
+    "DatePosted": "2023-2-22 11:21 PM",
+    "Url": "https://de.jobsyn.org/C536E33DE24245CDA58F96E7AC8A7C54206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1211.00"
   },
@@ -4482,15 +4545,6 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "C536E33DE24245CDA58F96E7AC8A7C54206",
-    "JobTitle": "Business Systems Analyst ll",
-    "Company": "Darigold",
-    "DatePosted": "2023-2-22 11:21 PM",
-    "Url": "https://de.jobsyn.org/C536E33DE24245CDA58F96E7AC8A7C54206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "3CC7882236F14B6C93191A38DE767A0B206",
     "JobTitle": "business systems analyst iii",
     "Company": "Randstad US",
@@ -4500,29 +4554,20 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "E8E32E8229794D7FAE351B14E3E1794A206",
-    "JobTitle": "BUSINESS ANALYST",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-16 2:34 AM",
-    "Url": "https://de.jobsyn.org/E8E32E8229794D7FAE351B14E3E1794A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "4732F86DC3E445D494F502B3F9450AB4206",
-    "JobTitle": "Sr. Payroll Analyst",
-    "Company": "CTG",
-    "DatePosted": "2023-3-14 3:01 AM",
-    "Url": "https://de.jobsyn.org/4732F86DC3E445D494F502B3F9450AB4206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "1B848871E88247CDB2DE42BC462A77DC206",
     "JobTitle": "Business Analyst",
     "Company": "Amazon Corporate LLC",
     "DatePosted": "2023-2-7 10:53 PM",
     "Url": "https://de.jobsyn.org/1B848871E88247CDB2DE42BC462A77DC206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "E8E32E8229794D7FAE351B14E3E1794A206",
+    "JobTitle": "BUSINESS ANALYST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-16 2:34 AM",
+    "Url": "https://de.jobsyn.org/E8E32E8229794D7FAE351B14E3E1794A206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1211.00"
   },
@@ -4536,11 +4581,29 @@
     "OnetCode": "15-1211.00"
   },
   {
+    "JvID": "4732F86DC3E445D494F502B3F9450AB4206",
+    "JobTitle": "Sr. Payroll Analyst",
+    "Company": "CTG",
+    "DatePosted": "2023-3-14 3:01 AM",
+    "Url": "https://de.jobsyn.org/4732F86DC3E445D494F502B3F9450AB4206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1211.00"
+  },
+  {
     "JvID": "DC672F4BA1FA4AE7867CC36C99273940206",
     "JobTitle": "Senior Data Analyst (Hybrid) - PINKERTONR4353",
     "Company": "Pinkerton Consulting & Investigations, Inc.",
     "DatePosted": "2023-2-21 11:45 PM",
     "Url": "https://de.jobsyn.org/DC672F4BA1FA4AE7867CC36C99273940206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "B8138587DE594917B7361C93A0AA9069206",
+    "JobTitle": "Reporting Analyst- Product Team",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-2 6:29 AM",
+    "Url": "https://de.jobsyn.org/B8138587DE594917B7361C93A0AA9069206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1211.00"
   },
@@ -4554,11 +4617,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "B8138587DE594917B7361C93A0AA9069206",
-    "JobTitle": "Reporting Analyst- Product Team",
+    "JvID": "5DDCB182E12546E78666FDEB29998301206",
+    "JobTitle": "REPORTING ANALYST- Dev Team",
     "Company": "University of Washington",
-    "DatePosted": "2023-3-2 4:32 AM",
-    "Url": "https://de.jobsyn.org/B8138587DE594917B7361C93A0AA9069206",
+    "DatePosted": "2023-2-25 5:21 AM",
+    "Url": "https://de.jobsyn.org/5DDCB182E12546E78666FDEB29998301206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1211.00"
   },
@@ -4568,15 +4631,6 @@
     "Company": "University of Washington",
     "DatePosted": "2023-3-15 3:10 AM",
     "Url": "https://de.jobsyn.org/3438C8AE04AB4E7EA7A02F19089184E6206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "5DDCB182E12546E78666FDEB29998301206",
-    "JobTitle": "REPORTING ANALYST- Dev Team",
-    "Company": "University of Washington",
-    "DatePosted": "2023-2-25 5:21 AM",
-    "Url": "https://de.jobsyn.org/5DDCB182E12546E78666FDEB29998301206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1211.00"
   },
@@ -4608,33 +4662,6 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "D8BA0B1BFC92455D995A3408D621ED0A206",
-    "JobTitle": "Senior Data Analyst (Hybrid)",
-    "Company": "Pinkerton ",
-    "DatePosted": "2023-2-21 5:49 AM",
-    "Url": "https://de.jobsyn.org/D8BA0B1BFC92455D995A3408D621ED0A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "9C14DCF4270B4D5B9E5AE53E509C6251206",
-    "JobTitle": "Senior Data Analyst - Emergency Department Analytics",
-    "Company": "Seattle Children\u2019s Hospital",
-    "DatePosted": "2023-2-12 10:57 PM",
-    "Url": "https://de.jobsyn.org/9C14DCF4270B4D5B9E5AE53E509C6251206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "E78B5922A9CF4CB4814F83BAC95CAB30206",
-    "JobTitle": "SERVICE DESK ANALYST",
-    "Company": "University of Washington",
-    "DatePosted": "2023-2-16 3:09 AM",
-    "Url": "https://de.jobsyn.org/E78B5922A9CF4CB4814F83BAC95CAB30206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "A19B2B3EA25B4DDB9B86C329CE6A718C206",
     "JobTitle": "Senior Solutions Architect, Amazon Distribution and Fulfillment Solutions",
     "Company": "Amazon Corporate LLC",
@@ -4644,20 +4671,20 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "ED7CFFEEAEC341FA900486CF20CF2416206",
-    "JobTitle": "Lead Principal Software Engineer II - telecommute",
-    "Company": "Roche Diagnostics Seattle, Inc.",
-    "DatePosted": "2023-3-13 10:25 PM",
-    "Url": "https://de.jobsyn.org/ED7CFFEEAEC341FA900486CF20CF2416206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "B36C3563EC9A49D4B322014BBC41A48A206",
     "JobTitle": "Sr Staff Engineer, Backend Architect",
     "Company": "Uber Technologies, Inc.",
     "DatePosted": "2023-2-10 11:23 PM",
     "Url": "https://de.jobsyn.org/B36C3563EC9A49D4B322014BBC41A48A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "ED7CFFEEAEC341FA900486CF20CF2416206",
+    "JobTitle": "Lead Principal Software Engineer II - telecommute",
+    "Company": "Roche Diagnostics Seattle, Inc.",
+    "DatePosted": "2023-3-13 10:25 PM",
+    "Url": "https://de.jobsyn.org/ED7CFFEEAEC341FA900486CF20CF2416206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1299.08"
   },
@@ -4689,11 +4716,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "026EDA89576C49ED9C9E4B7F161E019B206",
-    "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
+    "JvID": "D3FECF360DBC40C095BC38A23C58F5CF206",
+    "JobTitle": "3D Simulation Solutions Architect",
     "Company": "Deloitte",
-    "DatePosted": "2023-3-16 3:54 AM",
-    "Url": "https://de.jobsyn.org/026EDA89576C49ED9C9E4B7F161E019B206",
+    "DatePosted": "2023-3-4 4:25 AM",
+    "Url": "https://de.jobsyn.org/D3FECF360DBC40C095BC38A23C58F5CF206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1299.08"
   },
@@ -4707,11 +4734,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "D3FECF360DBC40C095BC38A23C58F5CF206",
-    "JobTitle": "3D Simulation Solutions Architect",
+    "JvID": "026EDA89576C49ED9C9E4B7F161E019B206",
+    "JobTitle": "Full Stack Java Architect / Virtual / No Sponsorship Provided",
     "Company": "Deloitte",
-    "DatePosted": "2023-3-4 4:25 AM",
-    "Url": "https://de.jobsyn.org/D3FECF360DBC40C095BC38A23C58F5CF206",
+    "DatePosted": "2023-3-16 3:54 AM",
+    "Url": "https://de.jobsyn.org/026EDA89576C49ED9C9E4B7F161E019B206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1299.08"
   },
@@ -4725,20 +4752,29 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "C115CD56C985471E9EA95174B86F3177206",
-    "JobTitle": "GCP Cloud Architect",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-16 4:39 AM",
-    "Url": "https://de.jobsyn.org/C115CD56C985471E9EA95174B86F3177206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "184EC431E83A4ACB9CBBE98AA5661FD5206",
     "JobTitle": "Senior Hardware Dev Engineer, HWEng - Accelerated Server Platform Development",
     "Company": "Amazon Corporate LLC",
     "DatePosted": "2023-3-9 10:37 PM",
     "Url": "https://de.jobsyn.org/184EC431E83A4ACB9CBBE98AA5661FD5206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "D60CC846080545C48408C3B38C887F9A206",
+    "JobTitle": "68124 Technology Consultant, Database Architect",
+    "Company": "Slalom, Inc",
+    "DatePosted": "2023-3-17 10:24 PM",
+    "Url": "https://de.jobsyn.org/D60CC846080545C48408C3B38C887F9A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "C115CD56C985471E9EA95174B86F3177206",
+    "JobTitle": "GCP Cloud Architect",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-16 4:39 AM",
+    "Url": "https://de.jobsyn.org/C115CD56C985471E9EA95174B86F3177206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1299.08"
   },
@@ -4752,29 +4788,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "6A76C87AB1374326A16A4F4DF57BAAE8206",
-    "JobTitle": "Kafka Architect (Client Facing)",
-    "Company": "TEKsystems",
-    "DatePosted": "2023-3-14 3:20 AM",
-    "Url": "https://de.jobsyn.org/6A76C87AB1374326A16A4F4DF57BAAE8206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "4031FD2F96D1406DB26F907C99D52328206",
     "JobTitle": "SAP Architect Specialist - McKinsey Digital",
     "Company": "McKinsey & Company",
     "DatePosted": "2023-2-10 11:17 PM",
     "Url": "https://de.jobsyn.org/4031FD2F96D1406DB26F907C99D52328206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "AA2156036E6F4CB7B7161E4B35AAF848206",
-    "JobTitle": "Solutions Architect, Amazon Pay",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-5 11:02 PM",
-    "Url": "https://de.jobsyn.org/AA2156036E6F4CB7B7161E4B35AAF848206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1299.08"
   },
@@ -4842,6 +4860,15 @@
     "OnetCode": "15-1299.08"
   },
   {
+    "JvID": "38C582A00127422DA653721473EEBBE3206",
+    "JobTitle": "Consulting Architect",
+    "Company": "ElasticSearch Inc.",
+    "DatePosted": "2023-2-18 11:44 PM",
+    "Url": "https://de.jobsyn.org/38C582A00127422DA653721473EEBBE3206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1299.08"
+  },
+  {
     "JvID": "CEA849F6633841DE88284E501C5487C7206",
     "JobTitle": "Engineering System Support Consultant",
     "Company": "WSP USA",
@@ -4851,11 +4878,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "B9CE0C8E18184125BA92044CD7AA2D5B206",
-    "JobTitle": "Senior Computing Architect",
-    "Company": "The Boeing Company",
-    "DatePosted": "2023-3-17 12:09 AM",
-    "Url": "https://de.jobsyn.org/B9CE0C8E18184125BA92044CD7AA2D5B206",
+    "JvID": "6C9A315612654BEB8A055B32F0B36391206",
+    "JobTitle": "Senior Software Engineer-Open to Locations",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-2-6 10:46 PM",
+    "Url": "https://de.jobsyn.org/6C9A315612654BEB8A055B32F0B36391206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1299.08"
   },
@@ -4887,15 +4914,6 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "49A42A5F825840CF94B455DE51C40934206",
-    "JobTitle": "IT Sys Analyst - 1332067",
-    "Company": "Apex Systems, Inc.",
-    "DatePosted": "2023-3-15 10:29 PM",
-    "Url": "https://de.jobsyn.org/49A42A5F825840CF94B455DE51C40934206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1212.00"
-  },
-  {
     "JvID": "25F29BEA427D4D5BB454BCCA0BFBBE07206",
     "JobTitle": "Senior Security Engineer, Information Systems (Remote, WA)",
     "Company": "HomeStreet Bank",
@@ -4905,20 +4923,20 @@
     "OnetCode": "15-1212.00"
   },
   {
+    "JvID": "49A42A5F825840CF94B455DE51C40934206",
+    "JobTitle": "IT Sys Analyst - 1332067",
+    "Company": "Apex Systems, Inc.",
+    "DatePosted": "2023-3-15 10:29 PM",
+    "Url": "https://de.jobsyn.org/49A42A5F825840CF94B455DE51C40934206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1212.00"
+  },
+  {
     "JvID": "DC672F4BA1FA4AE7867CC36C99273940206",
     "JobTitle": "Senior Data Analyst (Hybrid) - PINKERTONR4353",
     "Company": "Pinkerton Consulting & Investigations, Inc.",
     "DatePosted": "2023-2-21 11:45 PM",
     "Url": "https://de.jobsyn.org/DC672F4BA1FA4AE7867CC36C99273940206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1212.00"
-  },
-  {
-    "JvID": "B5BC17509AB34586BD01BF12058254C1206",
-    "JobTitle": "Computer Support Analyst 2",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-2 4:32 AM",
-    "Url": "https://de.jobsyn.org/B5BC17509AB34586BD01BF12058254C1206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1212.00"
   },
@@ -4950,15 +4968,6 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "3438C8AE04AB4E7EA7A02F19089184E6206",
-    "JobTitle": "SENIOR COMPUTER SPECIALIST",
-    "Company": "University of Washington",
-    "DatePosted": "2023-3-15 3:10 AM",
-    "Url": "https://de.jobsyn.org/3438C8AE04AB4E7EA7A02F19089184E6206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1212.00"
-  },
-  {
     "JvID": "0DE54E06BCBE4637AEA31405312FEA63206",
     "JobTitle": "Manager, Security Monitoring Operations",
     "Company": "KPMG",
@@ -4977,6 +4986,33 @@
     "OnetCode": "15-1212.00"
   },
   {
+    "JvID": "F98FF5D3715840268082711FC9A55404206",
+    "JobTitle": "SENIOR SECURITY ENGINEER",
+    "Company": "University of Washington",
+    "DatePosted": "2023-2-25 5:21 AM",
+    "Url": "https://de.jobsyn.org/F98FF5D3715840268082711FC9A55404206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "3438C8AE04AB4E7EA7A02F19089184E6206",
+    "JobTitle": "SENIOR COMPUTER SPECIALIST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-3-15 3:10 AM",
+    "Url": "https://de.jobsyn.org/3438C8AE04AB4E7EA7A02F19089184E6206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "C7EAC49402684DA7A0DDBA5FFC71C9FB206",
+    "JobTitle": "SENIOR SECURITY SPECIALIST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-2-25 5:21 AM",
+    "Url": "https://de.jobsyn.org/C7EAC49402684DA7A0DDBA5FFC71C9FB206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1212.00"
+  },
+  {
     "JvID": "B5682A346A144D82AAA0B1769C7AF7E2206",
     "JobTitle": "Senior Data Analyst",
     "Company": "Uber Technologies, Inc.",
@@ -4986,20 +5022,20 @@
     "OnetCode": "15-1212.00"
   },
   {
+    "JvID": "53721FC8117D4FC38499FC1C73A99662206",
+    "JobTitle": "SECURITY SPECIALIST",
+    "Company": "University of Washington",
+    "DatePosted": "2023-2-25 5:21 AM",
+    "Url": "https://de.jobsyn.org/53721FC8117D4FC38499FC1C73A99662206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-1212.00"
+  },
+  {
     "JvID": "F3C80C32FC094808A6E839DCA40116BF206",
     "JobTitle": "Security Analyst, Anti Scraping Investigation",
     "Company": "Meta",
     "DatePosted": "2023-2-16 3:07 AM",
     "Url": "https://de.jobsyn.org/F3C80C32FC094808A6E839DCA40116BF206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-1212.00"
-  },
-  {
-    "JvID": "AFB957B5D99643AD9CAA9DF033ABDDFA206",
-    "JobTitle": "Principal Security Analyst and Research Engineer",
-    "Company": "Splunk",
-    "DatePosted": "2023-2-17 3:43 AM",
-    "Url": "https://de.jobsyn.org/AFB957B5D99643AD9CAA9DF033ABDDFA206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1212.00"
   },
@@ -5052,7 +5088,7 @@
     "JvID": "3C8D901D5D754D5DAF89278A55460347206",
     "JobTitle": "Security Architect - Government and Public Sector",
     "Company": "EY",
-    "DatePosted": "2023-3-9 12:58 AM",
+    "DatePosted": "2023-3-9 1:11 AM",
     "Url": "https://de.jobsyn.org/3C8D901D5D754D5DAF89278A55460347206",
     "Location": "Seattle, WA",
     "OnetCode": "15-1212.00"
@@ -5076,13 +5112,22 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "FF44B3013A764B4B927BCBDD088C6772206",
-    "JobTitle": "Group Leader- Cyber Resilience Foundations (Cyber Security Researcher 5)",
-    "Company": "Pacific Northwest National Laboratory",
-    "DatePosted": "2023-3-16 5:13 AM",
-    "Url": "https://de.jobsyn.org/FF44B3013A764B4B927BCBDD088C6772206",
+    "JvID": "71A9F501857A4B9B99A57BA11AB40DF4206",
+    "JobTitle": "Software Development Engineer, Alexa Shopping",
+    "Company": "Amazon Corporate LLC",
+    "DatePosted": "2023-3-17 10:25 PM",
+    "Url": "https://de.jobsyn.org/71A9F501857A4B9B99A57BA11AB40DF4206",
     "Location": "Seattle, WA",
-    "OnetCode": "15-1212.00"
+    "OnetCode": "17-2112.01"
+  },
+  {
+    "JvID": "D54D334611334568A2D0BA8E7C176340206",
+    "JobTitle": "Principal UX Researcher",
+    "Company": "C.H. Robinson",
+    "DatePosted": "2023-3-17 2:30 AM",
+    "Url": "https://de.jobsyn.org/D54D334611334568A2D0BA8E7C176340206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2112.01"
   },
   {
     "JvID": "DBA2DAF1B1244F5AAB17C3E1D65E9A2A206",
@@ -5122,9 +5167,9 @@
   },
   {
     "JvID": "2D9A720F29114586ADB6D34FFF795A40206",
-    "JobTitle": "Sr Product Designer, Content Discovery",
+    "JobTitle": "Sr Product Designer",
     "Company": "Warner Bros. Discovery",
-    "DatePosted": "2023-3-10 3:16 AM",
+    "DatePosted": "2023-3-10 3:24 AM",
     "Url": "https://de.jobsyn.org/2D9A720F29114586ADB6D34FFF795A40206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2112.01"
@@ -5292,24 +5337,6 @@
     "OnetCode": "17-2112.01"
   },
   {
-    "JvID": "52EE481FF38443D89517C1119AE854B7206",
-    "JobTitle": "Senior UX designer",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-7 10:55 PM",
-    "Url": "https://de.jobsyn.org/52EE481FF38443D89517C1119AE854B7206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.01"
-  },
-  {
-    "JvID": "FC4E11901A2348E4851A82BB34DF6706206",
-    "JobTitle": "Senior UX Designer - Digital Customer Acquisition and Engagement (Level 6) , Dig",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-5 11:06 PM",
-    "Url": "https://de.jobsyn.org/FC4E11901A2348E4851A82BB34DF6706206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.01"
-  },
-  {
     "JvID": "D4208A2CC2994072843C8E3F66E7582F206",
     "JobTitle": "Senior Industrial Engineer (Network Design)",
     "Company": "Nordstrom",
@@ -5355,6 +5382,15 @@
     "OnetCode": "17-2112.00"
   },
   {
+    "JvID": "23AB8A2B86704A7CB77D1EB4BD56DB72206",
+    "JobTitle": "Mechanical Engineer III",
+    "Company": "Belcan",
+    "DatePosted": "2023-3-17 6:18 AM",
+    "Url": "https://de.jobsyn.org/23AB8A2B86704A7CB77D1EB4BD56DB72206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2112.00"
+  },
+  {
     "JvID": "59D29FA380134890AAD2AA0B1480DB41206",
     "JobTitle": "Quality Assurance Tech II",
     "Company": "Belcan Corp",
@@ -5373,20 +5409,29 @@
     "OnetCode": "17-2112.00"
   },
   {
+    "JvID": "0BA19CA9F5354FBD82E725D331812755206",
+    "JobTitle": "Machinery Breakdown Risk Engineering (Specialist or Consultant)",
+    "Company": "Zurich NA",
+    "DatePosted": "2023-3-14 10:54 PM",
+    "Url": "https://de.jobsyn.org/0BA19CA9F5354FBD82E725D331812755206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "1696D949E9494936A5DD7027C1D3634E206",
+    "JobTitle": "Project Engineer",
+    "Company": "PCL Construction Services, Inc.",
+    "DatePosted": "2023-3-17 10:25 PM",
+    "Url": "https://de.jobsyn.org/1696D949E9494936A5DD7027C1D3634E206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2112.00"
+  },
+  {
     "JvID": "196DD9315CCD40ADA194DD45DBDF42DF206",
     "JobTitle": "Quality Assurance Tech II",
     "Company": "Belcan",
     "DatePosted": "2023-3-15 7:49 AM",
     "Url": "https://de.jobsyn.org/196DD9315CCD40ADA194DD45DBDF42DF206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "EE172E82155D47A998421D940BAA2B7B206",
-    "JobTitle": "Machinery Breakdown Risk Engineering (Specialist or Consultant)",
-    "Company": "Zurich NA",
-    "DatePosted": "2023-3-13 10:51 PM",
-    "Url": "https://de.jobsyn.org/EE172E82155D47A998421D940BAA2B7B206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2112.00"
   },
@@ -5409,6 +5454,15 @@
     "OnetCode": "17-2112.00"
   },
   {
+    "JvID": "A99CEBF5652844EFA180AE6C4DF5AC49206",
+    "JobTitle": "Technical Program Manager",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:11 AM",
+    "Url": "https://de.jobsyn.org/A99CEBF5652844EFA180AE6C4DF5AC49206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2112.00"
+  },
+  {
     "JvID": "42B14A3EA34B412F952277CDB000452F206",
     "JobTitle": "Quality Assurance Tech III",
     "Company": "Belcan Corp",
@@ -5427,20 +5481,20 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "9CB49E664F724CE182D24617AAB2F32D206",
-    "JobTitle": "Electrical Engineer",
-    "Company": "Actalent",
-    "DatePosted": "2023-3-15 3:01 AM",
-    "Url": "https://de.jobsyn.org/9CB49E664F724CE182D24617AAB2F32D206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.00"
-  },
-  {
     "JvID": "EA59BCD6DEE946DEAC802145EC4E8194206",
     "JobTitle": "Senior Facilities Mechanical Engineer (Core Engineering)",
     "Company": "The Boeing Company",
     "DatePosted": "2023-3-11 12:24 AM",
     "Url": "https://de.jobsyn.org/EA59BCD6DEE946DEAC802145EC4E8194206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "9CB49E664F724CE182D24617AAB2F32D206",
+    "JobTitle": "Electrical Engineer",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-15 3:01 AM",
+    "Url": "https://de.jobsyn.org/9CB49E664F724CE182D24617AAB2F32D206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2112.00"
   },
@@ -5454,15 +5508,6 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "0A991C72D0FB41EEAB21BFA554B3EF43206",
-    "JobTitle": "Electrical Engineer",
-    "Company": "Actalent",
-    "DatePosted": "2023-3-14 3:32 AM",
-    "Url": "https://de.jobsyn.org/0A991C72D0FB41EEAB21BFA554B3EF43206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.00"
-  },
-  {
     "JvID": "AF0745FE261E4D3EBFB8B5417C565A37206",
     "JobTitle": "Quality Assurance Tech I",
     "Company": "Belcan Corp",
@@ -5472,11 +5517,11 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "2051B3D113D14DAA901B27A136A29E6A206",
-    "JobTitle": "Senior Facilities Mechanical Engineer (Building Automation Systems)",
-    "Company": "The Boeing Company",
-    "DatePosted": "2023-3-11 12:24 AM",
-    "Url": "https://de.jobsyn.org/2051B3D113D14DAA901B27A136A29E6A206",
+    "JvID": "0A991C72D0FB41EEAB21BFA554B3EF43206",
+    "JobTitle": "Electrical Engineer",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-14 3:32 AM",
+    "Url": "https://de.jobsyn.org/0A991C72D0FB41EEAB21BFA554B3EF43206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2112.00"
   },
@@ -5499,38 +5544,20 @@
     "OnetCode": "17-2112.00"
   },
   {
+    "JvID": "2051B3D113D14DAA901B27A136A29E6A206",
+    "JobTitle": "Senior Facilities Mechanical Engineer (Building Automation Systems)",
+    "Company": "The Boeing Company",
+    "DatePosted": "2023-3-11 12:24 AM",
+    "Url": "https://de.jobsyn.org/2051B3D113D14DAA901B27A136A29E6A206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2112.00"
+  },
+  {
     "JvID": "A9FCD0323DF545B88B7CA254729BFAA6206",
     "JobTitle": "Quality Assurance Tech I",
     "Company": "Belcan",
     "DatePosted": "2023-3-6 10:44 PM",
     "Url": "https://de.jobsyn.org/A9FCD0323DF545B88B7CA254729BFAA6206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "886A6CB33B154A51BF8AD6FD9BE4FA26206",
-    "JobTitle": "Senior Design Engineer",
-    "Company": "Keller Foundations, LLC",
-    "DatePosted": "2023-3-3 7:17 AM",
-    "Url": "https://de.jobsyn.org/886A6CB33B154A51BF8AD6FD9BE4FA26206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "A1ADFA80FFF641CB8A1ED89B84D57D71206",
-    "JobTitle": "Electrical Engineer",
-    "Company": "Actalent",
-    "DatePosted": "2023-3-14 3:32 AM",
-    "Url": "https://de.jobsyn.org/A1ADFA80FFF641CB8A1ED89B84D57D71206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "D5B691C349B5469DB073ABFB0FACEE96206",
-    "JobTitle": "Supplier Quality Engineer",
-    "Company": "Synchronous LLC dba First Mode",
-    "DatePosted": "2023-2-24 12:05 AM",
-    "Url": "https://de.jobsyn.org/D5B691C349B5469DB073ABFB0FACEE96206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2112.00"
   },
@@ -5679,6 +5706,15 @@
     "OnetCode": "17-2112.03"
   },
   {
+    "JvID": "59CDB49F4C964DF292B20D593D30FC3C206",
+    "JobTitle": "Mechanical Engineer",
+    "Company": "Exponent",
+    "DatePosted": "2023-3-17 10:27 PM",
+    "Url": "https://de.jobsyn.org/59CDB49F4C964DF292B20D593D30FC3C206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2141.00"
+  },
+  {
     "JvID": "F56AF7F30B564FE4832D6B0072010B85206",
     "JobTitle": "Mechanical Engineer",
     "Company": "Exponent",
@@ -5688,11 +5724,11 @@
     "OnetCode": "17-2141.00"
   },
   {
-    "JvID": "C361D9BF7BDE4AEEBD93EFF87757F49B206",
-    "JobTitle": "Mechanical Engineer (CAD)",
-    "Company": "Kelly Services",
-    "DatePosted": "2023-3-16 11:04 AM",
-    "Url": "https://de.jobsyn.org/C361D9BF7BDE4AEEBD93EFF87757F49B206",
+    "JvID": "23AB8A2B86704A7CB77D1EB4BD56DB72206",
+    "JobTitle": "Mechanical Engineer III",
+    "Company": "Belcan",
+    "DatePosted": "2023-3-17 6:18 AM",
+    "Url": "https://de.jobsyn.org/23AB8A2B86704A7CB77D1EB4BD56DB72206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2141.00"
   },
@@ -5706,6 +5742,15 @@
     "OnetCode": "17-2141.00"
   },
   {
+    "JvID": "BFCAAD1502124A06B94357140F9CA317206",
+    "JobTitle": "Mechanical Engineering Intern",
+    "Company": "McKinstry",
+    "DatePosted": "2023-2-24 12:03 AM",
+    "Url": "https://de.jobsyn.org/BFCAAD1502124A06B94357140F9CA317206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2141.00"
+  },
+  {
     "JvID": "FB36941769964DB586E44587BAB43AAB206",
     "JobTitle": "Mechanical Commissioning Engineer",
     "Company": "Peter Kazella & Associates, Inc.",
@@ -5715,11 +5760,11 @@
     "OnetCode": "17-2141.00"
   },
   {
-    "JvID": "BFCAAD1502124A06B94357140F9CA317206",
-    "JobTitle": "Mechanical Engineering Intern",
-    "Company": "McKinstry",
-    "DatePosted": "2023-2-24 12:03 AM",
-    "Url": "https://de.jobsyn.org/BFCAAD1502124A06B94357140F9CA317206",
+    "JvID": "C361D9BF7BDE4AEEBD93EFF87757F49B206",
+    "JobTitle": "Mechanical Engineer (CAD)",
+    "Company": "Kelly Services",
+    "DatePosted": "2023-3-16 11:04 AM",
+    "Url": "https://de.jobsyn.org/C361D9BF7BDE4AEEBD93EFF87757F49B206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2141.00"
   },
@@ -5886,24 +5931,6 @@
     "OnetCode": "17-2141.00"
   },
   {
-    "JvID": "CF7C52E35AAE411ABA1DA042873802C5206",
-    "JobTitle": "Mechanical Engineer 6(Industrial/Process Piping-Remote Option)",
-    "Company": "CDM Smith",
-    "DatePosted": "2023-2-21 5:06 AM",
-    "Url": "https://de.jobsyn.org/CF7C52E35AAE411ABA1DA042873802C5206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2141.00"
-  },
-  {
-    "JvID": "FFD8D2C177AF42DDA57F3E9FE4CC5ACB206",
-    "JobTitle": "Commissioning Intern",
-    "Company": "McKinstry",
-    "DatePosted": "2023-2-18 12:56 AM",
-    "Url": "https://de.jobsyn.org/FFD8D2C177AF42DDA57F3E9FE4CC5ACB206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2141.00"
-  },
-  {
     "JvID": "9CB49E664F724CE182D24617AAB2F32D206",
     "JobTitle": "Electrical Engineer",
     "Company": "Actalent",
@@ -5936,15 +5963,6 @@
     "Company": "Actalent",
     "DatePosted": "2023-3-10 4:16 AM",
     "Url": "https://de.jobsyn.org/8684CF7629D847308A522C2057B53272206",
-    "Location": "Seattle, WA",
-    "OnetCode": "17-2071.00"
-  },
-  {
-    "JvID": "5364E7AE80FB41378675133DE720C2C9206",
-    "JobTitle": "Electrical Engineer",
-    "Company": "Actalent",
-    "DatePosted": "2023-3-5 5:15 AM",
-    "Url": "https://de.jobsyn.org/5364E7AE80FB41378675133DE720C2C9206",
     "Location": "Seattle, WA",
     "OnetCode": "17-2071.00"
   },
@@ -6129,6 +6147,15 @@
     "OnetCode": "17-2071.00"
   },
   {
+    "JvID": "41B76A8ACE15415DA9D932485E8B8568206",
+    "JobTitle": "FPGA Developer",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:11 AM",
+    "Url": "https://de.jobsyn.org/41B76A8ACE15415DA9D932485E8B8568206",
+    "Location": "Seattle, WA",
+    "OnetCode": "17-2071.00"
+  },
+  {
     "JvID": "E6FDD370629547118A2ADB2C84825098206",
     "JobTitle": "Data Scientists",
     "Company": "Expedia, Inc.",
@@ -6174,6 +6201,15 @@
     "OnetCode": "15-2051.00"
   },
   {
+    "JvID": "3254F79B441E46CAB669B4E4464F08BA206",
+    "JobTitle": "Data Scientist",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-3-17 3:58 PM",
+    "Url": "https://de.jobsyn.org/3254F79B441E46CAB669B4E4464F08BA206",
+    "Location": "SEATTLE, WA",
+    "OnetCode": "15-2051.00"
+  },
+  {
     "JvID": "C25FF9F5273741AA9F58BFA28674D316206",
     "JobTitle": "Data Scientist I/II",
     "Company": "Fred Hutchinson Cancer Research Center",
@@ -6201,15 +6237,6 @@
     "OnetCode": "15-2051.00"
   },
   {
-    "JvID": "9B2C65D5B1FF451BBA752C5AB5C7FB2A206",
-    "JobTitle": "Data Scientist 2",
-    "Company": "Pacific Northwest National Laboratory",
-    "DatePosted": "2023-3-2 3:32 AM",
-    "Url": "https://de.jobsyn.org/9B2C65D5B1FF451BBA752C5AB5C7FB2A206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-2051.00"
-  },
-  {
     "JvID": "AE9AB568ADA54C5881ECD422760758C7206",
     "JobTitle": "Data Scientist III - RP1027729",
     "Company": "F5 Networks, Inc",
@@ -6233,6 +6260,15 @@
     "Company": "Apple Inc.",
     "DatePosted": "2023-2-18 11:43 PM",
     "Url": "https://de.jobsyn.org/1402A14DAD244F1BAFFB8DA4EAB5DB53206",
+    "Location": "Seattle, WA",
+    "OnetCode": "15-2051.00"
+  },
+  {
+    "JvID": "25E74E8CE1484FCB8F57C1658CF2E3BD206",
+    "JobTitle": "Data Scientist, SMB Data & Analytics",
+    "Company": "Snap Inc.",
+    "DatePosted": "2023-3-11 3:09 AM",
+    "Url": "https://de.jobsyn.org/25E74E8CE1484FCB8F57C1658CF2E3BD206",
     "Location": "Seattle, WA",
     "OnetCode": "15-2051.00"
   },
@@ -6341,15 +6377,6 @@
     "Company": "Amazon Corporate LLC",
     "DatePosted": "2023-2-6 10:42 PM",
     "Url": "https://de.jobsyn.org/150AF1AA5E1A4306A53F23D2DB5A6A50206",
-    "Location": "Seattle, WA",
-    "OnetCode": "15-2051.00"
-  },
-  {
-    "JvID": "B255617E24FA4E14AF55DA4EE0BD0DC0206",
-    "JobTitle": "Principal Applied Scientist - Machine Learning, SCOT - Fulfillment By Amazon",
-    "Company": "Amazon Corporate LLC",
-    "DatePosted": "2023-2-6 10:51 PM",
-    "Url": "https://de.jobsyn.org/B255617E24FA4E14AF55DA4EE0BD0DC0206",
     "Location": "Seattle, WA",
     "OnetCode": "15-2051.00"
   }
