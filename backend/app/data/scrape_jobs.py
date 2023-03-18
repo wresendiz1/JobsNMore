@@ -36,8 +36,10 @@ cities = [
     "baltimore",
 ]
 
+script_dir = os.path.dirname(__file__)
+file_occ = os.path.join(script_dir, "occupations.json")
 
-with open("occupations.json") as f:
+with open(file_occ) as f:
     occupations = json.load(f)
 
 

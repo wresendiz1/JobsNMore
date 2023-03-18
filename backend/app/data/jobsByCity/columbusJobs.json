@@ -1,10 +1,10 @@
 [
   {
-    "JvID": "7366B7F37760409598174E0ED5E0EE44206",
-    "JobTitle": "Operations Manager - Asst. General Manager",
+    "JvID": "CA5ECC67F77F48B9B5437D1DD5B78B5B206",
+    "JobTitle": "Manager - Asst. General Manager",
     "Company": "Raising Cane's",
-    "DatePosted": "2023-2-17 3:29 AM",
-    "Url": "https://de.jobsyn.org/7366B7F37760409598174E0ED5E0EE44206",
+    "DatePosted": "2023-3-18 3:20 AM",
+    "Url": "https://de.jobsyn.org/CA5ECC67F77F48B9B5437D1DD5B78B5B206",
     "Location": "Columbus, OH",
     "OnetCode": "11-1021.00"
   },
@@ -18,12 +18,111 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "32865D2E5AFB49DF884E088414C983FE206",
-    "JobTitle": "Facility Manager",
-    "Company": "Stars and Strikes",
-    "DatePosted": "2023-3-17 12:46 AM",
-    "Url": "https://de.jobsyn.org/32865D2E5AFB49DF884E088414C983FE206",
-    "Location": "Columbus, GA",
+    "JvID": "3960C28AC9F44FF8AA7949CEE4159B71206",
+    "JobTitle": "General Manager - Dunkin Donuts",
+    "Company": "Dunkin'",
+    "DatePosted": "2023-3-18 3:10 AM",
+    "Url": "https://de.jobsyn.org/3960C28AC9F44FF8AA7949CEE4159B71206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "B7C16D5C5B534299AAF4D097B7E3F064206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 5:05 AM",
+    "Url": "https://de.jobsyn.org/B7C16D5C5B534299AAF4D097B7E3F064206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "6964E460092540509319315AF4791699206",
+    "JobTitle": "General Superintendent",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/6964E460092540509319315AF4791699206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "B71F615E59E24A42A25DD1F316BDF8F9206",
+    "JobTitle": "General Manager - Dunkin Donuts",
+    "Company": "Dunkin'",
+    "DatePosted": "2023-3-18 3:08 AM",
+    "Url": "https://de.jobsyn.org/B71F615E59E24A42A25DD1F316BDF8F9206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "96E057A5AE6C4FBDA70A7535D1073599206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 5:02 AM",
+    "Url": "https://de.jobsyn.org/96E057A5AE6C4FBDA70A7535D1073599206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "C6AA38D565B24AF7A6DD1A2A460BF8ED206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 5:02 AM",
+    "Url": "https://de.jobsyn.org/C6AA38D565B24AF7A6DD1A2A460BF8ED206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "856391141C7648B689EE361AC6ADA73E206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 5:02 AM",
+    "Url": "https://de.jobsyn.org/856391141C7648B689EE361AC6ADA73E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "4D2C4A0735EB4EC0AD60DF03718763C1206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 5:03 AM",
+    "Url": "https://de.jobsyn.org/4D2C4A0735EB4EC0AD60DF03718763C1206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "25E176E2E6AA4D10B716B6C63372FC6E206",
+    "JobTitle": "Director of Operations",
+    "Company": "Healogics, Inc",
+    "DatePosted": "2023-3-18 2:13 AM",
+    "Url": "https://de.jobsyn.org/25E176E2E6AA4D10B716B6C63372FC6E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "5ABC09DB073A45C4B5BB8FB4AA7D8E3C206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 3:06 AM",
+    "Url": "https://de.jobsyn.org/5ABC09DB073A45C4B5BB8FB4AA7D8E3C206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "4B57A1212A464F31915C973648E53676206",
+    "JobTitle": "District Manager",
+    "Company": "SUNBELT RENTALS INC",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/4B57A1212A464F31915C973648E53676206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "F08513FD7B074D6DA0231E08FF3C6753206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 3:04 AM",
+    "Url": "https://de.jobsyn.org/F08513FD7B074D6DA0231E08FF3C6753206",
+    "Location": "Columbus, OH",
     "OnetCode": "11-1021.00"
   },
   {
@@ -36,11 +135,11 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "A016E9C0960A4D8E9DCD563F6DC1B5D9206",
-    "JobTitle": "Regional Manager",
-    "Company": "SUNBELT RENTALS INC",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/A016E9C0960A4D8E9DCD563F6DC1B5D9206",
+    "JvID": "5AEE52F24FAD46FD87CFC892B132F721206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 2:33 AM",
+    "Url": "https://de.jobsyn.org/5AEE52F24FAD46FD87CFC892B132F721206",
     "Location": "Columbus, OH",
     "OnetCode": "11-1021.00"
   },
@@ -54,11 +153,29 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "C7230280EDCA4CD284D8D49EC893AC49206",
-    "JobTitle": "Operations Manager, Microbiology",
-    "Company": "Silliker Inc.",
-    "DatePosted": "2023-3-15 4:06 PM",
-    "Url": "https://de.jobsyn.org/C7230280EDCA4CD284D8D49EC893AC49206",
+    "JvID": "9944E83CA54C49199CCA7D02C7B14061206",
+    "JobTitle": "Restaurant General Manager",
+    "Company": "Taco Bell",
+    "DatePosted": "2023-3-18 3:06 AM",
+    "Url": "https://de.jobsyn.org/9944E83CA54C49199CCA7D02C7B14061206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "32865D2E5AFB49DF884E088414C983FE206",
+    "JobTitle": "Facility Manager",
+    "Company": "Stars and Strikes",
+    "DatePosted": "2023-3-17 12:46 AM",
+    "Url": "https://de.jobsyn.org/32865D2E5AFB49DF884E088414C983FE206",
+    "Location": "Columbus, GA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "A016E9C0960A4D8E9DCD563F6DC1B5D9206",
+    "JobTitle": "Regional Manager",
+    "Company": "SUNBELT RENTALS INC",
+    "DatePosted": "2023-3-16 4:07 PM",
+    "Url": "https://de.jobsyn.org/A016E9C0960A4D8E9DCD563F6DC1B5D9206",
     "Location": "Columbus, OH",
     "OnetCode": "11-1021.00"
   },
@@ -72,157 +189,58 @@
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "7897E4397FDD4E04AEFFEBBAF9AB5CEA206",
-    "JobTitle": "Retail General Manager Columbus, OH",
-    "Company": "Office Depot",
-    "DatePosted": "2023-3-15 5:28 AM",
-    "Url": "https://de.jobsyn.org/7897E4397FDD4E04AEFFEBBAF9AB5CEA206",
+    "JvID": "F53143F5F52F49D995CBD72E14D4EED3206",
+    "JobTitle": "Sunglass Hut - Store Manager Columbus",
+    "Company": "EssilorLuxottica",
+    "DatePosted": "2023-3-18 4:33 AM",
+    "Url": "https://de.jobsyn.org/F53143F5F52F49D995CBD72E14D4EED3206",
+    "Location": "Columbus, GA",
+    "OnetCode": "11-1021.00"
+  },
+  {
+    "JvID": "FB9C1090DBB549D1BF3948E239722CB0206",
+    "JobTitle": "Distribution Center Manager",
+    "Company": "YRC Freight",
+    "DatePosted": "2023-3-17 3:15 AM",
+    "Url": "https://de.jobsyn.org/FB9C1090DBB549D1BF3948E239722CB0206",
     "Location": "Columbus, OH",
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "301CD671666D47EBBE7D9D46A9ABB38F206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 4:48 AM",
-    "Url": "https://de.jobsyn.org/301CD671666D47EBBE7D9D46A9ABB38F206",
+    "JvID": "C7230280EDCA4CD284D8D49EC893AC49206",
+    "JobTitle": "Operations Manager, Microbiology",
+    "Company": "Silliker Inc.",
+    "DatePosted": "2023-3-15 4:06 PM",
+    "Url": "https://de.jobsyn.org/C7230280EDCA4CD284D8D49EC893AC49206",
     "Location": "Columbus, OH",
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "B43DB7B4526243EFB8650F31A8B33AA2206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 2:36 AM",
-    "Url": "https://de.jobsyn.org/B43DB7B4526243EFB8650F31A8B33AA2206",
+    "JvID": "63BDC49F51644DB3B980665B4A9C3441206",
+    "JobTitle": "Partner Success Manager",
+    "Company": "U.S. Bank",
+    "DatePosted": "2023-3-17 9:58 PM",
+    "Url": "https://de.jobsyn.org/63BDC49F51644DB3B980665B4A9C3441206",
     "Location": "Columbus, OH",
     "OnetCode": "11-1021.00"
   },
   {
-    "JvID": "E9F7EA39ACEB41A88DC6268D02A78BD9206",
-    "JobTitle": "Service Delivery Manager",
-    "Company": "Xerox",
-    "DatePosted": "2023-3-16 3:04 AM",
-    "Url": "https://de.jobsyn.org/E9F7EA39ACEB41A88DC6268D02A78BD9206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
+    "JvID": "410C20F971E84781898741C547E8696B206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-18 12:26 AM",
+    "Url": "https://de.jobsyn.org/410C20F971E84781898741C547E8696B206",
+    "Location": "COLUMBUS, OH",
+    "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "F80BF5AA237D42C1B47E3A903780E716206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 4:48 AM",
-    "Url": "https://de.jobsyn.org/F80BF5AA237D42C1B47E3A903780E716206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "8AFD0949492C46EB865290E35818AB66206",
-    "JobTitle": "STORE MANAGER CANDIDATE",
-    "Company": "Dollar General",
-    "DatePosted": "2023-3-9 7:12 AM",
-    "Url": "https://de.jobsyn.org/8AFD0949492C46EB865290E35818AB66206",
-    "Location": "COLUMBUS, MS",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "E6EB95364C3443AC83C39C315811304A206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 2:38 AM",
-    "Url": "https://de.jobsyn.org/E6EB95364C3443AC83C39C315811304A206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "030AD7008D2B430F9697DA8261684682206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 4:50 AM",
-    "Url": "https://de.jobsyn.org/030AD7008D2B430F9697DA8261684682206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "EFB5DB1533C1449D94828034C5136AB5206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 2:39 AM",
-    "Url": "https://de.jobsyn.org/EFB5DB1533C1449D94828034C5136AB5206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "6C024A5BB1C94ACBA0F4F364ECEADD0F206",
-    "JobTitle": "Operations and Support Team Manager",
-    "Company": "Siemens Digital Industries Software",
-    "DatePosted": "2023-3-15 12:33 AM",
-    "Url": "https://de.jobsyn.org/6C024A5BB1C94ACBA0F4F364ECEADD0F206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "E0D70199F2014A77A0E2A16E995092C9206",
-    "JobTitle": "Manager-Operations, Luxury (Eastern Region)",
-    "Company": "Marriott",
-    "DatePosted": "2023-3-15 3:04 AM",
-    "Url": "https://de.jobsyn.org/E0D70199F2014A77A0E2A16E995092C9206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "D15E00EA8A334BE99BD96D50176E9E7E206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 4:48 AM",
-    "Url": "https://de.jobsyn.org/D15E00EA8A334BE99BD96D50176E9E7E206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "034E99C3CA4C40A0A2E318F2C8DADB1B206",
-    "JobTitle": "Lead Resource Manager",
-    "Company": "UKG (Ultimate Kronos Group)",
-    "DatePosted": "2023-3-16 11:05 AM",
-    "Url": "https://de.jobsyn.org/034E99C3CA4C40A0A2E318F2C8DADB1B206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "F8C2159C452F43A58F3376ED7C2EBA09206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 3:40 AM",
-    "Url": "https://de.jobsyn.org/F8C2159C452F43A58F3376ED7C2EBA09206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "D4F399C9EDB64780B08786A2CA664623206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 4:46 AM",
-    "Url": "https://de.jobsyn.org/D4F399C9EDB64780B08786A2CA664623206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "E7681814B1424814AC4887348621D223206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 3:42 AM",
-    "Url": "https://de.jobsyn.org/E7681814B1424814AC4887348621D223206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
-  },
-  {
-    "JvID": "FE1E8C2782944544AEE2601CE0AD6BDC206",
-    "JobTitle": "Restaurant General Manager",
-    "Company": "Taco Bell",
-    "DatePosted": "2023-3-15 4:48 AM",
-    "Url": "https://de.jobsyn.org/FE1E8C2782944544AEE2601CE0AD6BDC206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-1021.00"
+    "JvID": "465FAEEFEACE44DE8374DC6FADDD946E206",
+    "JobTitle": "BMV Customer Service Representative",
+    "Company": "State of Indiana",
+    "DatePosted": "2023-3-17 6:22 AM",
+    "Url": "https://de.jobsyn.org/465FAEEFEACE44DE8374DC6FADDD946E206",
+    "Location": "Columbus, IN",
+    "OnetCode": "43-4051.00"
   },
   {
     "JvID": "A5D91AA3001F48D2947D468E38D2FDF8206",
@@ -231,6 +249,15 @@
     "DatePosted": "2023-3-14 5:28 AM",
     "Url": "https://de.jobsyn.org/A5D91AA3001F48D2947D468E38D2FDF8206",
     "Location": "columbus, OH",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "57DE1A1ACF304F0E84A880492CE2DBB6206",
+    "JobTitle": "TSA Customer Service Representative",
+    "Company": "Staples",
+    "DatePosted": "2023-3-17 3:17 AM",
+    "Url": "https://de.jobsyn.org/57DE1A1ACF304F0E84A880492CE2DBB6206",
+    "Location": "Columbus, OH",
     "OnetCode": "43-4051.00"
   },
   {
@@ -243,11 +270,11 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "19FB56B85BD94BC48048DC3C738DEBCB206",
+    "JvID": "789225B863384CB0B0FB1B7280F05309206",
     "JobTitle": "Customer Service Representative",
-    "Company": "SGS North America Inc.",
-    "DatePosted": "2023-3-13 4:13 PM",
-    "Url": "https://de.jobsyn.org/19FB56B85BD94BC48048DC3C738DEBCB206",
+    "Company": "American Leak Detection, Inc",
+    "DatePosted": "2023-2-22 6:00 AM",
+    "Url": "https://de.jobsyn.org/789225B863384CB0B0FB1B7280F05309206",
     "Location": "Columbus, OH",
     "OnetCode": "43-4051.00"
   },
@@ -261,20 +288,20 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "789225B863384CB0B0FB1B7280F05309206",
+    "JvID": "19FB56B85BD94BC48048DC3C738DEBCB206",
     "JobTitle": "Customer Service Representative",
-    "Company": "American Leak Detection, Inc",
-    "DatePosted": "2023-2-22 6:00 AM",
-    "Url": "https://de.jobsyn.org/789225B863384CB0B0FB1B7280F05309206",
+    "Company": "SGS North America Inc.",
+    "DatePosted": "2023-3-13 4:13 PM",
+    "Url": "https://de.jobsyn.org/19FB56B85BD94BC48048DC3C738DEBCB206",
     "Location": "Columbus, OH",
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "3B1DDB27579B46A9B10CF325C2113011206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "Highmark Health",
-    "DatePosted": "2023-3-15 5:33 AM",
-    "Url": "https://de.jobsyn.org/3B1DDB27579B46A9B10CF325C2113011206",
+    "JvID": "283796DAB5C0467A95430BE4C37A97D7206",
+    "JobTitle": "Customer Service Representative (REMOTE)",
+    "Company": "Evolent Health",
+    "DatePosted": "2023-3-18 4:58 AM",
+    "Url": "https://de.jobsyn.org/283796DAB5C0467A95430BE4C37A97D7206",
     "Location": "Columbus, OH",
     "OnetCode": "43-4051.00"
   },
@@ -297,24 +324,6 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "C459F52349554E15A1DAFDC196AF90F9206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "Highmark Health",
-    "DatePosted": "2023-3-16 4:43 AM",
-    "Url": "https://de.jobsyn.org/C459F52349554E15A1DAFDC196AF90F9206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-4051.00"
-  },
-  {
-    "JvID": "0A7132313EE5464CAB7529B7653506ED206",
-    "JobTitle": "customer service representative",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-9 5:22 AM",
-    "Url": "https://de.jobsyn.org/0A7132313EE5464CAB7529B7653506ED206",
-    "Location": "columbus, GA",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "4BEEF3BA98E449F88F312482AE576519206",
     "JobTitle": "customer service representative",
     "Company": "Randstad US",
@@ -333,21 +342,21 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "70A97FC1908D4BA0B1F1AE304756C12C206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "Highmark Health",
-    "DatePosted": "2023-3-16 4:43 AM",
-    "Url": "https://de.jobsyn.org/70A97FC1908D4BA0B1F1AE304756C12C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "C5F951C901ED4C52ABF9A317AB68E902206",
     "JobTitle": "Associate Customer Service Representative",
     "Company": "American Chemical Society",
     "DatePosted": "2023-2-17 4:27 PM",
     "Url": "https://de.jobsyn.org/C5F951C901ED4C52ABF9A317AB68E902206",
     "Location": "Columbus, OH",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "0A7132313EE5464CAB7529B7653506ED206",
+    "JobTitle": "customer service representative",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-9 7:42 AM",
+    "Url": "https://de.jobsyn.org/0A7132313EE5464CAB7529B7653506ED206",
+    "Location": "columbus, GA",
     "OnetCode": "43-4051.00"
   },
   {
@@ -360,11 +369,38 @@
     "OnetCode": "43-4051.00"
   },
   {
+    "JvID": "3B1DDB27579B46A9B10CF325C2113011206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "Highmark Health",
+    "DatePosted": "2023-3-15 5:33 AM",
+    "Url": "https://de.jobsyn.org/3B1DDB27579B46A9B10CF325C2113011206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "C459F52349554E15A1DAFDC196AF90F9206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "Highmark Health",
+    "DatePosted": "2023-3-16 4:43 AM",
+    "Url": "https://de.jobsyn.org/C459F52349554E15A1DAFDC196AF90F9206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-4051.00"
+  },
+  {
     "JvID": "8BFD4BDD272046BBB232D20CA4F8215C206",
     "JobTitle": "Customer Service Representative",
     "Company": "SGS North America Inc.",
     "DatePosted": "2023-3-6 4:16 PM",
     "Url": "https://de.jobsyn.org/8BFD4BDD272046BBB232D20CA4F8215C206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-4051.00"
+  },
+  {
+    "JvID": "70A97FC1908D4BA0B1F1AE304756C12C206",
+    "JobTitle": "Customer Service Representative",
+    "Company": "Highmark Health",
+    "DatePosted": "2023-3-16 4:43 AM",
+    "Url": "https://de.jobsyn.org/70A97FC1908D4BA0B1F1AE304756C12C206",
     "Location": "Columbus, OH",
     "OnetCode": "43-4051.00"
   },
@@ -405,15 +441,6 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "5836AD9023694E7CA6BDB552BEF56FA5206",
-    "JobTitle": "Customer Service Representative",
-    "Company": "Logan A/C & Heat Services",
-    "DatePosted": "2023-3-2 10:38 PM",
-    "Url": "https://de.jobsyn.org/5836AD9023694E7CA6BDB552BEF56FA5206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-4051.00"
-  },
-  {
     "JvID": "05DBFAF123834DDCAAE1FE2884C1DFCA206",
     "JobTitle": "Customer Service Representative",
     "Company": "ARS ACQUISITION HOLDINGS LLC",
@@ -423,31 +450,76 @@
     "OnetCode": "43-4051.00"
   },
   {
-    "JvID": "8E7BE1D7588C4F149DFD8D0FA09772AB206",
-    "JobTitle": "Customer Service Representative, Food, Customer Service",
-    "Company": "Ilitch Holdings",
-    "DatePosted": "2023-3-14 12:35 AM",
-    "Url": "https://de.jobsyn.org/8E7BE1D7588C4F149DFD8D0FA09772AB206",
+    "JvID": "3F830E36EB0E48089CB178B57AE5098E206",
+    "JobTitle": "Student Trainee (Administrative Support)",
+    "Company": "Geological Survey",
+    "DatePosted": "2023-3-17 5:34 AM",
+    "Url": "https://de.jobsyn.org/3F830E36EB0E48089CB178B57AE5098E206",
     "Location": "Columbus, OH",
-    "OnetCode": "43-4051.00"
+    "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "718E9C2D4CC94C57BB91BE19C21BFDD6206",
-    "JobTitle": "Temporary to Permanent Customer Service Representative",
-    "Company": "Stafford Communications Group, Inc.",
-    "DatePosted": "2023-2-21 9:48 AM",
-    "Url": "https://de.jobsyn.org/718E9C2D4CC94C57BB91BE19C21BFDD6206",
+    "JvID": "269D2563E6E94B358DAA96D3C0ACC84E206",
+    "JobTitle": "Project Coordinator",
+    "Company": "Pearson",
+    "DatePosted": "2023-3-17 7:21 PM",
+    "Url": "https://de.jobsyn.org/269D2563E6E94B358DAA96D3C0ACC84E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "09B84A12B6ED4BC2867075D5DD8060A3206",
+    "JobTitle": "ADMINISTRATIVE ASSISTANT",
+    "Company": "Georgia Employer",
+    "DatePosted": "2023-3-17 11:02 PM",
+    "Url": "https://de.jobsyn.org/09B84A12B6ED4BC2867075D5DD8060A3206",
     "Location": "Columbus, GA",
-    "OnetCode": "43-4051.00"
+    "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "C8991387FA5A458EB5396D337CD12B8A206",
-    "JobTitle": "Truck Rental Customer Service Representative",
-    "Company": "Enterprise Holdings",
-    "DatePosted": "2023-2-17 2:59 AM",
-    "Url": "https://de.jobsyn.org/C8991387FA5A458EB5396D337CD12B8A206",
+    "JvID": "9567B758BD7F45DDBFDC899B084D631B206",
+    "JobTitle": "Administrative Assistant - Hourly",
+    "Company": "Orchard, Hiltz & McCLiment, Inc",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/9567B758BD7F45DDBFDC899B084D631B206",
     "Location": "Columbus, OH",
-    "OnetCode": "43-4051.00"
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "8E44B9BA1B9C49AAB4B6428DC614F47E206",
+    "JobTitle": "Remote - Project Administrator- Core",
+    "Company": "Trane Technologies",
+    "DatePosted": "2023-3-17 5:08 AM",
+    "Url": "https://de.jobsyn.org/8E44B9BA1B9C49AAB4B6428DC614F47E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "C1B0ED48A7704BEBBDAA12132C05A0FF206",
+    "JobTitle": "Administrative Coordinator",
+    "Company": "Pacific Northwest National Laboratory",
+    "DatePosted": "2023-3-18 4:14 AM",
+    "Url": "https://de.jobsyn.org/C1B0ED48A7704BEBBDAA12132C05A0FF206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "F640890EEF0D4AA692DEE711D8B4C690206",
+    "JobTitle": "Administrative Assistant",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-18 12:26 AM",
+    "Url": "https://de.jobsyn.org/F640890EEF0D4AA692DEE711D8B4C690206",
+    "Location": "COLUMBUS, OH",
+    "OnetCode": "43-6014.00"
+  },
+  {
+    "JvID": "261E4F58ACCD47A989A17F7676AE1F43206",
+    "JobTitle": "Executive Administrative Assistant- Columbus, OH",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-17 4:20 AM",
+    "Url": "https://de.jobsyn.org/261E4F58ACCD47A989A17F7676AE1F43206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-6014.00"
   },
   {
     "JvID": "972452C6D6464ED4A20B4205CEECC1A7206",
@@ -474,15 +546,6 @@
     "DatePosted": "2023-3-17 12:27 AM",
     "Url": "https://de.jobsyn.org/94348E996AB547AC93D448A4F6C558A0206",
     "Location": "COLUMBUS, OH",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "B16065DE2E2F48B899F2C1054BB87227206",
-    "JobTitle": "Administrative Assistant - Hourly",
-    "Company": "Orchard, Hiltz & McCLiment, Inc",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/B16065DE2E2F48B899F2C1054BB87227206",
-    "Location": "Columbus, OH",
     "OnetCode": "43-6014.00"
   },
   {
@@ -585,15 +648,6 @@
     "OnetCode": "43-6014.00"
   },
   {
-    "JvID": "67B8D5741DB5434D8475E0A816F7375D206",
-    "JobTitle": "GBS Payroll Administrator",
-    "Company": "UPS",
-    "DatePosted": "2023-3-11 2:17 AM",
-    "Url": "https://de.jobsyn.org/67B8D5741DB5434D8475E0A816F7375D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-6014.00"
-  },
-  {
     "JvID": "3395E7ACF76D4A348EE3C27E11A82DE1206",
     "JobTitle": "Six Sigma Coordinator Columbus",
     "Company": "Ohio Machinery Co",
@@ -618,60 +672,6 @@
     "DatePosted": "2023-3-10 8:56 PM",
     "Url": "https://de.jobsyn.org/A3E6DC43ED364BDAAA008B3D692B160D206",
     "Location": "Columbus, GA",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "3230C6DF35A849D0B92FA130A4F32932206",
-    "JobTitle": "GBS Payroll Administrator",
-    "Company": "UPS",
-    "DatePosted": "2023-3-11 2:17 AM",
-    "Url": "https://de.jobsyn.org/3230C6DF35A849D0B92FA130A4F32932206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "29371EDC346A4FA88C9FAF808A49C87D206",
-    "JobTitle": "Administrative Secretary - EXAM",
-    "Company": "City of Columbus",
-    "DatePosted": "2023-3-10 5:34 AM",
-    "Url": "https://de.jobsyn.org/29371EDC346A4FA88C9FAF808A49C87D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "CBE7FE96D7FF4ACAB71CD4F55090C70D206",
-    "JobTitle": "Administrative Support III - Heart Center",
-    "Company": "Nationwide Children's Hospital",
-    "DatePosted": "2023-3-10 6:39 AM",
-    "Url": "https://de.jobsyn.org/CBE7FE96D7FF4ACAB71CD4F55090C70D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "D5AA5AC05F1C46939486D9F95446E1D9206",
-    "JobTitle": "Part-Time Administrative Assistant\n                    (Operations)",
-    "Company": "WFF Facility Services",
-    "DatePosted": "2023-3-10 11:19 PM",
-    "Url": "https://de.jobsyn.org/D5AA5AC05F1C46939486D9F95446E1D9206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "F0B70BC216E54954A3E17B67381135E3206",
-    "JobTitle": "OCU - Non-Technical - EBU VPI Administrative Associate - 1st Shift",
-    "Company": "Cummins Inc.",
-    "DatePosted": "2023-3-10 2:51 AM",
-    "Url": "https://de.jobsyn.org/F0B70BC216E54954A3E17B67381135E3206",
-    "Location": "Columbus, IN",
-    "OnetCode": "43-6014.00"
-  },
-  {
-    "JvID": "8A43740EAB3A49A29ED1C42403E40672206",
-    "JobTitle": "Administrative Assistant",
-    "Company": "The Ruhlin Company",
-    "DatePosted": "2023-3-9 5:39 AM",
-    "Url": "https://de.jobsyn.org/8A43740EAB3A49A29ED1C42403E40672206",
-    "Location": "Columbus, OH",
     "OnetCode": "43-6014.00"
   },
   {
@@ -711,20 +711,146 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "03B65E4410DD4A2E9AE4ACC1729AB892206",
-    "JobTitle": "Accounting Clerk - Columbus, OH",
-    "Company": "ARS ACQUISITION HOLDINGS LLC",
-    "DatePosted": "2023-2-17 4:22 PM",
-    "Url": "https://de.jobsyn.org/03B65E4410DD4A2E9AE4ACC1729AB892206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
     "JvID": "046EA4B9CD864E5C9FC4FE6F0A2098B0206",
     "JobTitle": "Bookkeeper",
     "Company": "Robert Half",
     "DatePosted": "2023-3-14 12:12 AM",
     "Url": "https://de.jobsyn.org/046EA4B9CD864E5C9FC4FE6F0A2098B0206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "11428865EAA74A9EAFCC802BE7061E5B206",
+    "JobTitle": "Revenue Tax Specialist",
+    "Company": "State of Indiana",
+    "DatePosted": "2023-3-18 7:00 AM",
+    "Url": "https://de.jobsyn.org/11428865EAA74A9EAFCC802BE7061E5B206",
+    "Location": "Columbus, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "7F4A4AAF70C640B09F5B5EB2F73B6407206",
+    "JobTitle": "BUDGET TECHNICIAN",
+    "Company": "Air Education and Training Command",
+    "DatePosted": "2023-3-18 5:24 AM",
+    "Url": "https://de.jobsyn.org/7F4A4AAF70C640B09F5B5EB2F73B6407206",
+    "Location": "Columbus, MS",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "A3A0251020434572991B2BD16AB62376206",
+    "JobTitle": "Accounting Specialist",
+    "Company": "Pearl Interactive Network",
+    "DatePosted": "2023-3-18 5:00 AM",
+    "Url": "https://de.jobsyn.org/A3A0251020434572991B2BD16AB62376206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "3A8FC012A5B94B61B93D8CFF5504107A206",
+    "JobTitle": "Payroll Audit Analyst",
+    "Company": "Nationwide Children's Hospital",
+    "DatePosted": "2023-3-17 6:42 AM",
+    "Url": "https://de.jobsyn.org/3A8FC012A5B94B61B93D8CFF5504107A206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "E8615063228A4B49A0CDFCC794CB185E206",
+    "JobTitle": "Accounting Specialist",
+    "Company": "Allied Mineral Products Holding, Inc.",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/E8615063228A4B49A0CDFCC794CB185E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "FFF085CAD5EC41E4801B3B2443FAF04D206",
+    "JobTitle": "Accounting",
+    "Company": "DLZ Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/FFF085CAD5EC41E4801B3B2443FAF04D206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "00EB906DB208472FBDC5F8A0CBA797E7206",
+    "JobTitle": "Hotel Night Auditor TownePlace Suites by Marriott Columbus North OSU",
+    "Company": "Shaner Operating Corp",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/00EB906DB208472FBDC5F8A0CBA797E7206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "70E348751BAB4CB8861BE965873393EE206",
+    "JobTitle": "PLANT ACCOUNTANT",
+    "Company": "Packing Corp of America",
+    "DatePosted": "2023-3-18 2:12 AM",
+    "Url": "https://de.jobsyn.org/70E348751BAB4CB8861BE965873393EE206",
+    "Location": "Columbus, IN",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "124FEB9EC7594F91B03091F338FD1D6C206",
+    "JobTitle": "Payroll Specialist",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-18 12:11 AM",
+    "Url": "https://de.jobsyn.org/124FEB9EC7594F91B03091F338FD1D6C206",
+    "Location": "COLUMBUS, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "A312396F5E3144F38428C544DC99D9D8206",
+    "JobTitle": "Manager of Accounts Receivable",
+    "Company": "Orveon",
+    "DatePosted": "2023-3-18 12:48 AM",
+    "Url": "https://de.jobsyn.org/A312396F5E3144F38428C544DC99D9D8206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "3F91619649A34E0ABBFE715D4EDB692D206",
+    "JobTitle": "Accountant",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/3F91619649A34E0ABBFE715D4EDB692D206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "0BE31FF425EF4E14B4EDBD504D7A671B206",
+    "JobTitle": "Billing Analyst",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-18 12:26 AM",
+    "Url": "https://de.jobsyn.org/0BE31FF425EF4E14B4EDBD504D7A671B206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "338C4F6BAE2040AB87C20741B3DACAFE206",
+    "JobTitle": "Payroll Coordinator",
+    "Company": "Installed Building Products, LLC",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/338C4F6BAE2040AB87C20741B3DACAFE206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "EA029F07EAF04F73850672C216B0474F206",
+    "JobTitle": "Sr Accounting Asst",
+    "Company": "Aston Carter",
+    "DatePosted": "2023-3-18 2:27 AM",
+    "Url": "https://de.jobsyn.org/EA029F07EAF04F73850672C216B0474F206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
+    "JvID": "29221BDC5E894873A4161653B6EBE2D1206",
+    "JobTitle": "Fund Accounting Assoc Analyst2- Hybrid",
+    "Company": "Citigroup",
+    "DatePosted": "2023-3-17 3:05 AM",
+    "Url": "https://de.jobsyn.org/29221BDC5E894873A4161653B6EBE2D1206",
     "Location": "Columbus, OH",
     "OnetCode": "43-3031.00"
   },
@@ -747,6 +873,15 @@
     "OnetCode": "43-3031.00"
   },
   {
+    "JvID": "9412C5E478944B78B6D9D8FD98FCB4C0206",
+    "JobTitle": "Accounting Assistant",
+    "Company": "Acadia Healthcare",
+    "DatePosted": "2023-3-16 1:04 AM",
+    "Url": "https://de.jobsyn.org/9412C5E478944B78B6D9D8FD98FCB4C0206",
+    "Location": "Columbus, OH",
+    "OnetCode": "43-3031.00"
+  },
+  {
     "JvID": "C619509ADEBF4A8196F664CDC38061E1206",
     "JobTitle": "Finance Clerk",
     "Company": "Central Ohio Transit Authority",
@@ -765,139 +900,22 @@
     "OnetCode": "43-3031.00"
   },
   {
-    "JvID": "41BE387F45FB440E8F21B384EB0C9D4B206",
-    "JobTitle": "Offsite Invoice Payment Specialist-Data Entry-Part-Time/Remote Training/$13 Hour",
-    "Company": "Cass Information Systems, Inc.",
-    "DatePosted": "2023-3-15 4:06 PM",
-    "Url": "https://de.jobsyn.org/41BE387F45FB440E8F21B384EB0C9D4B206",
+    "JvID": "5664CA62B43A401F862EC6F77CFA957E206",
+    "JobTitle": "Management Analyst",
+    "Company": "Natural Resources Conservation Service",
+    "DatePosted": "2023-3-18 6:06 AM",
+    "Url": "https://de.jobsyn.org/5664CA62B43A401F862EC6F77CFA957E206",
     "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
+    "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "D3C1E8A9456948C7BC7BA3FB6D8B39FA206",
-    "JobTitle": "Accountant",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-14 4:05 PM",
-    "Url": "https://de.jobsyn.org/D3C1E8A9456948C7BC7BA3FB6D8B39FA206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "175426F210A1407B85807DA5186FB798206",
-    "JobTitle": "Business Analyst",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-3-14 5:13 AM",
-    "Url": "https://de.jobsyn.org/175426F210A1407B85807DA5186FB798206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "02D3CC682FE24FF98B55F72C9E63B411206",
-    "JobTitle": "Payroll Coordinator II - REMOTE",
-    "Company": "Ryder System",
-    "DatePosted": "2023-3-14 8:59 PM",
-    "Url": "https://de.jobsyn.org/02D3CC682FE24FF98B55F72C9E63B411206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "46CA568385844446A415B9F5DFF3F132206",
-    "JobTitle": "Payroll Tax Accountant",
-    "Company": "Accenture",
-    "DatePosted": "2023-3-15 3:14 AM",
-    "Url": "https://de.jobsyn.org/46CA568385844446A415B9F5DFF3F132206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "48F87386E96E446C84AC98CEA99EA6CA206",
-    "JobTitle": "Accounting Clerk",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-15 12:15 AM",
-    "Url": "https://de.jobsyn.org/48F87386E96E446C84AC98CEA99EA6CA206",
-    "Location": "COLUMBUS, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "99D09D464D504FE09CAB4259065EADEF206",
-    "JobTitle": "Accounting Clerk",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-15 4:13 AM",
-    "Url": "https://de.jobsyn.org/99D09D464D504FE09CAB4259065EADEF206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "A1D6E6D48ADB457AB8CD6CB1A1BEC12C206",
-    "JobTitle": "Cost Accountant",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-15 4:13 AM",
-    "Url": "https://de.jobsyn.org/A1D6E6D48ADB457AB8CD6CB1A1BEC12C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "FB3631E2FC61448EAF5A5601E487430C206",
-    "JobTitle": "Payroll",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-14 12:12 AM",
-    "Url": "https://de.jobsyn.org/FB3631E2FC61448EAF5A5601E487430C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "43D540B96F6D483192E675845B567151206",
-    "JobTitle": "Accounts Receivable",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-14 12:12 AM",
-    "Url": "https://de.jobsyn.org/43D540B96F6D483192E675845B567151206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "FD876B4D9E0F4BED9B349D522978BA4C206",
-    "JobTitle": "Accountant Sr- 1331040",
-    "Company": "Apex Systems, Inc.",
-    "DatePosted": "2023-3-13 4:11 PM",
-    "Url": "https://de.jobsyn.org/FD876B4D9E0F4BED9B349D522978BA4C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "1DE451790BF44AE5B27ED59A463801F1206",
-    "JobTitle": "Accounts Receivable-FC",
-    "Company": "Applied Industrial Technologies, Inc.",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/1DE451790BF44AE5B27ED59A463801F1206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "DD26281B8B8148AAAA228B72AD8DC401206",
-    "JobTitle": "Entry Level Accountant",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-14 12:12 AM",
-    "Url": "https://de.jobsyn.org/DD26281B8B8148AAAA228B72AD8DC401206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "FBEAEE302407495DB7171C985420A282206",
-    "JobTitle": "Staff Accountant",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-14 12:12 AM",
-    "Url": "https://de.jobsyn.org/FBEAEE302407495DB7171C985420A282206",
-    "Location": "COLUMBUS, OH",
-    "OnetCode": "43-3031.00"
-  },
-  {
-    "JvID": "0B9FDBFC938C4C71A3D5A77F609FB502206",
-    "JobTitle": "Offsite Invoice Payment Specialist-Screener-Part-Time/Remote After Training/$13 Hour",
-    "Company": "Cass Information Systems, Inc.",
-    "DatePosted": "2023-3-13 11:15 PM",
-    "Url": "https://de.jobsyn.org/0B9FDBFC938C4C71A3D5A77F609FB502206",
-    "Location": "Columbus, OH",
-    "OnetCode": "43-3031.00"
+    "JvID": "A6613AE2A0FB4C01AE3BF672857F7B80206",
+    "JobTitle": "business analyst/ product manager",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-17 5:34 AM",
+    "Url": "https://de.jobsyn.org/A6613AE2A0FB4C01AE3BF672857F7B80206",
+    "Location": "columbus, OH",
+    "OnetCode": "13-1111.00"
   },
   {
     "JvID": "F0C66C38F9394566A421167E52614466206",
@@ -945,6 +963,15 @@
     "OnetCode": "13-1111.00"
   },
   {
+    "JvID": "E13A52420811449CA12A0CF78EF076A1206",
+    "JobTitle": "Management Analyst II (Vacancy)",
+    "Company": "City of Columbus",
+    "DatePosted": "2023-2-28 8:08 AM",
+    "Url": "https://de.jobsyn.org/E13A52420811449CA12A0CF78EF076A1206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1111.00"
+  },
+  {
     "JvID": "C98D65E8F6014A81ABF2BEF2DEF74B29206",
     "JobTitle": "Vendor Management Analyst II",
     "Company": "JPMorgan Chase",
@@ -959,15 +986,6 @@
     "Company": "CBRE",
     "DatePosted": "2023-3-16 6:22 AM",
     "Url": "https://de.jobsyn.org/36683A7FB4CF4172ACEDE9EA222869C7206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1111.00"
-  },
-  {
-    "JvID": "80FB5874D2884D0DA70FBC8A86C2AF4F206",
-    "JobTitle": "Workforce Management Analyst II/Scheduler",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-2 8:36 AM",
-    "Url": "https://de.jobsyn.org/80FB5874D2884D0DA70FBC8A86C2AF4F206",
     "Location": "Columbus, OH",
     "OnetCode": "13-1111.00"
   },
@@ -1008,15 +1026,6 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "602CB2777F104C81AC96E9955F0C478F206",
-    "JobTitle": "Business Analyst - Gift Management System (work from home)",
-    "Company": "American National Red Cross",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/602CB2777F104C81AC96E9955F0C478F206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1111.00"
-  },
-  {
     "JvID": "170F2031698544B8BED73E4638F0D401206",
     "JobTitle": "DAS-Business Analyst 5 Organizational Change Management (OCM) Practitioner",
     "Company": "PamTen, Inc.",
@@ -1047,7 +1056,7 @@
     "JvID": "7B9A6BFDD8ED4718BED02A24D8E19440206",
     "JobTitle": "J.P. Morgan Wealth Management - Client Insights Business Analyst",
     "Company": "JPMorgan Chase",
-    "DatePosted": "2023-2-24 2:27 AM",
+    "DatePosted": "2023-2-24 2:39 AM",
     "Url": "https://de.jobsyn.org/7B9A6BFDD8ED4718BED02A24D8E19440206",
     "Location": "Columbus, OH",
     "OnetCode": "13-1111.00"
@@ -1116,15 +1125,6 @@
     "OnetCode": "13-1111.00"
   },
   {
-    "JvID": "2A5FEAA016CE4D03B7598C4F81F91D7C206",
-    "JobTitle": "Business Analyst - Software License Compliance (Remote)",
-    "Company": "Wolters Kluwer",
-    "DatePosted": "2023-3-14 4:33 AM",
-    "Url": "https://de.jobsyn.org/2A5FEAA016CE4D03B7598C4F81F91D7C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1111.00"
-  },
-  {
     "JvID": "E5F41FBA9A9E444EA1D84F6293D0497C206",
     "JobTitle": "Specialist, Project Management Support",
     "Company": "Lincoln Financial Group",
@@ -1188,30 +1188,12 @@
     "OnetCode": "13-1082.00"
   },
   {
-    "JvID": "2C0D6C0DCE8E462CAAFC69CE428AE935206",
-    "JobTitle": "Hotel PMS Project Specialist - Oracle Hospitality (REMOTE)",
-    "Company": "Oracle",
-    "DatePosted": "2023-2-15 5:24 AM",
-    "Url": "https://de.jobsyn.org/2C0D6C0DCE8E462CAAFC69CE428AE935206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
     "JvID": "E8D04A4C279B49A98A9869F4C6D7FD6C206",
     "JobTitle": "RePower Program - Product Improvement Project Manager",
     "Company": "Cummins Inc.",
     "DatePosted": "2023-3-9 8:58 PM",
     "Url": "https://de.jobsyn.org/E8D04A4C279B49A98A9869F4C6D7FD6C206",
     "Location": "Columbus, IN",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "3B7E079EAC8F48368F1204914EFE5A14206",
-    "JobTitle": "Business/Professional",
-    "Company": "BHI Energy",
-    "DatePosted": "2023-3-9 8:04 AM",
-    "Url": "https://de.jobsyn.org/3B7E079EAC8F48368F1204914EFE5A14206",
-    "Location": "Columbus, OH",
     "OnetCode": "13-1082.00"
   },
   {
@@ -1260,94 +1242,121 @@
     "OnetCode": "13-1082.00"
   },
   {
-    "JvID": "DC0E2BF71853491F8732854E8C7B2B54206",
-    "JobTitle": "IS Project Manager - RISI Applications",
-    "Company": "Nationwide Children's Hospital",
-    "DatePosted": "2023-3-16 7:39 AM",
-    "Url": "https://de.jobsyn.org/DC0E2BF71853491F8732854E8C7B2B54206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "9F49C836D2004EC58D6EC25645F78F29206",
-    "JobTitle": "Project Manager  (R&D - PPMO - Nutrition - Columbus, OH or Abbott Park, IL",
-    "Company": "Abbott",
-    "DatePosted": "2023-3-16 5:06 AM",
-    "Url": "https://de.jobsyn.org/9F49C836D2004EC58D6EC25645F78F29206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "CCDFFA05A4FA4B95B9AAE88628A1B0D2206",
-    "JobTitle": "Project Manager - Continuous Improvement",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-17 12:22 AM",
-    "Url": "https://de.jobsyn.org/CCDFFA05A4FA4B95B9AAE88628A1B0D2206",
-    "Location": "COLUMBUS, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "965F85F0D132402BB788D64A439A6F1D206",
-    "JobTitle": "Agile Product Owner Sr",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-16 3:40 AM",
-    "Url": "https://de.jobsyn.org/965F85F0D132402BB788D64A439A6F1D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "B3C920AC4DD04AA6AC4230DFA30AA674206",
-    "JobTitle": "Sr. Implementation Project Manager - Remote",
-    "Company": "Sharecare, Inc.",
-    "DatePosted": "2023-3-16 2:28 AM",
-    "Url": "https://de.jobsyn.org/B3C920AC4DD04AA6AC4230DFA30AA674206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "603AED26F8C348EABA18C118F519FD26206",
-    "JobTitle": "PM Sr. Advisor, Physician Innovation - Evernorth Health Services - Remote",
-    "Company": "The Cigna Group",
-    "DatePosted": "2023-3-16 3:59 AM",
-    "Url": "https://de.jobsyn.org/603AED26F8C348EABA18C118F519FD26206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "EDDBE042A1C846A8B47C5D023CBC13EF206",
-    "JobTitle": "Future Opportunity - Dynamics CRM Project Manager",
-    "Company": "Avanade Inc.",
-    "DatePosted": "2023-3-16 2:50 AM",
-    "Url": "https://de.jobsyn.org/EDDBE042A1C846A8B47C5D023CBC13EF206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "15CB9B645A6A4966BE24EFAF0C722555206",
-    "JobTitle": "Sr Project Coordinator - Remote",
-    "Company": "CBRE",
-    "DatePosted": "2023-3-14 7:03 AM",
-    "Url": "https://de.jobsyn.org/15CB9B645A6A4966BE24EFAF0C722555206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "7E0608657C7844B18337EFC03D01A0FB206",
-    "JobTitle": "Project Manager- Advisor Experience",
-    "Company": "MassMutual",
-    "DatePosted": "2023-3-15 4:53 AM",
-    "Url": "https://de.jobsyn.org/7E0608657C7844B18337EFC03D01A0FB206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1082.00"
-  },
-  {
-    "JvID": "715F8FF451D548CC9FCF9E93C87E16E8206",
-    "JobTitle": "Sr. Services Project Manager",
+    "JvID": "648D65B9011648F296F70FE009AD3802206",
+    "JobTitle": "Sr. Services Technical Project Manager",
     "Company": "UKG (Ultimate Kronos Group)",
-    "DatePosted": "2023-3-15 4:16 AM",
-    "Url": "https://de.jobsyn.org/715F8FF451D548CC9FCF9E93C87E16E8206",
+    "DatePosted": "2023-3-17 11:05 AM",
+    "Url": "https://de.jobsyn.org/648D65B9011648F296F70FE009AD3802206",
     "Location": "Columbus, OH",
     "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "269D2563E6E94B358DAA96D3C0ACC84E206",
+    "JobTitle": "Project Coordinator",
+    "Company": "Pearson",
+    "DatePosted": "2023-3-17 7:21 PM",
+    "Url": "https://de.jobsyn.org/269D2563E6E94B358DAA96D3C0ACC84E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "20450B8E892E44C8BB0146132558E45A206",
+    "JobTitle": "Senior Project Scheduler",
+    "Company": "CDM Smith",
+    "DatePosted": "2023-3-18 3:55 AM",
+    "Url": "https://de.jobsyn.org/20450B8E892E44C8BB0146132558E45A206",
+    "Location": "Columbus, GA",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "A26F177F31D247F5936060AFB959C371206",
+    "JobTitle": "jr project manager",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-17 5:33 AM",
+    "Url": "https://de.jobsyn.org/A26F177F31D247F5936060AFB959C371206",
+    "Location": "columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "392455C2EA8A45E4846DF46444003156206",
+    "JobTitle": "Senior Project Manager I \u2013 Columbus, Nebraska",
+    "Company": "ADM",
+    "DatePosted": "2023-3-18 3:20 AM",
+    "Url": "https://de.jobsyn.org/392455C2EA8A45E4846DF46444003156206",
+    "Location": "Columbus, NE",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "6F62A75F4BD1465BA5E6E9BB31D64AEC206",
+    "JobTitle": "Commercial Project Coordinator- GRNE Solar (Albany, NY)",
+    "Company": "Nelnet",
+    "DatePosted": "2023-3-18 3:08 AM",
+    "Url": "https://de.jobsyn.org/6F62A75F4BD1465BA5E6E9BB31D64AEC206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "55F3B5BC09D341439C02142ED199A3E9206",
+    "JobTitle": "Workday HCM Project Manager",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-18 3:53 AM",
+    "Url": "https://de.jobsyn.org/55F3B5BC09D341439C02142ED199A3E9206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "9D855C8DFEFD4023BC1F937D6D1C7331206",
+    "JobTitle": "Project Manager - Protection and Automation",
+    "Company": "Siemens",
+    "DatePosted": "2023-3-18 12:13 AM",
+    "Url": "https://de.jobsyn.org/9D855C8DFEFD4023BC1F937D6D1C7331206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "1B3F4388B8594066A0B0C9E15BB341BD206",
+    "JobTitle": "Project Manager",
+    "Company": "iCIMS",
+    "DatePosted": "2023-3-18 4:06 AM",
+    "Url": "https://de.jobsyn.org/1B3F4388B8594066A0B0C9E15BB341BD206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "4CE06BD4869C48C1937EB4FB1B1F8780206",
+    "JobTitle": "Healthcare PIPs Manager - REMOTE",
+    "Company": "Health Services Advisory Group",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/4CE06BD4869C48C1937EB4FB1B1F8780206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "33873A008E944510B22B3E0952440CFA206",
+    "JobTitle": "Senior Project Scheduler",
+    "Company": "CDM Smith",
+    "DatePosted": "2023-3-18 3:55 AM",
+    "Url": "https://de.jobsyn.org/33873A008E944510B22B3E0952440CFA206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "FCB746AACE054C69A5554B856CCBF44C206",
+    "JobTitle": "Facilities Project Manager",
+    "Company": "Battelle Memorial Institute",
+    "DatePosted": "2023-3-17 5:52 AM",
+    "Url": "https://de.jobsyn.org/FCB746AACE054C69A5554B856CCBF44C206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1082.00"
+  },
+  {
+    "JvID": "6F79974358D14E6CA0BBEB25585E7466206",
+    "JobTitle": "Audit & Assurance Staff Intern - Summer 2025",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-18 3:41 AM",
+    "Url": "https://de.jobsyn.org/6F79974358D14E6CA0BBEB25585E7466206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2011.00"
   },
   {
     "JvID": "D441F4C1723C4075BB68A0AC7681866D206",
@@ -1368,15 +1377,6 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "3B7B05CA5DC04A50BD2FCB33E93E0390206",
-    "JobTitle": "Senior Accountant",
-    "Company": "Cornerstone onDemand",
-    "DatePosted": "2023-3-15 2:46 AM",
-    "Url": "https://de.jobsyn.org/3B7B05CA5DC04A50BD2FCB33E93E0390206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "036F87B67F274E8899E233944F86F8E5206",
     "JobTitle": "Auditor-Hybrid Role",
     "Company": "Huntington National Bank",
@@ -1389,18 +1389,36 @@
     "JvID": "3B8EF753B1014C02A88A04C50BECBE74206",
     "JobTitle": "Internal Auditor Sr",
     "Company": "Elevance Health",
-    "DatePosted": "2023-3-9 4:02 AM",
+    "DatePosted": "2023-3-9 6:04 AM",
     "Url": "https://de.jobsyn.org/3B8EF753B1014C02A88A04C50BECBE74206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "B1161A25AF0548CD8D751EE80AA03B96206",
-    "JobTitle": "Senior IT Auditor",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/B1161A25AF0548CD8D751EE80AA03B96206",
+    "JvID": "63477AF1B8394644A1D341347F96BE7B206",
+    "JobTitle": "Senior Manager, Accounting",
+    "Company": "Rocket Software, Inc.",
+    "DatePosted": "2023-3-2 4:16 AM",
+    "Url": "https://de.jobsyn.org/63477AF1B8394644A1D341347F96BE7B206",
     "Location": "Columbus, OH",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "38C825DE715C487481E44950C6DA79A3206",
+    "JobTitle": "Senior Accountant, SEC Reporting",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/38C825DE715C487481E44950C6DA79A3206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "12067BB3830C4492B8AF1CFC9B461A7B206",
+    "JobTitle": "Product Coverage Senior Accountant (Hybrid)",
+    "Company": "Cummins Inc.",
+    "DatePosted": "2023-3-17 8:54 AM",
+    "Url": "https://de.jobsyn.org/12067BB3830C4492B8AF1CFC9B461A7B206",
+    "Location": "Columbus, IN",
     "OnetCode": "13-2011.00"
   },
   {
@@ -1413,11 +1431,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "63477AF1B8394644A1D341347F96BE7B206",
-    "JobTitle": "Senior Manager, Accounting",
-    "Company": "Rocket Software, Inc.",
-    "DatePosted": "2023-3-2 4:16 AM",
-    "Url": "https://de.jobsyn.org/63477AF1B8394644A1D341347F96BE7B206",
+    "JvID": "6E8F5F1D2A11436F8EC7ABB937B88B68206",
+    "JobTitle": "Senior Auditor Vice President- Consumer/Business Banking",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-2-17 5:34 AM",
+    "Url": "https://de.jobsyn.org/6E8F5F1D2A11436F8EC7ABB937B88B68206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2011.00"
   },
@@ -1431,20 +1449,20 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "1262642627694C3EA60656EBD645A153206",
-    "JobTitle": "Tax Manager, Unclaimed Property Tax; State and Local Tax (SALT)",
-    "Company": "Deloitte",
-    "DatePosted": "2023-3-15 4:30 AM",
-    "Url": "https://de.jobsyn.org/1262642627694C3EA60656EBD645A153206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
     "JvID": "AB6431485F4348D39C5F9ED82BFB7C29206",
     "JobTitle": "Information Security Audit Analyst - Government and Public Sector",
     "Company": "EY",
     "DatePosted": "2023-3-15 12:55 AM",
     "Url": "https://de.jobsyn.org/AB6431485F4348D39C5F9ED82BFB7C29206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "1262642627694C3EA60656EBD645A153206",
+    "JobTitle": "Tax Manager, Unclaimed Property Tax; State and Local Tax (SALT)",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-15 4:30 AM",
+    "Url": "https://de.jobsyn.org/1262642627694C3EA60656EBD645A153206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2011.00"
   },
@@ -1458,11 +1476,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "A402F040419B4407A1AD7D0A24CDBBEB206",
-    "JobTitle": "Senior Accountant, SEC Reporting",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-13 4:11 PM",
-    "Url": "https://de.jobsyn.org/A402F040419B4407A1AD7D0A24CDBBEB206",
+    "JvID": "1625527C20CB4B77BDA944B21261531A206",
+    "JobTitle": "Senior Financial Reporting Accountant - Remote",
+    "Company": "Prime Therapeutics",
+    "DatePosted": "2023-3-17 5:12 AM",
+    "Url": "https://de.jobsyn.org/1625527C20CB4B77BDA944B21261531A206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2011.00"
   },
@@ -1476,20 +1494,11 @@
     "OnetCode": "13-2011.00"
   },
   {
-    "JvID": "34064227346C4EF0AEAC16375379ADDE206",
-    "JobTitle": "Accountant",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-13 3:51 AM",
-    "Url": "https://de.jobsyn.org/34064227346C4EF0AEAC16375379ADDE206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "77F69D73596F4F1C9F184C1A8729887C206",
-    "JobTitle": "Senior Auditor Vice President- Cybersecurity Technology",
-    "Company": "JPMorgan Chase",
-    "DatePosted": "2023-3-16 4:52 AM",
-    "Url": "https://de.jobsyn.org/77F69D73596F4F1C9F184C1A8729887C206",
+    "JvID": "A402F040419B4407A1AD7D0A24CDBBEB206",
+    "JobTitle": "Senior Accountant, SEC Reporting",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-13 4:11 PM",
+    "Url": "https://de.jobsyn.org/A402F040419B4407A1AD7D0A24CDBBEB206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2011.00"
   },
@@ -1499,6 +1508,33 @@
     "Company": "Nationwide Children's Hospital",
     "DatePosted": "2023-2-15 1:39 AM",
     "Url": "https://de.jobsyn.org/B009DF7C11A84B39B1A39F7F8C51DDBC206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "34064227346C4EF0AEAC16375379ADDE206",
+    "JobTitle": "Accountant",
+    "Company": "Aston Carter",
+    "DatePosted": "2023-3-13 3:51 AM",
+    "Url": "https://de.jobsyn.org/34064227346C4EF0AEAC16375379ADDE206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "60B057D943E6478EA5036577AF721467206",
+    "JobTitle": "Fund Accounting Sr Mgr - C13-Hybrid",
+    "Company": "Citigroup",
+    "DatePosted": "2023-3-18 2:24 AM",
+    "Url": "https://de.jobsyn.org/60B057D943E6478EA5036577AF721467206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2011.00"
+  },
+  {
+    "JvID": "77F69D73596F4F1C9F184C1A8729887C206",
+    "JobTitle": "Senior Auditor Vice President- Cybersecurity Technology",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-16 4:52 AM",
+    "Url": "https://de.jobsyn.org/77F69D73596F4F1C9F184C1A8729887C206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2011.00"
   },
@@ -1521,56 +1557,20 @@
     "OnetCode": "13-2011.00"
   },
   {
+    "JvID": "11428865EAA74A9EAFCC802BE7061E5B206",
+    "JobTitle": "Revenue Tax Specialist",
+    "Company": "State of Indiana",
+    "DatePosted": "2023-3-18 7:00 AM",
+    "Url": "https://de.jobsyn.org/11428865EAA74A9EAFCC802BE7061E5B206",
+    "Location": "Columbus, IN",
+    "OnetCode": "13-2011.00"
+  },
+  {
     "JvID": "BE2F791C33F649C99986C7313439B860206",
     "JobTitle": "IT Auditor",
     "Company": "EXPRESS",
     "DatePosted": "2023-2-16 10:07 PM",
     "Url": "https://de.jobsyn.org/BE2F791C33F649C99986C7313439B860206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "0EF644458CB4442F8DF4E13AB4F7FEDF206",
-    "JobTitle": "Accountant",
-    "Company": "Aston Carter",
-    "DatePosted": "2023-3-8 5:23 AM",
-    "Url": "https://de.jobsyn.org/0EF644458CB4442F8DF4E13AB4F7FEDF206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "FE88421CF5F247FAABB0F14E46C24A1D206",
-    "JobTitle": "Senior Internal Audit Specialist - US REMOTE",
-    "Company": "Jacobs",
-    "DatePosted": "2023-3-2 2:39 AM",
-    "Url": "https://de.jobsyn.org/FE88421CF5F247FAABB0F14E46C24A1D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "EAE6295709F54534ABFD9C633257DDF0206",
-    "JobTitle": "Senior Accountant, SEC Reporting",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-6 4:16 PM",
-    "Url": "https://de.jobsyn.org/EAE6295709F54534ABFD9C633257DDF0206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "EE701308D81C46E1AC0021CA47397154206",
-    "JobTitle": "Senior Internal Audit Specialist - US REMOTE",
-    "Company": "Jacobs",
-    "DatePosted": "2023-3-2 2:39 AM",
-    "Url": "https://de.jobsyn.org/EE701308D81C46E1AC0021CA47397154206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2011.00"
-  },
-  {
-    "JvID": "B3FED5BDFC3B424F874F7C44A4BA9E2D206",
-    "JobTitle": "Senior Accountant, SEC Reporting",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-4 4:14 PM",
-    "Url": "https://de.jobsyn.org/B3FED5BDFC3B424F874F7C44A4BA9E2D206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2011.00"
   },
@@ -1629,6 +1629,24 @@
     "OnetCode": "11-3031.00"
   },
   {
+    "JvID": "DFE8BF8DF0C547D2AB233EB003CB824B206",
+    "JobTitle": "Commercial Relationship Manager III - Financial Institutions",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-18 2:16 AM",
+    "Url": "https://de.jobsyn.org/DFE8BF8DF0C547D2AB233EB003CB824B206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-3031.00"
+  },
+  {
+    "JvID": "06CF048BC7844744A9D8B987BFF0E4FC206",
+    "JobTitle": "Commercial Relationship Manager III - Financial Institutions",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-18 2:16 AM",
+    "Url": "https://de.jobsyn.org/06CF048BC7844744A9D8B987BFF0E4FC206",
+    "Location": "Columbus, OH",
+    "OnetCode": "11-3031.00"
+  },
+  {
     "JvID": "A423B7CE9669454492DD241535156403206",
     "JobTitle": "Risk Manager - Lincoln Financial Network",
     "Company": "Lincoln Financial Group",
@@ -1674,15 +1692,6 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "56A016F3D5BE4CF5B78F199999185F2D206",
-    "JobTitle": "Product Management Financial Planning & Analysis, Senior Associate",
-    "Company": "JPMorgan Chase",
-    "DatePosted": "2023-3-11 4:28 AM",
-    "Url": "https://de.jobsyn.org/56A016F3D5BE4CF5B78F199999185F2D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "11-3031.00"
-  },
-  {
     "JvID": "69A90CECD4C340C7B3C7A065ADF9B6A4206",
     "JobTitle": "Remote Federal Accounting / Financial Reporting Manager 2 (Clearance Required)",
     "Company": "Deloitte",
@@ -1704,7 +1713,7 @@
     "JvID": "25E7EF4C43E344AEA1593061155DF401206",
     "JobTitle": "Manager Sr. Financial Ops Dept \u2013 Commercial CAD Operations",
     "Company": "Elevance Health",
-    "DatePosted": "2023-3-9 4:01 AM",
+    "DatePosted": "2023-3-9 6:03 AM",
     "Url": "https://de.jobsyn.org/25E7EF4C43E344AEA1593061155DF401206",
     "Location": "Columbus, OH",
     "OnetCode": "11-3031.00"
@@ -1737,11 +1746,11 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "A72FCA8733F94CA7B617F57F26D12190206",
-    "JobTitle": "Sr. Manager I, Finance",
-    "Company": "Xerox",
-    "DatePosted": "2023-3-3 3:40 AM",
-    "Url": "https://de.jobsyn.org/A72FCA8733F94CA7B617F57F26D12190206",
+    "JvID": "CFFD1528B1A3461FBDB0E6845F4EDD2D206",
+    "JobTitle": "Head of Deposits",
+    "Company": "U.S. Bank",
+    "DatePosted": "2023-3-17 9:57 PM",
+    "Url": "https://de.jobsyn.org/CFFD1528B1A3461FBDB0E6845F4EDD2D206",
     "Location": "Columbus, OH",
     "OnetCode": "11-3031.00"
   },
@@ -1755,15 +1764,6 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "42CB1D4CCAD84351A025216980900533206",
-    "JobTitle": "VPI Finance Manager",
-    "Company": "Cummins Inc.",
-    "DatePosted": "2023-3-16 8:53 AM",
-    "Url": "https://de.jobsyn.org/42CB1D4CCAD84351A025216980900533206",
-    "Location": "Columbus, IN",
-    "OnetCode": "11-3031.00"
-  },
-  {
     "JvID": "C089A99393034A3E803A9F432320BEA9206",
     "JobTitle": "Financial Planner - Private Banking",
     "Company": "WesBanco Bank, Inc",
@@ -1773,29 +1773,29 @@
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "7BEB9B7F79EC453E92E42A0374723103206",
-    "JobTitle": "Accountant",
+    "JvID": "42CB1D4CCAD84351A025216980900533206",
+    "JobTitle": "VPI Finance Manager",
     "Company": "Cummins Inc.",
-    "DatePosted": "2023-3-15 8:59 AM",
-    "Url": "https://de.jobsyn.org/7BEB9B7F79EC453E92E42A0374723103206",
+    "DatePosted": "2023-3-16 8:53 AM",
+    "Url": "https://de.jobsyn.org/42CB1D4CCAD84351A025216980900533206",
     "Location": "Columbus, IN",
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "EF4FA1B52FB344FC80FFDFA4FDDFDCAA206",
-    "JobTitle": "Senior Trust Officer - Trust Administration CO",
-    "Company": "WesBanco Bank, Inc",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/EF4FA1B52FB344FC80FFDFA4FDDFDCAA206",
-    "Location": "Columbus, OH",
+    "JvID": "12067BB3830C4492B8AF1CFC9B461A7B206",
+    "JobTitle": "Product Coverage Senior Accountant (Hybrid)",
+    "Company": "Cummins Inc.",
+    "DatePosted": "2023-3-17 8:54 AM",
+    "Url": "https://de.jobsyn.org/12067BB3830C4492B8AF1CFC9B461A7B206",
+    "Location": "Columbus, IN",
     "OnetCode": "11-3031.00"
   },
   {
-    "JvID": "E19E44D6423545CD85002D8B0B588557206",
-    "JobTitle": "Relationship Manager",
-    "Company": "Freedom Equity, Inc",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/E19E44D6423545CD85002D8B0B588557206",
+    "JvID": "7A84410511AA43AAACF036B52D76D629206",
+    "JobTitle": "Financial Analysis -Forecast Automation & Execution - Senior Analyst",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/7A84410511AA43AAACF036B52D76D629206",
     "Location": "Columbus, OH",
     "OnetCode": "11-3031.00"
   },
@@ -1827,6 +1827,24 @@
     "OnetCode": "41-3021.00"
   },
   {
+    "JvID": "6FDB61DBE1F64F8EA29909DA4EC84E36206",
+    "JobTitle": "Inside Sales Agent",
+    "Company": "Centene Corporation",
+    "DatePosted": "2023-3-18 4:58 AM",
+    "Url": "https://de.jobsyn.org/6FDB61DBE1F64F8EA29909DA4EC84E36206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3021.00"
+  },
+  {
+    "JvID": "43F508C7FD614028A655C4BE331F3D80206",
+    "JobTitle": "Inside Sales Agent",
+    "Company": "Centene Corporation",
+    "DatePosted": "2023-3-18 4:58 AM",
+    "Url": "https://de.jobsyn.org/43F508C7FD614028A655C4BE331F3D80206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3021.00"
+  },
+  {
     "JvID": "9F3F49B8F76D48AB9D808E4E99800435206",
     "JobTitle": "Inside Sales Agent",
     "Company": "Centene Corporation",
@@ -1854,15 +1872,6 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "D6F65959D89147739C1F55E999D5FD4D206",
-    "JobTitle": "Direct Sales Agent",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-16 3:35 AM",
-    "Url": "https://de.jobsyn.org/D6F65959D89147739C1F55E999D5FD4D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3021.00"
-  },
-  {
     "JvID": "816331DE8359441BAFB5B554D65FC884206",
     "JobTitle": "Medicare Sales Agent",
     "Company": "UnitedHealth Group",
@@ -1881,15 +1890,6 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "1B67B2E2C2844681A7A0128E789142DD206",
-    "JobTitle": "Direct Sales Agent (US)",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-21 8:10 AM",
-    "Url": "https://de.jobsyn.org/1B67B2E2C2844681A7A0128E789142DD206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3021.00"
-  },
-  {
     "JvID": "56B5747CC2BD452F88CE9745594C5C49206",
     "JobTitle": "Direct Sales Agent (US)",
     "Company": "Elevance Health",
@@ -1899,11 +1899,11 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "B1A296ADC3704E42907113D668E1330C206",
-    "JobTitle": "Personal Lines Underwriter",
-    "Company": "Hub International",
-    "DatePosted": "2023-3-14 10:59 PM",
-    "Url": "https://de.jobsyn.org/B1A296ADC3704E42907113D668E1330C206",
+    "JvID": "1B67B2E2C2844681A7A0128E789142DD206",
+    "JobTitle": "Direct Sales Agent (US)",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-2-21 8:10 AM",
+    "Url": "https://de.jobsyn.org/1B67B2E2C2844681A7A0128E789142DD206",
     "Location": "Columbus, OH",
     "OnetCode": "41-3021.00"
   },
@@ -1944,38 +1944,20 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "A36E3703AFA940BC8FD94B2EF78E19AF206",
-    "JobTitle": "National Broker Sales Director",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-28 9:29 AM",
-    "Url": "https://de.jobsyn.org/A36E3703AFA940BC8FD94B2EF78E19AF206",
+    "JvID": "B1A296ADC3704E42907113D668E1330C206",
+    "JobTitle": "Personal Lines Underwriter",
+    "Company": "Hub International",
+    "DatePosted": "2023-3-14 10:59 PM",
+    "Url": "https://de.jobsyn.org/B1A296ADC3704E42907113D668E1330C206",
     "Location": "Columbus, OH",
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "5300C08871764F85A485D49F182940C0206",
-    "JobTitle": "Medicare Inside Sales & Retention Agent",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-23 8:24 AM",
-    "Url": "https://de.jobsyn.org/5300C08871764F85A485D49F182940C0206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3021.00"
-  },
-  {
-    "JvID": "A4EA04277B9A4391BB70B0084D4A1604206",
-    "JobTitle": "Medicare Inside Sales and Retention Agent",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-22 6:46 AM",
-    "Url": "https://de.jobsyn.org/A4EA04277B9A4391BB70B0084D4A1604206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3021.00"
-  },
-  {
-    "JvID": "7334C93B4D23491AB5051323145767FD206",
-    "JobTitle": "Agency Service Rep III",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-16 3:35 AM",
-    "Url": "https://de.jobsyn.org/7334C93B4D23491AB5051323145767FD206",
+    "JvID": "69897A50C4F54080938F44EC9BD51A57206",
+    "JobTitle": "Life Underwriter",
+    "Company": "Aston Carter",
+    "DatePosted": "2023-3-18 2:27 AM",
+    "Url": "https://de.jobsyn.org/69897A50C4F54080938F44EC9BD51A57206",
     "Location": "Columbus, OH",
     "OnetCode": "41-3021.00"
   },
@@ -2007,22 +1989,49 @@
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "99B045BC07CB43BB9723F0D81DF39DED206",
-    "JobTitle": "Agency Service Rep I",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-18 7:14 AM",
-    "Url": "https://de.jobsyn.org/99B045BC07CB43BB9723F0D81DF39DED206",
+    "JvID": "319588BABB434761AF3B9B7D0C896D7B206",
+    "JobTitle": "Sales Professional",
+    "Company": "SCI Shared Resources, LLC",
+    "DatePosted": "2023-2-15 3:56 PM",
+    "Url": "https://de.jobsyn.org/319588BABB434761AF3B9B7D0C896D7B206",
     "Location": "Columbus, GA",
     "OnetCode": "41-3021.00"
   },
   {
-    "JvID": "48E53509FE1B4284B19FA8E9BA0C6623206",
-    "JobTitle": "Agency Service Rep I",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-2-18 7:09 AM",
-    "Url": "https://de.jobsyn.org/48E53509FE1B4284B19FA8E9BA0C6623206",
-    "Location": "Columbus, GA",
+    "JvID": "70BE3C05924141B7B3E7E9B1C430C587206",
+    "JobTitle": "Sales Professional",
+    "Company": "SCI Shared Resources, LLC",
+    "DatePosted": "2023-2-13 3:58 PM",
+    "Url": "https://de.jobsyn.org/70BE3C05924141B7B3E7E9B1C430C587206",
+    "Location": "Columbus, OH",
     "OnetCode": "41-3021.00"
+  },
+  {
+    "JvID": "20D18361DAC34447ABA15E11161D369B206",
+    "JobTitle": "Specialist, Group Underwriting (Supplemental Health and Dental)",
+    "Company": "Lincoln Financial Group",
+    "DatePosted": "2023-3-17 3:24 AM",
+    "Url": "https://de.jobsyn.org/20D18361DAC34447ABA15E11161D369B206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3021.00"
+  },
+  {
+    "JvID": "131C326C9FA7401B84450CC34853CCB7206",
+    "JobTitle": "Nabisco Sales Coverage Representative",
+    "Company": "Mondelez International",
+    "DatePosted": "2023-3-17 3:53 AM",
+    "Url": "https://de.jobsyn.org/131C326C9FA7401B84450CC34853CCB7206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3021.00"
+  },
+  {
+    "JvID": "EA8CD4A9C0504021B4784BF1ACDBB303206",
+    "JobTitle": "Broker Dealer Associate",
+    "Company": "Robert Half",
+    "DatePosted": "2023-3-18 12:14 AM",
+    "Url": "https://de.jobsyn.org/EA8CD4A9C0504021B4784BF1ACDBB303206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
   },
   {
     "JvID": "0AF5B84D372047DB91B713B8404359CF206",
@@ -2030,6 +2039,123 @@
     "Company": "JPMorgan Chase",
     "DatePosted": "2023-2-26 4:31 AM",
     "Url": "https://de.jobsyn.org/0AF5B84D372047DB91B713B8404359CF206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "9F24C2A9CAFC417E8E1E6B73F60E6118206",
+    "JobTitle": "Credit Services Professional",
+    "Company": "Spectrum",
+    "DatePosted": "2023-3-18 12:59 AM",
+    "Url": "https://de.jobsyn.org/9F24C2A9CAFC417E8E1E6B73F60E6118206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "23D7ABBD4FBB450C8F97ED7E9B361CB9206",
+    "JobTitle": "Merrill Team Financial Advisor",
+    "Company": "Bank of America",
+    "DatePosted": "2023-3-17 6:55 PM",
+    "Url": "https://de.jobsyn.org/23D7ABBD4FBB450C8F97ED7E9B361CB9206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "4291348669F542D5896951EBF7176171206",
+    "JobTitle": "Account Executive, Card Services",
+    "Company": "Fiserv",
+    "DatePosted": "2023-3-18 4:25 AM",
+    "Url": "https://de.jobsyn.org/4291348669F542D5896951EBF7176171206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "6FDB61DBE1F64F8EA29909DA4EC84E36206",
+    "JobTitle": "Inside Sales Agent",
+    "Company": "Centene Corporation",
+    "DatePosted": "2023-3-18 4:58 AM",
+    "Url": "https://de.jobsyn.org/6FDB61DBE1F64F8EA29909DA4EC84E36206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "B8EA833A37A844639D801543E8B81FB6206",
+    "JobTitle": "Credit Services Recovery Specialist",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-18 2:16 AM",
+    "Url": "https://de.jobsyn.org/B8EA833A37A844639D801543E8B81FB6206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "DFE8BF8DF0C547D2AB233EB003CB824B206",
+    "JobTitle": "Commercial Relationship Manager III - Financial Institutions",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-18 2:16 AM",
+    "Url": "https://de.jobsyn.org/DFE8BF8DF0C547D2AB233EB003CB824B206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "0DFB35C5917E4BAA9A679ACDFD6A3960206",
+    "JobTitle": "Merrill Financial Solutions Advisor (ADP) - Merrill Offices - Camden, Greenville, Spartanburg, Aiken, SC; Macon, Augusta, GA",
+    "Company": "Bank of America",
+    "DatePosted": "2023-3-17 6:56 PM",
+    "Url": "https://de.jobsyn.org/0DFB35C5917E4BAA9A679ACDFD6A3960206",
+    "Location": "Columbus, GA",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "06CF048BC7844744A9D8B987BFF0E4FC206",
+    "JobTitle": "Commercial Relationship Manager III - Financial Institutions",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-18 2:16 AM",
+    "Url": "https://de.jobsyn.org/06CF048BC7844744A9D8B987BFF0E4FC206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "51BDDDB77C4747F3935C4E976D3F8B77206",
+    "JobTitle": "FCBank Universal Associate",
+    "Company": "CNB Bank",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/51BDDDB77C4747F3935C4E976D3F8B77206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "43F508C7FD614028A655C4BE331F3D80206",
+    "JobTitle": "Inside Sales Agent",
+    "Company": "Centene Corporation",
+    "DatePosted": "2023-3-18 4:58 AM",
+    "Url": "https://de.jobsyn.org/43F508C7FD614028A655C4BE331F3D80206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "C57E144BE4214A869290911784FD2111206",
+    "JobTitle": "Sales Representative, Pre-AP & SpringBoard",
+    "Company": "The College Entrance Examination Board",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/C57E144BE4214A869290911784FD2111206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "199BD47941824AE8AB4DDCE18B28A976206",
+    "JobTitle": "Commercial Relationship Manager, Sr - Aerospace & Defense",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-18 2:16 AM",
+    "Url": "https://de.jobsyn.org/199BD47941824AE8AB4DDCE18B28A976206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "94F85126F8AE43289F0FADE807CB76E4206",
+    "JobTitle": "Merrill Financial Advisor \u2013 Accelerated Growth Role",
+    "Company": "Bank of America",
+    "DatePosted": "2023-3-17 6:56 PM",
+    "Url": "https://de.jobsyn.org/94F85126F8AE43289F0FADE807CB76E4206",
     "Location": "Columbus, OH",
     "OnetCode": "41-3031.00"
   },
@@ -2052,11 +2178,38 @@
     "OnetCode": "41-3031.00"
   },
   {
+    "JvID": "AD0285CED76E435495A5BB960533B43B206",
+    "JobTitle": "Sales Representative",
+    "Company": "Sysco",
+    "DatePosted": "2023-3-17 3:37 AM",
+    "Url": "https://de.jobsyn.org/AD0285CED76E435495A5BB960533B43B206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
     "JvID": "A303AC6A25D84FDEBD993A27058E3650206",
     "JobTitle": "Associate, Investments & Strategic Initiatives",
     "Company": "The College Entrance Examination Board",
     "DatePosted": "2023-3-16 4:07 PM",
     "Url": "https://de.jobsyn.org/A303AC6A25D84FDEBD993A27058E3650206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "83A4A999416948C1BABE1D304F146C5F206",
+    "JobTitle": "Sales Executive - Sustainability, Climate & Equity - ESG Reporting Readiness",
+    "Company": "Deloitte",
+    "DatePosted": "2023-3-17 3:30 AM",
+    "Url": "https://de.jobsyn.org/83A4A999416948C1BABE1D304F146C5F206",
+    "Location": "Columbus, OH",
+    "OnetCode": "41-3031.00"
+  },
+  {
+    "JvID": "A2493332FCFA4D21B5FADBDD0723AE4E206",
+    "JobTitle": "Investment Forecasting Lead - Vice President",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-17 4:20 AM",
+    "Url": "https://de.jobsyn.org/A2493332FCFA4D21B5FADBDD0723AE4E206",
     "Location": "Columbus, OH",
     "OnetCode": "41-3031.00"
   },
@@ -2097,157 +2250,13 @@
     "OnetCode": "41-3031.00"
   },
   {
-    "JvID": "9209F5524ADD4CC7AA979CC3EFBFB775206",
-    "JobTitle": "Leasing Sales- Equipment Finance",
-    "Company": "U.S. Bank",
-    "DatePosted": "2023-3-16 9:57 PM",
-    "Url": "https://de.jobsyn.org/9209F5524ADD4CC7AA979CC3EFBFB775206",
+    "JvID": "C573A2F1D5294548A925A6462858C9D1206",
+    "JobTitle": "Senior Financial Analyst - Secret Clearance - Remote",
+    "Company": "MindPoint Group",
+    "DatePosted": "2023-3-17 3:29 AM",
+    "Url": "https://de.jobsyn.org/C573A2F1D5294548A925A6462858C9D1206",
     "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "A573FEA25F804990A3CCE37FEC592CE0206",
-    "JobTitle": "Field Performance Management - Analytics Solutions - Vice President",
-    "Company": "JPMorgan Chase",
-    "DatePosted": "2023-3-16 4:52 AM",
-    "Url": "https://de.jobsyn.org/A573FEA25F804990A3CCE37FEC592CE0206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "D6F65959D89147739C1F55E999D5FD4D206",
-    "JobTitle": "Direct Sales Agent",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-16 3:35 AM",
-    "Url": "https://de.jobsyn.org/D6F65959D89147739C1F55E999D5FD4D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "06DF12C77101436A83D6C8E5A04D96B3206",
-    "JobTitle": "National Settlements Service Manager",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-3-16 3:44 AM",
-    "Url": "https://de.jobsyn.org/06DF12C77101436A83D6C8E5A04D96B3206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "227B9197757F44CFA514867DBE431CFE206",
-    "JobTitle": "CSC Relationship Sales and Service Specialist - Columbus, OH",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-3-16 3:44 AM",
-    "Url": "https://de.jobsyn.org/227B9197757F44CFA514867DBE431CFE206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "65C56D417D9944319DD313CB1414DE1F206",
-    "JobTitle": "Commercial Loan Specialist",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-16 12:02 AM",
-    "Url": "https://de.jobsyn.org/65C56D417D9944319DD313CB1414DE1F206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "428275B140A045E59DED8448D12B0A1F206",
-    "JobTitle": "Institutional Sales Associate",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-3-16 3:44 AM",
-    "Url": "https://de.jobsyn.org/428275B140A045E59DED8448D12B0A1F206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "6C25644CD10943FA93FC5073C083033B206",
-    "JobTitle": "customer service representative",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-15 5:38 AM",
-    "Url": "https://de.jobsyn.org/6C25644CD10943FA93FC5073C083033B206",
-    "Location": "columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "E37F551952FB4159B8FFCB0C487FEAF9206",
-    "JobTitle": "Sales Development Intern - Los Angeles, CA",
-    "Company": "Patterson Companies, Inc.",
-    "DatePosted": "2023-3-15 5:31 AM",
-    "Url": "https://de.jobsyn.org/E37F551952FB4159B8FFCB0C487FEAF9206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "E8597D512A154C1691DDF00F541C6B45206",
-    "JobTitle": "Registered Client Service Associate *",
-    "Company": "Morgan Stanley",
-    "DatePosted": "2023-3-16 12:31 AM",
-    "Url": "https://de.jobsyn.org/E8597D512A154C1691DDF00F541C6B45206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "C6BAB69E14A2443AB2960DB0CE3216E9206",
-    "JobTitle": "Universal Banker - Gahanna",
-    "Company": "WesBanco Bank, Inc",
-    "DatePosted": "2023-3-15 4:06 PM",
-    "Url": "https://de.jobsyn.org/C6BAB69E14A2443AB2960DB0CE3216E9206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "0E87FA1CA72441C1AACAC86F31137D22206",
-    "JobTitle": "Associate Sales Representative, Oncology and Vascular Care (Columbus, Cleveland, Cincinnati, Nashville) (Field)",
-    "Company": "BD (Becton, Dickinson and Company)",
-    "DatePosted": "2023-3-16 4:39 AM",
-    "Url": "https://de.jobsyn.org/0E87FA1CA72441C1AACAC86F31137D22206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "D31B040AFD5E4B82BCA823C30B07883E206",
-    "JobTitle": "Sales Representative, Pre-AP & SpringBoard",
-    "Company": "The College Entrance Examination Board",
-    "DatePosted": "2023-3-15 4:06 PM",
-    "Url": "https://de.jobsyn.org/D31B040AFD5E4B82BCA823C30B07883E206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "F9A54DD857B24E8E849E159FAAB2FD4C206",
-    "JobTitle": "Account Mgmt Executive-BH/EAP (US)",
-    "Company": "Elevance Health",
-    "DatePosted": "2023-3-16 3:40 AM",
-    "Url": "https://de.jobsyn.org/F9A54DD857B24E8E849E159FAAB2FD4C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "8479810F10BA455B8BC6D6E66D3D1E00206",
-    "JobTitle": "Division Sales Manager (Merchant Services)",
-    "Company": "Paynada",
-    "DatePosted": "2023-3-15 8:23 AM",
-    "Url": "https://de.jobsyn.org/8479810F10BA455B8BC6D6E66D3D1E00206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "4EA526559CF649EF98E94E9A715681F5206",
-    "JobTitle": "Senior Sales Associate - Keyholder",
-    "Company": "Petco",
-    "DatePosted": "2023-3-15 6:20 AM",
-    "Url": "https://de.jobsyn.org/4EA526559CF649EF98E94E9A715681F5206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
-  },
-  {
-    "JvID": "C4CA55F4BD924EED85DC3664CD2185FC206",
-    "JobTitle": "Credit Services Specialist 1",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-3-16 3:44 AM",
-    "Url": "https://de.jobsyn.org/C4CA55F4BD924EED85DC3664CD2185FC206",
-    "Location": "Columbus, OH",
-    "OnetCode": "41-3031.00"
+    "OnetCode": "13-2051.00"
   },
   {
     "JvID": "4B7367D12AD5473FA6E51A7713B0E744206",
@@ -2268,11 +2277,47 @@
     "OnetCode": "13-2051.00"
   },
   {
+    "JvID": "2D9A4F797ED043DE9914DB3B13741C4C206",
+    "JobTitle": "Market Risk Analyst",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/2D9A4F797ED043DE9914DB3B13741C4C206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "7A84410511AA43AAACF036B52D76D629206",
+    "JobTitle": "Financial Analysis -Forecast Automation & Execution - Senior Analyst",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/7A84410511AA43AAACF036B52D76D629206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2051.00"
+  },
+  {
     "JvID": "588A68F47B3B49D0A2FD0EDEF4DE7AF5206",
     "JobTitle": "Senior Financial Analyst (2294)",
     "Company": "SMX",
     "DatePosted": "2023-3-14 4:42 AM",
     "Url": "https://de.jobsyn.org/588A68F47B3B49D0A2FD0EDEF4DE7AF5206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "F313C32D6E3B4650BB62E2C8FF8B7BDC206",
+    "JobTitle": "Analyst/Sr. Analyst, Financial Planning & Analysis",
+    "Company": "Evolent Health",
+    "DatePosted": "2023-2-23 3:28 AM",
+    "Url": "https://de.jobsyn.org/F313C32D6E3B4650BB62E2C8FF8B7BDC206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "37C87707C7FC47E0B6F8F8EF1976DD2A206",
+    "JobTitle": "FP&A Manager- Modeling",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/37C87707C7FC47E0B6F8F8EF1976DD2A206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2051.00"
   },
@@ -2286,6 +2331,15 @@
     "OnetCode": "13-2051.00"
   },
   {
+    "JvID": "4B76893042E1431E9A69B5862E3C9AC4206",
+    "JobTitle": "Financial Analyst (Patient Billing)",
+    "Company": "Vanderbilt University Medical Center",
+    "DatePosted": "2023-3-18 3:30 AM",
+    "Url": "https://de.jobsyn.org/4B76893042E1431E9A69B5862E3C9AC4206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2051.00"
+  },
+  {
     "JvID": "F0BE8F187ED94F39A28D01A97DD60490206",
     "JobTitle": "Business Operations Revenue Analyst",
     "Company": "CBRE",
@@ -2295,11 +2349,11 @@
     "OnetCode": "13-2051.00"
   },
   {
-    "JvID": "47DBBE33DB234ABBA750D3661159D8DE206",
-    "JobTitle": "FP&A Manager- Modeling",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/47DBBE33DB234ABBA750D3661159D8DE206",
+    "JvID": "5C1D678E7EA840A1AF617F36332B8EA7206",
+    "JobTitle": "Asset Management - Shareholder Services - Analyst",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-2 3:06 AM",
+    "Url": "https://de.jobsyn.org/5C1D678E7EA840A1AF617F36332B8EA7206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2051.00"
   },
@@ -2313,11 +2367,11 @@
     "OnetCode": "13-2051.00"
   },
   {
-    "JvID": "5C1D678E7EA840A1AF617F36332B8EA7206",
-    "JobTitle": "Asset Management - Shareholder Services - Analyst",
+    "JvID": "B27683E6BFB44662AD63958706C8B1C6206",
+    "JobTitle": "Global Real Estate Construction Accounting Analyst",
     "Company": "JPMorgan Chase",
-    "DatePosted": "2023-3-2 3:06 AM",
-    "Url": "https://de.jobsyn.org/5C1D678E7EA840A1AF617F36332B8EA7206",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/B27683E6BFB44662AD63958706C8B1C6206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2051.00"
   },
@@ -2367,6 +2421,24 @@
     "OnetCode": "13-2051.00"
   },
   {
+    "JvID": "29221BDC5E894873A4161653B6EBE2D1206",
+    "JobTitle": "Fund Accounting Assoc Analyst2- Hybrid",
+    "Company": "Citigroup",
+    "DatePosted": "2023-3-17 3:05 AM",
+    "Url": "https://de.jobsyn.org/29221BDC5E894873A4161653B6EBE2D1206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2051.00"
+  },
+  {
+    "JvID": "55BD164B83EE418BA35D78ADF3957C9C206",
+    "JobTitle": "Actuarial Analyst II, Group Pricing",
+    "Company": "Lincoln Financial Group",
+    "DatePosted": "2023-3-18 4:39 AM",
+    "Url": "https://de.jobsyn.org/55BD164B83EE418BA35D78ADF3957C9C206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2051.00"
+  },
+  {
     "JvID": "B8A4E7CB865B46BBB3915F9621B2F833206",
     "JobTitle": "Data Visualization and Analytics - Sr Associate",
     "Company": "JPMorgan Chase",
@@ -2399,78 +2471,6 @@
     "Company": "Vertiv Corporation",
     "DatePosted": "2023-3-1 4:37 PM",
     "Url": "https://de.jobsyn.org/8AEFA4AEBF42419F873CE487AF1F349F206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "A1F1FFE9902F4EF08F77C37EA38B7E2B206",
-    "JobTitle": "Events Management Analyst",
-    "Company": "JPMorgan Chase",
-    "DatePosted": "2023-3-8 4:05 AM",
-    "Url": "https://de.jobsyn.org/A1F1FFE9902F4EF08F77C37EA38B7E2B206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "F91C0D5F2C4147A1BB0391E088644F87206",
-    "JobTitle": "Finance Director",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-16 4:07 AM",
-    "Url": "https://de.jobsyn.org/F91C0D5F2C4147A1BB0391E088644F87206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "08BD8D819BD4429F81FAC4CACEB64BB2206",
-    "JobTitle": "Senior Analyst-Marketing",
-    "Company": "American Express",
-    "DatePosted": "2023-3-9 4:23 AM",
-    "Url": "https://de.jobsyn.org/08BD8D819BD4429F81FAC4CACEB64BB2206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "0E571849BCDB41CFA2A9EF9C4C1AEBE7206",
-    "JobTitle": "Audit Analytics Business Analyst",
-    "Company": "Lincoln Financial Group",
-    "DatePosted": "2023-3-3 3:27 AM",
-    "Url": "https://de.jobsyn.org/0E571849BCDB41CFA2A9EF9C4C1AEBE7206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "A19D999A36394807AA951EC2ED5B9E9B206",
-    "JobTitle": "Quantitative Risk Modeling Analyst Senior",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-2-18 2:35 AM",
-    "Url": "https://de.jobsyn.org/A19D999A36394807AA951EC2ED5B9E9B206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "7D1837112E8D4C5BB15DC02439CA0B99206",
-    "JobTitle": "Sr. Financial Analyst",
-    "Company": "RELX INC",
-    "DatePosted": "2023-3-11 5:42 AM",
-    "Url": "https://de.jobsyn.org/7D1837112E8D4C5BB15DC02439CA0B99206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "905DC096928846B19F2B2BBA3A860A26206",
-    "JobTitle": "Senior Financial Analyst, Americas HQ - Smart Infrastructure - Hybrid - Buffalo Grove, IL / Atlanta, GA preferred",
-    "Company": "Siemens",
-    "DatePosted": "2023-2-22 12:16 AM",
-    "Url": "https://de.jobsyn.org/905DC096928846B19F2B2BBA3A860A26206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2051.00"
-  },
-  {
-    "JvID": "D828B1A2DD4C40F3B3F5E1CAEFF5B78A206",
-    "JobTitle": "Mergers & Acquisitions Program Analyst",
-    "Company": "CBRE",
-    "DatePosted": "2023-3-8 8:40 PM",
-    "Url": "https://de.jobsyn.org/D828B1A2DD4C40F3B3F5E1CAEFF5B78A206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2051.00"
   },
@@ -2565,11 +2565,29 @@
     "OnetCode": "13-2041.00"
   },
   {
+    "JvID": "7A84410511AA43AAACF036B52D76D629206",
+    "JobTitle": "Financial Analysis -Forecast Automation & Execution - Senior Analyst",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/7A84410511AA43AAACF036B52D76D629206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2041.00"
+  },
+  {
     "JvID": "A19D999A36394807AA951EC2ED5B9E9B206",
     "JobTitle": "Quantitative Risk Modeling Analyst Senior",
     "Company": "Huntington National Bank",
     "DatePosted": "2023-2-18 2:35 AM",
     "Url": "https://de.jobsyn.org/A19D999A36394807AA951EC2ED5B9E9B206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "2D9A4F797ED043DE9914DB3B13741C4C206",
+    "JobTitle": "Market Risk Analyst",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/2D9A4F797ED043DE9914DB3B13741C4C206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2041.00"
   },
@@ -2601,11 +2619,47 @@
     "OnetCode": "13-2041.00"
   },
   {
-    "JvID": "5AB8C3652CF74B06937CED3E6E4A7D14206",
-    "JobTitle": "CBB Risk Analyst",
-    "Company": "U.S. Bank",
-    "DatePosted": "2023-3-15 9:57 PM",
-    "Url": "https://de.jobsyn.org/5AB8C3652CF74B06937CED3E6E4A7D14206",
+    "JvID": "7752FE85A05345AEA2E6ED01B6971051206",
+    "JobTitle": "Credit Review - Senior Associate",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/7752FE85A05345AEA2E6ED01B6971051206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "4B76893042E1431E9A69B5862E3C9AC4206",
+    "JobTitle": "Financial Analyst (Patient Billing)",
+    "Company": "Vanderbilt University Medical Center",
+    "DatePosted": "2023-3-18 3:30 AM",
+    "Url": "https://de.jobsyn.org/4B76893042E1431E9A69B5862E3C9AC4206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "0E1A3649A6F74B37A78A7D24E7455716206",
+    "JobTitle": "Credit and Collections Specialist",
+    "Company": "MIDWEST MOTOR SUPPLY CO",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/0E1A3649A6F74B37A78A7D24E7455716206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "C8E627A94D2B4EB981D9B32AB8FADAEC206",
+    "JobTitle": "SBA Portfolio Underwriter III",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-17 4:54 AM",
+    "Url": "https://de.jobsyn.org/C8E627A94D2B4EB981D9B32AB8FADAEC206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-2041.00"
+  },
+  {
+    "JvID": "49868DAB679A46B881C2BCFDBA12D00C206",
+    "JobTitle": "SBA Portfolio Underwriter III",
+    "Company": "Huntington National Bank",
+    "DatePosted": "2023-3-17 4:54 AM",
+    "Url": "https://de.jobsyn.org/49868DAB679A46B881C2BCFDBA12D00C206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2041.00"
   },
@@ -2644,69 +2698,6 @@
     "Url": "https://de.jobsyn.org/75E728C75DD544D0B8A3860A6C8A2EB1206",
     "Location": "Columbus, OH",
     "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "5EC45AA6E20A43DC8A31810E529AAC35206",
-    "JobTitle": "Credit Specialist",
-    "Company": "Applied Industrial Technologies, Inc.",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/5EC45AA6E20A43DC8A31810E529AAC35206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "EB915DBD552448849420D6D5E39A1F08206",
-    "JobTitle": "Commercial Loan Review Officer",
-    "Company": "Northwest Bank",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/EB915DBD552448849420D6D5E39A1F08206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "D8AE37DF4BA644EFB4639BA77FAB21F3206",
-    "JobTitle": "Reconciliation Analyst - MediGold",
-    "Company": "Trinity Health",
-    "DatePosted": "2023-3-10 4:03 AM",
-    "Url": "https://de.jobsyn.org/D8AE37DF4BA644EFB4639BA77FAB21F3206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "28F76F74DEB14BE4B5FCD5FAC1D3E086206",
-    "JobTitle": "Credit Specialist",
-    "Company": "Applied Industrial Technologies",
-    "DatePosted": "2023-3-9 10:34 PM",
-    "Url": "https://de.jobsyn.org/28F76F74DEB14BE4B5FCD5FAC1D3E086206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "34491A8FAF3C446F98087533D9FCABD3206",
-    "JobTitle": "Credit Specialist",
-    "Company": "Applied Industrial Technologies",
-    "DatePosted": "2023-3-9 7:39 AM",
-    "Url": "https://de.jobsyn.org/34491A8FAF3C446F98087533D9FCABD3206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "72D32F4491A248CE8DB30F010F110938206",
-    "JobTitle": "Business Banking Underwriter III",
-    "Company": "Huntington National Bank",
-    "DatePosted": "2023-3-7 4:20 AM",
-    "Url": "https://de.jobsyn.org/72D32F4491A248CE8DB30F010F110938206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-2041.00"
-  },
-  {
-    "JvID": "F0830426E862443BB911BFE6B5868673206",
-    "JobTitle": "CAREGIVER/HOME HEALTH AIDE",
-    "Company": "Georgia Employer",
-    "DatePosted": "2023-3-7 11:56 PM",
-    "Url": "https://de.jobsyn.org/F0830426E862443BB911BFE6B5868673206",
-    "Location": "Columbus, GA",
-    "OnetCode": "31-1121.00"
   },
   {
     "JvID": "C0B94DF326484FE1B8202128875BDE32206",
@@ -2754,20 +2745,29 @@
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "20B8CA71AC9741FDAEA272BA755894C2206",
+    "JvID": "87A72EB6AE8B455B88917B75D69A9602206",
     "JobTitle": "Ohio Living Home Health & Hospice - Greater Columbus",
     "Company": "Ohio Living",
-    "DatePosted": "2023-3-11 7:13 AM",
-    "Url": "https://de.jobsyn.org/20B8CA71AC9741FDAEA272BA755894C2206",
+    "DatePosted": "2023-3-17 11:25 PM",
+    "Url": "https://de.jobsyn.org/87A72EB6AE8B455B88917B75D69A9602206",
     "Location": "Columbus, OH",
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "59C7D4FF2AC54C46AE76315059704397206",
+    "JvID": "A17030B94D8643019C5C2EBBF5CBCD12206",
     "JobTitle": "Ohio Living Home Health & Hospice - Greater Columbus",
     "Company": "Ohio Living",
-    "DatePosted": "2023-3-11 7:13 AM",
-    "Url": "https://de.jobsyn.org/59C7D4FF2AC54C46AE76315059704397206",
+    "DatePosted": "2023-3-17 11:25 PM",
+    "Url": "https://de.jobsyn.org/A17030B94D8643019C5C2EBBF5CBCD12206",
+    "Location": "Columbus, OH",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "04510895A7FF4A5DAF68CA10C001E18C206",
+    "JobTitle": "Ohio Living Home Health & Hospice - Greater Columbus",
+    "Company": "Ohio Living",
+    "DatePosted": "2023-3-17 11:25 PM",
+    "Url": "https://de.jobsyn.org/04510895A7FF4A5DAF68CA10C001E18C206",
     "Location": "Columbus, OH",
     "OnetCode": "31-1121.00"
   },
@@ -2781,20 +2781,11 @@
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "1CCA13F635D74F41A69EA286D8F9B444206",
+    "JvID": "758F69E5F82A415CA86F914529C57DAE206",
     "JobTitle": "Ohio Living Home Health & Hospice - Greater Columbus",
     "Company": "Ohio Living",
-    "DatePosted": "2023-3-16 5:41 AM",
-    "Url": "https://de.jobsyn.org/1CCA13F635D74F41A69EA286D8F9B444206",
-    "Location": "Columbus, OH",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "E75C4339E281473AB83285F9BE63AAA9206",
-    "JobTitle": "Ohio Living Home Health & Hospice - Greater Columbus",
-    "Company": "Ohio Living",
-    "DatePosted": "2023-3-11 7:13 AM",
-    "Url": "https://de.jobsyn.org/E75C4339E281473AB83285F9BE63AAA9206",
+    "DatePosted": "2023-3-17 11:25 PM",
+    "Url": "https://de.jobsyn.org/758F69E5F82A415CA86F914529C57DAE206",
     "Location": "Columbus, OH",
     "OnetCode": "31-1121.00"
   },
@@ -2808,11 +2799,11 @@
     "OnetCode": "31-1121.00"
   },
   {
-    "JvID": "FF489AD81DCE492AA578ED4E95C3C259206",
+    "JvID": "ECD25555FD8D4AC89EAC61D3F8884EDD206",
     "JobTitle": "Ohio Living Home Health & Hospice - Greater Columbus",
     "Company": "Ohio Living",
-    "DatePosted": "2023-3-11 7:13 AM",
-    "Url": "https://de.jobsyn.org/FF489AD81DCE492AA578ED4E95C3C259206",
+    "DatePosted": "2023-3-1 11:19 AM",
+    "Url": "https://de.jobsyn.org/ECD25555FD8D4AC89EAC61D3F8884EDD206",
     "Location": "Columbus, OH",
     "OnetCode": "31-1121.00"
   },
@@ -2831,15 +2822,6 @@
     "Company": "Select Employment Services, Inc.",
     "DatePosted": "2023-3-15 4:06 PM",
     "Url": "https://de.jobsyn.org/ED013D1FEC0D4208A6F0D53396D3F027206",
-    "Location": "Columbus, OH",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "C7385F057FCA4BACB9D13D629DAD08BA206",
-    "JobTitle": "Ohio Living Home Health & Hospice - Greater Columbus",
-    "Company": "Ohio Living",
-    "DatePosted": "2023-3-11 7:13 AM",
-    "Url": "https://de.jobsyn.org/C7385F057FCA4BACB9D13D629DAD08BA206",
     "Location": "Columbus, OH",
     "OnetCode": "31-1121.00"
   },
@@ -2889,39 +2871,57 @@
     "OnetCode": "31-1121.00"
   },
   {
+    "JvID": "E99533F27AB84FF7BC7D066461769F74206",
+    "JobTitle": "Home Caregiver - Full Time Hours",
+    "Company": "Visiting Angels",
+    "DatePosted": "2023-3-17 11:39 PM",
+    "Url": "https://de.jobsyn.org/E99533F27AB84FF7BC7D066461769F74206",
+    "Location": "Columbus, KS",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "B1B926A942CF42BCA9AD1AF827030766206",
+    "JobTitle": "Certified Nursing Aide (CNA) - Part-Time 3rd Shift",
+    "Company": "Gardant Management Solutions",
+    "DatePosted": "2023-3-17 5:36 AM",
+    "Url": "https://de.jobsyn.org/B1B926A942CF42BCA9AD1AF827030766206",
+    "Location": "Columbus, IN",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "23074129B2F74A33A3824DD93CAB4952206",
+    "JobTitle": "Ohio Living Westminster-Thurber",
+    "Company": "Ohio Living",
+    "DatePosted": "2023-3-17 11:25 PM",
+    "Url": "https://de.jobsyn.org/23074129B2F74A33A3824DD93CAB4952206",
+    "Location": "Columbus, OH",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "42C5AF2AC5894087BDB1BC8AF1E407D9206",
+    "JobTitle": "Caregiver - Flexible Scheduling, All Shifts Available",
+    "Company": "Visiting Angels",
+    "DatePosted": "2023-3-17 11:39 PM",
+    "Url": "https://de.jobsyn.org/42C5AF2AC5894087BDB1BC8AF1E407D9206",
+    "Location": "Columbus, OH",
+    "OnetCode": "31-1121.00"
+  },
+  {
+    "JvID": "9680D4ECE0B24AF2ABC0BE4A11561CA8206",
+    "JobTitle": "Housekeeping/Laundry Aide",
+    "Company": "American Senior Communities",
+    "DatePosted": "2023-3-18 1:00 AM",
+    "Url": "https://de.jobsyn.org/9680D4ECE0B24AF2ABC0BE4A11561CA8206",
+    "Location": "COLUMBUS, IN",
+    "OnetCode": "31-1121.00"
+  },
+  {
     "JvID": "103985EDCA2F4704B6E63D32FE520BCC206",
     "JobTitle": "STNA / Rehab",
     "Company": "Westerwood",
     "DatePosted": "2023-3-16 4:07 PM",
     "Url": "https://de.jobsyn.org/103985EDCA2F4704B6E63D32FE520BCC206",
     "Location": "Columbus, OH",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "CCB5D2ECD5E74E4BAEC925722245D3FB206",
-    "JobTitle": "STNA (State Tested Nurse Aide)",
-    "Company": "HEALTHPRO, INC",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/CCB5D2ECD5E74E4BAEC925722245D3FB206",
-    "Location": "COLUMBUS, OH",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "320F56AD51BE41AD9037038F16639071206",
-    "JobTitle": "State Tested Nursing Assistant (STNA) *8k Incentive*",
-    "Company": "Buckeye Terrace Rehabilitation and Nursing Center",
-    "DatePosted": "2023-3-15 10:44 PM",
-    "Url": "https://de.jobsyn.org/320F56AD51BE41AD9037038F16639071206",
-    "Location": "Columbus, OH",
-    "OnetCode": "31-1121.00"
-  },
-  {
-    "JvID": "9896E202D04F4A96845FC859135A32AA206",
-    "JobTitle": "Certified Nursing Assistant (CNA)",
-    "Company": "Dynasty Healthcare Group LLC",
-    "DatePosted": "2023-3-14 8:20 PM",
-    "Url": "https://de.jobsyn.org/9896E202D04F4A96845FC859135A32AA206",
-    "Location": "COLUMBUS, TX",
     "OnetCode": "31-1121.00"
   },
   {
@@ -2943,21 +2943,21 @@
     "OnetCode": "29-1141.00"
   },
   {
-    "JvID": "1DCD9CFA548B42C5B33023A0FF5902B3206",
-    "JobTitle": "Registered Nurse",
-    "Company": "NORTH CENTRAL MEANTAL HLTH SVCS",
-    "DatePosted": "2023-3-4 4:46 PM",
-    "Url": "https://de.jobsyn.org/1DCD9CFA548B42C5B33023A0FF5902B3206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-1141.00"
-  },
-  {
     "JvID": "1962C9ABB02C41AC949670D98887ED61206",
     "JobTitle": "REGISTERED NURSE",
     "Company": "Georgia Employer",
     "DatePosted": "2023-2-7 9:30 PM",
     "Url": "https://de.jobsyn.org/1962C9ABB02C41AC949670D98887ED61206",
     "Location": "Columbus, GA",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "1DCD9CFA548B42C5B33023A0FF5902B3206",
+    "JobTitle": "Registered Nurse",
+    "Company": "NORTH CENTRAL MEANTAL HLTH SVCS",
+    "DatePosted": "2023-3-4 4:46 PM",
+    "Url": "https://de.jobsyn.org/1DCD9CFA548B42C5B33023A0FF5902B3206",
+    "Location": "Columbus, OH",
     "OnetCode": "29-1141.00"
   },
   {
@@ -3051,21 +3051,21 @@
     "OnetCode": "29-1141.00"
   },
   {
+    "JvID": "3D00FB71F9784A3AB3DF6DBF586E3170206",
+    "JobTitle": "Dialysis Registered Nurse (RN)",
+    "Company": "Dialysis Clinic, Inc.",
+    "DatePosted": "2023-3-7 3:51 AM",
+    "Url": "https://de.jobsyn.org/3D00FB71F9784A3AB3DF6DBF586E3170206",
+    "Location": "Columbus (East Columbus), GA",
+    "OnetCode": "29-1141.00"
+  },
+  {
     "JvID": "B9D15FAB1E244DD7A69C31D7D95A644C206",
     "JobTitle": "DIALYSIS REGISTERED NURSE (RN)",
     "Company": "Georgia Employer",
     "DatePosted": "2023-3-11 12:41 AM",
     "Url": "https://de.jobsyn.org/B9D15FAB1E244DD7A69C31D7D95A644C206",
     "Location": "Columbus, GA",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "3D00FB71F9784A3AB3DF6DBF586E3170206",
-    "JobTitle": "Dialysis Registered Nurse (RN)",
-    "Company": "Dialysis Clinic, Inc.",
-    "DatePosted": "2023-3-7 3:50 AM",
-    "Url": "https://de.jobsyn.org/3D00FB71F9784A3AB3DF6DBF586E3170206",
-    "Location": "Columbus (East Columbus), GA",
     "OnetCode": "29-1141.00"
   },
   {
@@ -3093,6 +3093,15 @@
     "DatePosted": "2023-3-1 5:24 AM",
     "Url": "https://de.jobsyn.org/BFE8B57C400A4A239EA76B990685351B206",
     "Location": "COLUMBUS, IN",
+    "OnetCode": "29-1141.00"
+  },
+  {
+    "JvID": "4BC44220F2B84A56B159B7E4035E1CBC206",
+    "JobTitle": "Psychiatric Registered Nurse",
+    "Company": "Acadia Healthcare",
+    "DatePosted": "2023-2-25 12:47 AM",
+    "Url": "https://de.jobsyn.org/4BC44220F2B84A56B159B7E4035E1CBC206",
+    "Location": "Columbus, OH",
     "OnetCode": "29-1141.00"
   },
   {
@@ -3128,15 +3137,6 @@
     "Company": "City of Columbus",
     "DatePosted": "2023-3-9 7:15 AM",
     "Url": "https://de.jobsyn.org/D513D36BDCC14E6E8FB4D314DBA64D9A206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-1141.00"
-  },
-  {
-    "JvID": "607720D087F7442D8C59BFF0F79F84E7206",
-    "JobTitle": "Registered Nurse-Urology Care Manager",
-    "Company": "Veterans Affairs, Veterans Health Administration",
-    "DatePosted": "2023-3-3 10:18 PM",
-    "Url": "https://de.jobsyn.org/607720D087F7442D8C59BFF0F79F84E7206",
     "Location": "Columbus, OH",
     "OnetCode": "29-1141.00"
   },
@@ -3447,20 +3447,20 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "FF7CEE18FE9D44FE9FE36192C0B2C03E206",
-    "JobTitle": "CERTIFIED MEDICAL ASSISTANT",
-    "Company": "Georgia Employer",
-    "DatePosted": "2023-3-14 11:02 PM",
-    "Url": "https://de.jobsyn.org/FF7CEE18FE9D44FE9FE36192C0B2C03E206",
-    "Location": "Columbus, GA",
-    "OnetCode": "31-9092.00"
-  },
-  {
     "JvID": "24352F2AA8B245A49952E47B9E3DA387206",
     "JobTitle": "MEDICAL ASSISTANT FULL TIME",
     "Company": "Georgia Employer",
     "DatePosted": "2023-3-14 11:02 PM",
     "Url": "https://de.jobsyn.org/24352F2AA8B245A49952E47B9E3DA387206",
+    "Location": "Columbus, GA",
+    "OnetCode": "31-9092.00"
+  },
+  {
+    "JvID": "FF7CEE18FE9D44FE9FE36192C0B2C03E206",
+    "JobTitle": "CERTIFIED MEDICAL ASSISTANT",
+    "Company": "Georgia Employer",
+    "DatePosted": "2023-3-14 11:02 PM",
+    "Url": "https://de.jobsyn.org/FF7CEE18FE9D44FE9FE36192C0B2C03E206",
     "Location": "Columbus, GA",
     "OnetCode": "31-9092.00"
   },
@@ -3582,11 +3582,11 @@
     "OnetCode": "31-9092.00"
   },
   {
-    "JvID": "E3BD427E565F43D99E1D3772C6FA2464206",
-    "JobTitle": "Medical Assistant - Primary Care Downtown",
+    "JvID": "CDA23B3875BC45E497B392545CB534B1206",
+    "JobTitle": "Medical Lab Assistant - Lab Central Processing",
     "Company": "Nationwide Children's Hospital",
-    "DatePosted": "2023-3-14 10:33 PM",
-    "Url": "https://de.jobsyn.org/E3BD427E565F43D99E1D3772C6FA2464206",
+    "DatePosted": "2023-3-18 6:33 AM",
+    "Url": "https://de.jobsyn.org/CDA23B3875BC45E497B392545CB534B1206",
     "Location": "Columbus, OH",
     "OnetCode": "31-9092.00"
   },
@@ -3618,47 +3618,11 @@
     "OnetCode": "29-2052.00"
   },
   {
-    "JvID": "58F8BABCC0134C7F9944119BF66A2168206",
-    "JobTitle": "Pharmacy Technician",
-    "Company": "CVS Health",
-    "DatePosted": "2023-3-16 3:31 AM",
-    "Url": "https://de.jobsyn.org/58F8BABCC0134C7F9944119BF66A2168206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-2052.00"
-  },
-  {
     "JvID": "DB45C475E3184769A78C5F9C04769F71206",
     "JobTitle": "Pharmacy Technician",
     "Company": "CVS Health",
     "DatePosted": "2023-3-16 3:31 AM",
     "Url": "https://de.jobsyn.org/DB45C475E3184769A78C5F9C04769F71206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "FDAAC680F5DC44D4AC26765B0A04F7C9206",
-    "JobTitle": "Pharmacy Technician",
-    "Company": "CVS Health",
-    "DatePosted": "2023-3-15 2:39 AM",
-    "Url": "https://de.jobsyn.org/FDAAC680F5DC44D4AC26765B0A04F7C9206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "9D7FDA95F2F441EF9F4323259BB378E3206",
-    "JobTitle": "Pharmacy Technician",
-    "Company": "CVS Health",
-    "DatePosted": "2023-3-15 2:39 AM",
-    "Url": "https://de.jobsyn.org/9D7FDA95F2F441EF9F4323259BB378E3206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "0E88BF47E83749FDB882AB40705A6B01206",
-    "JobTitle": "Pharmacy Technician",
-    "Company": "CVS Health",
-    "DatePosted": "2023-3-15 2:39 AM",
-    "Url": "https://de.jobsyn.org/0E88BF47E83749FDB882AB40705A6B01206",
     "Location": "Columbus, OH",
     "OnetCode": "29-2052.00"
   },
@@ -3722,15 +3686,6 @@
     "Company": "Nationwide Children's Hospital",
     "DatePosted": "2023-3-3 1:46 AM",
     "Url": "https://de.jobsyn.org/929E51D2CBE540F4B09CE0F9450F0032206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-2052.00"
-  },
-  {
-    "JvID": "2F4F098106BA41E9BC895E2ADF1DE185206",
-    "JobTitle": "Pharmacy Technician I - Inpatient Pharmacy",
-    "Company": "Nationwide Children's Hospital",
-    "DatePosted": "2023-2-8 7:17 AM",
-    "Url": "https://de.jobsyn.org/2F4F098106BA41E9BC895E2ADF1DE185206",
     "Location": "Columbus, OH",
     "OnetCode": "29-2052.00"
   },
@@ -3807,20 +3762,65 @@
     "OnetCode": "29-2052.00"
   },
   {
-    "JvID": "D9B116A35A57490F849B248893B72AF0206",
-    "JobTitle": "Data Entry Pharmacy Technician",
-    "Company": "Specialty Rx, Inc.",
-    "DatePosted": "2023-3-15 6:32 AM",
-    "Url": "https://de.jobsyn.org/D9B116A35A57490F849B248893B72AF0206",
-    "Location": "Columbus, OH",
-    "OnetCode": "29-2052.00"
-  },
-  {
     "JvID": "F875374FD2F145BD8CF9A6EB42BC304A206",
     "JobTitle": "Pharmacy Technician Data Entry",
     "Company": "Specialty Rx, Inc.",
     "DatePosted": "2023-2-8 6:03 AM",
     "Url": "https://de.jobsyn.org/F875374FD2F145BD8CF9A6EB42BC304A206",
+    "Location": "Columbus, OH",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "1299C789813D45DFA89DE821F50B5474206",
+    "JobTitle": "Pharmacy Technician IV",
+    "Company": "Specialty Rx, Inc.",
+    "DatePosted": "2023-3-15 6:32 AM",
+    "Url": "https://de.jobsyn.org/1299C789813D45DFA89DE821F50B5474206",
+    "Location": "Columbus, OH",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "1FB354646AD646808EAEC04CA8D94C95206",
+    "JobTitle": "Pharmacy Technician**Signing Bonus**",
+    "Company": "Columbus Regional Hospital",
+    "DatePosted": "2023-3-9 5:22 AM",
+    "Url": "https://de.jobsyn.org/1FB354646AD646808EAEC04CA8D94C95206",
+    "Location": "Columbus, IN",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "A6D06EF804DD4D58AD51B24F2D86E4E9206",
+    "JobTitle": "PHARMACY AUDIT TECHNICIAN",
+    "Company": "PharMerica Professional Services LLC",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/A6D06EF804DD4D58AD51B24F2D86E4E9206",
+    "Location": "Columbus, OH",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "636453D306B84F7A88CC7AEAF44BBAC8206",
+    "JobTitle": "Data Entry Pharmacy Technician",
+    "Company": "Specialty Rx, Inc.",
+    "DatePosted": "2023-3-13 11:18 PM",
+    "Url": "https://de.jobsyn.org/636453D306B84F7A88CC7AEAF44BBAC8206",
+    "Location": "Columbus, OH",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "8273D4956C3F4400936BCA331A2E8325206",
+    "JobTitle": "Certified Pharmacy Technician",
+    "Company": "Walgreens",
+    "DatePosted": "2023-3-3 4:46 AM",
+    "Url": "https://de.jobsyn.org/8273D4956C3F4400936BCA331A2E8325206",
+    "Location": "COLUMBUS, OH",
+    "OnetCode": "29-2052.00"
+  },
+  {
+    "JvID": "408EE729BF4F4C9CB0320B29E5332E23206",
+    "JobTitle": "Pharmacy Technician - IV",
+    "Company": "PharmScript, LLC",
+    "DatePosted": "2023-3-18 6:16 AM",
+    "Url": "https://de.jobsyn.org/408EE729BF4F4C9CB0320B29E5332E23206",
     "Location": "Columbus, OH",
     "OnetCode": "29-2052.00"
   },
@@ -3951,6 +3951,15 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "08E082FAD4B84B58803601B64E300EC0206",
+    "JobTitle": "Software QA Automation Developers",
+    "Company": "Nanda Technologies",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/08E082FAD4B84B58803601B64E300EC0206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "AFF2C8DE69B4406A9064675631D79C48206",
     "JobTitle": "Software Development Manager",
     "Company": "Black & Veatch",
@@ -3960,11 +3969,47 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "B567F65558A34240AF1AA8FE9E6769A6206",
+    "JobTitle": "Software Development Manager",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-18 4:18 AM",
+    "Url": "https://de.jobsyn.org/B567F65558A34240AF1AA8FE9E6769A6206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "26419FBC94A74FA09B5A657D09CB3C03206",
+    "JobTitle": "Software Development Manager",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-17 5:11 AM",
+    "Url": "https://de.jobsyn.org/26419FBC94A74FA09B5A657D09CB3C03206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "368419FF86E94B55BF55E4BCC6557B0E206",
     "JobTitle": "Software Developer 2",
     "Company": "Oracle",
     "DatePosted": "2023-3-16 5:25 AM",
     "Url": "https://de.jobsyn.org/368419FF86E94B55BF55E4BCC6557B0E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "B22E98F14D1E40AB8901295854145E96206",
+    "JobTitle": "Senior Software Development Engineer",
+    "Company": "Trellix",
+    "DatePosted": "2023-3-4 5:26 AM",
+    "Url": "https://de.jobsyn.org/B22E98F14D1E40AB8901295854145E96206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "DE9D50AE64BD40CB82E29292698D8083206",
+    "JobTitle": "Director of Software Development",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-17 2:42 AM",
+    "Url": "https://de.jobsyn.org/DE9D50AE64BD40CB82E29292698D8083206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1252.00"
   },
@@ -3987,15 +4032,6 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "B22E98F14D1E40AB8901295854145E96206",
-    "JobTitle": "Senior Software Development Engineer",
-    "Company": "Trellix",
-    "DatePosted": "2023-3-4 5:26 AM",
-    "Url": "https://de.jobsyn.org/B22E98F14D1E40AB8901295854145E96206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
     "JvID": "061589ACF02A4B0F994C4C1B5AF8AC18206",
     "JobTitle": "Software Developer applications",
     "Company": "DEEMSYS INC",
@@ -4005,11 +4041,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "9207C3FAC13C40868B1D656DFA34A29F206",
-    "JobTitle": "Associate Software Developer (Remote)",
-    "Company": "Pearson",
-    "DatePosted": "2023-3-15 7:21 AM",
-    "Url": "https://de.jobsyn.org/9207C3FAC13C40868B1D656DFA34A29F206",
+    "JvID": "F469FE0CF16F4A71BBE71BC2EBB39C1F206",
+    "JobTitle": "Senior Software Developer",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-17 3:57 AM",
+    "Url": "https://de.jobsyn.org/F469FE0CF16F4A71BBE71BC2EBB39C1F206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1252.00"
   },
@@ -4023,20 +4059,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "703F0F4F4AAE4EB7883B1F79546012CB206",
-    "JobTitle": "Software Development Director",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-14 4:46 AM",
-    "Url": "https://de.jobsyn.org/703F0F4F4AAE4EB7883B1F79546012CB206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "12EA018641714ECD91D8D710B4B49F58206",
-    "JobTitle": "Software Development Project Manager",
-    "Company": "Guidehouse",
-    "DatePosted": "2023-3-14 4:38 AM",
-    "Url": "https://de.jobsyn.org/12EA018641714ECD91D8D710B4B49F58206",
+    "JvID": "9207C3FAC13C40868B1D656DFA34A29F206",
+    "JobTitle": "Associate Software Developer (Remote)",
+    "Company": "Pearson",
+    "DatePosted": "2023-3-15 7:21 AM",
+    "Url": "https://de.jobsyn.org/9207C3FAC13C40868B1D656DFA34A29F206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1252.00"
   },
@@ -4050,6 +4077,15 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "12EA018641714ECD91D8D710B4B49F58206",
+    "JobTitle": "Software Development Project Manager",
+    "Company": "Guidehouse",
+    "DatePosted": "2023-3-14 4:38 AM",
+    "Url": "https://de.jobsyn.org/12EA018641714ECD91D8D710B4B49F58206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "372B9373A3E34D77872E05DAB728E7DF206",
     "JobTitle": "Senior Principal Software Developer",
     "Company": "Oracle",
@@ -4059,11 +4095,11 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "DCB80D8107364BAE9628DB97ACDDA913206",
-    "JobTitle": "Software Developer 3",
+    "JvID": "0491C6A43D694A5BB39A30E20DEC609A206",
+    "JobTitle": "Software Development Director",
     "Company": "Oracle",
-    "DatePosted": "2023-3-14 4:20 AM",
-    "Url": "https://de.jobsyn.org/DCB80D8107364BAE9628DB97ACDDA913206",
+    "DatePosted": "2023-3-17 4:17 AM",
+    "Url": "https://de.jobsyn.org/0491C6A43D694A5BB39A30E20DEC609A206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1252.00"
   },
@@ -4077,15 +4113,6 @@
     "OnetCode": "15-1252.00"
   },
   {
-    "JvID": "FC9798DF0AFF42549ADCCCECF0F1CEE3206",
-    "JobTitle": "Software Application Developer",
-    "Company": "Battelle Memorial Institute",
-    "DatePosted": "2023-3-11 5:56 AM",
-    "Url": "https://de.jobsyn.org/FC9798DF0AFF42549ADCCCECF0F1CEE3206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
     "JvID": "C601CAFD923442ECA21AF12D820DBB1C206",
     "JobTitle": "Lead Software Developer",
     "Company": "Oracle",
@@ -4095,65 +4122,38 @@
     "OnetCode": "15-1252.00"
   },
   {
+    "JvID": "FC9798DF0AFF42549ADCCCECF0F1CEE3206",
+    "JobTitle": "Software Application Developer",
+    "Company": "Battelle Memorial Institute",
+    "DatePosted": "2023-3-11 5:56 AM",
+    "Url": "https://de.jobsyn.org/FC9798DF0AFF42549ADCCCECF0F1CEE3206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "DCB80D8107364BAE9628DB97ACDDA913206",
+    "JobTitle": "Software Developer 3",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-14 4:20 AM",
+    "Url": "https://de.jobsyn.org/DCB80D8107364BAE9628DB97ACDDA913206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
+    "JvID": "DE6A7CA53BEC41B08E8A935A1BC4C8E3206",
+    "JobTitle": "Sr. Principal Software Developer",
+    "Company": "Oracle",
+    "DatePosted": "2023-2-18 5:14 AM",
+    "Url": "https://de.jobsyn.org/DE6A7CA53BEC41B08E8A935A1BC4C8E3206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1252.00"
+  },
+  {
     "JvID": "952BAFFE0AA640BEA82FD97F46FA0F3C206",
     "JobTitle": "Principal Software Developer",
     "Company": "Oracle",
     "DatePosted": "2023-3-14 2:39 AM",
     "Url": "https://de.jobsyn.org/952BAFFE0AA640BEA82FD97F46FA0F3C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "7863C79BA43B4B90B69E6C9435363C14206",
-    "JobTitle": "Principal Software Developer",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-14 4:20 AM",
-    "Url": "https://de.jobsyn.org/7863C79BA43B4B90B69E6C9435363C14206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "5459BDFCD6C045C599933FA95DBC6277206",
-    "JobTitle": "Principal Software Developer",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-14 3:44 AM",
-    "Url": "https://de.jobsyn.org/5459BDFCD6C045C599933FA95DBC6277206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "36E1D9E3020A4868BE00096EF01A9AB4206",
-    "JobTitle": "Principal Software Developer",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-14 4:20 AM",
-    "Url": "https://de.jobsyn.org/36E1D9E3020A4868BE00096EF01A9AB4206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "17B0A42540BB4655849FC1D84E9E1484206",
-    "JobTitle": "Principal Software Developer",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-14 4:20 AM",
-    "Url": "https://de.jobsyn.org/17B0A42540BB4655849FC1D84E9E1484206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "F872E043F0F244EAAE5D6C20025E56CF206",
-    "JobTitle": "Principal Software Developer",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-10 4:03 AM",
-    "Url": "https://de.jobsyn.org/F872E043F0F244EAAE5D6C20025E56CF206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1252.00"
-  },
-  {
-    "JvID": "559A524DA1DB46149EB869AEE1120959206",
-    "JobTitle": "Software Developer 3",
-    "Company": "Oracle",
-    "DatePosted": "2023-3-14 4:46 AM",
-    "Url": "https://de.jobsyn.org/559A524DA1DB46149EB869AEE1120959206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1252.00"
   },
@@ -4199,6 +4199,24 @@
     "Company": "Regions Bank",
     "DatePosted": "2023-2-18 3:34 AM",
     "Url": "https://de.jobsyn.org/B136E07F6C6B437781C2F5A05F026642206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1161.01"
+  },
+  {
+    "JvID": "E5A8321DE162420E87FAC0598E6B9A41206",
+    "JobTitle": "2023 Summer Internship, Corporate Marketing (Remote Work Possibility)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-18 12:26 AM",
+    "Url": "https://de.jobsyn.org/E5A8321DE162420E87FAC0598E6B9A41206",
+    "Location": "Columbus, OH",
+    "OnetCode": "13-1161.01"
+  },
+  {
+    "JvID": "41E892621368445D874F3FB35DF53DFB206",
+    "JobTitle": "Digital Marketing Specialist (Remote)",
+    "Company": "Cengage Group",
+    "DatePosted": "2023-3-17 4:40 AM",
+    "Url": "https://de.jobsyn.org/41E892621368445D874F3FB35DF53DFB206",
     "Location": "Columbus, OH",
     "OnetCode": "13-1161.01"
   },
@@ -4253,15 +4271,6 @@
     "Company": "American Electric Power",
     "DatePosted": "2023-3-10 3:37 AM",
     "Url": "https://de.jobsyn.org/F062A6BD36104690A5CC0734CD2EA9E3206",
-    "Location": "Columbus, OH",
-    "OnetCode": "13-1161.01"
-  },
-  {
-    "JvID": "A007BBC63A0345DAB1CB7D0C099ECCAC206",
-    "JobTitle": "Marketing Automation Specialist",
-    "Company": "SHI",
-    "DatePosted": "2023-3-8 6:23 AM",
-    "Url": "https://de.jobsyn.org/A007BBC63A0345DAB1CB7D0C099ECCAC206",
     "Location": "Columbus, OH",
     "OnetCode": "13-1161.01"
   },
@@ -4338,6 +4347,15 @@
     "OnetCode": "15-1232.00"
   },
   {
+    "JvID": "9EBFED23FE6B4D7096B4D589027EF7BD206",
+    "JobTitle": "IAM Data Analyst - Remote",
+    "Company": "U.S. Bank",
+    "DatePosted": "2023-3-17 9:58 PM",
+    "Url": "https://de.jobsyn.org/9EBFED23FE6B4D7096B4D589027EF7BD206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1232.00"
+  },
+  {
     "JvID": "AA80BF6D94F441A6BA06B0772255B813206",
     "JobTitle": "Staff Regional Office Information Technology Specialist - Corporate IT (Columbus or Akron, OH)",
     "Company": "Burns & McDonnell",
@@ -4386,7 +4404,7 @@
     "JvID": "42FAE50BC5E34A83BB10386459FDE248206",
     "JobTitle": "Senior Implementation Specialist",
     "Company": "Elevance Health",
-    "DatePosted": "2023-3-7 5:24 AM",
+    "DatePosted": "2023-3-7 8:39 AM",
     "Url": "https://de.jobsyn.org/42FAE50BC5E34A83BB10386459FDE248206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
@@ -4473,76 +4491,76 @@
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "3AB9F34015F74E94B5DB7C445E05304F206",
-    "JobTitle": "Linux / Cyber Security Administrator - Remote",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-3-17 12:19 AM",
-    "Url": "https://de.jobsyn.org/3AB9F34015F74E94B5DB7C445E05304F206",
+    "JvID": "6371C724FB7846ED97F0CE35D446E675206",
+    "JobTitle": "IT Business System Analyst",
+    "Company": "Kforce",
+    "DatePosted": "2023-3-18 5:20 AM",
+    "Url": "https://de.jobsyn.org/6371C724FB7846ED97F0CE35D446E675206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "76F833C9C539401BA0296ADB8BE5510A206",
-    "JobTitle": "Senior ServiceNow HR Business Analyst (Remote)",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-3-17 12:14 AM",
-    "Url": "https://de.jobsyn.org/76F833C9C539401BA0296ADB8BE5510A206",
+    "JvID": "505CA4DE1D7642C0BF26DD24FBA0838C206",
+    "JobTitle": "WFM Analyst",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-3-18 6:08 AM",
+    "Url": "https://de.jobsyn.org/505CA4DE1D7642C0BF26DD24FBA0838C206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "2411307EB9B244699F8D89D2240E9145206",
-    "JobTitle": "Network Provisioner",
-    "Company": "Computer World Services Corp",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/2411307EB9B244699F8D89D2240E9145206",
+    "JvID": "F8EE4A7F7B014833838240BFBE5FAD91206",
+    "JobTitle": "Applications Support",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/F8EE4A7F7B014833838240BFBE5FAD91206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "6DD1C2E1659445B19C8831DC2B89B18B206",
-    "JobTitle": "WMS Operations Support Specialist",
-    "Company": "McKesson Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/6DD1C2E1659445B19C8831DC2B89B18B206",
+    "JvID": "11CF90126D7F4D1C854FEE6E52BD5389206",
+    "JobTitle": "Technical Support Specialist",
+    "Company": "Renaissance",
+    "DatePosted": "2023-3-18 5:22 AM",
+    "Url": "https://de.jobsyn.org/11CF90126D7F4D1C854FEE6E52BD5389206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "96EED46A787B4EFD8724C67A1016ED79206",
-    "JobTitle": "Loss Mitigation Single Point of Contact - Bilingual Spanish: Remote",
-    "Company": "Flagstar Bank, FSB",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/96EED46A787B4EFD8724C67A1016ED79206",
+    "JvID": "40DA5B4205754761B341335F5F854B9A206",
+    "JobTitle": "Technical Support Specialist",
+    "Company": "Renaissance",
+    "DatePosted": "2023-3-18 5:22 AM",
+    "Url": "https://de.jobsyn.org/40DA5B4205754761B341335F5F854B9A206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "CFE9EFAA878E4B168DD52E0D1583877E206",
-    "JobTitle": "Technology Solutions Success Specialist (Pennsylvania, Maryland, Virginia, Georgia, Florida)",
-    "Company": "Merck",
-    "DatePosted": "2023-3-17 2:19 AM",
-    "Url": "https://de.jobsyn.org/CFE9EFAA878E4B168DD52E0D1583877E206",
-    "Location": "Columbus, GA",
-    "OnetCode": "15-1232.00"
-  },
-  {
-    "JvID": "BFF10A68A394486D8064B05C7C931F95206",
-    "JobTitle": "Sr. Oracle Solutions Analyst - PTM (Purchasing)",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/BFF10A68A394486D8064B05C7C931F95206",
+    "JvID": "B07FA0AEB30346D59CF4FC673EEF218B206",
+    "JobTitle": "Customer Support Representative I",
+    "Company": "Renaissance",
+    "DatePosted": "2023-3-18 5:22 AM",
+    "Url": "https://de.jobsyn.org/B07FA0AEB30346D59CF4FC673EEF218B206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
   },
   {
-    "JvID": "D8575B9F69FC47448F645850112878D1206",
-    "JobTitle": "Network Operations Center (NOC) Manager - Second Shift - Mostly Remote Position",
-    "Company": "Horizon Telcom",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/D8575B9F69FC47448F645850112878D1206",
+    "JvID": "3AE3B579EBDD413AA5F79B546D79742E206",
+    "JobTitle": "Systems Engineer",
+    "Company": "Kforce",
+    "DatePosted": "2023-3-17 5:21 AM",
+    "Url": "https://de.jobsyn.org/3AE3B579EBDD413AA5F79B546D79742E206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1232.00"
+  },
+  {
+    "JvID": "F8EE4A7F7B014833838240BFBE5FAD91206",
+    "JobTitle": "Applications Support",
+    "Company": "JPMorgan Chase",
+    "DatePosted": "2023-3-18 5:27 AM",
+    "Url": "https://de.jobsyn.org/F8EE4A7F7B014833838240BFBE5FAD91206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1211.00"
   },
   {
     "JvID": "B024E4A4E16842128E25423A65E88B0C206",
@@ -4572,20 +4590,20 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "C4A3C6BE78ED4D7DAFA76AB7075FA3C8206",
-    "JobTitle": "business systems analyst",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-15 5:38 AM",
-    "Url": "https://de.jobsyn.org/C4A3C6BE78ED4D7DAFA76AB7075FA3C8206",
-    "Location": "columbus, OH",
+    "JvID": "D08E7D11C73C472494FF1F030CA7886C206",
+    "JobTitle": "Programmer Analyst III 172",
+    "Company": "Everest Technologies, Inc.",
+    "DatePosted": "2023-2-8 4:31 PM",
+    "Url": "https://de.jobsyn.org/D08E7D11C73C472494FF1F030CA7886C206",
+    "Location": "Columbus, OH",
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "5B979220A0534EA99D7D7C05947DB897206",
-    "JobTitle": "Systems Analyst I",
-    "Company": "Kforce",
-    "DatePosted": "2023-3-9 5:20 AM",
-    "Url": "https://de.jobsyn.org/5B979220A0534EA99D7D7C05947DB897206",
+    "JvID": "4A8395D8B8DB4737BA0D1C813804EBFE206",
+    "JobTitle": "Sr. Oracle Solutions Analyst - PTR (Purchasing)",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/4A8395D8B8DB4737BA0D1C813804EBFE206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1211.00"
   },
@@ -4599,39 +4617,21 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "16D9235CE40E48498E886E3A7601B16E206",
-    "JobTitle": "Sr. Oracle Solutions Analyst - PTR (Purchasing)",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/16D9235CE40E48498E886E3A7601B16E206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "D08E7D11C73C472494FF1F030CA7886C206",
-    "JobTitle": "Programmer Analyst III 172",
-    "Company": "Everest Technologies, Inc.",
-    "DatePosted": "2023-2-8 4:31 PM",
-    "Url": "https://de.jobsyn.org/D08E7D11C73C472494FF1F030CA7886C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "ADFFF62E7E484A36A7B017A877831137206",
-    "JobTitle": "Business Systems Analyst",
+    "JvID": "A6613AE2A0FB4C01AE3BF672857F7B80206",
+    "JobTitle": "business analyst/ product manager",
     "Company": "Randstad US",
-    "DatePosted": "2023-3-16 4:08 AM",
-    "Url": "https://de.jobsyn.org/ADFFF62E7E484A36A7B017A877831137206",
-    "Location": "Columbus, OH",
+    "DatePosted": "2023-3-17 5:34 AM",
+    "Url": "https://de.jobsyn.org/A6613AE2A0FB4C01AE3BF672857F7B80206",
+    "Location": "columbus, OH",
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "BFF10A68A394486D8064B05C7C931F95206",
-    "JobTitle": "Sr. Oracle Solutions Analyst - PTM (Purchasing)",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/BFF10A68A394486D8064B05C7C931F95206",
-    "Location": "Columbus, OH",
+    "JvID": "C4A3C6BE78ED4D7DAFA76AB7075FA3C8206",
+    "JobTitle": "business systems analyst",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-15 5:38 AM",
+    "Url": "https://de.jobsyn.org/C4A3C6BE78ED4D7DAFA76AB7075FA3C8206",
+    "Location": "columbus, OH",
     "OnetCode": "15-1211.00"
   },
   {
@@ -4644,11 +4644,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "F183D68A95E44C2BA5905DE9A9093431206",
-    "JobTitle": "Clinical Analyst",
-    "Company": "CTG",
-    "DatePosted": "2023-3-10 5:13 AM",
-    "Url": "https://de.jobsyn.org/F183D68A95E44C2BA5905DE9A9093431206",
+    "JvID": "ADFFF62E7E484A36A7B017A877831137206",
+    "JobTitle": "Business Systems Analyst",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-16 4:08 AM",
+    "Url": "https://de.jobsyn.org/ADFFF62E7E484A36A7B017A877831137206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1211.00"
   },
@@ -4680,6 +4680,51 @@
     "OnetCode": "15-1211.00"
   },
   {
+    "JvID": "F183D68A95E44C2BA5905DE9A9093431206",
+    "JobTitle": "Clinical Analyst",
+    "Company": "CTG",
+    "DatePosted": "2023-3-10 5:13 AM",
+    "Url": "https://de.jobsyn.org/F183D68A95E44C2BA5905DE9A9093431206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "E2525368EEA94876B7CF71AB37D6B9DF206",
+    "JobTitle": "Technical Analyst - HRP",
+    "Company": "HealthEdge Software Inc",
+    "DatePosted": "2023-3-18 4:12 AM",
+    "Url": "https://de.jobsyn.org/E2525368EEA94876B7CF71AB37D6B9DF206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "FB7EC013520A4740BC83F2E69418182F206",
+    "JobTitle": "Sr IT Systems Analyst",
+    "Company": "Intel",
+    "DatePosted": "2023-3-17 4:20 AM",
+    "Url": "https://de.jobsyn.org/FB7EC013520A4740BC83F2E69418182F206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "CF7C2A0703E245B4871E0E228DA8335B206",
+    "JobTitle": "Senior IT Analyst",
+    "Company": "Prime Therapeutics",
+    "DatePosted": "2023-3-18 2:41 AM",
+    "Url": "https://de.jobsyn.org/CF7C2A0703E245B4871E0E228DA8335B206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "16740F19194D4A6490B86C3D0ED775A1206",
+    "JobTitle": "Workday Analyst III",
+    "Company": "NORDSON CORPORATION",
+    "DatePosted": "2023-2-22 4:21 PM",
+    "Url": "https://de.jobsyn.org/16740F19194D4A6490B86C3D0ED775A1206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1211.00"
+  },
+  {
     "JvID": "A42E9C396B93425FAE19F385ADBFA4BC206",
     "JobTitle": "IT Business Analyst",
     "Company": "ICF Consulting Group, Inc.",
@@ -4698,30 +4743,21 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "16740F19194D4A6490B86C3D0ED775A1206",
-    "JobTitle": "Workday Analyst III",
-    "Company": "NORDSON CORPORATION",
-    "DatePosted": "2023-2-22 4:21 PM",
-    "Url": "https://de.jobsyn.org/16740F19194D4A6490B86C3D0ED775A1206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "0EEDE2D01F114A3D9DF8A8C25FCBF79F206",
-    "JobTitle": "BI Developer - Tableau - REMOTE",
-    "Company": "Health Services Advisory Group",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/0EEDE2D01F114A3D9DF8A8C25FCBF79F206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "81F552F3343944B8B02C8193A00CD9F7206",
     "JobTitle": "Epic Clinical Analyst - Intermediate**Signing Bonus**",
     "Company": "Columbus Regional Hospital",
     "DatePosted": "2023-2-17 7:59 AM",
     "Url": "https://de.jobsyn.org/81F552F3343944B8B02C8193A00CD9F7206",
     "Location": "Columbus, IN",
+    "OnetCode": "15-1211.00"
+  },
+  {
+    "JvID": "9EBFED23FE6B4D7096B4D589027EF7BD206",
+    "JobTitle": "IAM Data Analyst - Remote",
+    "Company": "U.S. Bank",
+    "DatePosted": "2023-3-17 9:58 PM",
+    "Url": "https://de.jobsyn.org/9EBFED23FE6B4D7096B4D589027EF7BD206",
+    "Location": "Columbus, OH",
     "OnetCode": "15-1211.00"
   },
   {
@@ -4734,38 +4770,11 @@
     "OnetCode": "15-1211.00"
   },
   {
-    "JvID": "4F7779F229AC40C1B1DEA7484FCCD95B206",
-    "JobTitle": "ENTERPRISE SERVICE BUS/ MIDDLEWARE ENGINEER",
-    "Company": "Georgia Employer",
-    "DatePosted": "2023-3-12 12:01 AM",
-    "Url": "https://de.jobsyn.org/4F7779F229AC40C1B1DEA7484FCCD95B206",
-    "Location": "Columbus, GA",
-    "OnetCode": "15-1211.00"
-  },
-  {
     "JvID": "DEA68C861AB7450ABA4140EB8472B8B8206",
     "JobTitle": "Assoc Analyst, Provider Config",
     "Company": "Molina Healthcare",
     "DatePosted": "2023-2-17 5:31 AM",
     "Url": "https://de.jobsyn.org/DEA68C861AB7450ABA4140EB8472B8B8206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "8C4FD1859D0249D18F0A8C552E9B3A38206",
-    "JobTitle": "Sr. Oracle Solutions Analyst - PTR (Purchasing)",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-13 4:11 PM",
-    "Url": "https://de.jobsyn.org/8C4FD1859D0249D18F0A8C552E9B3A38206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1211.00"
-  },
-  {
-    "JvID": "805CD51E75A04526BBFFD5E02BC58EA4206",
-    "JobTitle": "Junior Business Analyst/Remote",
-    "Company": "Wabtec Corporation",
-    "DatePosted": "2023-2-7 4:06 AM",
-    "Url": "https://de.jobsyn.org/805CD51E75A04526BBFFD5E02BC58EA4206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1211.00"
   },
@@ -4788,15 +4797,6 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "58F955988F8F4DB69DD7914504D1C31D206",
-    "JobTitle": "Senior Data Architect",
-    "Company": "WesBanco Bank, Inc",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/58F955988F8F4DB69DD7914504D1C31D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "878A027781274E648B9B98CE7F875409206",
     "JobTitle": "Embedded Software Architect",
     "Company": "Meta",
@@ -4815,11 +4815,29 @@
     "OnetCode": "15-1299.08"
   },
   {
+    "JvID": "58F955988F8F4DB69DD7914504D1C31D206",
+    "JobTitle": "Senior Data Architect",
+    "Company": "WesBanco Bank, Inc",
+    "DatePosted": "2023-3-16 4:07 PM",
+    "Url": "https://de.jobsyn.org/58F955988F8F4DB69DD7914504D1C31D206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1299.08"
+  },
+  {
     "JvID": "05FF397439834DD9A1776AFD43242CAD206",
     "JobTitle": "Data Architect, SQL Database Developer",
     "Company": "WM",
     "DatePosted": "2023-3-14 3:01 AM",
     "Url": "https://de.jobsyn.org/05FF397439834DD9A1776AFD43242CAD206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "6C971F6BAE2747C79ADFEB2F1871F758206",
+    "JobTitle": "Full Stack Engineer - Product Security",
+    "Company": "The College Entrance Examination Board",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/6C971F6BAE2747C79ADFEB2F1871F758206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1299.08"
   },
@@ -4833,20 +4851,20 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "C6084891F66945EDBBB09DC370F5A332206",
-    "JobTitle": "FullStack Engineer (Mid-level)",
-    "Company": "The College Entrance Examination Board",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/C6084891F66945EDBBB09DC370F5A332206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "240F30BAFD17428F9B8EEA8EE5622FC0206",
     "JobTitle": "AR Graphics Architect",
     "Company": "Meta",
     "DatePosted": "2023-2-15 3:34 AM",
     "Url": "https://de.jobsyn.org/240F30BAFD17428F9B8EEA8EE5622FC0206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "C6084891F66945EDBBB09DC370F5A332206",
+    "JobTitle": "FullStack Engineer (Mid-level)",
+    "Company": "The College Entrance Examination Board",
+    "DatePosted": "2023-3-13 4:12 PM",
+    "Url": "https://de.jobsyn.org/C6084891F66945EDBBB09DC370F5A332206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1299.08"
   },
@@ -4869,29 +4887,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "5E963101A6D04E979C616755B75C9DEE206",
-    "JobTitle": "Senior Data Architect",
-    "Company": "WesBanco Bank, Inc",
-    "DatePosted": "2023-3-4 4:14 PM",
-    "Url": "https://de.jobsyn.org/5E963101A6D04E979C616755B75C9DEE206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1299.08"
-  },
-  {
     "JvID": "758313B262DC4E4893E6047EDC2CFAC5206",
     "JobTitle": "Embedded Software Engineer",
     "Company": "Meta",
     "DatePosted": "2023-2-15 3:38 AM",
     "Url": "https://de.jobsyn.org/758313B262DC4E4893E6047EDC2CFAC5206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "B5F73990CB644ADA9CBB4035D3324ECE206",
-    "JobTitle": "Microsoft Dynamics Architect",
-    "Company": "Guidehouse",
-    "DatePosted": "2023-3-16 5:03 AM",
-    "Url": "https://de.jobsyn.org/B5F73990CB644ADA9CBB4035D3324ECE206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1299.08"
   },
@@ -4905,11 +4905,20 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "056D73184E834BB188070C28A3BAB216206",
-    "JobTitle": "Sr. Security Architect",
-    "Company": "iCIMS",
-    "DatePosted": "2023-3-3 2:46 AM",
-    "Url": "https://de.jobsyn.org/056D73184E834BB188070C28A3BAB216206",
+    "JvID": "819F4FC8893447789B99923FA99B98E8206",
+    "JobTitle": "Supply Chain Execution Solution Architect",
+    "Company": "Intel",
+    "DatePosted": "2023-3-17 4:20 AM",
+    "Url": "https://de.jobsyn.org/819F4FC8893447789B99923FA99B98E8206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "6225685B344D43D183E27E114FBB2244206",
+    "JobTitle": "Architect, Physical Networking",
+    "Company": "Oracle",
+    "DatePosted": "2023-3-17 3:28 AM",
+    "Url": "https://de.jobsyn.org/6225685B344D43D183E27E114FBB2244206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1299.08"
   },
@@ -4923,11 +4932,11 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "ED204DA823EC491D8EFDB29388391148206",
-    "JobTitle": "Full Stack Engineer",
-    "Company": "The College Entrance Examination Board",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/ED204DA823EC491D8EFDB29388391148206",
+    "JvID": "056D73184E834BB188070C28A3BAB216206",
+    "JobTitle": "Sr. Security Architect",
+    "Company": "iCIMS",
+    "DatePosted": "2023-3-3 2:46 AM",
+    "Url": "https://de.jobsyn.org/056D73184E834BB188070C28A3BAB216206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1299.08"
   },
@@ -4950,11 +4959,20 @@
     "OnetCode": "15-1299.08"
   },
   {
-    "JvID": "CE12AF897DB94477B28B4AB6A1EA45F3206",
-    "JobTitle": "Application Engineer (Full Stack/Mobile)",
-    "Company": "Discover",
-    "DatePosted": "2023-3-15 3:36 AM",
-    "Url": "https://de.jobsyn.org/CE12AF897DB94477B28B4AB6A1EA45F3206",
+    "JvID": "ED204DA823EC491D8EFDB29388391148206",
+    "JobTitle": "Full Stack Engineer",
+    "Company": "The College Entrance Examination Board",
+    "DatePosted": "2023-3-13 4:12 PM",
+    "Url": "https://de.jobsyn.org/ED204DA823EC491D8EFDB29388391148206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1299.08"
+  },
+  {
+    "JvID": "B5F73990CB644ADA9CBB4035D3324ECE206",
+    "JobTitle": "Microsoft Dynamics Architect",
+    "Company": "Guidehouse",
+    "DatePosted": "2023-3-16 5:03 AM",
+    "Url": "https://de.jobsyn.org/B5F73990CB644ADA9CBB4035D3324ECE206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1299.08"
   },
@@ -4983,15 +5001,6 @@
     "DatePosted": "2023-3-15 3:22 AM",
     "Url": "https://de.jobsyn.org/E8879DCBAA684091B6A5D9D049B4A467206",
     "Location": "Columbus, OH",
-    "OnetCode": "15-1299.08"
-  },
-  {
-    "JvID": "CBECE8C628624477B569B42FC5721AEB206",
-    "JobTitle": "Java Architect",
-    "Company": "Robert Half",
-    "DatePosted": "2023-3-15 12:31 AM",
-    "Url": "https://de.jobsyn.org/CBECE8C628624477B569B42FC5721AEB206",
-    "Location": "COLUMBUS, OH",
     "OnetCode": "15-1299.08"
   },
   {
@@ -5031,20 +5040,20 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "D4BF2CF400DC420C967B340D6288036A206",
-    "JobTitle": "Senior WAF Engineer",
-    "Company": "The College Entrance Examination Board",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/D4BF2CF400DC420C967B340D6288036A206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1212.00"
-  },
-  {
     "JvID": "2A5FEAA016CE4D03B7598C4F81F91D7C206",
     "JobTitle": "Business Analyst - Software License Compliance (Remote)",
     "Company": "Wolters Kluwer",
     "DatePosted": "2023-3-14 4:33 AM",
     "Url": "https://de.jobsyn.org/2A5FEAA016CE4D03B7598C4F81F91D7C206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "D4BF2CF400DC420C967B340D6288036A206",
+    "JobTitle": "Senior WAF Engineer",
+    "Company": "The College Entrance Examination Board",
+    "DatePosted": "2023-3-16 4:07 PM",
+    "Url": "https://de.jobsyn.org/D4BF2CF400DC420C967B340D6288036A206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1212.00"
   },
@@ -5085,6 +5094,15 @@
     "OnetCode": "15-1212.00"
   },
   {
+    "JvID": "9EBFED23FE6B4D7096B4D589027EF7BD206",
+    "JobTitle": "IAM Data Analyst - Remote",
+    "Company": "U.S. Bank",
+    "DatePosted": "2023-3-17 9:58 PM",
+    "Url": "https://de.jobsyn.org/9EBFED23FE6B4D7096B4D589027EF7BD206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1212.00"
+  },
+  {
     "JvID": "58B3352690E54DC499C327E4AE8557CF206",
     "JobTitle": "Software Engineer [MR-SE-HM-2526]",
     "Company": "JPMorgan Chase Bank, N.A.",
@@ -5112,24 +5130,6 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "CAA8EEA18BB94F0FA755EAE0F1995613206",
-    "JobTitle": "Export Controls Senior Analyst - Defense",
-    "Company": "Cummins Inc.",
-    "DatePosted": "2023-2-28 8:56 PM",
-    "Url": "https://de.jobsyn.org/CAA8EEA18BB94F0FA755EAE0F1995613206",
-    "Location": "Columbus, IN",
-    "OnetCode": "15-1212.00"
-  },
-  {
-    "JvID": "ADFFF62E7E484A36A7B017A877831137206",
-    "JobTitle": "Business Systems Analyst",
-    "Company": "Randstad US",
-    "DatePosted": "2023-3-16 4:08 AM",
-    "Url": "https://de.jobsyn.org/ADFFF62E7E484A36A7B017A877831137206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1212.00"
-  },
-  {
     "JvID": "6135CCC3D2CA435F9C1444AFE8C99769206",
     "JobTitle": "Cybersecurity Operations Analyst - Expert",
     "Company": "Huntington National Bank",
@@ -5139,11 +5139,20 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "6C222A5E80E04FBDAAD27A766F8CB8F9206",
-    "JobTitle": "Senior Information System Security Officer (ISSO) - Secret Clearance - Remote",
-    "Company": "MindPoint Group",
-    "DatePosted": "2023-3-16 4:19 AM",
-    "Url": "https://de.jobsyn.org/6C222A5E80E04FBDAAD27A766F8CB8F9206",
+    "JvID": "CAA8EEA18BB94F0FA755EAE0F1995613206",
+    "JobTitle": "Export Controls Senior Analyst - Defense",
+    "Company": "Cummins Inc.",
+    "DatePosted": "2023-2-28 8:56 PM",
+    "Url": "https://de.jobsyn.org/CAA8EEA18BB94F0FA755EAE0F1995613206",
+    "Location": "Columbus, IN",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "462A65CAC8ED46DCB251DDA2598741DB206",
+    "JobTitle": "Senior WAF Engineer, Akamai",
+    "Company": "The College Entrance Examination Board",
+    "DatePosted": "2023-2-28 4:45 PM",
+    "Url": "https://de.jobsyn.org/462A65CAC8ED46DCB251DDA2598741DB206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1212.00"
   },
@@ -5153,15 +5162,6 @@
     "Company": "NiSource",
     "DatePosted": "2023-3-8 5:26 AM",
     "Url": "https://de.jobsyn.org/B844CF92CEE9441B927AA0D222686C4D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-1212.00"
-  },
-  {
-    "JvID": "462A65CAC8ED46DCB251DDA2598741DB206",
-    "JobTitle": "Senior WAF Engineer, Akamai",
-    "Company": "The College Entrance Examination Board",
-    "DatePosted": "2023-2-28 4:45 PM",
-    "Url": "https://de.jobsyn.org/462A65CAC8ED46DCB251DDA2598741DB206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1212.00"
   },
@@ -5193,11 +5193,20 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "920B9F18E6D24F0AB6F60C41FDC409FC206",
-    "JobTitle": "Lead Cyber Assessment Analyst - Third Party Risk Mgt",
-    "Company": "NiSource",
-    "DatePosted": "2023-3-16 3:52 AM",
-    "Url": "https://de.jobsyn.org/920B9F18E6D24F0AB6F60C41FDC409FC206",
+    "JvID": "ADFFF62E7E484A36A7B017A877831137206",
+    "JobTitle": "Business Systems Analyst",
+    "Company": "Randstad US",
+    "DatePosted": "2023-3-16 4:08 AM",
+    "Url": "https://de.jobsyn.org/ADFFF62E7E484A36A7B017A877831137206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "6C222A5E80E04FBDAAD27A766F8CB8F9206",
+    "JobTitle": "Senior Information System Security Officer (ISSO) - Secret Clearance - Remote",
+    "Company": "MindPoint Group",
+    "DatePosted": "2023-3-16 4:19 AM",
+    "Url": "https://de.jobsyn.org/6C222A5E80E04FBDAAD27A766F8CB8F9206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1212.00"
   },
@@ -5211,13 +5220,40 @@
     "OnetCode": "15-1212.00"
   },
   {
-    "JvID": "3AB9F34015F74E94B5DB7C445E05304F206",
-    "JobTitle": "Linux / Cyber Security Administrator - Remote",
-    "Company": "ICF Consulting Group, Inc.",
-    "DatePosted": "2023-3-17 12:19 AM",
-    "Url": "https://de.jobsyn.org/3AB9F34015F74E94B5DB7C445E05304F206",
+    "JvID": "920B9F18E6D24F0AB6F60C41FDC409FC206",
+    "JobTitle": "Lead Cyber Assessment Analyst - Third Party Risk Mgt",
+    "Company": "NiSource",
+    "DatePosted": "2023-3-16 3:52 AM",
+    "Url": "https://de.jobsyn.org/920B9F18E6D24F0AB6F60C41FDC409FC206",
     "Location": "Columbus, OH",
     "OnetCode": "15-1212.00"
+  },
+  {
+    "JvID": "EC7D2056B9A74A1CB867434ABB32937C206",
+    "JobTitle": "Lead UI Engineer",
+    "Company": "The College Entrance Examination Board",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/EC7D2056B9A74A1CB867434ABB32937C206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2112.01"
+  },
+  {
+    "JvID": "29D5A07C55D14A99ACB1A4BB0EC0C437206",
+    "JobTitle": "Senior UX Designer (Remote or Hybrid)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-18 12:26 AM",
+    "Url": "https://de.jobsyn.org/29D5A07C55D14A99ACB1A4BB0EC0C437206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2112.01"
+  },
+  {
+    "JvID": "714BE36309D04D18A3F9EB3CFE47B71E206",
+    "JobTitle": "Senior UX Researcher (Remote or Hybrid)",
+    "Company": "ICF Consulting Group, Inc.",
+    "DatePosted": "2023-3-18 12:28 AM",
+    "Url": "https://de.jobsyn.org/714BE36309D04D18A3F9EB3CFE47B71E206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2112.01"
   },
   {
     "JvID": "4DADD7CBBADC4F6F8E539362E5C669CD206",
@@ -5288,15 +5324,6 @@
     "Company": "The College Entrance Examination Board",
     "DatePosted": "2023-3-13 4:12 PM",
     "Url": "https://de.jobsyn.org/6DDBF9EABD9E4246B9F295786B5A39BF206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.01"
-  },
-  {
-    "JvID": "0B272736C58946EC886CB51C0CBFC65F206",
-    "JobTitle": "Director of Insights & Analytics - Digital Product Design (remote)",
-    "Company": "Ford Motor Company",
-    "DatePosted": "2023-3-10 8:20 PM",
-    "Url": "https://de.jobsyn.org/0B272736C58946EC886CB51C0CBFC65F206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2112.01"
   },
@@ -5427,24 +5454,6 @@
     "OnetCode": "17-2112.01"
   },
   {
-    "JvID": "3A102EBE16854252A360B1F413CD4AA6206",
-    "JobTitle": "Cognitive Perf. Specialist- 2023-4307 - Columbus",
-    "Company": "Bering Straits Native Corporation",
-    "DatePosted": "2023-2-22 3:58 PM",
-    "Url": "https://de.jobsyn.org/3A102EBE16854252A360B1F413CD4AA6206",
-    "Location": "Columbus, MS",
-    "OnetCode": "17-2112.01"
-  },
-  {
-    "JvID": "09E8963E361F4F7FADA2D0522B70F2BE206",
-    "JobTitle": "Senior UX/UI Designer",
-    "Company": "The College Entrance Examination Board",
-    "DatePosted": "2023-2-19 4:28 PM",
-    "Url": "https://de.jobsyn.org/09E8963E361F4F7FADA2D0522B70F2BE206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.01"
-  },
-  {
     "JvID": "953D6020378B47C389495A4F88B3373D206",
     "JobTitle": "Industrial Engineer",
     "Company": "Aurora Flight Sciences Corporation",
@@ -5553,11 +5562,47 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "D69A191B972141A291A52AC61E9CF3F9206",
-    "JobTitle": "Controls Engineer",
-    "Company": "Abbott",
-    "DatePosted": "2023-3-16 5:07 AM",
-    "Url": "https://de.jobsyn.org/D69A191B972141A291A52AC61E9CF3F9206",
+    "JvID": "ED674C0443294820ADCA7BDBED8B6E08206",
+    "JobTitle": "Electrical Engineer - REMOTE",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/ED674C0443294820ADCA7BDBED8B6E08206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "0694EE59A2B240B4B8A3E6FBF0256865206",
+    "JobTitle": "Refractory Design Engineer",
+    "Company": "Allied Mineral Products Holding, Inc.",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/0694EE59A2B240B4B8A3E6FBF0256865206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "B588F8544B1B4419962CB800956D6FF9206",
+    "JobTitle": "Manufacturing Engineer - SG 25 Job",
+    "Company": "PACCAR Inc",
+    "DatePosted": "2023-3-17 3:41 PM",
+    "Url": "https://de.jobsyn.org/B588F8544B1B4419962CB800956D6FF9206",
+    "Location": "Columbus, MS",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "005EFB1F77F6419DBFEAF06D39394709206",
+    "JobTitle": "Manufacturing Engineer Remanufacturing Job",
+    "Company": "PACCAR Inc",
+    "DatePosted": "2023-3-17 3:41 PM",
+    "Url": "https://de.jobsyn.org/005EFB1F77F6419DBFEAF06D39394709206",
+    "Location": "Columbus, MS",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "5C03B15C22A0443CA723F57B3A4219A7206",
+    "JobTitle": "Mechanical Engineer",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/5C03B15C22A0443CA723F57B3A4219A7206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2112.00"
   },
@@ -5571,11 +5616,20 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "F934900C7AF24CA59580F08306897FCC206",
-    "JobTitle": "Mechanical Engineer",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/F934900C7AF24CA59580F08306897FCC206",
+    "JvID": "6E9B2C7BFCC1447397B00800BD4FDB13206",
+    "JobTitle": "Manufacturing Engineer - SG 25 Job",
+    "Company": "Paccar Winch Inc.",
+    "DatePosted": "2023-3-17 8:04 AM",
+    "Url": "https://de.jobsyn.org/6E9B2C7BFCC1447397B00800BD4FDB13206",
+    "Location": "Columbus, MS",
+    "OnetCode": "17-2112.00"
+  },
+  {
+    "JvID": "D69A191B972141A291A52AC61E9CF3F9206",
+    "JobTitle": "Controls Engineer",
+    "Company": "Abbott",
+    "DatePosted": "2023-3-16 5:07 AM",
+    "Url": "https://de.jobsyn.org/D69A191B972141A291A52AC61E9CF3F9206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2112.00"
   },
@@ -5616,58 +5670,31 @@
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "A9D8BF3EE3F04BAF9F7AF8350FFC2F79206",
-    "JobTitle": "Forensic Electrical Engineer, P.E.",
-    "Company": "EFI Global",
-    "DatePosted": "2023-3-15 5:27 AM",
-    "Url": "https://de.jobsyn.org/A9D8BF3EE3F04BAF9F7AF8350FFC2F79206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "E85CEA9F69384F8C961CE0612CB43B82206",
-    "JobTitle": "Mechanical Engineer",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-13 4:11 PM",
-    "Url": "https://de.jobsyn.org/E85CEA9F69384F8C961CE0612CB43B82206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "2E9C11030D344CF6A96EAC1878A07B6C206",
-    "JobTitle": "Quality Engineer",
-    "Company": "Kforce",
-    "DatePosted": "2023-3-15 5:21 AM",
-    "Url": "https://de.jobsyn.org/2E9C11030D344CF6A96EAC1878A07B6C206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.00"
-  },
-  {
-    "JvID": "7E97F24DB8C04148A830D2BFC3D64947206",
-    "JobTitle": "DEVELOPMENT ENGINEER - GRIDDLES",
-    "Company": "Georgia Employer",
-    "DatePosted": "2023-3-16 10:48 PM",
-    "Url": "https://de.jobsyn.org/7E97F24DB8C04148A830D2BFC3D64947206",
+    "JvID": "0D18A6E7047A4ED194361F5C253AA0B1206",
+    "JobTitle": "Systems Performance Engineer Sr (Performance Test Lead)",
+    "Company": "Elevance Health",
+    "DatePosted": "2023-3-18 6:09 AM",
+    "Url": "https://de.jobsyn.org/0D18A6E7047A4ED194361F5C253AA0B1206",
     "Location": "Columbus, GA",
     "OnetCode": "17-2112.00"
   },
   {
-    "JvID": "BBEBE8FBC9A74B0689357BD26E5BD650206",
-    "JobTitle": "Electrical Engineer",
-    "Company": "SSOE, Inc",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/BBEBE8FBC9A74B0689357BD26E5BD650206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.00"
+    "JvID": "005EFB1F77F6419DBFEAF06D39394709206",
+    "JobTitle": "Manufacturing Engineer Remanufacturing Job",
+    "Company": "PACCAR Inc",
+    "DatePosted": "2023-3-17 3:41 PM",
+    "Url": "https://de.jobsyn.org/005EFB1F77F6419DBFEAF06D39394709206",
+    "Location": "Columbus, MS",
+    "OnetCode": "17-2112.03"
   },
   {
-    "JvID": "C4AC5DB5E8634828A603C328309537CB206",
-    "JobTitle": "Mechanical Test Engineer",
-    "Company": "Actalent",
-    "DatePosted": "2023-3-14 3:32 AM",
-    "Url": "https://de.jobsyn.org/C4AC5DB5E8634828A603C328309537CB206",
-    "Location": "Columbus, IN",
-    "OnetCode": "17-2112.00"
+    "JvID": "75C3DA833BFB4354A6DA6DA5D3A0D91E206",
+    "JobTitle": "Manufacturing Engineer Remanufacturing Job",
+    "Company": "Paccar Winch Inc.",
+    "DatePosted": "2023-3-17 8:04 AM",
+    "Url": "https://de.jobsyn.org/75C3DA833BFB4354A6DA6DA5D3A0D91E206",
+    "Location": "Columbus, MS",
+    "OnetCode": "17-2112.03"
   },
   {
     "JvID": "51BDE02DF2334666A44A9CC5F9D1C0FE206",
@@ -5685,6 +5712,15 @@
     "DatePosted": "2023-3-13 8:54 PM",
     "Url": "https://de.jobsyn.org/03DF860127144C48AF63B9BCA05501D4206",
     "Location": "Columbus, IN",
+    "OnetCode": "17-2112.03"
+  },
+  {
+    "JvID": "032416F1371C4B2F82DFAB5D66C78BA0206",
+    "JobTitle": "Casting Manufacturing Engineer",
+    "Company": "Ford Motor Company",
+    "DatePosted": "2023-3-3 4:52 AM",
+    "Url": "https://de.jobsyn.org/032416F1371C4B2F82DFAB5D66C78BA0206",
+    "Location": "Columbus, OH",
     "OnetCode": "17-2112.03"
   },
   {
@@ -5721,15 +5757,6 @@
     "DatePosted": "2023-3-4 5:37 AM",
     "Url": "https://de.jobsyn.org/8AE4666EC9094827AD75FE63AC31D2B0206",
     "Location": "Columbus, GA",
-    "OnetCode": "17-2112.03"
-  },
-  {
-    "JvID": "F6C1999AB2E74611AD8ED0A80D982BE2206",
-    "JobTitle": "Manufacturing Quality Engineer",
-    "Company": "BD (Becton, Dickinson and Company)",
-    "DatePosted": "2023-3-10 2:19 AM",
-    "Url": "https://de.jobsyn.org/F6C1999AB2E74611AD8ED0A80D982BE2206",
-    "Location": "Columbus, NE",
     "OnetCode": "17-2112.03"
   },
   {
@@ -5778,11 +5805,29 @@
     "OnetCode": "17-2112.03"
   },
   {
+    "JvID": "B588F8544B1B4419962CB800956D6FF9206",
+    "JobTitle": "Manufacturing Engineer - SG 25 Job",
+    "Company": "PACCAR Inc",
+    "DatePosted": "2023-3-17 3:41 PM",
+    "Url": "https://de.jobsyn.org/B588F8544B1B4419962CB800956D6FF9206",
+    "Location": "Columbus, MS",
+    "OnetCode": "17-2112.03"
+  },
+  {
     "JvID": "050EA9D9029D4085B74D8F5D33652BC4206",
     "JobTitle": "Manufacturing Engineer (SG 23) / Columbus",
     "Company": "PACCAR Inc",
     "DatePosted": "2023-3-14 3:41 PM",
     "Url": "https://de.jobsyn.org/050EA9D9029D4085B74D8F5D33652BC4206",
+    "Location": "Columbus, MS",
+    "OnetCode": "17-2112.03"
+  },
+  {
+    "JvID": "6E9B2C7BFCC1447397B00800BD4FDB13206",
+    "JobTitle": "Manufacturing Engineer - SG 25 Job",
+    "Company": "Paccar Winch Inc.",
+    "DatePosted": "2023-3-17 8:04 AM",
+    "Url": "https://de.jobsyn.org/6E9B2C7BFCC1447397B00800BD4FDB13206",
     "Location": "Columbus, MS",
     "OnetCode": "17-2112.03"
   },
@@ -5859,47 +5904,11 @@
     "OnetCode": "17-2112.03"
   },
   {
-    "JvID": "DD051E01D25C4B8F91944E450161E519206",
+    "JvID": "5C03B15C22A0443CA723F57B3A4219A7206",
     "JobTitle": "Mechanical Engineer",
     "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/DD051E01D25C4B8F91944E450161E519206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.03"
-  },
-  {
-    "JvID": "6CF4AE1FDCCB4AFFB553DDAD12E5E60D206",
-    "JobTitle": "Mechanical Engineer",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/6CF4AE1FDCCB4AFFB553DDAD12E5E60D206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.03"
-  },
-  {
-    "JvID": "8224E8071FE34E27B4F68E8903C979C3206",
-    "JobTitle": "Production Engineer",
-    "Company": "Actalent",
-    "DatePosted": "2023-3-7 2:21 AM",
-    "Url": "https://de.jobsyn.org/8224E8071FE34E27B4F68E8903C979C3206",
-    "Location": "Columbus, IN",
-    "OnetCode": "17-2112.03"
-  },
-  {
-    "JvID": "A5B65B23438E471CBBE523033B33DB2E206",
-    "JobTitle": "Mechanical Engineer",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/A5B65B23438E471CBBE523033B33DB2E206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2112.03"
-  },
-  {
-    "JvID": "F934900C7AF24CA59580F08306897FCC206",
-    "JobTitle": "Mechanical Engineer",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/F934900C7AF24CA59580F08306897FCC206",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/5C03B15C22A0443CA723F57B3A4219A7206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2141.00"
   },
@@ -5922,20 +5931,38 @@
     "OnetCode": "17-2141.00"
   },
   {
+    "JvID": "D70BABE1EC90424BB030F83563D22594206",
+    "JobTitle": "Mechanical Engineer",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/D70BABE1EC90424BB030F83563D22594206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2141.00"
+  },
+  {
+    "JvID": "DE67F11966A3494E904B95556FF3DE0F206",
+    "JobTitle": "Mechanical Engineer",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/DE67F11966A3494E904B95556FF3DE0F206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2141.00"
+  },
+  {
+    "JvID": "DB72B4E46F48457D97381864EAEAE818206",
+    "JobTitle": "Mechanical Engineer",
+    "Company": "Vertiv Corporation",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/DB72B4E46F48457D97381864EAEAE818206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2141.00"
+  },
+  {
     "JvID": "DD051E01D25C4B8F91944E450161E519206",
     "JobTitle": "Mechanical Engineer",
     "Company": "Vertiv Corporation",
     "DatePosted": "2023-3-16 4:07 PM",
     "Url": "https://de.jobsyn.org/DD051E01D25C4B8F91944E450161E519206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2141.00"
-  },
-  {
-    "JvID": "6CF4AE1FDCCB4AFFB553DDAD12E5E60D206",
-    "JobTitle": "Mechanical Engineer",
-    "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/6CF4AE1FDCCB4AFFB553DDAD12E5E60D206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2141.00"
   },
@@ -5958,6 +5985,15 @@
     "OnetCode": "17-2141.00"
   },
   {
+    "JvID": "40C4CBDE0A034AD0A73A3A394A52DEA2206",
+    "JobTitle": "Mechanical Engineer",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-17 4:23 AM",
+    "Url": "https://de.jobsyn.org/40C4CBDE0A034AD0A73A3A394A52DEA2206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2141.00"
+  },
+  {
     "JvID": "F04F160FAE364C40B718B508593598AA206",
     "JobTitle": "Mechanical Engineer",
     "Company": "Vertiv Corporation",
@@ -5972,15 +6008,6 @@
     "Company": "Vertiv Corporation",
     "DatePosted": "2023-3-1 4:39 PM",
     "Url": "https://de.jobsyn.org/D629C7D6658F46839F0CC5E1BCA34B9A206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2141.00"
-  },
-  {
-    "JvID": "8ADB1D7B823C49B39CC567E9AD3D0740206",
-    "JobTitle": "Mechanical Engineer",
-    "Company": "Adecco US, Inc.",
-    "DatePosted": "2023-2-15 3:44 AM",
-    "Url": "https://de.jobsyn.org/8ADB1D7B823C49B39CC567E9AD3D0740206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2141.00"
   },
@@ -6021,20 +6048,20 @@
     "OnetCode": "17-2141.00"
   },
   {
-    "JvID": "19D8E1E6AD1B420EB9FE0FA1E7D0FD85206",
-    "JobTitle": "Mechanical Engineer / Designer",
-    "Company": "Glaus, Pyle, Schomer, Burns & DeHaven, Inc.",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/19D8E1E6AD1B420EB9FE0FA1E7D0FD85206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2141.00"
-  },
-  {
     "JvID": "C77361AC2DD8470DA1F05BE45CB2592D206",
     "JobTitle": "Sr Mechanical Engineer",
     "Company": "AECOM",
     "DatePosted": "2023-3-9 10:56 PM",
     "Url": "https://de.jobsyn.org/C77361AC2DD8470DA1F05BE45CB2592D206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2141.00"
+  },
+  {
+    "JvID": "19D8E1E6AD1B420EB9FE0FA1E7D0FD85206",
+    "JobTitle": "Mechanical Engineer / Designer",
+    "Company": "Glaus, Pyle, Schomer, Burns & DeHaven, Inc.",
+    "DatePosted": "2023-3-13 4:12 PM",
+    "Url": "https://de.jobsyn.org/19D8E1E6AD1B420EB9FE0FA1E7D0FD85206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2141.00"
   },
@@ -6102,22 +6129,13 @@
     "OnetCode": "17-2141.00"
   },
   {
-    "JvID": "60062A8541984D059046E0B431399CD5206",
-    "JobTitle": "Senior Mechanical Engineer / Designer",
-    "Company": "Integrity Technical Services, Inc.",
-    "DatePosted": "2023-2-28 4:46 PM",
-    "Url": "https://de.jobsyn.org/60062A8541984D059046E0B431399CD5206",
+    "JvID": "A5B703C5017143758E76B6868192445F206",
+    "JobTitle": "Electrical Engineer",
+    "Company": "SSOE, Inc",
+    "DatePosted": "2023-2-22 4:24 PM",
+    "Url": "https://de.jobsyn.org/A5B703C5017143758E76B6868192445F206",
     "Location": "Columbus, OH",
-    "OnetCode": "17-2141.00"
-  },
-  {
-    "JvID": "B91C2ECAC67C463DB9DB3387340D17E4206",
-    "JobTitle": "Mechanical Federal Engineer - HVAC/Plumbing - US Hybrid",
-    "Company": "Black & Veatch",
-    "DatePosted": "2023-2-22 5:33 AM",
-    "Url": "https://de.jobsyn.org/B91C2ECAC67C463DB9DB3387340D17E4206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2141.00"
+    "OnetCode": "17-2071.00"
   },
   {
     "JvID": "BBEBE8FBC9A74B0689357BD26E5BD650206",
@@ -6125,15 +6143,6 @@
     "Company": "SSOE, Inc",
     "DatePosted": "2023-3-13 4:12 PM",
     "Url": "https://de.jobsyn.org/BBEBE8FBC9A74B0689357BD26E5BD650206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2071.00"
-  },
-  {
-    "JvID": "A5B703C5017143758E76B6868192445F206",
-    "JobTitle": "Electrical Engineer",
-    "Company": "SSOE, Inc",
-    "DatePosted": "2023-2-22 4:24 PM",
-    "Url": "https://de.jobsyn.org/A5B703C5017143758E76B6868192445F206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2071.00"
   },
@@ -6147,11 +6156,11 @@
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "371D4AC629A94702BB82FA66F043A525206",
+    "JvID": "3804081969014D229C6FD4CA05137DA4206",
     "JobTitle": "Electrical Engineer",
     "Company": "Vertiv Corporation",
-    "DatePosted": "2023-3-16 4:07 PM",
-    "Url": "https://de.jobsyn.org/371D4AC629A94702BB82FA66F043A525206",
+    "DatePosted": "2023-3-17 4:11 PM",
+    "Url": "https://de.jobsyn.org/3804081969014D229C6FD4CA05137DA4206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2071.00"
   },
@@ -6183,20 +6192,11 @@
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "22420C2FE41248329525AAC6076A7B7E206",
-    "JobTitle": "Electrical Engineer",
-    "Company": "Eaton Corporation",
-    "DatePosted": "2023-2-15 4:37 AM",
-    "Url": "https://de.jobsyn.org/22420C2FE41248329525AAC6076A7B7E206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2071.00"
-  },
-  {
-    "JvID": "76CF463625AE49DF98DB8E411FFA6EFA206",
-    "JobTitle": "Senior Electrical Engineer",
-    "Company": "Hatch",
-    "DatePosted": "2023-3-15 7:25 AM",
-    "Url": "https://de.jobsyn.org/76CF463625AE49DF98DB8E411FFA6EFA206",
+    "JvID": "ED674C0443294820ADCA7BDBED8B6E08206",
+    "JobTitle": "Electrical Engineer - REMOTE",
+    "Company": "Actalent",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/ED674C0443294820ADCA7BDBED8B6E08206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2071.00"
   },
@@ -6210,6 +6210,15 @@
     "OnetCode": "17-2071.00"
   },
   {
+    "JvID": "76CF463625AE49DF98DB8E411FFA6EFA206",
+    "JobTitle": "Senior Electrical Engineer",
+    "Company": "Hatch",
+    "DatePosted": "2023-3-15 7:25 AM",
+    "Url": "https://de.jobsyn.org/76CF463625AE49DF98DB8E411FFA6EFA206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2071.00"
+  },
+  {
     "JvID": "9A812511F82043CE81C08493C5F71863206",
     "JobTitle": "Electrical Engineer - REMOTE",
     "Company": "Actalent",
@@ -6219,20 +6228,20 @@
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "3FA05338AE034F92BCEAB8D0ACCBC432206",
-    "JobTitle": "Senior Electrical Engineer",
-    "Company": "Glaus, Pyle, Schomer, Burns & DeHaven, Inc.",
-    "DatePosted": "2023-3-13 4:12 PM",
-    "Url": "https://de.jobsyn.org/3FA05338AE034F92BCEAB8D0ACCBC432206",
-    "Location": "Columbus, OH",
-    "OnetCode": "17-2071.00"
-  },
-  {
     "JvID": "2F08A39C1015455C8988FB14173BF993206",
     "JobTitle": "Electrical Engineering Group Manager",
     "Company": "CHA Consulting, Inc.",
     "DatePosted": "2023-2-17 4:23 PM",
     "Url": "https://de.jobsyn.org/2F08A39C1015455C8988FB14173BF993206",
+    "Location": "Columbus, OH",
+    "OnetCode": "17-2071.00"
+  },
+  {
+    "JvID": "3FA05338AE034F92BCEAB8D0ACCBC432206",
+    "JobTitle": "Senior Electrical Engineer",
+    "Company": "Glaus, Pyle, Schomer, Burns & DeHaven, Inc.",
+    "DatePosted": "2023-3-13 4:12 PM",
+    "Url": "https://de.jobsyn.org/3FA05338AE034F92BCEAB8D0ACCBC432206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2071.00"
   },
@@ -6300,20 +6309,20 @@
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "0D23C0F4A04248EB8018B786EC3C6D22206",
+    "JvID": "C67864CF07DB441E92A1ECB8604433E9206",
     "JobTitle": "Electrical Powertrain Engineer-ECU Testing",
     "Company": "Actalent",
-    "DatePosted": "2023-3-4 3:32 AM",
-    "Url": "https://de.jobsyn.org/0D23C0F4A04248EB8018B786EC3C6D22206",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/C67864CF07DB441E92A1ECB8604433E9206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "283C4D3764B2417BBAF68CA1131F4E42206",
+    "JvID": "555072EA5CC84B379E6778FD1CD73CFB206",
     "JobTitle": "Electrical Powertrain Engineer-ECU Testing",
     "Company": "Actalent",
-    "DatePosted": "2023-3-4 3:32 AM",
-    "Url": "https://de.jobsyn.org/283C4D3764B2417BBAF68CA1131F4E42206",
+    "DatePosted": "2023-3-18 5:10 AM",
+    "Url": "https://de.jobsyn.org/555072EA5CC84B379E6778FD1CD73CFB206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2071.00"
   },
@@ -6336,22 +6345,13 @@
     "OnetCode": "17-2071.00"
   },
   {
-    "JvID": "A9D8BF3EE3F04BAF9F7AF8350FFC2F79206",
-    "JobTitle": "Forensic Electrical Engineer, P.E.",
-    "Company": "EFI Global",
-    "DatePosted": "2023-3-15 5:27 AM",
-    "Url": "https://de.jobsyn.org/A9D8BF3EE3F04BAF9F7AF8350FFC2F79206",
+    "JvID": "1BF9F21A6F604EF08A6B9DF1B9F96337206",
+    "JobTitle": "Electrical Project Engineer - Tool Install Engineering",
+    "Company": "Intel",
+    "DatePosted": "2023-3-5 2:57 AM",
+    "Url": "https://de.jobsyn.org/1BF9F21A6F604EF08A6B9DF1B9F96337206",
     "Location": "Columbus, OH",
     "OnetCode": "17-2071.00"
-  },
-  {
-    "JvID": "7A56ACB96A0F4123BFB2DAF9746864E2206",
-    "JobTitle": "Data Scientist",
-    "Company": "Citizens",
-    "DatePosted": "2023-3-15 2:55 AM",
-    "Url": "https://de.jobsyn.org/7A56ACB96A0F4123BFB2DAF9746864E2206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-2051.00"
   },
   {
     "JvID": "028BA159C82A432AA8DC2893B97C0A81206",
@@ -6381,15 +6381,6 @@
     "OnetCode": "15-2051.00"
   },
   {
-    "JvID": "BCDB53430C154DB182F6F45A14D516A1206",
-    "JobTitle": "Senior Data Scientist",
-    "Company": "Abbott",
-    "DatePosted": "2023-3-17 2:17 AM",
-    "Url": "https://de.jobsyn.org/BCDB53430C154DB182F6F45A14D516A1206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-2051.00"
-  },
-  {
     "JvID": "703283B99AFF49C987326CD68E5B0D03206",
     "JobTitle": "Data Scientist (Engineer II)",
     "Company": "The College Entrance Examination Board",
@@ -6399,20 +6390,29 @@
     "OnetCode": "15-2051.00"
   },
   {
+    "JvID": "BCDB53430C154DB182F6F45A14D516A1206",
+    "JobTitle": "Senior Data Scientist",
+    "Company": "Abbott",
+    "DatePosted": "2023-3-17 2:17 AM",
+    "Url": "https://de.jobsyn.org/BCDB53430C154DB182F6F45A14D516A1206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-2051.00"
+  },
+  {
+    "JvID": "1850ED99730441588D69077A91752AAC206",
+    "JobTitle": "Senior Data Scientist",
+    "Company": "Citizens",
+    "DatePosted": "2023-3-17 4:32 AM",
+    "Url": "https://de.jobsyn.org/1850ED99730441588D69077A91752AAC206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-2051.00"
+  },
+  {
     "JvID": "66808696D6F84F8EA83001A87C4B5B13206",
     "JobTitle": "Data Scientist (REMOTE)",
     "Company": "Sedgwick",
     "DatePosted": "2023-3-1 4:44 AM",
     "Url": "https://de.jobsyn.org/66808696D6F84F8EA83001A87C4B5B13206",
-    "Location": "Columbus, OH",
-    "OnetCode": "15-2051.00"
-  },
-  {
-    "JvID": "F17E28BCA75C41228CFE69E7E43A8D2E206",
-    "JobTitle": "C4131D Data Scientist I",
-    "Company": "Astrix Technology",
-    "DatePosted": "2023-2-7 3:46 AM",
-    "Url": "https://de.jobsyn.org/F17E28BCA75C41228CFE69E7E43A8D2E206",
     "Location": "Columbus, OH",
     "OnetCode": "15-2051.00"
   },
@@ -6528,7 +6528,7 @@
     "JvID": "2858875B3787486697BD6950371ABFF9206",
     "JobTitle": "AI/ML Health Data Scientist \u2013 Senior Consultant",
     "Company": "Guidehouse",
-    "DatePosted": "2023-3-8 2:39 AM",
+    "DatePosted": "2023-3-8 3:04 AM",
     "Url": "https://de.jobsyn.org/2858875B3787486697BD6950371ABFF9206",
     "Location": "Columbus, OH",
     "OnetCode": "15-2051.00"
@@ -6552,6 +6552,15 @@
     "OnetCode": "15-2051.00"
   },
   {
+    "JvID": "E29BAA35FAED4321BFCA90380EADF977206",
+    "JobTitle": "Director of Data Science",
+    "Company": "NiSource",
+    "DatePosted": "2023-2-17 3:07 AM",
+    "Url": "https://de.jobsyn.org/E29BAA35FAED4321BFCA90380EADF977206",
+    "Location": "Columbus, OH",
+    "OnetCode": "15-2051.00"
+  },
+  {
     "JvID": "1C045BAD00C54F648243678E431BEC8B206",
     "JobTitle": "Data Science Graduate Intern",
     "Company": "Intel",
@@ -6561,11 +6570,11 @@
     "OnetCode": "15-2051.00"
   },
   {
-    "JvID": "E29BAA35FAED4321BFCA90380EADF977206",
-    "JobTitle": "Director of Data Science",
-    "Company": "NiSource",
-    "DatePosted": "2023-2-17 3:07 AM",
-    "Url": "https://de.jobsyn.org/E29BAA35FAED4321BFCA90380EADF977206",
+    "JvID": "34EAF855172644438A71DD9FE3FB8F34206",
+    "JobTitle": "Data Engineer II - ETL",
+    "Company": "Travelers Insurance Company",
+    "DatePosted": "2023-3-10 3:28 AM",
+    "Url": "https://de.jobsyn.org/34EAF855172644438A71DD9FE3FB8F34206",
     "Location": "Columbus, OH",
     "OnetCode": "15-2051.00"
   }
