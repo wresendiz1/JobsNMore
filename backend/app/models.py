@@ -28,7 +28,14 @@ class Job(db.Model):
 	OnetCode = db.Column(db.String(20), nullable = False)
 	JCityID = db.Column(db.Integer, db.ForeignKey('locations.CityID'), nullable = False)
 
+class Skill(db.Model):
+	__tablename__ = 'skills'
+	Id = db.Column(db.String(20), primary_key = True)
+	Name = db.Column(db.String(100), nullable = False)
+	Description = db.Column(db.String(500), nullable = True)
+	OnetCodes = db.Column(db.ARRAY(db.String(30)))
 	
+
 class Course(db.Model):
 	__tablename__ = 'courses'
 

@@ -1,5 +1,5 @@
 import json
-from .models import Location, Job, Course, db
+from .models import Location, Job, Course, Skill, db
 import os
 
 cities = [
@@ -91,6 +91,34 @@ def create_jobs():
                 # commit the session to my DB.
         db.session.commit()
 
+def create_skills():
+    skills = load_json('/data/basic_skills.json')
+    for skill in skills:
+        Id = skill["id"]
+        Name = skill["name"]
+        Description = skill["description"]
+        OnetCodes = skill["onetcode"]
+
+        newSkill = Skill(
+            Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes)
+        # After I create the book, I can then add it to my session.
+        db.session.add(newSkill)
+        # commit the session to my DB.
+        db.session.commit()
+    
+    tskills = load_json('/data/tech_skills.json')
+    for skill in tskills:
+        Id = skill["id"]
+        Name = skill["name"]
+        OnetCodes = skill["onetcode"]
+        Description = ''
+
+        newSkill = Skill(
+            Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes)
+        # After I create the book, I can then add it to my session.
+        db.session.add(newSkill)
+        # commit the session to my DB.
+        db.session.commit()
 
 def create_courses():
     raw_courses = load_json('/data/courses.json')
