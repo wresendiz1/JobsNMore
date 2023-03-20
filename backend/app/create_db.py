@@ -82,10 +82,10 @@ def create_jobs():
                 Url = job["Url"]
                 JobLocation = job["Location"]
                 OnetCode = job["OnetCode"]
-                CityID = job["cityID"]
+                JCityID = job["cityID"]
 
                 newJob = Job(
-                    Id=Id, JobTitle=JobTitle, Company=Company, DatePosted=DatePosted, Url=Url, JobLocation=JobLocation, OnetCode=OnetCode, CityID=CityID)
+                    Id=Id, JobTitle=JobTitle, Company=Company, DatePosted=DatePosted, Url=Url, JobLocation=JobLocation, OnetCode=OnetCode, JCityID=JCityID)
                 # After I create the book, I can then add it to my session.
                 db.session.add(newJob)
                 # commit the session to my DB.

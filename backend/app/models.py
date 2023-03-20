@@ -5,14 +5,16 @@ db = SQLAlchemy()
 class Location(db.Model):
 	__tablename__ = 'locations'
 	
-	City = db.Column(db.String(80), primary_key = True)
+	City = db.Column(db.String(80))
 	State = db.Column(db.String(80), nullable = False)
 	Population = db.Column(db.Integer, nullable = False)
 	Budget = db.Column(db.String(80), nullable = False)
 	Safety = db.Column(db.String(80), nullable = False)
 	Average_rat = db.Column(db.Integer, nullable = False)
 	Guide = db.Column(db.String(200), nullable = False)
-	CityID = db.Column(db.Integer, nullable = False)
+	CityID = db.Column(db.Integer, primary_key = True, nullable = False)
+	job = db.relationship('Job', backref = 'Location')
+
 
 class Job(db.Model):
 	__tablename__ = 'jobs'
@@ -24,7 +26,7 @@ class Job(db.Model):
 	Url = db.Column(db.String(200), nullable = False)
 	JobLocation = db.Column(db.String(80), nullable = False)
 	OnetCode = db.Column(db.String(20), nullable = False)
-	CityID = db.Column(db.Integer, nullable = False)
+	JCityID = db.Column(db.Integer, db.ForeignKey('locations.CityID'), nullable = False)
 
 	
 class Course(db.Model):
@@ -36,4 +38,4 @@ class Course(db.Model):
 	Name = db.Column(db.String(150), nullable = False)
 	Url = db.Column(db.String(200))
 	Type = db.Column(db.String(80), nullable = False)
-	Description = db.Column(db.String(5000))
+	Description = db.Column(db.Text)
