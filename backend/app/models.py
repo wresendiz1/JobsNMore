@@ -46,3 +46,23 @@ class Course(db.Model):
 	Url = db.Column(db.String(200))
 	Type = db.Column(db.String(80), nullable = False)
 	Description = db.Column(db.Text)
+	
+class Occupation(db.Model):
+	__tablename__ = 'occupations'
+
+	onetCode = db.Column(db.String(10), primary_key = True)
+	cluster = db.Column(db.String(10), nullable = False)
+	title = db.Column(db.String(200), nullable = False)
+	description = db.Column(db.Text)
+	median_wage = db.Column(db.Integer)
+	pct90_wage = db.Column(db.String(20))
+	outlook = db.Column(db.String(20))
+	outlook_category = db.Column(db.String(50))
+	curr_employment = db.Column(db.Integer)
+	proj_openings = db.Column(db.Integer)
+	percent_change = db.Column(db.Integer)
+	bls = db.Column(db.Text)
+
+
+
+	

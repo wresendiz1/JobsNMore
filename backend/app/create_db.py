@@ -1,5 +1,5 @@
 import json
-from .models import Location, Job, Course, Skill, db
+from .models import Location, Job, Course, Skill, Occupation, db
 import os
 
 cities = [
@@ -91,6 +91,7 @@ def create_jobs():
                 # commit the session to my DB.
         db.session.commit()
 
+
 def create_skills():
     skills = load_json('/data/basic_skills.json')
     for skill in skills:
@@ -105,7 +106,7 @@ def create_skills():
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
-    
+
     tskills = load_json('/data/tech_skills.json')
     for skill in tskills:
         Id = skill["id"]
@@ -119,6 +120,7 @@ def create_skills():
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
+
 
 def create_courses():
     raw_courses = load_json('/data/courses.json')
@@ -142,5 +144,32 @@ def create_courses():
             Id=Id, OnetCode=OnetCode, Provider=Provider, Name=Name, Url=Url, Type=Type, Description=Description)
         # After I create the book, I can then add it to my session.
         db.session.add(newCourse)
+        # commit the session to my DB.
+        db.session.commit()
+
+
+def create_occupations():
+    occupations = load_json('/data/occupations.json')
+    for occupation in occupations:
+        onetCode = occupation["onetCode"]
+        cluster = occupation["cluster"]
+        title = occupation["title"]
+        description = occupation["description"]
+        median_wage = occupation["median_wage"]
+        pct90_wage = occupation["pct90_wage"]
+        outlook = occupation["outlook"]
+        outlook_category = occupation["outlook_category"]
+        curr_employment = occupation["curr_employment"]
+        proj_openings = occupation["proj_openings"]
+        percent_change = occupation["percent_change"]
+        bls = occupation["bls"]
+
+        newOccupation = Occupation(
+            onetCode=onetCode, cluster=cluster, title=title, description=description,
+            median_wage=median_wage, pct90_wage=pct90_wage, outlook=outlook,
+            outlook_category=outlook_category, curr_employment=curr_employment,
+            proj_openings=proj_openings, percent_change=percent_change, bls=bls)
+        # After I create the book, I can then add it to my session.
+        db.session.add(newOccupation)
         # commit the session to my DB.
         db.session.commit()
