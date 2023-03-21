@@ -28,10 +28,10 @@ def create_app():
         "DB_STRING", "postgresql://postgres:Passkey123@localhost:5432/jobdb"
     )
     # to suppress a warning message
-    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = True
+    # app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = True
 
     db.init_app(app)
-    
+
     # TODO: Implement an if statement to check to see if database exists
     with app.app_context():
         db.drop_all()

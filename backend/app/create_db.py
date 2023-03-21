@@ -119,7 +119,9 @@ def create_basic_skills():
         OnetCodes = skill["onetcode"]
         # TODO: Figure out how to add the individual scores to the database - maybe add it as part of the OnetCodes?
 
-        newSkill = Basic_Skill(Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes)
+        newSkill = Basic_Skill(
+            Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes
+        )
         # After I create the book, I can then add it to my session.
         db.session.add(newSkill)
         # commit the session to my DB.
