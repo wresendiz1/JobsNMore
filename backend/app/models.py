@@ -17,6 +17,10 @@ class Location(db.Model):
     Photos = db.Column(db.ARRAY(db.String(200)), nullable=False)
     job = db.relationship("Job", backref="Location")
 
+    @classmethod
+    def get_locations(cls, page=1, per_page=30):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+
 
 class Job(db.Model):
     __tablename__ = "jobs"
@@ -29,6 +33,18 @@ class Job(db.Model):
     JobLocation = db.Column(db.String(80), nullable=False)
     OnetCode = db.Column(db.String(20), nullable=False)
     JCityID = db.Column(db.Integer, db.ForeignKey("locations.CityID"), nullable=False)
+
+    @classmethod
+    def get_count(cls):
+        return cls.query.count()
+
+    # Not sure why this doesn't work
+    # @classmethod
+    # def get_jobs(cls, page=1, per_page=50):
+    #     return cls.query.paginate(page, per_page, False)
+    @classmethod
+    def get_jobs(cls, page=1, per_page=50):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
 
 
 class Basic_Skill(db.Model):
@@ -57,6 +73,10 @@ class Course(db.Model):
     Url = db.Column(db.String(200))
     Type = db.Column(db.String(80), nullable=False)
     Description = db.Column(db.Text)
+
+    @classmethod
+    def get_courses(cls, page=1, per_page=50):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
 
 
 class Occupation(db.Model):
