@@ -1,5 +1,6 @@
 [
   {
+    "CityID": 1,
     "City": "New York",
     "State": "New York State",
     "Population": 8175133,
@@ -16,42 +17,46 @@
     ]
   },
   {
+    "CityID": 2,
     "City": "Los Angeles",
     "State": "California",
     "Population": 3792621,
     "Budget": "Very High",
     "Safety": "High",
-    "Average Rating": 3.84444444444444,
+    "Average Rating": 3.82608695652174,
     "Guide": "https://getyourguide.com/s/?q=Los+Angeles%2C+CA&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/691/large_travel-guide-of-los-angeles-ca-usa-original.jpg"
     ]
   },
   {
+    "CityID": 3,
     "City": "Chicago",
     "State": "Illinois",
     "Population": 2695598,
     "Budget": "Very High",
     "Safety": "High",
-    "Average Rating": 4.28571428571429,
+    "Average Rating": 4.27777777777778,
     "Guide": "https://getyourguide.com/s/?q=Chicago%2C+IL&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/388/large_travel-guide-of-chicago-il-usa-original.jpg"
     ]
   },
   {
+    "CityID": 4,
     "City": "Houston",
     "State": "Texas",
     "Population": 2099451,
     "Budget": "High",
     "Safety": "Medium",
-    "Average Rating": 2.92857142857143,
+    "Average Rating": 3.0,
     "Guide": "https://getyourguide.com/s/?q=Houston%2C+TX&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/384/large_travel-guide-of-houston-tx-usa-original.jpg"
     ]
   },
   {
+    "CityID": 5,
     "City": "Phoenix",
     "State": "Arizona",
     "Population": 1445632,
@@ -64,42 +69,46 @@
     ]
   },
   {
+    "CityID": 6,
     "City": "Philadelphia",
     "State": "Pennsylvania",
     "Population": 1526006,
     "Budget": "Very High",
     "Safety": "High",
-    "Average Rating": 3.76923076923077,
+    "Average Rating": 3.77777777777778,
     "Guide": "https://getyourguide.com/s/?q=Philadelphia%2C+PA&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/353/large_travel-guide-of-philadelphia-pa-usa-original.jpg"
     ]
   },
   {
+    "CityID": 7,
     "City": "San Antonio",
     "State": "Texas",
     "Population": 1327407,
     "Budget": "Medium High",
     "Safety": "High",
-    "Average Rating": 4.07142857142857,
+    "Average Rating": 4.13333333333333,
     "Guide": "https://getyourguide.com/s/?q=San+Antonio%2C+TX&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/383/large_travel-guide-of-san-antonio-tx-usa-original.jpg"
     ]
   },
   {
+    "CityID": 8,
     "City": "San Diego",
     "State": "California",
     "Population": 1307402,
     "Budget": "Very High",
     "Safety": "High",
-    "Average Rating": 4.15384615384615,
+    "Average Rating": 4.18518518518519,
     "Guide": "https://getyourguide.com/s/?q=San+Diego%2C+CA&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/413/large_travel-guide-of-san-diego-ca-usa-original.jpg"
     ]
   },
   {
+    "CityID": 9,
     "City": "Dallas",
     "State": "Texas",
     "Population": 1197816,
@@ -112,28 +121,31 @@
     ]
   },
   {
+    "CityID": 10,
     "City": "San Jose",
     "State": "California",
     "Population": 945942,
     "Budget": "Very High",
     "Safety": "High",
-    "Average Rating": 3.4,
+    "Average Rating": 3.4375,
     "Guide": "https://getyourguide.com/s/?q=San+Jose%2C+CA&partner_id=0TQGVTE",
     "Photos": "https://cdn.roadgoat.com/uploads/photo/image/1893/large_9551931765_5d28e6a037_o.jpg"
   },
   {
+    "CityID": 11,
     "City": "Austin",
     "State": "Texas",
     "Population": 790390,
     "Budget": "Very High",
     "Safety": "High",
-    "Average Rating": 4.27272727272727,
+    "Average Rating": 4.33333333333333,
     "Guide": "https://getyourguide.com/s/?q=Austin%2C+TX&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/382/large_travel-guide-of-austin-tx-usa-original.jpg"
     ]
   },
   {
+    "CityID": 12,
     "City": "Jacksonville",
     "State": "Florida",
     "Population": 821784,
@@ -144,16 +156,18 @@
     "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2391/large_boca-raton-696864_1920.jpg"
   },
   {
+    "CityID": 13,
     "City": "Fort Worth",
     "State": "Texas",
     "Population": 741206,
     "Budget": "High",
     "Safety": "High",
-    "Average Rating": 3.9,
+    "Average Rating": 3.90909090909091,
     "Guide": "https://getyourguide.com/s/?q=Fort+Worth%2C+TX&partner_id=0TQGVTE",
     "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2375/large_17063255180_ebeddbd73d_o.jpg"
   },
   {
+    "CityID": 14,
     "City": "Columbus",
     "State": "Ohio",
     "Population": 787033,
@@ -164,28 +178,31 @@
     "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2378/large_mitchell-griest-wA5KgVA8Z3o-unsplash.jpg"
   },
   {
+    "CityID": 15,
     "City": "Indianapolis",
     "State": "Indiana",
     "Population": 829718,
     "Budget": "High",
     "Safety": "High",
-    "Average Rating": 2.85714285714286,
+    "Average Rating": 3.0,
     "Guide": "https://getyourguide.com/s/?q=Indianapolis%2C+IN&partner_id=0TQGVTE",
     "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2385/large_48802423698_a199d52812_o.jpg"
   },
   {
+    "CityID": 16,
     "City": "Charlotte",
     "State": "North Carolina",
     "Population": 731424,
     "Budget": "High",
     "Safety": "High",
-    "Average Rating": 3.44444444444444,
+    "Average Rating": 3.5,
     "Guide": "https://getyourguide.com/s/?q=Charlotte%2C+NC&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/1867/large_Charlotte.jpeg"
     ]
   },
   {
+    "CityID": 17,
     "City": "San Francisco",
     "State": "California",
     "Population": 805235,
@@ -198,6 +215,7 @@
     ]
   },
   {
+    "CityID": 18,
     "City": "Seattle",
     "State": "Washington",
     "Population": 608660,
@@ -210,6 +228,7 @@
     ]
   },
   {
+    "CityID": 19,
     "City": "Denver",
     "State": "Colorado",
     "Population": 600158,
@@ -222,6 +241,7 @@
     ]
   },
   {
+    "CityID": 20,
     "City": "Oklahoma City",
     "State": "OK",
     "Population": 579999,
@@ -232,6 +252,7 @@
     "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2057/large_tulsa.jpeg"
   },
   {
+    "CityID": 21,
     "City": "Nashville",
     "State": "Tennessee",
     "Population": 530852,
@@ -244,6 +265,7 @@
     ]
   },
   {
+    "CityID": 22,
     "City": "El Paso",
     "State": "Texas",
     "Population": 649121,
@@ -256,6 +278,7 @@
     ]
   },
   {
+    "CityID": 23,
     "City": "Washington DC",
     "State": "D.C.",
     "Population": 601723,
@@ -268,6 +291,7 @@
     ]
   },
   {
+    "CityID": 24,
     "City": "Boston",
     "State": "Massachusetts",
     "Population": 617594,
@@ -280,6 +304,7 @@
     ]
   },
   {
+    "CityID": 25,
     "City": "Las Vegas",
     "State": "Nevada",
     "Population": 583756,
@@ -292,6 +317,7 @@
     ]
   },
   {
+    "CityID": 26,
     "City": "Portland",
     "State": "Oregon",
     "Population": 583776,
@@ -304,6 +330,7 @@
     ]
   },
   {
+    "CityID": 27,
     "City": "Detroit",
     "State": "Michigan",
     "Population": 713777,
@@ -316,6 +343,7 @@
     ]
   },
   {
+    "CityID": 28,
     "City": "Louisville",
     "State": "Kentucky",
     "Population": 243639,
@@ -326,24 +354,26 @@
     "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2384/large_27011748768_30aa34c2e0_o.jpg"
   },
   {
+    "CityID": 29,
     "City": "Memphis",
     "State": "Tennessee",
     "Population": 646889,
     "Budget": "Medium High",
     "Safety": "High",
-    "Average Rating": 3.0,
+    "Average Rating": 3.28571428571429,
     "Guide": "https://getyourguide.com/s/?q=Memphis%2C+TN&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/366/large_travel-guide-of-memphis-tn-usa-original.jpg"
     ]
   },
   {
+    "CityID": 30,
     "City": "Baltimore",
     "State": "Maryland",
     "Population": 620961,
     "Budget": "Very High",
     "Safety": "Medium",
-    "Average Rating": 3.38095238095238,
+    "Average Rating": 3.39130434782609,
     "Guide": "https://getyourguide.com/s/?q=Baltimore%2C+MD&partner_id=0TQGVTE",
     "Photos": [
       "https://cdn.roadgoat.com/uploads/photo/image/360/large_travel-guide-of-baltimore-md-usa-original.jpg"

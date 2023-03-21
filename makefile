@@ -13,3 +13,9 @@ format-back:
 format-front:
 	cd frontend && npx prettier --write .
 
+run-back:
+	cd backend && python run.py
+
+run-back-test:
+	cd backend && pytest tests/config.py
+

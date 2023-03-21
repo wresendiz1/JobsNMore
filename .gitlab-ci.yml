@@ -1,7 +1,15 @@
 image: python:latest
 
+services:
+  - postgres:latest
+
 variables:
   PIP_CACHE_DIR: "$CI_PROJECT_DIR/backend/.cache/pip"
+  POSTGRES_DB: bookdb
+  POSTGRES_USER: postgres
+  POSTGRES_PASSWORD: ""
+  POSTGRES_HOST_AUTH_METHOD: trust
+  DB_STRING: postgresql://$POSTGRES_USER@postgres:5432/$POSTGRES_DB
 
 before_script:
   - python --version
