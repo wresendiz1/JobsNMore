@@ -4,42 +4,40 @@ import os
 from concurrent.futures import ThreadPoolExecutor
 
 cities = [
-    "new york, ny",
-    "los-angeles",
-    "chicago",
-    "houston",
-    "phoenix",
-    "philadelphia",
-    "san-antonio",
-    "san-diego",
-    "dallas",
-    "san-jose",
-    "austin",
-    "jacksonville",
-    "fort-worth",
-    "columbus",
-    "indianapolis",
-    "charlotte",
-    "san-francisco",
-    "seattle",
-    "denver",
-    "oklahoma-city",
-    "nashville",
-    "el-paso",
-    "washington-dc",
-    "boston",
-    "las-vegas",
-    "portland",
-    "detroit",
-    "louisville",
-    "memphis",
-    "baltimore",
+    ("New York, NY", 1),
+    ("Los Angeles, CA", 2),
+    ("Chicago, IL", 3),
+    ("Houston, TX", 4),
+    ("Phoenix, AZ", 5),
+    ("Philadelphia, PA", 6),
+    ("San Antonio, TX", 7),
+    ("San Diego, CA", 8),
+    ("Dallas, TX", 9),
+    ("San Jose, CA", 10),
+    ("Austin, TX", 11),
+    ("Jacksonville, FL", 12),
+    ("Fort Worth, TX", 13),
+    ("Columbus, OH", 14),
+    ("Indianapolis, IN", 15),
+    ("Charlotte, NC", 16),
+    ("San Francisco, CA", 17),
+    ("Seattle, WA", 18),
+    ("Denver, CO", 19),
+    ("Oklahoma City, OK", 20),
+    ("Nashville, TN", 21),
+    ("El Paso, TX", 22),
+    ("Washington, DC", 23),
+    ("Boston, MA", 24),
+    ("Las Vegas, NV", 25),
+    ("Portland, OR", 26),
+    ("Detroit, MI", 27),
+    ("Louisville, KY", 28),
+    ("Memphis, TN", 29),
+    ("Baltimore, MD", 30),
 ]
 
-script_dir = os.path.dirname(__file__)
-file_occ = os.path.join(script_dir, "occupations.json")
 
-with open(file_occ) as f:
+with open("occupations.json") as f:
     occupations = json.load(f)
 
 
@@ -54,7 +52,7 @@ def get_jobs(cities):
     for city in cities:
         currentCity = []
         script_dir = os.path.dirname(__file__)
-        file_path = os.path.join(script_dir, "jobsByCity/" + city + "Jobs.json")
+        file_path = os.path.join(script_dir, "jobsByCity/" + city[0] + "Jobs.json")
 
         for occupation in occupations:
             onetCode = occupation["onetCode"]
@@ -62,7 +60,7 @@ def get_jobs(cities):
                 "https://api.careeronestop.org/v1/jobsearch/1cgBjWAkajxAu5r/"
                 + onetCode
                 + "/"
-                + city
+                + city[0]
                 + "/25/date/0/0/25/40"
             )
             with session.get(url) as response:
@@ -85,7 +83,8 @@ def get_job_details(info):
         "Company": jobPosting["Company"],
         "DatePosted": jobPosting["AccquisitionDate"],
         "Url": jobPosting["URL"],
-        "Location": city,
+        "Location": city[0],
+        "JCityID": city[1],
         "OnetCode": onetCode,
     }
     return posting

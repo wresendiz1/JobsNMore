@@ -3,36 +3,36 @@ from .models import Location, Job, Course, Tech_Skill, Basic_Skill, Occupation, 
 import os
 
 cities = [
-    "new york, ny",
-    "los-angeles",
-    "chicago",
-    "houston",
-    "phoenix",
-    "philadelphia",
-    "san-antonio",
-    "san-diego",
-    "dallas",
-    "san-jose",
-    "austin",
-    "jacksonville",
-    "fort-worth",
-    "columbus",
-    "indianapolis",
-    "charlotte",
-    "san-francisco",
-    "seattle",
-    "denver",
-    "oklahoma-city",
-    "nashville",
-    "el-paso",
-    "washington-dc",
-    "boston",
-    "las-vegas",
-    "portland",
-    "detroit",
-    "louisville",
-    "memphis",
-    "baltimore",
+    ("New York, NY", 1),
+    ("Los Angeles, CA", 2),
+    ("Chicago, IL", 3),
+    ("Houston, TX", 4),
+    ("Phoenix, AZ", 5),
+    ("Philadelphia, PA", 6),
+    ("San Antonio, TX", 7),
+    ("San Diego, CA", 8),
+    ("Dallas, TX", 9),
+    ("San Jose, CA", 10),
+    ("Austin, TX", 11),
+    ("Jacksonville, FL", 12),
+    ("Fort Worth, TX", 13),
+    ("Columbus, OH", 14),
+    ("Indianapolis, IN", 15),
+    ("Charlotte, NC", 16),
+    ("San Francisco, CA", 17),
+    ("Seattle, WA", 18),
+    ("Denver, CO", 19),
+    ("Oklahoma City, OK", 20),
+    ("Nashville, TN", 21),
+    ("El Paso, TX", 22),
+    ("Washington, DC", 23),
+    ("Boston, MA", 24),
+    ("Las Vegas, NV", 25),
+    ("Portland, OR", 26),
+    ("Detroit, MI", 27),
+    ("Louisville, KY", 28),
+    ("Memphis, TN", 29),
+    ("Baltimore, MD", 30),
 ]
 
 
@@ -48,6 +48,7 @@ def load_json(filename):
 def create_locations():
     locations = load_json("/data/locations.json")
     for location in locations:
+        CityID = location["CityID"]
         City = location["City"]
         State = location["State"]
         Population = location["Population"]
@@ -56,9 +57,10 @@ def create_locations():
         Average_rat = location["Average Rating"]
         Guide = location["Guide"]
         Photos = location["Photos"]
-        CityID = location["CityID"]
+        
 
         newLocation = Location(
+            CityID=CityID,
             City=City,
             State=State,
             Population=Population,
@@ -66,7 +68,6 @@ def create_locations():
             Safety=Safety,
             Average_rat=Average_rat,
             Guide=Guide,
-            CityID=CityID,
             Photos=Photos,
         )
         # After I create the book, I can then add it to my session.
@@ -76,15 +77,16 @@ def create_locations():
 
 
 def create_jobs():
-    uniqueJobs = []
+    # dict is faster than list
+    uniqueJobs = {}
 
     for city in cities:
-        curr_city = load_json("/data/jobsByCity/" + city + "Jobs.json")
+        curr_city = load_json("/data/jobsByCity/" + city[0] + "Jobs.json")
 
         for job in curr_city:
             if job["JvID"] not in uniqueJobs:
-                uniqueJobs.append(job["JvID"])
-
+                uniqueJobs[job["JvID"]] = job['JvID']
+                
                 Id = job["JvID"]
                 JobTitle = job["JobTitle"]
                 Company = job["Company"]
@@ -92,7 +94,7 @@ def create_jobs():
                 Url = job["Url"]
                 JobLocation = job["Location"]
                 OnetCode = job["OnetCode"]
-                JCityID = job["cityID"]
+                JCityID = job["JCityID"]
 
                 newJob = Job(
                     Id=Id,

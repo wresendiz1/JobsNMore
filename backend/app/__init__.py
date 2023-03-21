@@ -28,7 +28,7 @@ def create_app():
         "DB_STRING", "postgresql://postgres:Passkey123@localhost:5432/jobdb"
     )
     # to suppress a warning message
-    # app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = True
+    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = True
 
     db.init_app(app)
 
@@ -59,6 +59,13 @@ def create_app():
     @app.route("/about.json")
     def about_json():
         return send_file("data/about.json")
+    
+    @app.route("/test")
+    def get_locations():
+        # with app.app_context():
+        # return the location with id 1 from the db    
+        location = db.get_or_404(Location, 1)
+        return location
 
     # @app.route("/jobs")
     # def jobs():
