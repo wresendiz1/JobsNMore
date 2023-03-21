@@ -7,10 +7,10 @@ import os
 
 def create_app():
     app = Flask(__name__)
-
-    from . import data_dict
-    from . import gitlab
-
+    
+    from backend.app import data_dict
+    from backend.app import gitlab
+    
     @app.route("/")
     def index():
         return "Test"
