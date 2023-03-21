@@ -4,17 +4,18 @@ import os
 from .create_db import (
     db,
     Location,
+    Occupation,
     Job,
     Course,
     Tech_Skill,
     Dtech_Skill,
     Basic_Skill,
     Dbasic_Skill,
-    Occupation,
     create_locations,
     create_jobs,
     create_basic_skills,
     create_tech_skills,
+    create_dtech_skills,
     create_courses,
     create_occupations,
 )
@@ -40,10 +41,11 @@ def create_app():
         db.create_all()
     with app.app_context():
         create_locations()
+        create_occupations()
         create_jobs()
         create_tech_skills()
+        create_dtech_skills()
         create_basic_skills()
-        create_occupations()
         create_courses()
 
     from app.gitlab import get_commits, get_issues

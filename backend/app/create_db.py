@@ -129,6 +129,24 @@ def create_basic_skills():
         # commit the session to my DB.
         db.session.commit()
 
+def create_basic_skills():
+    dskills = load_json("/data/dbasic_skills.json")
+    for skill in dskills:
+        Id = skill["id"]
+        OnetCode = skill["onetcode"]
+        Score_value = skill["score_value"]
+        Importance = skill["importance"]
+
+        # TODO: Figure out how to add the individual scores to the database - maybe add it as part of the OnetCodes?
+
+        newSkill = Dbasic_Skill(
+            Id=Id, OnetCode=OnetCode, Score_value=Score_value, Importance=Importance
+        )
+        # After I create the book, I can then add it to my session.
+        db.session.add(newSkill)
+        # commit the session to my DB.
+        db.session.commit()
+
 
 def create_tech_skills():
     tskills = load_json("/data/tech_skills.json")
@@ -139,6 +157,23 @@ def create_tech_skills():
         # TODO: Figure out how to add the example information to the database
 
         newSkill = Tech_Skill(Id=Id, Name=Name, OnetCodes=OnetCodes)
+        # After I create the book, I can then add it to my session.
+        db.session.add(newSkill)
+        # commit the session to my DB.
+        db.session.commit()
+
+def create_dtech_skills():
+    tskills = load_json("/data/dtech_skills.json")
+    for skill in tskills:
+        Id = skill["id"]
+        OnetCode = skill["onetcode"]
+        Example = skill["name"]
+        Hot_technology = skill["hot_technology"]
+
+        # TODO: Figure out how to add the example information to the database
+
+        newSkill = Dtech_Skill(Id=Id, OnetCode=OnetCode,
+                              Example=Example, Hot_technology=Hot_technology)
         # After I create the book, I can then add it to my session.
         db.session.add(newSkill)
         # commit the session to my DB.
