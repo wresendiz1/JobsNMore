@@ -38,6 +38,15 @@ class Basic_Skill(db.Model):
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
 
+class Dbasic_Skill(db.Model):
+    __tablename__ = "dbasic_skills"
+    Id = db.Column(db.String(20), primary_key=True)
+    Name = db.Column(db.String(100), primary_key=True)
+    Description = db.Column(db.String(500), nullable=True)
+    OnetCodes = db.Column(db.ARRAY(db.String(30)))
+    Score_value = db.Column(db.INT)
+    Importance = db.Column(db.String(20), nullable=True)
+
 
 class Tech_Skill(db.Model):
     __tablename__ = "tech_skills"
@@ -46,6 +55,13 @@ class Tech_Skill(db.Model):
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
 
+class Dtech_Skill(db.Model):
+    __tablename__ = "dtech_skills"
+    Id = db.Column(db.String(20), primary_key=True)
+    Name = db.Column(db.String(100), primary_key=True)
+    OnetCodes = db.Column(db.ARRAY(db.String(30)))
+    Name = db.Column(db.String(100))
+    Hot_technology = db.Column(db.BOOLEAN)
 
 class Course(db.Model):
     __tablename__ = "courses"

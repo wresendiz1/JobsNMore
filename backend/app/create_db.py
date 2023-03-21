@@ -1,5 +1,5 @@
 import json
-from .models import Location, Job, Course, Tech_Skill, Basic_Skill, Occupation, db
+from .models import Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, db
 import os
 
 cities = [
