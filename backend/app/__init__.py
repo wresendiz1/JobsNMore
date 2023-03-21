@@ -9,7 +9,7 @@ def create_app():
     app = Flask(__name__)
     
     # from app.data_dict import data_dict
-    from app.gitlab import get_branches, get_commits, get_issues
+    from app.gitlab import get_commits, get_issues
     
     @app.route("/")
     def index():
