@@ -129,7 +129,7 @@ def create_basic_skills():
         # commit the session to my DB.
         db.session.commit()
 
-def create_basic_skills():
+def create_dbasic_skills():
     dskills = load_json("/data/dbasic_skills.json")
     for skill in dskills:
         Id = skill["id"]
@@ -247,3 +247,4 @@ def create_occupations():
         db.session.add(newOccupation)
         # commit the session to my DB.
         db.session.commit()
+

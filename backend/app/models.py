@@ -32,7 +32,8 @@ class Job(db.Model):
     JobLocation = db.Column(db.String(80), nullable=False)
     OnetCode = db.Column(db.String(20), db.ForeignKey("occupations.onetCode"), nullable=False)
     JCityID = db.Column(db.Integer, db.ForeignKey("locations.CityID"), nullable=False)
-
+    
+    basic = db.relationship('Basic_Skill', secondary=basic_jobs, backref="Job")
 
 class Basic_Skill(db.Model):
     __tablename__ = "basic_skills"
@@ -40,12 +41,14 @@ class Basic_Skill(db.Model):
     Name = db.Column(db.String(100), nullable=False)
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
-    tags = db.relationship('Job', secondary=basic_jobs, backref='posts')
+
+    jobs = db.relationship('Job', secondary=basic_jobs, backref="Basic_Skill")
+    dbasic = db.relationship("Dbasic_Skill", backref="Basic_Skill")
 
 
 class Dbasic_Skill(db.Model):
     __tablename__ = "dbasic_skills"
-    Id = db.Column(db.String(20), primary_key=True)
+    Id = db.Column(db.String(20), db.ForeignKey("basic_skills.Id"), primary_key=True)
     OnetCode = db.Column(db.ARRAY(db.String(30)), primary_key=True)
     Score_value = db.Column(db.INT)
     Importance = db.Column(db.String(20), nullable=True)
@@ -58,9 +61,11 @@ class Tech_Skill(db.Model):
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
 
+    dtech = db.relationship("Dtech_Skill", backref="Tech_Skill")
+
 class Dtech_Skill(db.Model):
     __tablename__ = "dtech_skills"
-    Id = db.Column(db.String(20), primary_key=True)
+    Id = db.Column(db.String(20), db.ForeignKey("tech_skills.Id"), primary_key=True)
     OnetCode = db.Column(db.ARRAY(db.String(30)), primary_key = True)
     Example = db.Column(db.String(100), primary_key=True)
     Hot_technology = db.Column(db.BOOLEAN)
@@ -93,3 +98,9 @@ class Occupation(db.Model):
     bls = db.Column(db.Text)
     job = db.relationship("Job", backref="Occupation")
     course = db.relationship("Course", backref="Occupation")
+
+class Industry(db.Model):
+    __tablename__ = "industries"
+
+    Code = db.Column(db.INT, primary_key = True)
+    Industry = db.Column(db.String(10))

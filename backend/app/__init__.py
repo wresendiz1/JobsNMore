@@ -14,6 +14,7 @@ from .create_db import (
     create_locations,
     create_jobs,
     create_basic_skills,
+    create_dbasic_skills,
     create_tech_skills,
     create_dtech_skills,
     create_courses,
@@ -46,6 +47,7 @@ def create_app():
         create_tech_skills()
         create_dtech_skills()
         create_basic_skills()
+        create_dbasic_skills()
         create_courses()
 
     from app.gitlab import get_commits, get_issues
