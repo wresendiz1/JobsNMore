@@ -94,3 +94,7 @@ class Occupation(db.Model):
     proj_openings = db.Column(db.Integer)
     percent_change = db.Column(db.Integer)
     bls = db.Column(db.Text)
+    
+    @classmethod
+    def get_occupations(cls, page=1, per_page=50):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()

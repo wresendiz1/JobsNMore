@@ -104,7 +104,40 @@ def create_app(config=None):
 
         return jsonify(job_list)
 
-    # TODO: Add tech skills, basic skills, occupations, & clusters
+    # TODO: Add tech skills, basic skills & clusters
+    
+    @app.route("/occupations", methods=["GET"])
+    def occupations():
+        page, per_page = get_query_page(request.args)
+        
+        occupatiions = Occupation.get_occupations(page, per_page)
+        
+        occupations_list = {
+            "Page": [
+                {
+                    "CurrentPage": page,
+                    "Count": per_page,
+                }
+            ],
+            "Occupations": [
+                {
+                    "OnetCode": occupation.onetCode,
+                    "cluster": occupation.cluster,
+                    "title": occupation.title,
+                    "description": occupation.description,
+                    "median_wage": occupation.median_wage,
+                    "pct90_wage": occupation.pct90_wage,
+                    "outlook": occupation.outlook,
+                    "outlook_category": occupation.outlook_category,
+                    "curr_employment": occupation.curr_employment,
+                    "proj_openings": occupation.proj_openings,
+                    "percent_change": occupation.percent_change,
+                    "bls": occupation.bls,
+                } for occupation in occupatiions
+            ]
+        }
+        return jsonify(occupations_list)
+                
 
     @app.route("/courses", methods=["GET"])
     def courses():
@@ -160,7 +193,7 @@ def create_app(config=None):
                     "Average_rat": location.Average_rat,
                     "Guide": location.Guide,
                     "Photos": location.Photos,
-                    # TODO: Wrong mapping
+                    # TODO: Figure out how I will display this data as it returns a list of job objects
                     # "Job": location.job,
                 }
                 for location in locations
