@@ -1,5 +1,5 @@
 import json
-from .models import Location, Job, Course, Skill, Occupation, db
+from .models import Location, Job, Course, Tech_Skill, Basic_Skill, Occupation, db
 import os
 
 cities = [
@@ -46,7 +46,7 @@ def load_json(filename):
 
 
 def create_locations():
-    locations = load_json('/data/locations.json')
+    locations = load_json("/data/locations.json")
     for location in locations:
         City = location["City"]
         State = location["State"]
@@ -55,10 +55,20 @@ def create_locations():
         Safety = location["Safety"]
         Average_rat = location["Average Rating"]
         Guide = location["Guide"]
+        Photos = location["Photos"]
         CityID = location["CityID"]
 
         newLocation = Location(
-            City=City, State=State, Population=Population, Budget=Budget, Safety=Safety, Average_rat=Average_rat, Guide=Guide, CityID=CityID)
+            City=City,
+            State=State,
+            Population=Population,
+            Budget=Budget,
+            Safety=Safety,
+            Average_rat=Average_rat,
+            Guide=Guide,
+            CityID=CityID,
+            Photos=Photos,
+        )
         # After I create the book, I can then add it to my session.
         db.session.add(newLocation)
         # commit the session to my DB.
@@ -72,7 +82,7 @@ def create_jobs():
         curr_city = load_json("/data/jobsByCity/" + city + "Jobs.json")
 
         for job in curr_city:
-            if (job["JvID"] not in uniqueJobs):
+            if job["JvID"] not in uniqueJobs:
                 uniqueJobs.append(job["JvID"])
 
                 Id = job["JvID"]
@@ -85,37 +95,46 @@ def create_jobs():
                 JCityID = job["cityID"]
 
                 newJob = Job(
-                    Id=Id, JobTitle=JobTitle, Company=Company, DatePosted=DatePosted, Url=Url, JobLocation=JobLocation, OnetCode=OnetCode, JCityID=JCityID)
+                    Id=Id,
+                    JobTitle=JobTitle,
+                    Company=Company,
+                    DatePosted=DatePosted,
+                    Url=Url,
+                    JobLocation=JobLocation,
+                    OnetCode=OnetCode,
+                    JCityID=JCityID,
+                )
                 # After I create the book, I can then add it to my session.
                 db.session.add(newJob)
                 # commit the session to my DB.
         db.session.commit()
 
 
-def create_skills():
-    skills = load_json('/data/basic_skills.json')
+def create_basic_skills():
+    skills = load_json("/data/basic_skills.json")
     for skill in skills:
         Id = skill["id"]
         Name = skill["name"]
         Description = skill["description"]
         OnetCodes = skill["onetcode"]
+        # TODO: Figure out how to add the individual scores to the database - maybe add it as part of the OnetCodes?
 
-        newSkill = Skill(
-            Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes)
+        newSkill = Basic_Skill(Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes)
         # After I create the book, I can then add it to my session.
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
 
-    tskills = load_json('/data/tech_skills.json')
+
+def create_tech_skills():
+    tskills = load_json("/data/tech_skills.json")
     for skill in tskills:
         Id = skill["id"]
         Name = skill["name"]
         OnetCodes = skill["onetcode"]
-        Description = ''
+        # TODO: Figure out how to add the example information to the database
 
-        newSkill = Skill(
-            Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes)
+        newSkill = Tech_Skill(Id=Id, Name=Name, OnetCodes=OnetCodes)
         # After I create the book, I can then add it to my session.
         db.session.add(newSkill)
         # commit the session to my DB.
@@ -123,11 +142,11 @@ def create_skills():
 
 
 def create_courses():
-    raw_courses = load_json('/data/courses.json')
+    raw_courses = load_json("/data/courses.json")
     uniqueNames = []
     courses = []
     for i in raw_courses:
-        if (i["Id"] not in uniqueNames):
+        if i["Id"] not in uniqueNames:
             uniqueNames.append(i["Id"])
             courses.append(i)
 
@@ -141,7 +160,14 @@ def create_courses():
         Description = course["Description"]
 
         newCourse = Course(
-            Id=Id, OnetCode=OnetCode, Provider=Provider, Name=Name, Url=Url, Type=Type, Description=Description)
+            Id=Id,
+            OnetCode=OnetCode,
+            Provider=Provider,
+            Name=Name,
+            Url=Url,
+            Type=Type,
+            Description=Description,
+        )
         # After I create the book, I can then add it to my session.
         db.session.add(newCourse)
         # commit the session to my DB.
@@ -149,7 +175,7 @@ def create_courses():
 
 
 def create_occupations():
-    occupations = load_json('/data/occupations.json')
+    occupations = load_json("/data/occupations.json")
     for occupation in occupations:
         onetCode = occupation["onetCode"]
         cluster = occupation["cluster"]
@@ -165,10 +191,19 @@ def create_occupations():
         bls = occupation["bls"]
 
         newOccupation = Occupation(
-            onetCode=onetCode, cluster=cluster, title=title, description=description,
-            median_wage=median_wage, pct90_wage=pct90_wage, outlook=outlook,
-            outlook_category=outlook_category, curr_employment=curr_employment,
-            proj_openings=proj_openings, percent_change=percent_change, bls=bls)
+            onetCode=onetCode,
+            cluster=cluster,
+            title=title,
+            description=description,
+            median_wage=median_wage,
+            pct90_wage=pct90_wage,
+            outlook=outlook,
+            outlook_category=outlook_category,
+            curr_employment=curr_employment,
+            proj_openings=proj_openings,
+            percent_change=percent_change,
+            bls=bls,
+        )
         # After I create the book, I can then add it to my session.
         db.session.add(newOccupation)
         # commit the session to my DB.
