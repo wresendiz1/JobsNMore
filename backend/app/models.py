@@ -4,7 +4,12 @@ db = SQLAlchemy()
 
 basic_jobs = db.Table('basic_jobs',
                 db.Column('Id_jobs', db.String(80), db.ForeignKey('jobs.Id')),
-                db.Column('Id_skills', db.String(20), db.ForeignKey('basic_skills.Id'))
+                db.Column('Id_basic', db.String(20), db.ForeignKey('basic_skills.Id'))
+            )
+
+tech_jobs = db.Table('tech_jobs',
+                db.Column('Id_jobs', db.String(80), db.ForeignKey('jobs.Id')),
+                db.Column('Id_tech', db.String(20), db.ForeignKey('tech_skills.Id'))
             )
 
 class Location(db.Model):
@@ -33,7 +38,8 @@ class Job(db.Model):
     OnetCode = db.Column(db.String(20), db.ForeignKey("occupations.onetCode"), nullable=False)
     JCityID = db.Column(db.Integer, db.ForeignKey("locations.CityID"), nullable=False)
     
-    basic = db.relationship('Basic_Skill', secondary=basic_jobs, backref="Job")
+    basic = db.relationship('Basic_Skill', secondary=basic_jobs, back_populates="jobs")
+    tech = db.relationship('Tech_Skill', secondary=tech_jobs, back_populates="jobs")
 
 class Basic_Skill(db.Model):
     __tablename__ = "basic_skills"
@@ -42,7 +48,7 @@ class Basic_Skill(db.Model):
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
 
-    jobs = db.relationship('Job', secondary=basic_jobs, backref="Basic_Skill")
+    jobs = db.relationship('Job', secondary=basic_jobs, back_populates="basic")
     dbasic = db.relationship("Dbasic_Skill", backref="Basic_Skill")
 
 
@@ -61,6 +67,7 @@ class Tech_Skill(db.Model):
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
 
+    jobs = db.relationship('Job', secondary=tech_jobs, back_populates="tech")
     dtech = db.relationship("Dtech_Skill", backref="Tech_Skill")
 
 class Dtech_Skill(db.Model):
