@@ -1,6 +1,7 @@
 from flask import Flask, request, send_file
-import json
+from flask_sqlalchemy import SQLAlchemy
 import os
+from .create_db import db, Location, Job, Course, Skill, Occupation, create_locations, create_jobs, create_skills, create_courses, create_occupations
 
 # Application factory, use run.py to create an instance of the app
 
@@ -8,6 +9,23 @@ import os
 def create_app():
     app = Flask(__name__)
     
+    # Make sure your log info matches up with this line. You can change this line for you local machine
+    app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get(
+        'DB_STRING', 'postgresql://postgres:postgre@localhost:5432/jobdb')
+    # to suppress a warning message
+    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
+
+    db.init_app(app)
+    with app.app_context():
+        db.drop_all()
+        db.create_all()
+    with app.app_context():
+        create_locations()
+        create_jobs()
+        create_skills()
+        create_occupations()
+        create_courses()
+
     # from app.data_dict import data_dict
     from app.gitlab import get_commits, get_issues
     

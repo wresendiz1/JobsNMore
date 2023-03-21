@@ -36,8 +36,10 @@ cities = [
     "baltimore",
 ]
 
+script_dir = os.path.dirname(__file__)
+file_occ = os.path.join(script_dir, "occupations.json")
 
-with open("occupations.json") as f:
+with open(file_occ) as f:
     occupations = json.load(f)
 
 
@@ -66,7 +68,7 @@ def get_jobs(cities):
             with session.get(url) as response:
                 jobs = response.json()["Jobs"]
                 jobPostings = list(
-                    map(get_job_details, ((job, onetCode) for job in jobs))
+                    map(get_job_details, ((job, onetCode, city) for job in jobs))
                 )
                 currentCity.extend(jobPostings)
 
@@ -76,14 +78,14 @@ def get_jobs(cities):
 
 
 def get_job_details(info):
-    jobPosting, onetCode = info
+    jobPosting, onetCode, city = info
     posting = {
         "JvID": jobPosting["JvId"],
         "JobTitle": jobPosting["JobTitle"],
         "Company": jobPosting["Company"],
         "DatePosted": jobPosting["AccquisitionDate"],
         "Url": jobPosting["URL"],
-        "Location": jobPosting["Location"],
+        "Location": city,
         "OnetCode": onetCode,
     }
     return posting
