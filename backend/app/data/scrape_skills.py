@@ -10,7 +10,7 @@ session.headers.update(
         "Authorization": "Basic dXRleGFzMToyODkzY3Z1",
     }
 )
-with open(os.path.join(os.path.dirname(__file__),"occupations.json")) as f:
+with open(os.path.join(os.path.dirname(__file__), "occupations.json")) as f:
     occupations = json.load(f)
 
 
@@ -57,28 +57,29 @@ def scrape_basic_skills():
                     skills[index]["onetcode"].append(onetCode)
                     skills[index]["score"].append({onetCode: skill["score"]})
     final = json.dumps(skills, indent=2)
-    with open(os.path.join(os.path.dirname(__file__),"basic_skills.json"), "w") as f:
+    with open(os.path.join(os.path.dirname(__file__), "basic_skills.json"), "w") as f:
         f.write(final)
-    
+
     dskills = []
     for skill in skills:
-        for example in skill['score']:
+        for example in skill["score"]:
             onetcode = list(example.keys())[0]
-            example[onetcode]['scale']
+            example[onetcode]["scale"]
             entry = {
-                'id' : skill['id'],
-                'skill_name' : skill['name'],
-                'description' : skill['description'],
-                'onetcode' : onetcode,
-                'score_value': example[onetcode]['value'],
-                'importance': example[onetcode]['scale']
-                }
+                "id": skill["id"],
+                "skill_name": skill["name"],
+                "description": skill["description"],
+                "onetcode": onetcode,
+                "score_value": example[onetcode]["value"],
+                "importance": example[onetcode]["scale"],
+            }
             dskills.append(entry)
-    
+
     final = json.dumps(dskills, indent=2)
 
     with open(os.path.join(os.path.dirname(__file__), "dbasic_skills.json"), "w") as f:
         f.write(final)
+
 
 def scrape_tech_skills():
     skills = []
@@ -120,29 +121,31 @@ def scrape_tech_skills():
 
     with open(os.path.join(os.path.dirname(__file__), "tech_skills.json"), "w") as f:
         f.write(final)
-    
+
     dskills = []
     for skill in skills:
-        for example in skill['example']:
+        for example in skill["example"]:
             onetcode = list(example.keys())[0]
             for software in example[str(onetcode)]:
                 entry = {
-                    'id' : skill['id'],
-                    'skill_name' : skill['name'],
-                    'onetcode' : onetcode,
-                    'name': software['name']
+                    "id": skill["id"],
+                    "skill_name": skill["name"],
+                    "onetcode": onetcode,
+                    "name": software["name"],
                 }
                 if len(software) == 2:
-                    entry['hot_technology'] = True
+                    entry["hot_technology"] = True
                 else:
-                    entry['hot_technology'] = False
+                    entry["hot_technology"] = False
 
                 dskills.append(entry)
-    
+
     final = json.dumps(dskills, indent=2)
 
     with open(os.path.join(os.path.dirname(__file__), "dtech_skills.json"), "w") as f:
         f.write(final)
+
+
 if __name__ == "__main__":
     scrape_basic_skills()
     scrape_tech_skills()

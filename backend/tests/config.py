@@ -11,6 +11,7 @@ from sqlalchemy.exc import IntegrityError
 """ use session to create the app once and then use it for all tests which is faster. Switch to
 function scope if you need to isolate errors between tests."""
 
+
 @pytest.fixture(scope="session")
 def app():
     app = create_app("intialize_db")
@@ -21,12 +22,16 @@ def app():
     )
     return app
 
+
 """ creates a new database session for each test. This is slower but ensures that each test is isolated from the others. """
+
+
 @pytest.fixture()
 def database(app):
-    with app.app_context():    
+    with app.app_context():
         yield db
         db.session.remove()
+
 
 @pytest.fixture()
 def client(app):
@@ -44,13 +49,15 @@ def test_request_example(client):
 
 
 def test_postgres_query(database):
-    city = database.session.execute(database.select(Location).filter_by(CityID=1)).scalar_one()
+    city = database.session.execute(
+        database.select(Location).filter_by(CityID=1)
+    ).scalar_one()
     assert city.City == "New York"
 
 
 def test_db_relations(database):
     # Raise an error as there is a foreign key constraint from course to occupation
-    # start a new session to test the error     
+    # start a new session to test the error
     with pytest.raises(IntegrityError):
         s = Course(
             Id="123",
@@ -66,8 +73,7 @@ def test_db_relations(database):
         database.session.commit()
 
     """ NOTE: we dont have to delete the course as it will be deleted when the session is closed 
-    as long as we dont commit"""        
-
+    as long as we dont commit"""
 
 
 def test_db_inserting(database):

@@ -1,5 +1,17 @@
 import json
-from app.models import  Industry, Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, basic_jobs, db
+from app.models import (
+    Industry,
+    Location,
+    Job,
+    Course,
+    Tech_Skill,
+    Dtech_Skill,
+    Basic_Skill,
+    Dbasic_Skill,
+    Occupation,
+    basic_jobs,
+    db,
+)
 import os
 from sqlalchemy import text
 
@@ -129,11 +141,14 @@ def create_basic_skills():
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
-    
-    #many to many relationship daata
-    sql = text('INSERT INTO basic_jobs (\"onetcode\", \"id_basic\") SELECT occupations.\"onetCode\", basic_skills.\"Id\" FROM occupations, basic_skills WHERE occupations.\"onetCode\" = ANY (basic_skills.\"OnetCodes\")')
+
+    # many to many relationship daata
+    sql = text(
+        'INSERT INTO basic_jobs ("onetcode", "id_basic") SELECT occupations."onetCode", basic_skills."Id" FROM occupations, basic_skills WHERE occupations."onetCode" = ANY (basic_skills."OnetCodes")'
+    )
     db.session.execute(sql)
     db.session.commit()
+
 
 def create_dbasic_skills():
     dskills = load_json("/data/dbasic_skills.json")
@@ -167,11 +182,14 @@ def create_tech_skills():
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
-    
-    #many to many relationship daata
-    sql = text('INSERT INTO tech_jobs (\"onetcode\", \"id_tech\") SELECT occupations.\"onetCode\", tech_skills.\"Id\" FROM occupations, tech_skills WHERE occupations.\"onetCode\" = ANY (tech_skills.\"OnetCodes\")')
+
+    # many to many relationship daata
+    sql = text(
+        'INSERT INTO tech_jobs ("onetcode", "id_tech") SELECT occupations."onetCode", tech_skills."Id" FROM occupations, tech_skills WHERE occupations."onetCode" = ANY (tech_skills."OnetCodes")'
+    )
     db.session.execute(sql)
     db.session.commit()
+
 
 def create_dtech_skills():
     tskills = load_json("/data/dtech_skills.json")
@@ -183,8 +201,9 @@ def create_dtech_skills():
 
         # TODO: Figure out how to add the example information to the database
 
-        newSkill = Dtech_Skill(Id=Id, OnetCode=OnetCode,
-                              Example=Example, Hot_technology=Hot_technology)
+        newSkill = Dtech_Skill(
+            Id=Id, OnetCode=OnetCode, Example=Example, Hot_technology=Hot_technology
+        )
         # After I create the book, I can then add it to my session.
         db.session.add(newSkill)
         # commit the session to my DB.
@@ -259,28 +278,27 @@ def create_occupations():
         # commit the session to my DB.
         db.session.commit()
 
+
 def create_industries():
-    files = ['BMA', 'Finance', 'HealthScience', 'IT', 'STEM']
+    files = ["BMA", "Finance", "HealthScience", "IT", "STEM"]
     for file in files:
-        
         cluster = load_json("/data/CareerClusters/" + file + "CareerCluster.json")
         occupations = load_json("/data/occupations.json")
         jobs = []
         for occupation in occupations:
-            if cluster['code'] == occupation['cluster']:
-                jobs.append(occupation['onetCode'])
+            if cluster["code"] == occupation["cluster"]:
+                jobs.append(occupation["onetCode"])
 
-        Code = cluster['code']
-        Group = cluster['title']
-        Median_wage = cluster['median_wage']
+        Code = cluster["code"]
+        Group = cluster["title"]
+        Median_wage = cluster["median_wage"]
         Job_codes = jobs
 
         newIndustry = Industry(
             Code=Code, Group=Group, Median_wage=Median_wage, Job_codes=Job_codes
         )
-        
+
         # After I create the book, I can then add it to my session.
         db.session.add(newIndustry)
         # commit the session to my DB.
         db.session.commit()
-    

@@ -20,7 +20,7 @@ from app.create_db import (
     create_dtech_skills,
     create_courses,
     create_occupations,
-    create_industries
+    create_industries,
 )
 
 # Application factory, use run.py to create an instance of the app
@@ -114,13 +114,13 @@ def create_app(config=None):
         return jsonify(job_list)
 
     # TODO: Add tech skills, basic skills & clusters
-    
+
     @app.route("/occupations", methods=["GET"])
     def occupations():
         page, per_page = get_query_page(request.args)
-        
+
         occupatiions = Occupation.get_occupations(page, per_page)
-        
+
         occupations_list = {
             "Page": [
                 {
@@ -142,11 +142,11 @@ def create_app(config=None):
                     "proj_openings": occupation.proj_openings,
                     "percent_change": occupation.percent_change,
                     "bls": occupation.bls,
-                } for occupation in occupatiions
-            ]
+                }
+                for occupation in occupatiions
+            ],
         }
         return jsonify(occupations_list)
-                
 
     @app.route("/courses", methods=["GET"])
     def courses():

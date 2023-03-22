@@ -2,15 +2,25 @@ from flask_sqlalchemy import SQLAlchemy
 
 db = SQLAlchemy()
 
-basic_jobs = db.Table('basic_jobs',
-                db.Column('onetcode', db.String(80), db.ForeignKey('occupations.onetCode'), primary_key=True),
-                db.Column('id_basic', db.String(20), db.ForeignKey('basic_skills.Id'), primary_key=True)
-            )
+basic_jobs = db.Table(
+    "basic_jobs",
+    db.Column(
+        "onetcode",
+        db.String(80),
+        db.ForeignKey("occupations.onetCode"),
+        primary_key=True,
+    ),
+    db.Column(
+        "id_basic", db.String(20), db.ForeignKey("basic_skills.Id"), primary_key=True
+    ),
+)
 
-tech_jobs = db.Table('tech_jobs',
-                db.Column('onetcode', db.String(80), db.ForeignKey('occupations.onetCode')),
-                db.Column('id_tech', db.String(20), db.ForeignKey('tech_skills.Id'))
-            )
+tech_jobs = db.Table(
+    "tech_jobs",
+    db.Column("onetcode", db.String(80), db.ForeignKey("occupations.onetCode")),
+    db.Column("id_tech", db.String(20), db.ForeignKey("tech_skills.Id")),
+)
+
 
 class Location(db.Model):
     __tablename__ = "locations"
@@ -25,10 +35,11 @@ class Location(db.Model):
     CityID = db.Column(db.Integer, primary_key=True, nullable=False)
     Photos = db.Column(db.ARRAY(db.String(200)), nullable=False)
     job = db.relationship("Job", backref="Location")
-    
+
     @classmethod
     def get_locations(cls, page=1, per_page=30):
         return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+
 
 class Job(db.Model):
     __tablename__ = "jobs"
@@ -38,9 +49,11 @@ class Job(db.Model):
     DatePosted = db.Column(db.String(80), nullable=False)
     Url = db.Column(db.String(200), nullable=False)
     JobLocation = db.Column(db.String(80), nullable=False)
-    OnetCode = db.Column(db.String(20), db.ForeignKey("occupations.onetCode"), nullable=False)
+    OnetCode = db.Column(
+        db.String(20), db.ForeignKey("occupations.onetCode"), nullable=False
+    )
     JCityID = db.Column(db.Integer, db.ForeignKey("locations.CityID"), nullable=False)
-    
+
     @classmethod
     def get_count(cls):
         return cls.query.count()
@@ -53,6 +66,7 @@ class Job(db.Model):
     def get_jobs(cls, page=1, per_page=50):
         return cls.query.limit(per_page).offset((page - 1) * per_page).all()
 
+
 class Basic_Skill(db.Model):
     __tablename__ = "basic_skills"
     Id = db.Column(db.String(20), primary_key=True)
@@ -60,8 +74,11 @@ class Basic_Skill(db.Model):
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
 
-    occupations = db.relationship('Occupation', secondary=basic_jobs, back_populates="basic")
+    occupations = db.relationship(
+        "Occupation", secondary=basic_jobs, back_populates="basic"
+    )
     dbasic = db.relationship("Dbasic_Skill", backref="Basic_Skill")
+
 
 class Dbasic_Skill(db.Model):
     __tablename__ = "dbasic_skills"
@@ -70,6 +87,7 @@ class Dbasic_Skill(db.Model):
     Score_value = db.Column(db.INT)
     Importance = db.Column(db.String(20), nullable=True)
 
+
 class Tech_Skill(db.Model):
     __tablename__ = "tech_skills"
     Id = db.Column(db.String(20), primary_key=True)
@@ -77,21 +95,27 @@ class Tech_Skill(db.Model):
     Description = db.Column(db.String(500), nullable=True)
     OnetCodes = db.Column(db.ARRAY(db.String(30)))
 
-    occupations = db.relationship('Occupation', secondary=tech_jobs, back_populates="tech")
+    occupations = db.relationship(
+        "Occupation", secondary=tech_jobs, back_populates="tech"
+    )
     dtech = db.relationship("Dtech_Skill", backref="Tech_Skill")
+
 
 class Dtech_Skill(db.Model):
     __tablename__ = "dtech_skills"
     Id = db.Column(db.String(20), db.ForeignKey("tech_skills.Id"), primary_key=True)
-    OnetCode = db.Column(db.String(30), primary_key = True)
+    OnetCode = db.Column(db.String(30), primary_key=True)
     Example = db.Column(db.String(100), primary_key=True)
     Hot_technology = db.Column(db.BOOLEAN)
+
 
 class Course(db.Model):
     __tablename__ = "courses"
 
     Id = db.Column(db.String(80), primary_key=True)
-    OnetCode = db.Column(db.String(20), db.ForeignKey("occupations.onetCode"), nullable=False)
+    OnetCode = db.Column(
+        db.String(20), db.ForeignKey("occupations.onetCode"), nullable=False
+    )
     Provider = db.Column(db.String(200), nullable=False)
     Name = db.Column(db.String(150), nullable=False)
     Url = db.Column(db.String(200))
@@ -106,7 +130,7 @@ class Course(db.Model):
 class Occupation(db.Model):
     __tablename__ = "occupations"
 
-    onetCode = db.Column(db.String(10), primary_key = True)
+    onetCode = db.Column(db.String(10), primary_key=True)
     cluster = db.Column(db.String(10), db.ForeignKey("industries.Code"), nullable=False)
     title = db.Column(db.String(200), nullable=False)
     description = db.Column(db.Text)
@@ -118,23 +142,27 @@ class Occupation(db.Model):
     proj_openings = db.Column(db.Integer)
     percent_change = db.Column(db.Integer)
     bls = db.Column(db.Text)
-    
+
     job = db.relationship("Job", backref="Occupation")
     course = db.relationship("Course", backref="Occupation")
-    basic = db.relationship('Basic_Skill', secondary=basic_jobs, back_populates="occupations")
-    tech = db.relationship('Tech_Skill', secondary=tech_jobs, back_populates="occupations")
+    basic = db.relationship(
+        "Basic_Skill", secondary=basic_jobs, back_populates="occupations"
+    )
+    tech = db.relationship(
+        "Tech_Skill", secondary=tech_jobs, back_populates="occupations"
+    )
 
     @classmethod
     def get_occupations(cls, page=1, per_page=50):
         return cls.query.limit(per_page).offset((page - 1) * per_page).all()
 
+
 class Industry(db.Model):
     __tablename__ = "industries"
-    
-    Code = db.Column(db.String(10), primary_key = True)
+
+    Code = db.Column(db.String(10), primary_key=True)
     Group = db.Column(db.String(500))
     Median_wage = db.Column(db.INT)
     Job_codes = db.Column(db.ARRAY(db.String(500)))
-    
-    occupations = db.relationship("Occupation", backref="Industry")
 
+    occupations = db.relationship("Occupation", backref="Industry")
