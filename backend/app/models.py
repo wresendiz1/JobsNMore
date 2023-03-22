@@ -130,7 +130,7 @@ class Occupation(db.Model):
 class Industry(db.Model):
     __tablename__ = "industries"
     
-    Code = db.Column(db.INT, primary_key = True)
-    Group = db.Column(db.String(10))
+    Code = db.Column(db.String(10), primary_key = True)
+    Group = db.Column(db.String(500))
     Median_wage = db.Column(db.INT)
-    Job_codes = db.Column(db.ARRAY(db.String(10)))
+    Job_codes = db.Column(db.ARRAY(db.String(500)))

@@ -255,7 +255,7 @@ def create_occupations():
         db.session.commit()
 
 def create_industries():
-    files = ['BMA', 'Finance', 'Health Science', 'IT', 'STEM']
+    files = ['BMA', 'Finance', 'HealthScience', 'IT', 'STEM']
     for file in files:
         
         cluster = load_json("/data/CareerClusters/" + file + "CareerCluster.json")
