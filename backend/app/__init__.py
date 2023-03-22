@@ -45,6 +45,7 @@ def create_app(config=None):
             db.drop_all()
             db.create_all()
             create_locations()
+            create_industries()
             create_occupations()
             create_jobs()
             create_tech_skills()
@@ -52,7 +53,6 @@ def create_app(config=None):
             create_basic_skills()
             create_dbasic_skills()
             create_courses()
-            create_industries()
 
     from app.gitlab import get_commits, get_issues
 

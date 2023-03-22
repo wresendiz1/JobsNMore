@@ -1,6 +1,7 @@
 import json
-from app.models import  Industry, Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, db
+from app.models import  Industry, Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, basic_jobs, db
 import os
+from sqlalchemy import text
 
 cities = [
     ("New York, NY", 1),
@@ -128,12 +129,11 @@ def create_basic_skills():
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
-
-    #all_jobs = Job().query.all()
-    #newSkill.jobs.extend(all_jobs)
-    #db.session.add(newSkill)
-        # commit the session to my DB.
-    #db.session.commit()
+    
+    #many to many relationship daata
+    sql = text('INSERT INTO basic_jobs (\"onetcode\", \"id_basic\") SELECT occupations.\"onetCode\", basic_skills.\"Id\" FROM occupations, basic_skills WHERE occupations.\"onetCode\" = ANY (basic_skills.\"OnetCodes\")')
+    db.session.execute(sql)
+    db.session.commit()
 
 def create_dbasic_skills():
     dskills = load_json("/data/dbasic_skills.json")
@@ -167,6 +167,11 @@ def create_tech_skills():
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
+    
+    #many to many relationship daata
+    sql = text('INSERT INTO tech_jobs (\"onetcode\", \"id_tech\") SELECT occupations.\"onetCode\", tech_skills.\"Id\" FROM occupations, tech_skills WHERE occupations.\"onetCode\" = ANY (tech_skills.\"OnetCodes\")')
+    db.session.execute(sql)
+    db.session.commit()
 
 def create_dtech_skills():
     tskills = load_json("/data/dtech_skills.json")
@@ -278,3 +283,4 @@ def create_industries():
         db.session.add(newIndustry)
         # commit the session to my DB.
         db.session.commit()
+    
