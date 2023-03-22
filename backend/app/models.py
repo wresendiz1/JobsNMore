@@ -127,6 +127,10 @@ class Occupation(db.Model):
     job = db.relationship("Job", backref="Occupation")
     course = db.relationship("Course", backref="Occupation")
 
+    @classmethod
+    def get_occupations(cls, page=1, per_page=50):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+
 class Industry(db.Model):
     __tablename__ = "industries"
     
@@ -134,3 +138,5 @@ class Industry(db.Model):
     Group = db.Column(db.String(500))
     Median_wage = db.Column(db.INT)
     Job_codes = db.Column(db.ARRAY(db.String(500)))
+    
+    
