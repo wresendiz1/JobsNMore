@@ -66,7 +66,7 @@ class Basic_Skill(db.Model):
 class Dbasic_Skill(db.Model):
     __tablename__ = "dbasic_skills"
     Id = db.Column(db.String(20), db.ForeignKey("basic_skills.Id"), primary_key=True)
-    OnetCode = db.Column(db.ARRAY(db.String(30)), primary_key=True)
+    OnetCode = db.Column(db.String(30), primary_key=True)
     Score_value = db.Column(db.INT)
     Importance = db.Column(db.String(20), nullable=True)
 
@@ -83,7 +83,7 @@ class Tech_Skill(db.Model):
 class Dtech_Skill(db.Model):
     __tablename__ = "dtech_skills"
     Id = db.Column(db.String(20), db.ForeignKey("tech_skills.Id"), primary_key=True)
-    OnetCode = db.Column(db.ARRAY(db.String(30)), primary_key = True)
+    OnetCode = db.Column(db.String(30), primary_key = True)
     Example = db.Column(db.String(100), primary_key=True)
     Hot_technology = db.Column(db.BOOLEAN)
 

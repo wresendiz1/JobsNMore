@@ -1,6 +1,6 @@
 from app import create_app
 
-app = create_app()
+app = create_app("intialize_db")
 
 if __name__ == "__main__":
     app.debug = True

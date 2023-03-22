@@ -3,12 +3,13 @@ import pytest
 import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-from app import create_app, db
+from app import create_app, db 
+from app.models import Location, Job, Occupation, Industry, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill
+from sqlalchemy.exc import IntegrityError
 # fmt: on
 
 """ use session to create the app once and then use it for all tests which is faster. Switch to
 function scope if you need to isolate errors between tests."""
-
 
 @pytest.fixture(scope="session")
 def app():
@@ -18,13 +19,14 @@ def app():
             "TESTING": True,
         }
     )
-    with app.app_context():
-        yield app
-        # teardown
-        # ensures any changes not commited will be removed
-        db.session.remove()
-        # db.drop_all()
+    return app
 
+""" creates a new database session for each test. This is slower but ensures that each test is isolated from the others. """
+@pytest.fixture()
+def database(app):
+    with app.app_context():    
+        yield db
+        db.session.remove()
 
 @pytest.fixture()
 def client(app):
@@ -41,30 +43,46 @@ def test_request_example(client):
     assert response.status_code == 200
 
 
-def test_postgres_query():
-    from app.models import Location
-
-    city = db.session.execute(db.select(Location).filter_by(CityID=1)).scalar_one()
+def test_postgres_query(database):
+    city = database.session.execute(database.select(Location).filter_by(CityID=1)).scalar_one()
     assert city.City == "New York"
 
 
-def test_my_feature():
-    from app.models import Course
+def test_db_relations(database):
+    # Raise an error as there is a foreign key constraint from course to occupation
+    # start a new session to test the error     
+    with pytest.raises(IntegrityError):
+        s = Course(
+            Id="123",
+            OnetCode="123",
+            Provider="123",
+            Name="123",
+            Url="123",
+            Type="123",
+            Description="123",
+        )
 
-    s = Course(
-        Id="123",
-        OnetCode="123",
+        database.session.add(s)
+        database.session.commit()
+
+    """ NOTE: we dont have to delete the course as it will be deleted when the session is closed 
+    as long as we dont commit"""        
+
+
+
+def test_db_inserting(database):
+    # from app.models import Course
+
+    case = Course(
+        Id="1123",
+        # Must give a valid occupation
+        OnetCode="15-1252.00",
         Provider="123",
         Name="123",
         Url="123",
         Type="123",
         Description="123",
     )
-    db.session.add(s)
-    # db.session.commit()
-    r = db.session.query(Course).filter_by(Id="123").one()
-
-    assert r.Id == "123"
-
-    # r = db.session.query(Course).filter_by(Id = '123').delete()
-    # db.session.commit()
+    database.session.add(case)
+    r = database.session.query(Course).filter_by(Id="1123").one()
+    assert r.Id == "1123"

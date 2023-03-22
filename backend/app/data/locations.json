@@ -129,7 +129,7 @@
     "Safety": "High",
     "Average Rating": 3.4375,
     "Guide": "https://getyourguide.com/s/?q=San+Jose%2C+CA&partner_id=0TQGVTE",
-    "Photos": "https://cdn.roadgoat.com/uploads/photo/image/1893/large_9551931765_5d28e6a037_o.jpg"
+    "Photos": ["https://cdn.roadgoat.com/uploads/photo/image/1893/large_9551931765_5d28e6a037_o.jpg"]
   },
   {
     "CityID": 11,
@@ -153,7 +153,7 @@
     "Safety": "High",
     "Average Rating": 3.66666666666667,
     "Guide": "https://getyourguide.com/s/?q=Jacksonville%2C+FL&partner_id=0TQGVTE",
-    "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2391/large_boca-raton-696864_1920.jpg"
+    "Photos": ["https://cdn.roadgoat.com/uploads/photo/image/2391/large_boca-raton-696864_1920.jpg"]
   },
   {
     "CityID": 13,
@@ -164,7 +164,7 @@
     "Safety": "High",
     "Average Rating": 3.90909090909091,
     "Guide": "https://getyourguide.com/s/?q=Fort+Worth%2C+TX&partner_id=0TQGVTE",
-    "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2375/large_17063255180_ebeddbd73d_o.jpg"
+    "Photos": ["https://cdn.roadgoat.com/uploads/photo/image/2375/large_17063255180_ebeddbd73d_o.jpg"]
   },
   {
     "CityID": 14,
@@ -175,7 +175,7 @@
     "Safety": "Medium",
     "Average Rating": 4.0,
     "Guide": "https://getyourguide.com/s/?q=Columbus%2C+OH&partner_id=0TQGVTE",
-    "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2378/large_mitchell-griest-wA5KgVA8Z3o-unsplash.jpg"
+    "Photos": ["https://cdn.roadgoat.com/uploads/photo/image/2378/large_mitchell-griest-wA5KgVA8Z3o-unsplash.jpg"]
   },
   {
     "CityID": 15,
@@ -186,7 +186,7 @@
     "Safety": "High",
     "Average Rating": 3.0,
     "Guide": "https://getyourguide.com/s/?q=Indianapolis%2C+IN&partner_id=0TQGVTE",
-    "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2385/large_48802423698_a199d52812_o.jpg"
+    "Photos": ["https://cdn.roadgoat.com/uploads/photo/image/2385/large_48802423698_a199d52812_o.jpg"]
   },
   {
     "CityID": 16,
@@ -249,7 +249,7 @@
     "Safety": "High",
     "Average Rating": 3.33333333333333,
     "Guide": "https://getyourguide.com/s/?q=Oklahoma+City%2C+OK&partner_id=0TQGVTE",
-    "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2057/large_tulsa.jpeg"
+    "Photos": ["https://cdn.roadgoat.com/uploads/photo/image/2057/large_tulsa.jpeg"]
   },
   {
     "CityID": 21,
@@ -351,7 +351,7 @@
     "Safety": "High",
     "Average Rating": 4.0,
     "Guide": "https://getyourguide.com/s/?q=Louisville%2C+KY&partner_id=0TQGVTE",
-    "Photos": "https://cdn.roadgoat.com/uploads/photo/image/2384/large_27011748768_30aa34c2e0_o.jpg"
+    "Photos": ["https://cdn.roadgoat.com/uploads/photo/image/2384/large_27011748768_30aa34c2e0_o.jpg"]
   },
   {
     "CityID": 29,

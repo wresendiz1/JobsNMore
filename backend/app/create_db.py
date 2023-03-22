@@ -268,7 +268,7 @@ def create_industries():
         jobs = []
         for occupation in occupations:
             if cluster['code'] == occupation['cluster']:
-                jobs.append(occupation['title'])
+                jobs.append(occupation['onetCode'])
 
         Code = cluster['code']
         Group = cluster['title']
