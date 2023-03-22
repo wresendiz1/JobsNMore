@@ -3,8 +3,8 @@ from flask_sqlalchemy import SQLAlchemy
 db = SQLAlchemy()
 
 basic_jobs = db.Table('basic_jobs',
-                db.Column('Id_jobs', db.String(80), db.ForeignKey('jobs.Id')),
-                db.Column('Id_basic', db.String(20), db.ForeignKey('basic_skills.Id'))
+                db.Column('Id_jobs', db.String(80), db.ForeignKey('jobs.Id'), primary_key=True),
+                db.Column('Id_basic', db.String(20), db.ForeignKey('basic_skills.Id'), primary_key=True)
             )
 
 tech_jobs = db.Table('tech_jobs',
@@ -129,6 +129,8 @@ class Occupation(db.Model):
 
 class Industry(db.Model):
     __tablename__ = "industries"
-
+    
     Code = db.Column(db.INT, primary_key = True)
-    Industry = db.Column(db.String(10))
+    Group = db.Column(db.String(10))
+    Median_wage = db.Column(db.INT)
+    Job_codes = db.Column(db.ARRAY(db.String(10)))

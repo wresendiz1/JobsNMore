@@ -1,5 +1,5 @@
 import json
-from app.models import Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, db
+from app.models import  Industry, Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, db
 import os
 
 cities = [
@@ -113,6 +113,7 @@ def create_jobs():
 
 def create_basic_skills():
     skills = load_json("/data/basic_skills.json")
+    all_skills = []
     for skill in skills:
         Id = skill["id"]
         Name = skill["name"]
@@ -127,6 +128,12 @@ def create_basic_skills():
         db.session.add(newSkill)
         # commit the session to my DB.
         db.session.commit()
+
+    #all_jobs = Job().query.all()
+    #newSkill.jobs.extend(all_jobs)
+    #db.session.add(newSkill)
+        # commit the session to my DB.
+    #db.session.commit()
 
 def create_dbasic_skills():
     dskills = load_json("/data/dbasic_skills.json")
@@ -247,3 +254,27 @@ def create_occupations():
         # commit the session to my DB.
         db.session.commit()
 
+def create_industries():
+    files = ['BMA', 'Finance', 'Health Science', 'IT', 'STEM']
+    for file in files:
+        
+        cluster = load_json("/data/CareerClusters/" + file + "CareerCluster.json")
+        occupations = load_json("/data/occupations.json")
+        jobs = []
+        for occupation in occupations:
+            if cluster['code'] == occupation['cluster']:
+                jobs.append(occupation['title'])
+
+        Code = cluster['code']
+        Group = cluster['title']
+        Median_wage = cluster['median_wage']
+        Job_codes = jobs
+
+        newIndustry = Industry(
+            Code=Code, Group=Group, Median_wage=Median_wage, Job_codes=Job_codes
+        )
+        
+        # After I create the book, I can then add it to my session.
+        db.session.add(newIndustry)
+        # commit the session to my DB.
+        db.session.commit()

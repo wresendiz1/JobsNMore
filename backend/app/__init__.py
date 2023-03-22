@@ -11,6 +11,7 @@ from app.create_db import (
     Dtech_Skill,
     Basic_Skill,
     Dbasic_Skill,
+    Industry,
     create_locations,
     create_jobs,
     create_basic_skills,
@@ -19,6 +20,7 @@ from app.create_db import (
     create_dtech_skills,
     create_courses,
     create_occupations,
+    create_industries
 )
 
 # Application factory, use run.py to create an instance of the app
@@ -39,26 +41,18 @@ def create_app(config=None):
 
     with app.app_context():
         # add the string in run.py to initialize/reset the database
-        if config == "intialize_db":
+        #if config == "intialize_db":
             db.drop_all()
             db.create_all()
             create_locations()
+            create_occupations()
             create_jobs()
             create_tech_skills()
+            create_dtech_skills()
             create_basic_skills()
-            create_occupations()
+            create_dbasic_skills()
             create_courses()
-        db.drop_all()
-        db.create_all()
-    with app.app_context():
-        create_locations()
-        create_occupations()
-        create_jobs()
-        create_tech_skills()
-        create_dtech_skills()
-        create_basic_skills()
-        create_dbasic_skills()
-        create_courses()
+            create_industries()
 
     from app.gitlab import get_commits, get_issues
 
