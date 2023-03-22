@@ -1,5 +1,5 @@
 import json
-from .models import Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, db
+from app.models import Location, Job, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill, Occupation, db
 import os
 
 cities = [
@@ -57,7 +57,6 @@ def create_locations():
         Average_rat = location["Average Rating"]
         Guide = location["Guide"]
         Photos = location["Photos"]
-        
 
         newLocation = Location(
             CityID=CityID,
@@ -85,8 +84,8 @@ def create_jobs():
 
         for job in curr_city:
             if job["JvID"] not in uniqueJobs:
-                uniqueJobs[job["JvID"]] = job['JvID']
-                
+                uniqueJobs[job["JvID"]] = job["JvID"]
+
                 Id = job["JvID"]
                 JobTitle = job["JobTitle"]
                 Company = job["Company"]

@@ -25,10 +25,14 @@ class Location(db.Model):
     CityID = db.Column(db.Integer, primary_key=True, nullable=False)
     Photos = db.Column(db.ARRAY(db.String(200)), nullable=False)
     job = db.relationship("Job", backref="Location")
+    
+    @classmethod
+    def get_locations(cls, page=1, per_page=30):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+
 
 class Job(db.Model):
     __tablename__ = "jobs"
-
     Id = db.Column(db.String(80), primary_key=True)
     JobTitle = db.Column(db.String(200), nullable=False)
     Company = db.Column(db.String(80), nullable=False)
@@ -40,6 +44,18 @@ class Job(db.Model):
     
     basic = db.relationship('Basic_Skill', secondary=basic_jobs, back_populates="jobs")
     tech = db.relationship('Tech_Skill', secondary=tech_jobs, back_populates="jobs")
+    @classmethod
+    def get_count(cls):
+        return cls.query.count()
+
+    # Not sure why this doesn't work
+    # @classmethod
+    # def get_jobs(cls, page=1, per_page=50):
+    #     return cls.query.paginate(page, per_page, False)
+    @classmethod
+    def get_jobs(cls, page=1, per_page=50):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+
 
 class Basic_Skill(db.Model):
     __tablename__ = "basic_skills"
@@ -87,6 +103,11 @@ class Course(db.Model):
     Url = db.Column(db.String(200))
     Type = db.Column(db.String(80), nullable=False)
     Description = db.Column(db.Text)
+
+    @classmethod
+    def get_courses(cls, page=1, per_page=50):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+
 
 class Occupation(db.Model):
     __tablename__ = "occupations"
