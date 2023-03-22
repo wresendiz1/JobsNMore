@@ -40,7 +40,7 @@ states_id = [
 
 final_json = []
 
-for city in states_id:
+for number, city in enumerate(states_id):
     id_req = requests.get(
         "https://api.roadgoat.com/api/v2/destinations/auto_complete?q=" + city + "-usa",
         auth=(access_key, secret_key),
@@ -81,6 +81,7 @@ for city in states_id:
     print(population, state, budget, safety, rating, guide, photos)
 
     entry = {
+        "CityID": number + 1,
         "City": city_short,
         "State": state,
         "Population": population,

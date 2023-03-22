@@ -1,7 +1,7 @@
-from flask import Flask, request, send_file
+from flask import Flask, jsonify, request, send_file
 from flask_sqlalchemy import SQLAlchemy
 import os
-from .create_db import (
+from app.create_db import (
     db,
     Location,
     Job,
@@ -20,7 +20,7 @@ from .create_db import (
 # Application factory, use run.py to create an instance of the app
 
 
-def create_app():
+def create_app(config=None):
     app = Flask(__name__)
 
     # Make sure your log info matches up with this line. You can change this line for you local machine
@@ -28,21 +28,22 @@ def create_app():
         "DB_STRING", "postgresql://postgres:Passkey123@localhost:5432/jobdb"
     )
     # to suppress a warning message
-    # app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = True
+    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+    app.config["JSON_SORT_KEYS"] = False
 
     db.init_app(app)
 
-    # TODO: Implement an if statement to check to see if database exists
     with app.app_context():
-        db.drop_all()
-        db.create_all()
-    with app.app_context():
-        create_locations()
-        create_jobs()
-        create_tech_skills()
-        create_basic_skills()
-        create_occupations()
-        create_courses()
+        # add the string in run.py to initialize/reset the database
+        if config == "intialize_db":
+            db.drop_all()
+            db.create_all()
+            create_locations()
+            create_jobs()
+            create_tech_skills()
+            create_basic_skills()
+            create_occupations()
+            create_courses()
 
     from app.gitlab import get_commits, get_issues
 
@@ -60,41 +61,146 @@ def create_app():
     def about_json():
         return send_file("data/about.json")
 
-    # @app.route("/jobs")
-    # def jobs():
-    #     # with open("app/jobs.json", "r") as file:
-    #     #     data = json.load(file)
-    #     #     jobs = data["Jobs"]
-    #     #     return jobs
-    #     job = data_dict.jobs
-    #     return job
+    @app.route("/test")
+    def get_locations():
+        location = db.get_or_404(Location, 1)
+        return location.City
 
-    # @app.route("/jobs/<job_id>")
-    # def view_job(job_id):
-    #     job = data_dict.jobs[job_id]
-    #     return job
+    def get_query_page(args):
+        page = args.get("page", 1, type=int)
+        per_page = args.get("per_page", 50, type=int)
+        return page, per_page
 
-    # @app.route("/skills")
-    # def skills():
-    #     return [data_dict.skills, data_dict.courses]
+    # @app.route("/jobs", methods=["GET"], defaults={"page": 1, "per_page": 50})
+    # @app.route("/jobs/<int:page>/<int:per_page>", methods=["GET"])
+    @app.route("/jobs", methods=["GET"])
+    def jobs():
+        # Query parameters
+        # Example: http://localhost:5000/jobs?page=20&per_page=100
+        page, per_page = get_query_page(request.args)
 
-    # @app.route("/skills/<skill_id>")
-    # def view_skill(skill_id):
-    #     skill = data_dict.skills[skill_id]
-    #     return [skill, data_dict.courses]
+        jobs = Job.get_jobs(page, per_page)
+        job_list = {
+            "Page": [
+                {
+                    "CurrentPage": page,
+                    "Count": per_page,
+                }
+            ],
+            "Jobs": [
+                {
+                    "Id": job.Id,
+                    "JobTitle": job.JobTitle,
+                    "Company": job.Company,
+                    "DatePosted": job.DatePosted,
+                    "Url": job.Url,
+                    "Location": job.JobLocation,
+                    "OnetCode": job.OnetCode,
+                    "JCityID": job.JCityID,
+                }
+                for job in jobs
+            ],
+        }
 
-    # @app.route("/courses")
-    # def courses():
-    #     return data_dict.courses
+        return jsonify(job_list)
+
+    # TODO: Add tech skills, basic skills & clusters
+    
+    @app.route("/occupations", methods=["GET"])
+    def occupations():
+        page, per_page = get_query_page(request.args)
+        
+        occupatiions = Occupation.get_occupations(page, per_page)
+        
+        occupations_list = {
+            "Page": [
+                {
+                    "CurrentPage": page,
+                    "Count": per_page,
+                }
+            ],
+            "Occupations": [
+                {
+                    "OnetCode": occupation.onetCode,
+                    "cluster": occupation.cluster,
+                    "title": occupation.title,
+                    "description": occupation.description,
+                    "median_wage": occupation.median_wage,
+                    "pct90_wage": occupation.pct90_wage,
+                    "outlook": occupation.outlook,
+                    "outlook_category": occupation.outlook_category,
+                    "curr_employment": occupation.curr_employment,
+                    "proj_openings": occupation.proj_openings,
+                    "percent_change": occupation.percent_change,
+                    "bls": occupation.bls,
+                } for occupation in occupatiions
+            ]
+        }
+        return jsonify(occupations_list)
+                
+
+    @app.route("/courses", methods=["GET"])
+    def courses():
+        page, per_page = get_query_page(request.args)
+
+        courses = Course.get_courses(page, per_page)
+        course_list = {
+            "Page": [
+                {
+                    "CurrentPage": page,
+                    "Count": per_page,
+                }
+            ],
+            "Courses": [
+                {
+                    "Id": course.Id,
+                    "OnetCode": course.OnetCode,
+                    "Provider": course.Provider,
+                    "Name": course.Name,
+                    "Type": course.Type,
+                    "Description": course.Description,
+                }
+                for course in courses
+            ],
+        }
+
+        return jsonify(course_list)
 
     # @app.route("/courses/<course_id>")
     # def view_course(course_id):
     #     course = data_dict.courses[course_id]
     #     return course
 
-    # @app.route("/locations")
-    # def locations():
-    #     return data_dict.locations
+    @app.route("/locations", methods=["GET"])
+    def locations():
+        page, per_page = get_query_page(request.args)
+        locations = Location.get_locations(page, per_page)
+        locations_list = {
+            "Page": [
+                {
+                    "CurrentPage": page,
+                    "Count": per_page,
+                }
+            ],
+            "Locations": [
+                {
+                    "CityID": location.CityID,
+                    "City": location.City,
+                    "State": location.State,
+                    "Population": location.Population,
+                    "Budget": location.Budget,
+                    "Safety": location.Safety,
+                    "Average_rat": location.Average_rat,
+                    "Guide": location.Guide,
+                    "Photos": location.Photos,
+                    # TODO: Figure out how I will display this data as it returns a list of job objects
+                    # "Job": location.job,
+                }
+                for location in locations
+            ],
+        }
+
+        return jsonify(locations_list)
 
     # @app.route("/locations/<location_id>")
     # def view_location(location_id):
