@@ -6,6 +6,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from app import create_app, db 
 from app.models import Location, Job, Occupation, Industry, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill
 from sqlalchemy.exc import IntegrityError
+
 # fmt: on
 
 """ use session to create the app once and then use it for all tests which is faster. Switch to

@@ -44,7 +44,7 @@ const sizes = [
 const pages = [
   { About: "Learn more about our team and development." },
   { Jobs: "Find a job that fits your needs." },
-  { Skills: "Find in-demand skills." },
+  { Occupations: "Search by standardized job occupations." },
   { Courses: "Learn new skills and improve your current ones." },
   {
     Locations:

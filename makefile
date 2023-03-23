@@ -4,6 +4,9 @@ idb1.log:
 idb2:
 	git log > IDB2.log
 
+install-back:
+	cd backend && pip install -r requirements.txt
+
 requirements:
 	cd backend && pip-chill --no-version > requirements.txt
 
@@ -18,4 +21,6 @@ run-back:
 
 run-back-test:
 	cd backend && pytest tests/config.py
-
+	
+run-front:
+	cd frontend && npm run start

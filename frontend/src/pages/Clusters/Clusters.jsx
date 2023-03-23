@@ -3,45 +3,40 @@ import Container from "react-bootstrap/esm/Container";
 import Table from "react-bootstrap/Table";
 import MainLayout from "../../components/Layout/MainLayout";
 
-function Courses() {
-  const [page, setPage] = useState();
-  const [courses, setCourses] = useState();
+function Clusters() {
+  const [clusters, setClusters] = useState();
   useEffect(() => {
-    fetch("/courses")
+    fetch("/clusters")
       .then((res) => res.json())
       .then((data) => {
-        setCourses(data["Courses"]);
-        setPage(data["Page"]);
+        setClusters(data["Clusters"]);
       })
       .catch((err) => console.log(err));
   }, []);
   return (
     <MainLayout>
-      <h1 className="text-center py-5">Courses</h1>
+      <h1 className="text-center py-5">Career Clusters</h1>
       <Container className="align-items-center min-vh-100">
         <Table className="table table-bordered table-striped">
           <thead>
             <tr>
-              <th>Onet Code</th>
-              <th>Provider</th>
-              <th>Name</th>
-              <th>Type</th>
-              <th>Description</th>
-              <th>View</th>
+              <th>Cluster Code</th>
+              <th>Cluster Title</th>
+              <th>Median Wage</th>
+              <th>Information</th>
             </tr>
           </thead>
           <tbody>
-            {courses &&
-              courses.map((course) => (
-                <tr key={course["OnetCode"]}>
-                  <td>{course["OnetCode"]}</td>
-                  <td>{course["Provider"]}</td>
-                  <td>{course["Name"]}</td>
-                  <td>{course["Type"]}</td>
-                  <td>{course["Description"]}</td>
+            {clusters &&
+              clusters.map((cluster) => (
+                <tr key={cluster["code"]}>
+                  <td>{cluster["code"]}</td>
+                  <td>{cluster["title"]}</td>
+                  <td>{cluster["median_wage"]}</td>
+
                   <td>
                     <a
-                      href={course["Url"]}
+                      href={cluster["link"]}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -57,4 +52,4 @@ function Courses() {
   );
 }
 
-export default Courses;
+export default Clusters;

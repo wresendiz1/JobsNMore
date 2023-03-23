@@ -4,11 +4,18 @@ import Table from "react-bootstrap/Table";
 import MainLayout from "../../components/Layout/MainLayout";
 
 function Jobs() {
+  const [page, setPage] = useState();
   const [jobs, setJobs] = useState();
   useEffect(() => {
     fetch("/jobs")
       .then((res) => res.json())
-      .then((jobs) => setJobs(jobs))
+      .then((data) => {
+        setJobs(data["Jobs"]);
+        setPage(data["Page"]);
+        // data['Jobs'].map((job) => {
+        //   console.log(job["Id"])
+        //   });
+      })
       .catch((err) => console.log(err));
   }, []);
 
@@ -20,45 +27,41 @@ function Jobs() {
           <thead>
             <tr>
               <th>Title</th>
-              {jobs &&
-                Object.keys(jobs.JobID1).map((key) => {
-                  if (key !== "Image" && key !== "Title") {
-                    return <th key={key}>{key}</th>;
-                  }
-                })}
-              <th>More</th>
+              <th>Company</th>
+              <th>Date Posted</th>
+              <th>Location</th>
+              <th>Onet Code</th>
+              <th>Link</th>
             </tr>
           </thead>
           <tbody>
             {jobs &&
-              Object.keys(jobs).map((jobID) => (
-                <tr key={jobID}>
-                  <td>{jobs[jobID].Title}</td>
-                  <td>{jobs[jobID].Company}</td>
-                  <td>{jobs[jobID].Date}</td>
+              jobs.map((job) => (
+                <tr key={job["Id"]}>
+                  <td>{job["JobTitle"]}</td>
+                  <td>{job["Company"]}</td>
+                  <td>{job["DatePosted"]}</td>
+                  <td>{job["Location"]}</td>
+                  <td>{job["OnetCode"]}</td>
                   <td>
                     <a
-                      href={jobs[jobID].Link}
+                      href={job["Url"]}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Link
+                      View
                     </a>
                   </td>
-                  <td>
-                    {jobs[jobID].Locations.map((location) => (
-                      <span key={location}>{location} </span>
-                    ))}
-                  </td>
-                  <td>
-                    {jobs[jobID].Skills.map((skill) => (
-                      <span key={skill}>{skill}, </span>
-                    ))}
-                  </td>
-                  <td />
                 </tr>
               ))}
           </tbody>
+
+          {/* <td>
+                    {jobs[Id].Skills.map((skill) => (
+                      <span key={skill}>{skill}, </span>
+                    ))}
+                  </td>
+                  <td /> */}
         </Table>
       </Container>
     </MainLayout>

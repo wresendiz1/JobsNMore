@@ -10,6 +10,8 @@ const Jobs = lazy(() => import("./pages/Jobs/Jobs"));
 const Courses = lazy(() => import("./pages/Courses/Courses"));
 const Skills = lazy(() => import("./pages/Skills/Skills"));
 const Locations = lazy(() => import("./pages/Locations/Locations"));
+const Occupations = lazy(() => import("./pages/Occupations/Occupations"));
+const Clusters = lazy(() => import("./pages/Clusters/Clusters"));
 
 const router = createBrowserRouter([
   {
@@ -37,6 +39,14 @@ const router = createBrowserRouter([
     ),
   },
   {
+    path: "/Occupations",
+    element: (
+      <Suspense fallback={<Load />}>
+        <Occupations />
+      </Suspense>
+    ),
+  },
+  {
     path: "/Skills",
     element: (
       <Suspense fallback={<Load />}>
@@ -57,6 +67,14 @@ const router = createBrowserRouter([
     element: (
       <Suspense fallback={<Load />}>
         <Locations />
+      </Suspense>
+    ),
+  },
+  {
+    path: "/Clusters",
+    element: (
+      <Suspense fallback={<Load />}>
+        <Clusters />
       </Suspense>
     ),
   },
