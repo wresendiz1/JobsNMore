@@ -33,7 +33,7 @@ def create_app(config=None):
     app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
         "DB_STRING", 
         #"postgresql://postgres:Passkey123@localhost:5432/jobdb"
-        "postgresql://postgres:Passkey123@/postgres?host=/cloudsql/cs331e-idb:us-central1:jobdb"
+        "DB_STRING",'postgresql://postgres:Passkey123@localhost:5432/jobdb'
     )
     # to suppress a warning message
     app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
