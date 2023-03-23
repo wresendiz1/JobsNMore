@@ -31,8 +31,7 @@ def create_app(config=None):
 
     # Make sure your log info matches up with this line. You can change this line for you local machine
     app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
-        "DB_STRING", 
-        #"postgresql://postgres:Passkey123@localhost:5432/jobdb"
+        #"DB_STRING", "postgresql://postgres:Passkey123@localhost:5432/jobdb"
         "DB_STRING",'postgresql://postgres:Passkey123@localhost:5432/jobdb'
     )
     # to suppress a warning message
