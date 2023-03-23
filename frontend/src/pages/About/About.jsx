@@ -49,11 +49,7 @@ function About() {
           </Row>
         </Container>
       </Container>
-      {!data ? (
-        <Spinner />
-      ) : (
-        <AboutCard data={data} />
-      )}
+      {!data ? <Spinner /> : <AboutCard data={data} />}
     </MainLayout>
   );
 }

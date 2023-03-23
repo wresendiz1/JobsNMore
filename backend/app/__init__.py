@@ -89,7 +89,7 @@ def create_app(config=None):
         page, per_page = get_query_page(request.args)
 
         jobs = Job.get_jobs(page, per_page)
-        job_list = {
+        job_dict = {
             "Page": [
                 {
                     "CurrentPage": page,
@@ -111,9 +111,26 @@ def create_app(config=None):
             ],
         }
 
-        return jsonify(job_list)
+        return jsonify(job_dict)
 
-    # TODO: Add tech skills, basic skills & clusters
+    # TODO: Add tech skills, basic skills
+    @app.route("/clusters", methods=["GET"])
+    def career_cluster():
+        clusters = Industry.get_clusters()
+
+        cluster_dict = {
+            "Clusters": [
+                {
+                    "code": cluster.Code,
+                    "title": cluster.Group,
+                    "median_wage": cluster.Median_wage,
+                    "link": cluster.Url,
+                }
+                for cluster in clusters
+            ]
+        }
+
+        return jsonify(cluster_dict)
 
     @app.route("/occupations", methods=["GET"])
     def occupations():
@@ -121,7 +138,7 @@ def create_app(config=None):
 
         occupatiions = Occupation.get_occupations(page, per_page)
 
-        occupations_list = {
+        occupations_dict = {
             "Page": [
                 {
                     "CurrentPage": page,
@@ -146,14 +163,14 @@ def create_app(config=None):
                 for occupation in occupatiions
             ],
         }
-        return jsonify(occupations_list)
+        return jsonify(occupations_dict)
 
     @app.route("/courses", methods=["GET"])
     def courses():
         page, per_page = get_query_page(request.args)
 
         courses = Course.get_courses(page, per_page)
-        course_list = {
+        course_dict = {
             "Page": [
                 {
                     "CurrentPage": page,
@@ -168,12 +185,13 @@ def create_app(config=None):
                     "Name": course.Name,
                     "Type": course.Type,
                     "Description": course.Description,
+                    "Url": course.Url,
                 }
                 for course in courses
             ],
         }
 
-        return jsonify(course_list)
+        return jsonify(course_dict)
 
     # @app.route("/courses/<course_id>")
     # def view_course(course_id):
@@ -184,7 +202,7 @@ def create_app(config=None):
     def locations():
         page, per_page = get_query_page(request.args)
         locations = Location.get_locations(page, per_page)
-        locations_list = {
+        locations_dict = {
             "Page": [
                 {
                     "CurrentPage": page,
@@ -209,12 +227,64 @@ def create_app(config=None):
             ],
         }
 
-        return jsonify(locations_list)
+        return jsonify(locations_dict)
 
     # @app.route("/locations/<location_id>")
     # def view_location(location_id):
     #     location = data_dict.locations[location_id]
     #     return location
+
+    @app.route("/basic_skills", methods=["GET"])
+    def basic_skils():
+        page, per_page = get_query_page(request.args)
+
+        skills = Basic_Skill.get_basic_skills(page, per_page)
+
+        skill_dict = {
+            "Page": [
+                {
+                    "CurrentPage ": page,
+                    "Count": per_page,
+                }
+            ],
+            "Skills": [
+                {
+                    "Id": skill.Id,
+                    "Name": skill.Name,
+                    "Description": skill.Description,
+                    # ONETCODES
+                }
+                for skill in skills
+            ],
+        }
+
+        return jsonify(skill_dict)
+
+    @app.route("/tech_skills", methods=["GET"])
+    def tech_skills():
+        page, per_page = get_query_page(request.args)
+
+        skills = Tech_Skill.get_tech_skills(page, per_page)
+
+        skill_dict = {
+            "Page": [
+                {
+                    "CurrentPage ": page,
+                    "Count": per_page,
+                }
+            ],
+            "Skills": [
+                {
+                    "Id": skill.Id,
+                    "Name": skill.Name,
+                    # "Description": skill.Description,
+                    # ONETCODES
+                }
+                for skill in skills
+            ],
+        }
+
+        return jsonify(skill_dict)
 
     @app.route("/contact", methods=["GET", "POST"])
     def contact():

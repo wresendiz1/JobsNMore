@@ -292,10 +292,15 @@ def create_industries():
         Code = cluster["code"]
         Group = cluster["title"]
         Median_wage = cluster["median_wage"]
+        Url = cluster["href"]
         Job_codes = jobs
 
         newIndustry = Industry(
-            Code=Code, Group=Group, Median_wage=Median_wage, Job_codes=Job_codes
+            Code=Code,
+            Group=Group,
+            Median_wage=Median_wage,
+            Job_codes=Job_codes,
+            Url=Url,
         )
 
         # After I create the book, I can then add it to my session.

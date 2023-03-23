@@ -79,6 +79,10 @@ class Basic_Skill(db.Model):
     )
     dbasic = db.relationship("Dbasic_Skill", backref="Basic_Skill")
 
+    @classmethod
+    def get_basic_skills(cls):
+        return cls.query.all()
+
 
 class Dbasic_Skill(db.Model):
     __tablename__ = "dbasic_skills"
@@ -99,6 +103,10 @@ class Tech_Skill(db.Model):
         "Occupation", secondary=tech_jobs, back_populates="tech"
     )
     dtech = db.relationship("Dtech_Skill", backref="Tech_Skill")
+
+    @classmethod
+    def get_tech_skills(cls, page=1, per_page=20):
+        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
 
 
 class Dtech_Skill(db.Model):
@@ -164,5 +172,10 @@ class Industry(db.Model):
     Group = db.Column(db.String(500))
     Median_wage = db.Column(db.INT)
     Job_codes = db.Column(db.ARRAY(db.String(500)))
+    Url = db.Column(db.String(200))
 
     occupations = db.relationship("Occupation", backref="Industry")
+
+    @classmethod
+    def get_clusters(cls):
+        return cls.query.all()

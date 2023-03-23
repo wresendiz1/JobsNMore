@@ -4,14 +4,17 @@ import Table from "react-bootstrap/Table";
 import MainLayout from "../../components/Layout/MainLayout";
 
 function Locations() {
+  const [page, setPage] = useState();
   const [locations, setLocations] = useState();
   useEffect(() => {
     fetch("/locations")
       .then((res) => res.json())
-      .then((locations) => setLocations(locations))
+      .then((data) => {
+        setLocations(data["Locations"]);
+        setPage(data["Page"]);
+      })
       .catch((err) => console.log(err));
   }, []);
-
   return (
     <MainLayout>
       <h1 className="text-center py-5">Locations</h1>
@@ -19,25 +22,34 @@ function Locations() {
         <Table className="table table-bordered table-striped">
           <thead>
             <tr>
-              {locations &&
-                Object.keys(locations.Austin).map((key) => {
-                  if (key !== "Image") {
-                    return <th key={key}>{key}</th>;
-                  }
-                })}
-              <th>More</th>
+              <th>City</th>
+              <th>State</th>
+              <th>Population</th>
+              <th>Budget</th>
+              <th>Safety</th>
+              <th>Average Rating</th>
+              <th>Guide</th>
             </tr>
           </thead>
           <tbody>
             {locations &&
-              Object.keys(locations).map((city) => (
-                <tr key={city}>
-                  <td>{locations[city].City}</td>
-                  <td>{locations[city].Rent}</td>
-                  <td>{locations[city].Salary}</td>
-                  <td>{locations[city].State}</td>
-                  <td>{locations[city].Unemployment}</td>
-                  <td />
+              locations.map((location) => (
+                <tr key={location["CityID"]}>
+                  <td>{location["City"]}</td>
+                  <td>{location["State"]}</td>
+                  <td>{location["Population"]}</td>
+                  <td>{location["Budget"]}</td>
+                  <td>{location["Safety"]}</td>
+                  <td>{location["Average_rat"]}</td>
+                  <td>
+                    <a
+                      href={location["Guide"]}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      View
+                    </a>
+                  </td>
                 </tr>
               ))}
           </tbody>

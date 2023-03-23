@@ -27,8 +27,8 @@ function CustomBar() {
             <Nav.Link as={Link} to="/Jobs">
               Jobs
             </Nav.Link>
-            <Nav.Link as={Link} to="/Skills">
-              Skills
+            <Nav.Link as={Link} to="/Occupations">
+              Occupations
             </Nav.Link>
             <Nav.Link as={Link} to="/Courses">
               Courses
