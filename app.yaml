@@ -11,7 +11,7 @@ env_variables:
     # Replace user, password, database, and instance connection name with the values obtained
     # when configuring your Cloud SQL instance.
     DB_STRING: >-
-      postgresql://postgres:Passkey123@/postgres?host=/cloudsql/cs331e-idb:us-central1:jobdb
+      postgresql://postgres:Passkey123@/postgres?host=/cloudsql/wired-plateau-359721:us-central1:jobdb
 #[END env]
 
 #[START cloudsql_settings]
