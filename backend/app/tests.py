@@ -99,7 +99,7 @@ def test_db_vartype_course(database):
 	assert isinstance(testEntry.Name,str)
 	assert isinstance(testEntry.Url,str)
 	assert isinstance(testEntry.Type,str)
-	assert isinstance(testEntry.Description,str) or testEntry.Description == None
+	assert testEntry.Description == None or isinstance(testEntry.Description, str)
 
 def test_db_inserting_location(database):
 	#Case with right type of variables
