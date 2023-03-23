@@ -1,0 +1,928 @@
+commit 2a2e4fbefca66ca14e24ac6d537acc232f394727
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 23 05:52:26 2023 -0500
+
+    format files
+
+commit 8d95550b0fbefafa84ef572ed3673100b5971c7e
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 23 05:41:16 2023 -0500
+
+    finished bruh
+
+commit 69cfa17a8599360f08ce5af99a536a3d099bbb28
+Merge: 450a147 66771e3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Mar 22 20:14:33 2023 -0500
+
+    Merge branch 'willy-mod'
+
+commit 66771e3a3717cdffcdb2c80981663ae3f7666c8d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Mar 22 20:13:26 2023 -0500
+
+    updated frontend and added more backend endpoints
+
+commit 450a147baba91b1ee18e16aef8f59eb21ecfdf68
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Wed Mar 22 20:10:51 2023 -0500
+
+    corrected unit test
+
+commit f9b4a71a23eef1859dfa839b95ac25ea2022225b
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Wed Mar 22 19:54:16 2023 -0500
+
+    Corrected unit test file structure
+    
+    Closes #21
+
+commit d4ab2425d5eb71d1e6c4dc647ab5a433ad7598e8
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Wed Mar 22 19:33:49 2023 -0500
+
+    Added unit tests
+    
+    Closes #20
+
+commit 2672d4f565c4005cbc3c08d5feb99697bc7377fb
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Mar 22 13:22:47 2023 -0500
+
+    DB finalized
+
+commit e9e3c5d8dd4cb4341df58b534f683dcc93d1eee1
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Mar 22 13:19:43 2023 -0500
+
+    fixed test cases, corrected db attribute format
+
+commit 41f4422d5bfd647e12505d9fc504619ac042aeb8
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Wed Mar 22 03:21:33 2023 -0500
+
+    Added some keys and got the many to many relationship tables to populate
+
+commit 4f19626d4f68e66b07cbb236543a79613fcda29e
+Merge: 4506450 0a1b9e0
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 21:35:23 2023 -0500
+
+    Industry database is now working
+
+commit 45064508c5ce4cbc3596137a605cf635553300f0
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 21:31:44 2023 -0500
+
+    industry work
+
+commit 0a1b9e03447bbbfe886b4f3eb153547241182517
+Merge: d68d0ca dc12eac
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 21:20:05 2023 -0500
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 9c9ffa3cbd27b9188225a74f92fafce5e7444e89
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 21:18:22 2023 -0500
+
+    Storing tempory changes for trying to merge with main
+
+commit 469ab29654c62b11f6da2168f4e306fa9bc40a3b
+Merge: 2442e60 b312c2d
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 21:03:21 2023 -0500
+
+    merged with willy-mod
+
+commit dc12eacbf9bcaddec86589c0c24a1f073f8e4759
+Merge: d096670 6ae1bd4
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 21 17:55:48 2023 -0500
+
+    Merge branch 'willy-mod'
+
+commit 6ae1bd437adef9977a2d2a895887a6ef1f1ea32e
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 21 17:48:27 2023 -0500
+
+    addedd another endpoint
+
+commit d0966701c66a045fc511e466e0f4383f3ed7dbea
+Author: cadetaylor01 <cade.taylor01@gmail.com>
+Date:   Tue Mar 21 17:37:25 2023 -0500
+
+    Added median wages to career clusters
+
+commit b312c2d0b1f5ab1aec2c0b4f7ba53dd7150207fd
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 21 16:23:12 2023 -0500
+
+    added inital backend API data endpoints
+
+commit 2442e6047ae49a30a1bcfc6231f8551509aad325
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 16:13:09 2023 -0500
+
+    Fixed many to many relationship table
+
+commit d38b6cb8eddd1c169d0bd5162b280a1feaacbc9a
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 15:08:27 2023 -0500
+
+    added keys for the detail skillstables and also fixed basic_skill detail create function
+
+commit 5c4ffcace36b0114a580a89cec2d7bfacaeeb599
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 12:59:01 2023 -0500
+
+    added the create function for the two new databses and added some keys
+
+commit 0e6668e9ca6fd6bd51e2b08c147feaddbb8857fb
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 11:50:16 2023 -0500
+
+    added models for the two new details tables
+
+commit c8951b7c79c483c86c37b9e80e797f92d18ff119
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 11:32:46 2023 -0500
+
+    added new json files for the two detail skill models
+
+commit d9bc5aea77ae1c3b5d57f950e76332c9aa75d4cf
+Merge: d68d0ca dda7e6d
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 10:30:09 2023 -0500
+
+    Merge remote-tracking branch 'origin/willy-mod' into JR_database
+
+commit dda7e6dab8098dcf9a7aa0635f23a630d11fd781
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Tue Mar 21 14:42:05 2023 +0000
+
+    update ny to uppercase
+
+commit 989b7441de66e82382d9c1e7d730ac9e8b63b2f4
+Merge: 9312179 c180ab3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 21 09:35:40 2023 -0500
+
+    Merge branch 'willy-mod' of https://gitlab.com/javier.ramirez5/cs331e-idb into willy-mod
+
+commit 93121790a36f3f470691ffaf796e8b03f2b1f8f5
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 21 09:34:48 2023 -0500
+
+    fixed some tables and added inital test cases for DB
+
+commit d68d0ca675c7887dd852d57b4ed8578b0d131898
+Merge: 8f1826b c180ab3
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 08:48:13 2023 -0500
+
+    Merge remote-tracking branch 'origin/willy-mod' into JR_database
+
+commit 8f1826b4efc064826d528639219e24c64d417853
+Merge: 6be72b4 9d2b674
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 21 08:47:03 2023 -0500
+
+    Merge branch 'JR_database' of https://gitlab.com/javier.ramirez5/cs331e-idb into JR_database
+
+commit c180ab3d48bd3305836c86e598d1d733eb5e4deb
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Tue Mar 21 05:01:35 2023 +0000
+
+    Update 2 files
+    
+    - /backend/app/data/jobsByCity/New York, NYJobs.json
+    - /backend/app/data/jobsByCity/new york, nyJobs.json
+
+commit f68df0875dc0bafe704a249d53fbe035ebcf0014
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Mar 20 23:57:06 2023 -0500
+
+    fix jobsbycity names
+
+commit 3a21699b67625a27da51ab79e7c5fd6ac6aa2b55
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Mar 20 23:49:11 2023 -0500
+
+    updated pipeline
+
+commit 6be72b4d3bfc81c9fb574ee49691e2b8e4cbb6d4
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Mar 20 11:08:30 2023 -0500
+
+    Added the occupations model
+
+commit 18df65d550c01466b3fca56054cb83d21a50b8a0
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Mar 20 10:42:12 2023 -0500
+
+    Skills model was added
+
+commit e9a9519ba167d15a3df2b6febdd4e5cdabe07f9e
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Mar 20 10:18:25 2023 -0500
+
+    Added one to many relationship between location and jobs
+
+commit d29f9f7f6207293f05719e4eb6749575379166cc
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 14:44:20 2023 -0500
+
+    Redid the api data so their was a cityID so I can add keys between the two tables of jobs and locations
+
+commit c8c26aaa2915a228d85f9ec3baa1299be44f32f3
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 04:36:40 2023 -0500
+
+    db for courses is still buggy
+
+commit 45189cfe97e1c799b44356f2681c1fee1071b352
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 03:40:45 2023 -0500
+
+    jobs db is still buggy
+
+commit c07aa79c92bef495c65d661345a1edaafbeade39
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 02:27:34 2023 -0500
+
+    added first database which was the locations
+
+commit bcdaf6782ed2e6726d94ad80295a8a3791b03731
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 16 21:32:54 2023 -0500
+
+    updated jobs
+
+commit 5c9ca7c2e60e106e6aba0f33207ce6ad45577256
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 16 21:27:28 2023 -0500
+
+    optimized scrapping scripts
+
+commit c36eae1b3ebca8729c68a59245bac458cd47f795
+Author: cadetaylor01 <cade.taylor01@gmail.com>
+Date:   Tue Mar 14 19:12:32 2023 -0500
+
+    Updated File Names
+
+commit 23d5cd2d074a22d9c84caf29d587238fff0a1061
+Author: cadetaylor01 <cade.taylor01@gmail.com>
+Date:   Tue Mar 14 19:02:09 2023 -0500
+
+    Added Industry JSON info
+
+commit e8519c0eef163e420c737f3d8747152b6515dc11
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 19:03:03 2023 -0500
+
+    fixed scrapping jobs
+
+commit bd7ae382fb8cdfc5b004bec09bd55cb26ced17a7
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 17:25:26 2023 -0500
+
+    New job data with the new job codes
+
+commit 25dc7dd9d65f4b870aa6d177e208499eac30ec8d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 16:57:12 2023 -0500
+
+    fixed to ensure all occupations are taken into account
+
+commit 8266ddc8fe81d4914e79f8b06bcebdd592c817f9
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 16:24:21 2023 -0500
+
+    added top 6 jobs per cluster by job by est emply
+
+commit 72c4b60c8d85bfca9cc88fc39ab507601d62dfc4
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 15:00:14 2023 -0500
+
+    Added all data files
+
+commit 5cd32575428b3e555d6b63a16bcaa55c6630c7be
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 14:39:40 2023 -0500
+
+    First jobs data file
+
+commit 72cdab36185a973957c72d80193c2cefdfb1bfb8
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 01:10:25 2023 -0500
+
+    made a list for the jobs that will be searched for in each city
+
+commit 47776c46e661ae698c072bd523c162f13f346027
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Mar 20 23:31:03 2023 -0500
+
+    updated tables
+
+commit 20cd0a2844a962b2d7d3030d940bfb92bc74825a
+Merge: 14ccab9 9d2b674
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Mar 20 21:47:29 2023 -0500
+
+    Merge remote-tracking branch 'origin/JR_database' into willy-mod
+
+commit 14ccab9806ce3d6f145aae3992a709a453b306c1
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Mar 20 21:36:31 2023 -0500
+
+    update
+
+commit a466ea71a1abd1798424ed9d429104c06ec6c30a
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Mar 20 21:26:35 2023 -0500
+
+    fixed, will remove data_dict
+
+commit c4a8e0907c0934ce709d15601dc5228cec8b5ea6
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Mar 20 21:17:12 2023 -0500
+
+    update to use absolute imports
+
+commit 9d2b674aa28059a2e4d633bc483be892e855b043
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Mar 20 11:08:30 2023 -0500
+
+    Added the occupations model
+
+commit 4b5c8b245edf28ad56ddb9a4a9a276cbb4ecd060
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Mar 20 10:42:12 2023 -0500
+
+    Skills model was added
+
+commit 1dd864fb585af380123ea0fc82d687128d03d999
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Mar 20 10:18:25 2023 -0500
+
+    Added one to many relationship between location and jobs
+
+commit d0a16ab4555fbd7e2eafe2c6f23180eaa94393e5
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 14:44:20 2023 -0500
+
+    Redid the api data so their was a cityID so I can add keys between the two tables of jobs and locations
+
+commit 793f529100e4790bf15cb135fbe67b3a3e71ceb3
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 04:36:40 2023 -0500
+
+    db for courses is still buggy
+
+commit 9211c2da247affe66dd86f34d3126f4b435bbd32
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 03:40:45 2023 -0500
+
+    jobs db is still buggy
+
+commit f25644f7e5a60f7b5024402322e64f09c53aee51
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Sat Mar 18 02:27:34 2023 -0500
+
+    added first database which was the locations
+
+commit 1e3cca46df7876d99c800d1897b234f4549314c7
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 16 21:32:54 2023 -0500
+
+    updated jobs
+
+commit a880e45fa21ddf513054e8c1c00d870403ca2367
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 16 21:27:28 2023 -0500
+
+    optimized scrapping scripts
+
+commit 71ac9e1b1571ed65f773a2d3ca12f6325436bff8
+Author: cadetaylor01 <cade.taylor01@gmail.com>
+Date:   Tue Mar 14 19:12:32 2023 -0500
+
+    Updated File Names
+
+commit 11474550e75febf6a7ff193d91e11d206ef00e0d
+Merge: 13ab7b1 1100ac4
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 19:03:59 2023 -0500
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 13ab7b19a58d071900e53f8a0bb806f69b2a3b4d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 19:03:03 2023 -0500
+
+    fixed scrapping jobs
+
+commit 1100ac48b8ee915101cd281aa2beea4935163cc4
+Author: cadetaylor01 <cade.taylor01@gmail.com>
+Date:   Tue Mar 14 19:02:09 2023 -0500
+
+    Added Industry JSON info
+
+commit 67f39f0d30126ddbde862c4a4eb3ed138f2506cc
+Merge: 04c20f4 707be8e
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Tue Mar 14 22:28:16 2023 +0000
+
+    Merge branch 'jobApi' into 'main'
+    
+    New job data with the new job codes
+    
+    See merge request javier.ramirez5/cs331e-idb!5
+
+commit 707be8e499dce2fc83072c5704936e31af66e83b
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 17:25:26 2023 -0500
+
+    New job data with the new job codes
+
+commit 04c20f4c776fafabb5b8e5b503ca19ad3af82f6b
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 16:57:12 2023 -0500
+
+    fixed to ensure all occupations are taken into account
+
+commit b51e7781c94a03a9613fa1f572419b29c1fd0d23
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 16:24:21 2023 -0500
+
+    added top 6 jobs per cluster by job by est emply
+
+commit 1066faec1aa32fbf3e42edfbb7273f1ad263a03c
+Merge: a371373 38cbeb0
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 15:27:57 2023 -0500
+
+    Merge branch 'willy-mod'
+
+commit 38cbeb0c070536cf2561e2c1fc4818ef2c7fadf2
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 15:25:32 2023 -0500
+
+    added guide and photo attributes
+
+commit a3713735e7cd5195ea0a566e2fee2daf8e0b06a0
+Merge: 2fc5eff 4beb0e3
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Tue Mar 14 20:03:28 2023 +0000
+
+    Merge branch 'jobApi' into 'main'
+    
+    Job api
+    
+    See merge request javier.ramirez5/cs331e-idb!4
+
+commit 4beb0e3ce7a9afbb1dffa009bd3aa339eecade56
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 15:00:14 2023 -0500
+
+    Added all data files
+
+commit 74489c5cfe90be25c9855f70b513abf3e44406ea
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 14:39:40 2023 -0500
+
+    First jobs data file
+
+commit 2fc5eff89c8627f1f7aa870083f25baa3e780a7f
+Merge: 215db13 25de929
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 11:51:37 2023 -0500
+
+    Merge branch 'willy-mod'
+
+commit 25de929f9d9891e15696b6ca6b31c331d3e1e404
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Mar 14 11:50:13 2023 -0500
+
+    Optimized performance w\ caching & lazy loading
+
+commit a0c2e14874f22bad55d97a8380092780d599724c
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Tue Mar 14 01:10:25 2023 -0500
+
+    made a list for the jobs that will be searched for in each city
+
+commit 215db13f8020de0810fa2654c97ead00c505cb98
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Mon Mar 13 23:15:01 2023 -0500
+
+    created scrapping script and scrapped data for locations
+    
+    Closes #18
+
+commit 41b22aa467b7f3acdbac848591dff6248edf9d41
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sat Mar 11 10:02:17 2023 -0600
+
+    format
+
+commit b5e045e6dc15688a15468a35e5ef6ecd8dff6da1
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sat Mar 11 09:50:05 2023 -0600
+
+    Added data folder, replaced axios with native fetch
+
+commit 44c7331fae8162371be59b858b887b8b14263c55
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sun Mar 5 18:49:30 2023 -0600
+
+    fixed test imports
+
+commit a27f4552154efd761b368cb4c76f5a7d976cb9b4
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sun Mar 5 18:40:46 2023 -0600
+
+    created components and added formatter for python and js
+
+commit 5f945fe25c2cd4bae7590dbd89a000726a85df56
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Fri Mar 3 16:24:38 2023 -0600
+
+    linting
+
+commit 9f93a8ae9a4143cfa8676ad582094b1d6166ec36
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 2 16:25:31 2023 -0600
+
+    minor improvements to frontend
+
+commit cf89648761f86baa6592088672bd3d5cf72c00e5
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Mar 1 13:34:38 2023 -0600
+
+    modulating pages
+
+commit 6bcd77730799ec7b2109fd811dbc3a322b0bb2a0
+Merge: 1b22201 0c132b4
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Wed Mar 1 03:20:58 2023 +0000
+
+    Merge branch 'willy' into 'main'
+    
+    Implemented react to frontend
+    
+    See merge request javier.ramirez5/cs331e-idb!3
+
+commit 0c132b47d3f499ff14d40a0c67fd244f37cf4062
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Wed Mar 1 03:15:21 2023 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 43528344f76197b7fa9977f15c57e8f25981bf9e
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Wed Mar 1 03:11:37 2023 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 745d849a6ac1967fca11d706a10c315ca86aa0cf
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Feb 28 21:00:20 2023 -0600
+
+    finished first implementation of react frontend
+
+commit 152be95d067c63e2bb98cc521a0e46dfa5a25384
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 27 16:12:10 2023 -0600
+
+    Started implemnting react frontend
+
+commit 1b2220157ade1764a76dc50cdc872133f1e0a9f4
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 16 20:49:18 2023 -0600
+
+    corrected  data models and pages
+
+commit b5753454d5f40e88349a9d18aba12246a17de1f3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 16 15:37:49 2023 -0600
+
+    added navbar to splash page
+
+commit da4768ec78a06f7e6856b1b01f7a44b35a0e7aa3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 16 13:28:26 2023 -0600
+
+    added GCP files and configurations
+
+commit a923019016c46ef75c357b48a7b89ba706b8b19c
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 15 16:52:56 2023 -0600
+
+    add more data sources
+
+commit 6754770e7e39feb8b15eba53b3f1c3de2b084087
+Merge: 6cd3a37 db64c11
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 15 16:28:10 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 6cd3a37e39045523ba932c2a2a6310199c346135
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 15 16:27:55 2023 -0600
+
+    added tools and data sources
+
+commit db64c112ad3e0c67034f8a664d3bc865a32d876b
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Wed Feb 15 19:02:06 2023 +0000
+
+    Update README.md
+
+commit 5afa851493e3d218530ad4ea0e25eb19f822d2f0
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Feb 14 10:19:45 2023 -0600
+
+    added tools used for about page
+
+commit bfe9bc30a80ead256ab1d1aaa6f7ec7ab17067e5
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Tue Feb 14 09:42:45 2023 -0600
+
+    minor additions
+
+commit a3fe899c47fee8ae619846251184752f7c6823a2
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Tue Feb 14 01:10:11 2023 +0000
+
+    Update README.md
+
+commit fbd2f500b622eca6f4918d977e43fd8309a699cd
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 19:00:29 2023 -0600
+
+    fixed about gitlab links and added sample form to contact
+
+commit ed00199fddf7f4792acd21fcc0d66d8f8d91f85f
+Merge: 8da8b86 edc2102
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 18:43:51 2023 -0600
+
+    Merge branch 'willy'
+
+commit edc21028c69f86860e509e70c2d42591fe8cb8f4
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 18:27:54 2023 -0600
+
+    fix gitlab api
+
+commit 8da8b86c80ee27772a19842acd819d898db22083
+Author: cadetaylor <cade.taylor01@gmail.com>
+Date:   Mon Feb 13 18:23:05 2023 -0600
+
+    Fixed issues on about.html
+
+commit 1bf83cd671da9ec63505408449ab118b223f0a0b
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 17:27:13 2023 -0600
+
+    format views
+
+commit 572cd7bf1a38fcbd5798990029426894a0451b93
+Author: cadetaylor <cade.taylor01@gmail.com>
+Date:   Mon Feb 13 17:07:47 2023 -0600
+
+    Added professional headshot
+
+commit b6c3678ebe05e5fa5c800eb3a4cd0ebd1f147b8b
+Merge: 199fe11 0d96686
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 17:03:55 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 199fe116f65a1f636350723be3ed29e98bf09c26
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 17:02:14 2023 -0600
+
+    added titles to boxes on home page
+
+commit 0d966866710138e6289b15f51a6f9698ae38d6e5
+Merge: d1a1c2e bc6f8e9
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Mon Feb 13 22:41:35 2023 +0000
+
+    Merge branch 'jobs' into 'main'
+    
+    1st Iteration of Tables
+    
+    See merge request javier.ramirez5/cs331e-idb!2
+
+commit bc6f8e95b9aac9eb92dcbff2baeac77072e87e0a
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 16:29:24 2023 -0600
+
+    Rough Draft of courses page
+
+commit d1a1c2e74d95ebab6a794ef29cf08bbf3f76b215
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 15:55:05 2023 -0600
+
+    about.html update
+
+commit 74d77c81bf8609942965121638ad808dc93ba666
+Merge: 6a80e23 5a7fc78
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 15:47:45 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb into willy
+
+commit 6a80e2364a66072b204fdc8d41e4ceef14478277
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Feb 13 15:46:49 2023 -0600
+
+    minor fix about.html
+
+commit 807b2881293817a53536f367aa7cca695db9d67c
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 15:43:16 2023 -0600
+
+    Rough Draft of locations page
+
+commit a1402edbb88542ec6d623294c593afac9a4c292a
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 15:35:27 2023 -0600
+
+    Rough Draft of skills page
+
+commit 3615bfbd95ec478ca88c108d050dc2e4dfa146a8
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 10:59:39 2023 -0600
+
+    Added table headers and started populating dummy data
+
+commit 9f8a78bb2a6d3502fe2b3c0d967df10b5cb16ead
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Mon Feb 13 00:37:24 2023 -0600
+
+    Added a rough draft of the jobs page
+
+commit 5a7fc78354535daa2da359ba7529e78bbf78769f
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Sun Feb 12 19:15:41 2023 -0600
+
+    removed additional profile
+
+commit 5e74c3ef698189432ba2e83ced8132f64fa0aa36
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Sun Feb 12 19:11:17 2023 -0600
+
+    corrected git address
+
+commit 0ffe6a16620fab4c80a81c4c63b6ea4e58db3977
+Author: Jesus <jesusamc@utexas.edu>
+Date:   Sun Feb 12 19:08:39 2023 -0600
+
+    added personal data
+
+commit 47468e481e4a4284ea8ac1b44f3b5dba3d6af933
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Sun Feb 12 19:25:48 2023 +0000
+
+    Update .gitlab-ci.yml file -enable test reports integration
+
+commit b07812f6dd8a7b590425cbfa9b50c7ec2632919c
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Sun Feb 12 19:02:28 2023 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 6a1297b701b9c80163e458b094aa1f28cd78bf51
+Merge: 730305e 0a50df1
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sun Feb 12 13:00:31 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 730305e21db21075167e08072917f8bcc7f54c8f
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sun Feb 12 12:59:55 2023 -0600
+
+    created initial testing files
+
+commit 0a50df1ad0538629237c2b676fd1eb6362a357d5
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Fri Feb 10 23:31:41 2023 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 55cbce287b466481588951f3af9fabd2f4ba18d3
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Fri Feb 10 23:11:24 2023 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 58fcebf8dee05c129a51093128f0cebdfa17a7ae
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Fri Feb 10 17:06:37 2023 -0600
+
+    fix about page
+
+commit ffde83be8a8701436a09ee26f2bb353acb75f00f
+Merge: 4370c79 2ad8582
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Fri Feb 10 15:19:58 2023 -0600
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit 4370c798761fa05ada400ad690ae6b2c8a6dd89d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Fri Feb 10 15:19:40 2023 -0600
+
+    fix about.html
+
+commit 2ad85820bb1b084a0025f6687aa089f88adbf905
+Author: cadetaylor <cade.taylor01@gmail.com>
+Date:   Fri Feb 10 15:17:29 2023 -0600
+
+    Cade Taylor about info added
+
+commit 5d6cdc26533ab4506319bb982450c17489d142a0
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Fri Feb 10 14:48:47 2023 -0600
+
+    About Javier Page
+
+commit 596ca426ede51a08dbb571935e5b5a88541fd670
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sat Feb 4 14:05:50 2023 -0600
+
+    merge
+
+commit bb5a954fd10b31ae1bbef2d537df47d1ea575b13
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Sat Feb 4 13:56:23 2023 -0600
+
+    splash page reworked
+
+commit c80b77d16329c5f7537236daf7d09cd14485312d
+Merge: 57257b1 1daab2f
+Author: Willy P Resendiz Torres <wresendiz@utexas.edu>
+Date:   Fri Feb 3 02:28:21 2023 +0000
+
+    Merge branch 'willy' into 'main'
+    
+    added about page
+    
+    See merge request javier.ramirez5/cs331e-idb!1
+
+commit 1daab2f12dd1233912489081358f58e67589773c
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 2 20:24:28 2023 -0600
+
+    added about page
+
+commit 57257b13e2c7f2343a47a8bfccbf532014dfa09b
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Feb 2 12:34:04 2023 -0600
+
+    gitignore include
+
+commit 1d91d8d3022f9dca83c45445c015576831380e1d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Wed Feb 1 19:53:18 2023 -0600
+
+    added splash page and configs + new pages
+
+commit 70854b7f89687d2ea613d00d5054358e129c4760
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Jan 30 18:03:12 2023 -0600
+
+    added makefile
+
+commit 37bb25045d68226e5ba6f30d7e7414c036393df2
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Mon Jan 30 17:23:35 2023 -0600
+
+    added committ log
+
+commit 31b75915c88ca99c5f8f68efa94b21e48dc1908d
+Author: Michael Pham <michaelpham995@gmail.com>
+Date:   Mon Jan 30 17:19:17 2023 -0600
+
+    Creating initial document
+
+commit 1641098ee9aac39b4c5e2c259c8c60bd11ec3a38
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Mon Jan 23 18:52:39 2023 +0000
+
+    Added gitignore
+
+commit b4d2ba7f63f30c8e5d18046a7c046ffbe30b6439
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Mon Jan 23 18:51:02 2023 +0000
+
+    Initial commit

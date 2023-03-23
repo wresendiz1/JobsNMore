@@ -21,7 +21,7 @@ before_script:
 
 test:
   script:
-    - pytest tests/config.py --junitxml=report.xml
+    - pytest app/tests.py --junitxml=report.xml
   artifacts:
     when: always
     reports:

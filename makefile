@@ -20,7 +20,7 @@ run-back:
 	cd backend && python run.py
 
 run-back-test:
-	cd backend && pytest tests/config.py
+	cd backend && pytest app/tests.py
 	
 run-front:
 	cd frontend && npm run start

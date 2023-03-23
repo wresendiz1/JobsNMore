@@ -1,8 +1,5 @@
 # fmt: off
 import pytest
-import sys
-from pathlib import Path
-sys.path.append(str(Path(__file__).resolve().parent.parent))
 from app import create_app, db 
 from app.models import Location, Job, Occupation, Industry, Course, Tech_Skill, Dtech_Skill, Basic_Skill, Dbasic_Skill
 from sqlalchemy.exc import IntegrityError, DataError
@@ -66,13 +63,8 @@ def test_db_inserting_course_incorrect(database):
         database.session.add(s)
         database.session.commit()
 
-    """ NOTE: we dont have to delete the course as it will be deleted when the session is closed 
-    as long as we dont commit"""
-
 
 def test_db_inserting_course(database):
-    # from app.models import Course
-
     case = Course(
         Id="1123",
         # Must give a valid occupation
