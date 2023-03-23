@@ -66,18 +66,15 @@ function OnetJobs() {
               </Card.Body>
             </Card>
           ))}
-
       </Container>
       <Container className="d-flex flex-wrap justify-content-center">
-	      
         {jobs && (
           <PaginationBar
             total_pages={page[0].total}
             current_page={page[0].current_page}
           />
         )}
-        </Container>
-      
+      </Container>
     </MainLayout>
   );
 }

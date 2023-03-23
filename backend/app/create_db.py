@@ -132,7 +132,6 @@ def create_basic_skills():
         Name = skill["name"]
         Description = skill["description"]
         OnetCodes = skill["onetcode"]
-        # TODO: Figure out how to add the individual scores to the database - maybe add it as part of the OnetCodes?
 
         newSkill = Basic_Skill(
             Id=Id, Name=Name, Description=Description, OnetCodes=OnetCodes
@@ -175,7 +174,6 @@ def create_tech_skills():
         Id = skill["id"]
         Name = skill["name"]
         OnetCodes = skill["onetcode"]
-        # TODO: Figure out how to add the example information to the database
 
         newSkill = Tech_Skill(Id=Id, Name=Name, OnetCodes=OnetCodes)
         # After I create the book, I can then add it to my session.

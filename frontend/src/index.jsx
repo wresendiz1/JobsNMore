@@ -98,7 +98,7 @@ const router = createBrowserRouter([
     path: "/Occupations/:id",
     element: (
       <Suspense fallback={<Load />}>
-        <ViewOccupation/>
+        <ViewOccupation />
       </Suspense>
     ),
   },

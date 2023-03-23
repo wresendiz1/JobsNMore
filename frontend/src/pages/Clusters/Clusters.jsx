@@ -28,20 +28,20 @@ function Clusters() {
                       {cluster["code"]}
                     </Card.Subtitle>
                     <Card.Text>
-                      <Link to={`/Clusters/${cluster.code}`} className="btn btn-info mx-2">
+                      <Link
+                        to={`/Clusters/${cluster.code}`}
+                        className="btn btn-info mx-2"
+                      >
                         Cluster Info
                       </Link>
                     </Card.Text>
-                    </Card.Body>
-                  </Card>
-                </Col>
-              ))}
-            </Row>
-
+                  </Card.Body>
+                </Card>
+              </Col>
+            ))}
+        </Row>
       </Container>
-
     </MainLayout>
-
   );
 }
 

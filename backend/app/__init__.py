@@ -87,83 +87,65 @@ def create_app(config=None):
         pg, per_page = get_query_page(request.args)
 
         page, jobs = Job.get_jobs(pg, per_page)
-        
+
         job_dict = {
-            "Page": 
-                page
-            ,
-            "Jobs": 
-                jobs
-            ,
+            "Page": page,
+            "Jobs": jobs,
         }
 
         return jsonify(job_dict)
-    
+
     @app.route("/jobs/onet/<onetCode>", methods=["GET"])
     def get_jobs_by_onet(onetCode):
         pg, per_page = get_query_page(request.args)
-        
+
         page, jobs = Job.get_jobs_by_onet(onetCode, pg, per_page)
-        
+
         job_dict = {
-            "Page": 
-                page
-            ,
-            "Jobs": 
-                jobs
-            ,
+            "Page": page,
+            "Jobs": jobs,
         }
 
         return jsonify(job_dict)
-    
+
     @app.route("/jobs/cluster/<cluster>", methods=["GET"])
     def get_jobs_by_cluster(cluster):
         pg, per_page = get_query_page(request.args)
-        
+
         page, jobs = Job.get_jobs_by_cluster(cluster, pg, per_page)
-        
+
         job_dict = {
-            "Page": 
-                page
-            ,
-            "Jobs": 
-                jobs
-            ,
+            "Page": page,
+            "Jobs": jobs,
         }
 
         return jsonify(job_dict)
-    
+
     @app.route("/jobs/location/<location>", methods=["GET"])
     def get_jobs_by_location(location):
         pg, per_page = get_query_page(request.args)
-        
+
         page, jobs = Job.get_jobs_by_location(location, pg, per_page)
-        
+
         job_dict = {
-            "Page": 
-                page
-            ,
-            "Jobs": 
-                jobs
-            ,
+            "Page": page,
+            "Jobs": jobs,
         }
 
         return jsonify(job_dict)
-    
+
     @app.route("/jobs/<Id>", methods=["GET"])
     def get_job(Id):
         job, courses = Job.get_job_details(Id)
-        
-        
-        return jsonify(job, courses)
-    
 
+        return jsonify(job, courses)
 
     # TODO: Add tech skills, basic skills
     @app.route("/clusters", methods=["GET"])
     def career_cluster():
         clusters = Industry.get_clusters()
 
+        # TODO: Do this in the model
         cluster_dict = {
             "Clusters": [
                 {
@@ -177,11 +159,11 @@ def create_app(config=None):
         }
 
         return jsonify(cluster_dict)
-    
+
     @app.route("/clusters/<code>", methods=["GET"])
     def get_cluster(code):
         cluster = Industry.get_cluster(code)
-        
+
         return jsonify(cluster)
 
     @app.route("/occupations", methods=["GET"])
@@ -190,6 +172,7 @@ def create_app(config=None):
 
         occupatiions = Occupation.get_occupations(page, per_page)
 
+        # TODO: Do this in the model
         occupations_dict = {
             "Page": [
                 {
@@ -216,7 +199,7 @@ def create_app(config=None):
             ],
         }
         return jsonify(occupations_dict)
-    
+
     @app.route("/occupations/<onetCode>", methods=["GET"])
     def get_ocupation(onetCode):
         occupation = Occupation.get_occupation(onetCode)
@@ -261,6 +244,7 @@ def create_app(config=None):
         page, per_page = get_query_page(request.args)
         locations = Location.get_locations(page, per_page)
         locations_dict = {
+            # TODO: Do this in the model
             "Page": [
                 {
                     "current_page": page,
@@ -278,21 +262,18 @@ def create_app(config=None):
                     "Average_rat": location.Average_rat,
                     "Guide": location.Guide,
                     "Photos": location.Photos,
-                    # TODO: Figure out how I will display this data as it returns a list of job objects
-                    # "Job": location.job,
                 }
                 for location in locations
             ],
         }
 
         return jsonify(locations_dict)
-    
+
     @app.route("/locations/<Id>", methods=["GET"])
     def get_location(Id):
         location, jobs = Location.get_location_details(Id)
-        
-        return jsonify(location, jobs)
 
+        return jsonify(location, jobs)
 
     @app.route("/basic_skills", methods=["GET"])
     def basic_skils():
@@ -312,7 +293,6 @@ def create_app(config=None):
                     "Id": skill.Id,
                     "Name": skill.Name,
                     "Description": skill.Description,
-                    # ONETCODES
                 }
                 for skill in skills
             ],
@@ -337,8 +317,6 @@ def create_app(config=None):
                 {
                     "Id": skill.Id,
                     "Name": skill.Name,
-                    # "Description": skill.Description,
-                    # ONETCODES
                 }
                 for skill in skills
             ],

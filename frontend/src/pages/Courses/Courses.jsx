@@ -49,7 +49,6 @@ function Courses() {
                   {course.Type}
                 </Card.Subtitle>
                 {/* TODO: query occupation DB to get average pay or use google API in next phase */}
-                {/* <Card.Text>{course.Description}</Card.Text> */}
                 <Button
                   variant="primary"
                   href={course.Url}

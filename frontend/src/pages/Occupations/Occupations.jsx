@@ -24,16 +24,15 @@ function Occupations() {
           {occupations &&
             occupations.map((occupation) => (
               <Col key={occupation["OnetCode"]}>
-              <Card  className="m-3">
-                <Card.Body>
-                  <Card.Title>{occupation["title"]}</Card.Title>
-                  <Card.Subtitle className="mb-2 text-muted">
-                    {occupation["cluster"]}
-                  </Card.Subtitle>
-                  
+                <Card className="m-3">
+                  <Card.Body>
+                    <Card.Title>{occupation["title"]}</Card.Title>
+                    <Card.Subtitle className="mb-2 text-muted">
+                      {occupation["cluster"]}
+                    </Card.Subtitle>
 
-                  {/* <Card.Text>{occupation["description"]}</Card.Text> */}
-                  {/* <Card.Text>
+                    {/* <Card.Text>{occupation["description"]}</Card.Text> */}
+                    {/* <Card.Text>
                     Median Wage: {occupation["median_wage"]}
                   </Card.Text>
                   <Card.Text>90th Wage: {occupation["pct90_wage"]}</Card.Text>
@@ -59,17 +58,23 @@ function Occupations() {
                       BLS
                     </a>
                   </Card.Text> */}
-                  {/* <Link to={`/jobs/occupation/${occupation.OnetCode}`} className="btn btn-primary mx-2">
+                    {/* <Link to={`/jobs/occupation/${occupation.OnetCode}`} className="btn btn-primary mx-2">
                   Find Jobs
                 </Link> */}
-                <Link to={`/Occupations/${occupation.OnetCode}`} className="btn btn-primary mx-2">
-                  Info
-                </Link>
-                <Link to={`/Clusters/${occupation.cluster}`} className="btn btn-info mx-2">
+                    <Link
+                      to={`/Occupations/${occupation.OnetCode}`}
+                      className="btn btn-primary mx-2"
+                    >
+                      Info
+                    </Link>
+                    <Link
+                      to={`/Clusters/${occupation.cluster}`}
+                      className="btn btn-info mx-2"
+                    >
                       Cluster Info
                     </Link>
-                </Card.Body>
-              </Card>
+                  </Card.Body>
+                </Card>
               </Col>
             ))}
         </Row>
@@ -77,6 +82,5 @@ function Occupations() {
     </MainLayout>
   );
 }
-
 
 export default Occupations;

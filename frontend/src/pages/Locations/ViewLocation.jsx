@@ -70,7 +70,10 @@ function ViewLocation() {
                 </Card.Body>
               </Card>
             </Row>
-            <Link to={`/Jobs/locations/${location.CityID}`} className="btn btn-primary mx-2">
+            <Link
+              to={`/Jobs/locations/${location.CityID}`}
+              className="btn btn-primary mx-2"
+            >
               More Jobs
             </Link>
             <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">

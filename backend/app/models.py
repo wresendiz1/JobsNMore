@@ -164,7 +164,7 @@ class Job(db.Model):
         page = [{"current_page": page, "per_page": per_page, "total": num}]
 
         return page, jobs
-    
+
     @classmethod
     def get_jobs_by_location(cls, location, page=1, per_page=50):
         jobs = (

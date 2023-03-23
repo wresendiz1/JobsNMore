@@ -45,10 +45,8 @@ function ViewCluster() {
                   >
                     View {cluster["CityName"]}
                   </Link> */}
-                    <Link
-                    to={cluster.Url}
-                    className="btn btn-primary mx-2 my-2"
-                  >ONET Link
+                  <Link to={cluster.Url} className="btn btn-primary mx-2 my-2">
+                    ONET Link
                   </Link>
                   <Link
                     to={`/Jobs/cluster/${cluster["Code"]}`}

@@ -42,11 +42,11 @@ function ViewOccupation() {
                   {occupation.title}
                 </Card.Header>
                 <Card.Body>
-                    <ListGroup variant="flush">
-                        <ListGroup.Item className="my-2">
-                            {occupation.description}
-                        </ListGroup.Item>
-                    </ListGroup>
+                  <ListGroup variant="flush">
+                    <ListGroup.Item className="my-2">
+                      {occupation.description}
+                    </ListGroup.Item>
+                  </ListGroup>
                 </Card.Body>
                 <Card.Body>
                   <ListGroup variant="flush">
