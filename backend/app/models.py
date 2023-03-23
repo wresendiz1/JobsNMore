@@ -2,6 +2,20 @@ from flask_sqlalchemy import SQLAlchemy
 
 db = SQLAlchemy()
 
+
+def merge_dicts(**dict_args):
+    result = {}
+    for name, dictionary in dict_args.items():
+        for key, value in dictionary.items():
+            if key in result:
+                key = name + "_" + key
+                result[key] = value
+            else:
+                result[key] = value
+
+    return result
+
+
 basic_jobs = db.Table(
     "basic_jobs",
     db.Column(
@@ -40,6 +54,29 @@ class Location(db.Model):
     def get_locations(cls, page=1, per_page=30):
         return cls.query.limit(per_page).offset((page - 1) * per_page).all()
 
+    @classmethod
+    def get_location(cls, id):
+        return cls.query.filter_by(CityID=id).first()
+
+    @classmethod
+    def get_location_details(cls, id):
+        location = cls.query.filter_by(CityID=id).first()
+        jobs = Job.query.filter_by(JCityID=id).all()
+        jobs = [
+            {
+                key: value
+                for key, value in job.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for job in jobs
+        ]
+        location = {
+            key: value
+            for key, value in location.__dict__.items()
+            if key != "_sa_instance_state"
+        }
+        return location, jobs
+
 
 class Job(db.Model):
     __tablename__ = "jobs"
@@ -58,13 +95,120 @@ class Job(db.Model):
     def get_count(cls):
         return cls.query.count()
 
-    # Not sure why this doesn't work
-    # @classmethod
-    # def get_jobs(cls, page=1, per_page=50):
-    #     return cls.query.paginate(page, per_page, False)
     @classmethod
     def get_jobs(cls, page=1, per_page=50):
-        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+        jobs = cls.query.limit(per_page).offset((page - 1) * per_page).all()
+        jobs = [
+            {
+                key: value
+                for key, value in job.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for job in jobs
+        ]
+        num = cls.get_count() // per_page
+        page = [{"current_page": page, "per_page": per_page, "total": num}]
+        return page, jobs
+
+    @classmethod
+    def get_job(cls, id):
+        return cls.query.filter_by(Id=id).first()
+
+    @classmethod
+    def get_job_details(cls, id):
+        job = cls.query.filter_by(Id=id).first()
+        occupation = Occupation.query.filter_by(onetCode=job.OnetCode).first()
+        # TODO: Update all methods to return a dict instead of an object in this format
+        job = {
+            key: value
+            for key, value in job.__dict__.items()
+            if key != "_sa_instance_state"
+        }
+        occupation = {
+            key: value
+            for key, value in occupation.__dict__.items()
+            if key != "_sa_instance_state"
+        }
+
+        merged = merge_dicts(job=job, occupation=occupation)
+        courses = Course.get_courses_by_onet(occupation["onetCode"])
+        courses = [
+            {
+                key: value
+                for key, value in course.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for course in courses
+        ]
+
+        return merged, courses
+
+    @classmethod
+    def get_jobs_by_onet(cls, onet, page=1, per_page=50):
+        jobs = (
+            cls.query.filter_by(OnetCode=onet)
+            .limit(per_page)
+            .offset((page - 1) * per_page)
+            .all()
+        )
+        jobs = [
+            {
+                key: value
+                for key, value in job.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for job in jobs
+        ]
+        num = cls.get_count() // per_page
+
+        page = [{"current_page": page, "per_page": per_page, "total": num}]
+
+        return page, jobs
+    
+    @classmethod
+    def get_jobs_by_location(cls, location, page=1, per_page=50):
+        jobs = (
+            cls.query.filter_by(JCityID=location)
+            .limit(per_page)
+            .offset((page - 1) * per_page)
+            .all()
+        )
+        jobs = [
+            {
+                key: value
+                for key, value in job.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for job in jobs
+        ]
+        num = cls.get_count() // per_page
+
+        page = [{"current_page": page, "per_page": per_page, "total": num}]
+
+        return page, jobs
+
+    @classmethod
+    def get_jobs_by_cluster(cls, cluster, page=1, per_page=50):
+        occupations = Occupation.get_occupation_by_cluster(cluster)
+        onets = [occupation["onetCode"] for occupation in occupations]
+        jobs = (
+            cls.query.filter(cls.OnetCode.in_(onets))
+            .limit(per_page)
+            .offset((page - 1) * per_page)
+            .all()
+        )
+        jobs = [
+            {
+                key: value
+                for key, value in job.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for job in jobs
+        ]
+        num = cls.get_count() // per_page
+        page = [{"current_page": page, "per_page": per_page, "total": num}]
+
+        return page, jobs
 
 
 class Basic_Skill(db.Model):
@@ -131,8 +275,28 @@ class Course(db.Model):
     Description = db.Column(db.Text)
 
     @classmethod
+    def get_count(cls):
+        return cls.query.count()
+
+    @classmethod
     def get_courses(cls, page=1, per_page=50):
-        return cls.query.limit(per_page).offset((page - 1) * per_page).all()
+        courses = cls.query.limit(per_page).offset((page - 1) * per_page).all()
+        num = cls.get_count() // per_page
+        return courses, num
+
+    @classmethod
+    def get_course(cls, id):
+        course = cls.query.filter_by(Id=id).first()
+        course = {
+            key: value
+            for key, value in course.__dict__.items()
+            if key != "_sa_instance_state"
+        }
+        return course
+
+    @classmethod
+    def get_courses_by_onet(cls, onet):
+        return cls.query.filter_by(OnetCode=onet).all()
 
 
 class Occupation(db.Model):
@@ -164,6 +328,29 @@ class Occupation(db.Model):
     def get_occupations(cls, page=1, per_page=50):
         return cls.query.limit(per_page).offset((page - 1) * per_page).all()
 
+    @classmethod
+    def get_occupation(cls, id):
+        occ = cls.query.filter_by(onetCode=id).first()
+        occ = {
+            key: value
+            for key, value in occ.__dict__.items()
+            if key != "_sa_instance_state"
+        }
+        return occ
+
+    @classmethod
+    def get_occupation_by_cluster(cls, id):
+        occupations = cls.query.filter_by(cluster=id).all()
+        occupations = [
+            {
+                key: value
+                for key, value in job.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for job in occupations
+        ]
+        return occupations
+
 
 class Industry(db.Model):
     __tablename__ = "industries"
@@ -179,3 +366,13 @@ class Industry(db.Model):
     @classmethod
     def get_clusters(cls):
         return cls.query.all()
+
+    @classmethod
+    def get_cluster(cls, id):
+        cluster = cls.query.filter_by(Code=id).first()
+        cluster = {
+            key: value
+            for key, value in cluster.__dict__.items()
+            if key != "_sa_instance_state"
+        }
+        return cluster

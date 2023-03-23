@@ -36,6 +36,9 @@ function CustomBar() {
             <Nav.Link as={Link} to="/Locations">
               Locations
             </Nav.Link>
+            <Nav.Link as={Link} to="/Clusters">
+              Clusters
+            </Nav.Link>
             <Nav.Link as={Link} to="/Contact">
               Contact
             </Nav.Link>

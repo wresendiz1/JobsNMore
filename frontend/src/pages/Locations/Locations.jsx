@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Container from "react-bootstrap/esm/Container";
-import Table from "react-bootstrap/Table";
+import { ListGroup, Container, Card, Button } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import MainLayout from "../../components/Layout/MainLayout";
 
 function Locations() {
@@ -18,42 +18,53 @@ function Locations() {
   return (
     <MainLayout>
       <h1 className="text-center py-5">Locations</h1>
-      <Container className="align-items-center min-vh-100">
-        <Table className="table table-bordered table-striped">
-          <thead>
-            <tr>
-              <th>City</th>
-              <th>State</th>
-              <th>Population</th>
-              <th>Budget</th>
-              <th>Safety</th>
-              <th>Average Rating</th>
-              <th>Guide</th>
-            </tr>
-          </thead>
-          <tbody>
-            {locations &&
-              locations.map((location) => (
-                <tr key={location["CityID"]}>
-                  <td>{location["City"]}</td>
-                  <td>{location["State"]}</td>
-                  <td>{location["Population"]}</td>
-                  <td>{location["Budget"]}</td>
-                  <td>{location["Safety"]}</td>
-                  <td>{location["Average_rat"]}</td>
-                  <td>
-                    <a
-                      href={location["Guide"]}
+
+      <Container className="d-flex flex-wrap justify-content-center">
+        {locations &&
+          locations.map((location) => (
+            <Card
+              key={location.CityID}
+              className="m-3"
+              style={{ width: "18rem" }}
+            >
+              <Card.Body>
+                <Card.Title>
+                  {location.City}, {location.State}
+                </Card.Title>
+                <Card.Subtitle className="mb-2 text-muted">
+                  Population: {location.Population}
+                </Card.Subtitle>
+                {/* TODO: query occupation DB to get average pay or use google API in next phase */}
+                <Card.Text>{location.Description}</Card.Text>
+
+                <ListGroup>
+                  <ListGroup.Item>Budget: {location.Budget}</ListGroup.Item>
+                  <ListGroup.Item>Safety: {location.Safety}</ListGroup.Item>
+                  <ListGroup.Item>
+                    Average Rating: {location.Average_rat}
+                  </ListGroup.Item>
+                </ListGroup>
+                <ListGroup>
+                  <ListGroup.Item>
+                    <Link
+                      to={`/Locations/${location.CityID}`}
+                      className="btn btn-primary mx-2"
+                    >
+                      View Info
+                    </Link>
+                    <Button
+                      variant="primary"
+                      href={location.Guide}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      View
-                    </a>
-                  </td>
-                </tr>
-              ))}
-          </tbody>
-        </Table>
+                      Guide
+                    </Button>
+                  </ListGroup.Item>
+                </ListGroup>
+              </Card.Body>
+            </Card>
+          ))}
       </Container>
     </MainLayout>
   );

@@ -1,6 +1,11 @@
 import React, { lazy, Suspense } from "react";
 import ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import {
+  createBrowserRouter,
+  Route,
+  createRoutesFromElements,
+  RouterProvider,
+} from "react-router-dom";
 import Load from "./pages/Load/Load";
 
 const Home = lazy(() => import("./pages/Home/Home"));
@@ -12,6 +17,14 @@ const Skills = lazy(() => import("./pages/Skills/Skills"));
 const Locations = lazy(() => import("./pages/Locations/Locations"));
 const Occupations = lazy(() => import("./pages/Occupations/Occupations"));
 const Clusters = lazy(() => import("./pages/Clusters/Clusters"));
+const ViewJob = lazy(() => import("./pages/Jobs/ViewJob"));
+const ViewLocation = lazy(() => import("./pages/Locations/ViewLocation"));
+const OnetJobs = lazy(() => import("./pages/Jobs/OnetJobs"));
+const ViewCluster = lazy(() => import("./pages/Clusters/ViewCluster"));
+const ClusterJobs = lazy(() => import("./pages/Jobs/ClusterJobs"));
+const ViewCourse = lazy(() => import("./pages/Courses/ViewCourse"));
+const ViewOccupation = lazy(() => import("./pages/Occupations/ViewOccupation"));
+const LocationJobs = lazy(() => import("./pages/Jobs/LocationJobs"));
 
 const router = createBrowserRouter([
   {
@@ -39,10 +52,53 @@ const router = createBrowserRouter([
     ),
   },
   {
+    path: "/Jobs/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <ViewJob />
+      </Suspense>
+    ),
+  },
+
+  {
+    path: "/Jobs/occupation/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <OnetJobs />
+      </Suspense>
+    ),
+  },
+
+  {
+    path: "/Jobs/locations/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <LocationJobs />
+      </Suspense>
+    ),
+  },
+
+  {
+    path: "/Jobs/cluster/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <ClusterJobs />
+      </Suspense>
+    ),
+  },
+  {
     path: "/Occupations",
     element: (
       <Suspense fallback={<Load />}>
         <Occupations />
+      </Suspense>
+    ),
+  },
+  {
+    path: "/Occupations/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <ViewOccupation/>
       </Suspense>
     ),
   },
@@ -62,6 +118,15 @@ const router = createBrowserRouter([
       </Suspense>
     ),
   },
+
+  {
+    path: "/Courses/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <ViewCourse />
+      </Suspense>
+    ),
+  },
   {
     path: "/Locations",
     element: (
@@ -71,10 +136,27 @@ const router = createBrowserRouter([
     ),
   },
   {
+    path: "/Locations/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <ViewLocation />
+      </Suspense>
+    ),
+  },
+  {
     path: "/Clusters",
     element: (
       <Suspense fallback={<Load />}>
         <Clusters />
+      </Suspense>
+    ),
+  },
+
+  {
+    path: "/Clusters/:id",
+    element: (
+      <Suspense fallback={<Load />}>
+        <ViewCluster />
       </Suspense>
     ),
   },

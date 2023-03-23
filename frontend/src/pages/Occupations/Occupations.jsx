@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
+import { Card, Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import Container from "react-bootstrap/esm/Container";
-import Table from "react-bootstrap/Table";
 import MainLayout from "../../components/Layout/MainLayout";
 
 function Occupations() {
@@ -12,64 +13,70 @@ function Occupations() {
       .then((data) => {
         setOccupations(data["Occupations"]);
         setPage(data["Page"]);
-        // data['Occupations'].map((job) => {
-        //   console.log(job["Id"])
-        //   });
       })
       .catch((err) => console.log(err));
   }, []);
   return (
     <MainLayout>
       <h1 className="text-center py-5">Occupations</h1>
-      <Container className="align-items-center min-vh-100">
-        <Table className="table table-bordered table-striped">
-          <thead>
-            <tr>
-              <th>Onet Code</th>
-              <th>Cluster</th>
-              <th>General Title</th>
-              <th>Description</th>
-              <th>Median Wage</th>
-              <th>90th Wage</th>
-              <th>Outlook</th>
-              <th>Outlook Category</th>
-              <th>Current Employment</th>
-              <th>Projected Employment</th>
-              <th>Percent Change</th>
-              <th>BLS</th>
-            </tr>
-          </thead>
-          <tbody>
-            {occupations &&
-              occupations.map((occupation) => (
-                <tr key={occupation["OnetCode"]}>
-                  <td>{occupation["OnetCode"]}</td>
-                  <td>{occupation["cluster"]}</td>
-                  <td>{occupation["title"]}</td>
-                  <td>{occupation["description"]}</td>
-                  <td>{occupation["median_wage"]}</td>
-                  <td>{occupation["pct90_wage"]}</td>
-                  <td>{occupation["outlook"]}</td>
-                  <td>{occupation["outlook_category"]}</td>
-                  <td>{occupation["curr_employment"]}</td>
-                  <td>{occupation["proj_openings"]}</td>
-                  <td>{occupation["percent_change"]}</td>
-                  <td>
+      <Container>
+        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
+          {occupations &&
+            occupations.map((occupation) => (
+              <Col key={occupation["OnetCode"]}>
+              <Card  className="m-3">
+                <Card.Body>
+                  <Card.Title>{occupation["title"]}</Card.Title>
+                  <Card.Subtitle className="mb-2 text-muted">
+                    {occupation["cluster"]}
+                  </Card.Subtitle>
+                  
+
+                  {/* <Card.Text>{occupation["description"]}</Card.Text> */}
+                  {/* <Card.Text>
+                    Median Wage: {occupation["median_wage"]}
+                  </Card.Text>
+                  <Card.Text>90th Wage: {occupation["pct90_wage"]}</Card.Text>
+                  <Card.Text>Outlook: {occupation["outlook"]}</Card.Text>
+                  <Card.Text>
+                    Outlook Category: {occupation["outlook_category"]}
+                  </Card.Text>
+                  <Card.Text>
+                    Current Employment: {occupation["curr_employment"]}
+                  </Card.Text>
+                  <Card.Text>
+                    Projected Employment: {occupation["proj_openings"]}
+                  </Card.Text>
+                  <Card.Text>
+                    Percent Change: {occupation["percent_change"]}
+                  </Card.Text>
+                  <Card.Text>
                     <a
                       href={occupation["bls"]}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      View
+                      BLS
                     </a>
-                  </td>
-                </tr>
-              ))}
-          </tbody>
-        </Table>
+                  </Card.Text> */}
+                  {/* <Link to={`/jobs/occupation/${occupation.OnetCode}`} className="btn btn-primary mx-2">
+                  Find Jobs
+                </Link> */}
+                <Link to={`/Occupations/${occupation.OnetCode}`} className="btn btn-primary mx-2">
+                  Info
+                </Link>
+                <Link to={`/Clusters/${occupation.cluster}`} className="btn btn-info mx-2">
+                      Cluster Info
+                    </Link>
+                </Card.Body>
+              </Card>
+              </Col>
+            ))}
+        </Row>
       </Container>
     </MainLayout>
   );
 }
+
 
 export default Occupations;

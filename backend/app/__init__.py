@@ -80,38 +80,84 @@ def create_app(config=None):
         per_page = args.get("per_page", 50, type=int)
         return page, per_page
 
-    # @app.route("/jobs", methods=["GET"], defaults={"page": 1, "per_page": 50})
-    # @app.route("/jobs/<int:page>/<int:per_page>", methods=["GET"])
     @app.route("/jobs", methods=["GET"])
     def jobs():
         # Query parameters
         # Example: http://localhost:5000/jobs?page=20&per_page=100
-        page, per_page = get_query_page(request.args)
+        pg, per_page = get_query_page(request.args)
 
-        jobs = Job.get_jobs(page, per_page)
+        page, jobs = Job.get_jobs(pg, per_page)
+        
         job_dict = {
-            "Page": [
-                {
-                    "CurrentPage": page,
-                    "Count": per_page,
-                }
-            ],
-            "Jobs": [
-                {
-                    "Id": job.Id,
-                    "JobTitle": job.JobTitle,
-                    "Company": job.Company,
-                    "DatePosted": job.DatePosted,
-                    "Url": job.Url,
-                    "Location": job.JobLocation,
-                    "OnetCode": job.OnetCode,
-                    "JCityID": job.JCityID,
-                }
-                for job in jobs
-            ],
+            "Page": 
+                page
+            ,
+            "Jobs": 
+                jobs
+            ,
         }
 
         return jsonify(job_dict)
+    
+    @app.route("/jobs/onet/<onetCode>", methods=["GET"])
+    def get_jobs_by_onet(onetCode):
+        pg, per_page = get_query_page(request.args)
+        
+        page, jobs = Job.get_jobs_by_onet(onetCode, pg, per_page)
+        
+        job_dict = {
+            "Page": 
+                page
+            ,
+            "Jobs": 
+                jobs
+            ,
+        }
+
+        return jsonify(job_dict)
+    
+    @app.route("/jobs/cluster/<cluster>", methods=["GET"])
+    def get_jobs_by_cluster(cluster):
+        pg, per_page = get_query_page(request.args)
+        
+        page, jobs = Job.get_jobs_by_cluster(cluster, pg, per_page)
+        
+        job_dict = {
+            "Page": 
+                page
+            ,
+            "Jobs": 
+                jobs
+            ,
+        }
+
+        return jsonify(job_dict)
+    
+    @app.route("/jobs/location/<location>", methods=["GET"])
+    def get_jobs_by_location(location):
+        pg, per_page = get_query_page(request.args)
+        
+        page, jobs = Job.get_jobs_by_location(location, pg, per_page)
+        
+        job_dict = {
+            "Page": 
+                page
+            ,
+            "Jobs": 
+                jobs
+            ,
+        }
+
+        return jsonify(job_dict)
+    
+    @app.route("/jobs/<Id>", methods=["GET"])
+    def get_job(Id):
+        job, courses = Job.get_job_details(Id)
+        
+        
+        return jsonify(job, courses)
+    
+
 
     # TODO: Add tech skills, basic skills
     @app.route("/clusters", methods=["GET"])
@@ -131,6 +177,12 @@ def create_app(config=None):
         }
 
         return jsonify(cluster_dict)
+    
+    @app.route("/clusters/<code>", methods=["GET"])
+    def get_cluster(code):
+        cluster = Industry.get_cluster(code)
+        
+        return jsonify(cluster)
 
     @app.route("/occupations", methods=["GET"])
     def occupations():
@@ -164,17 +216,23 @@ def create_app(config=None):
             ],
         }
         return jsonify(occupations_dict)
+    
+    @app.route("/occupations/<onetCode>", methods=["GET"])
+    def get_ocupation(onetCode):
+        occupation = Occupation.get_occupation(onetCode)
+        return jsonify(occupation)
 
     @app.route("/courses", methods=["GET"])
     def courses():
         page, per_page = get_query_page(request.args)
 
-        courses = Course.get_courses(page, per_page)
+        courses, num = Course.get_courses(page, per_page)
         course_dict = {
             "Page": [
                 {
-                    "CurrentPage": page,
-                    "Count": per_page,
+                    "current_page": page,
+                    "per_page": per_page,
+                    "total": num,
                 }
             ],
             "Courses": [
@@ -193,10 +251,10 @@ def create_app(config=None):
 
         return jsonify(course_dict)
 
-    # @app.route("/courses/<course_id>")
-    # def view_course(course_id):
-    #     course = data_dict.courses[course_id]
-    #     return course
+    @app.route("/courses/<Id>", methods=["GET"])
+    def get_course(Id):
+        course = Course.get_course(Id)
+        return jsonify(course)
 
     @app.route("/locations", methods=["GET"])
     def locations():
@@ -205,8 +263,8 @@ def create_app(config=None):
         locations_dict = {
             "Page": [
                 {
-                    "CurrentPage": page,
-                    "Count": per_page,
+                    "current_page": page,
+                    "per_page": per_page,
                 }
             ],
             "Locations": [
@@ -228,11 +286,13 @@ def create_app(config=None):
         }
 
         return jsonify(locations_dict)
+    
+    @app.route("/locations/<Id>", methods=["GET"])
+    def get_location(Id):
+        location, jobs = Location.get_location_details(Id)
+        
+        return jsonify(location, jobs)
 
-    # @app.route("/locations/<location_id>")
-    # def view_location(location_id):
-    #     location = data_dict.locations[location_id]
-    #     return location
 
     @app.route("/basic_skills", methods=["GET"])
     def basic_skils():
