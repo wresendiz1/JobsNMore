@@ -43,7 +43,7 @@ def create_app(config=None):
 
     with app.app_context():
         # add the string in run.py to initialize/reset the database
-        if config == "initialize":
+        if config == "intialize_db":
             db.drop_all()
             db.create_all()
             create_locations()

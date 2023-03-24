@@ -12,7 +12,7 @@ function scope if you need to isolate errors between tests."""
 
 @pytest.fixture(scope="session")
 def app():
-    app = create_app("initialize")
+    app = create_app("intialize_db")
     app.config.update(
         {
             "TESTING": True,
