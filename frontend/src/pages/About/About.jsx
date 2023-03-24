@@ -7,6 +7,8 @@ import MainLayout from "../../components/Layout/MainLayout";
 import Logo from "../../images/logos/png/logo-no-slogan.png";
 import AboutCard from "../../components/AboutCard/AboutCard";
 import Spinner from "../../components/Spinner/Spinner";
+import { Link } from "react-router-dom";
+import { Button } from "react-bootstrap";
 
 function About() {
   /*   lazy initial state, runs only once, once we have our data in session storage this
@@ -16,6 +18,7 @@ function About() {
     const cached = sessionStorage.getItem("about");
     return cached ? JSON.parse(cached) : null;
   });
+  const [test, setTest] = useState([]);
 
   // fetch data from backend and store in state and cache
   useEffect(() => {
@@ -28,7 +31,17 @@ function About() {
         })
         .catch((err) => console.log(err));
     }
-  }, []);
+  }, [test]);
+
+  const runTests = () => {
+    fetch("/test")
+      .then((res) => res.text())
+      .then((data) => {
+        setTest(data);
+      })
+      .catch((err) => console.log(err));
+  };
+
   return (
     <MainLayout>
       <Container fluid className="h-50 bg-gradient2">
@@ -48,6 +61,19 @@ function About() {
             </Col>
           </Row>
         </Container>
+      </Container>
+      <h1 className="text-center py-5">Unit Testing</h1>
+      <Container className = "justify-content-center">
+        <Row>
+          <Col className="text-center">
+            <Button  variant="primary" onClick={runTests} className= 'mx-auto'>
+              Run Unit Tests
+            </Button>
+          </Col>
+          <Col className="text-center">
+            <p>{test && test}</p>
+          </Col>
+        </Row>
       </Container>
       {!data ? <Spinner /> : <AboutCard data={data} />}
     </MainLayout>

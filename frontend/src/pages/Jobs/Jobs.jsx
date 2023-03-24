@@ -7,14 +7,6 @@ import PaginationBar from "../../components/Pagination/Pagination";
 function Jobs() {
   const [page, setPage] = useState();
   const [jobs, setJobs] = useState();
-  // const params = {
-  //   current_page: 1,
-  //   per_page: 20,
-  // };
-  // const options = {
-  //   method: "GET",
-  //   body: JSON.stringify(params),
-  // };
   useEffect(() => {
     fetch("/jobs")
       .then((res) => res.json())
@@ -54,15 +46,15 @@ function Jobs() {
           jobs.map((job) => (
             <Card key={job["Id"]} className="m-3" style={{ width: "18rem" }}>
               <Card.Body>
-                <Card.Title>{job["JobTitle"]}</Card.Title>
+                <Card.Title>{job.JobTitle}</Card.Title>
                 <Card.Subtitle className="mb-2 text-muted">
-                  {job["Company"]}
+                  {job.Company}
                 </Card.Subtitle>
                 {/* TODO: query occupation DB to get average pay or use google API in next phase */}
-                <Card.Text>{job["Location"]}</Card.Text>
+                <Card.Text>{job.Location}</Card.Text>
                 <Button
                   variant="primary"
-                  href={job["Url"]}
+                  href={job.Url}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
