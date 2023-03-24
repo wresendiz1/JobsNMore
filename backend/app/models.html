@@ -1,0 +1,937 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module models</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>models</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Cjavie%5Conedrive%5Cdesktop%5Ccs331e%5Ccs331e-idb%5Cbackend%5Capp%5Cmodels.py">c:\users\javie\onedrive\desktop\cs331e\cs331e-idb\backend\app\models.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial">sqlalchemy.orm.decl_api.Model(<a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>)
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="models.html#Basic_Skill">Basic_Skill</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Course">Course</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Dbasic_Skill">Dbasic_Skill</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Dtech_Skill">Dtech_Skill</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Industry">Industry</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Job">Job</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Location">Location</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Occupation">Occupation</a>
+</font></dt><dt><font face="helvetica, arial"><a href="models.html#Tech_Skill">Tech_Skill</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Basic_Skill">class <strong>Basic_Skill</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Basic_Skill">Basic_Skill</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Basic_Skill">Basic_Skill</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Basic_Skill-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="Basic_Skill-get_basic_skills"><strong>get_basic_skills</strong></a>()<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Description</strong></dt>
+</dl>
+<dl><dt><strong>Id</strong></dt>
+</dl>
+<dl><dt><strong>Name</strong></dt>
+</dl>
+<dl><dt><strong>OnetCodes</strong></dt>
+</dl>
+<dl><dt><strong>dbasic</strong></dt>
+</dl>
+<dl><dt><strong>occupations</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be16590; Basic_Skill&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('basic_skills', MetaData(), Column('Id', S...(length=30)), table=&lt;basic_skills&gt;), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'basic_skills'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Basic_Skill-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Course">class <strong>Course</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Course">Course</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Course">Course</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Course-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="Course-get_count"><strong>get_count</strong></a>()<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Course-get_course"><strong>get_course</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Course-get_courses"><strong>get_courses</strong></a>(page=1, per_page=50)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Course-get_courses_by_onet"><strong>get_courses_by_onet</strong></a>(onet)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Description</strong></dt>
+</dl>
+<dl><dt><strong>Id</strong></dt>
+</dl>
+<dl><dt><strong>Name</strong></dt>
+</dl>
+<dl><dt><strong>OnetCode</strong></dt>
+</dl>
+<dl><dt><strong>Provider</strong></dt>
+</dl>
+<dl><dt><strong>Type</strong></dt>
+</dl>
+<dl><dt><strong>Url</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be17b50; Course&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('courses', MetaData(), Column('Id', String...cription', Text(), table=&lt;courses&gt;), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'courses'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Course-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Dbasic_Skill">class <strong>Dbasic_Skill</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Dbasic_Skill">Dbasic_Skill</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Dbasic_Skill">Dbasic_Skill</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Dbasic_Skill-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Id</strong></dt>
+</dl>
+<dl><dt><strong>Importance</strong></dt>
+</dl>
+<dl><dt><strong>OnetCode</strong></dt>
+</dl>
+<dl><dt><strong>Score_value</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be16da0; Dbasic_Skill&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('dbasic_skills', MetaData(), Column('Id', ...(length=20), table=&lt;dbasic_skills&gt;), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'dbasic_skills'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Dbasic_Skill-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Dtech_Skill">class <strong>Dtech_Skill</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Dtech_Skill">Dtech_Skill</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Dtech_Skill">Dtech_Skill</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Dtech_Skill-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Example</strong></dt>
+</dl>
+<dl><dt><strong>Hot_technology</strong></dt>
+</dl>
+<dl><dt><strong>Id</strong></dt>
+</dl>
+<dl><dt><strong>OnetCode</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be17970; Dtech_Skill&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('dtech_skills', MetaData(), Column('Id', S...', BOOLEAN(), table=&lt;dtech_skills&gt;), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'dtech_skills'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Dtech_Skill-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Industry">class <strong>Industry</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Industry">Industry</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Industry">Industry</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Industry-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="Industry-get_cluster"><strong>get_cluster</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Industry-get_clusters"><strong>get_clusters</strong></a>()<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Code</strong></dt>
+</dl>
+<dl><dt><strong>Group</strong></dt>
+</dl>
+<dl><dt><strong>Job_codes</strong></dt>
+</dl>
+<dl><dt><strong>Median_wage</strong></dt>
+</dl>
+<dl><dt><strong>Url</strong></dt>
+</dl>
+<dl><dt><strong>occupations</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be75390; Industry&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('industries', MetaData(), Column('Code', S...ng(length=200), table=&lt;industries&gt;), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'industries'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Industry-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Job">class <strong>Job</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Job">Job</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Job">Job</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Job-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="Job-get_count"><strong>get_count</strong></a>()<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Job-get_job"><strong>get_job</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Job-get_job_details"><strong>get_job_details</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Job-get_jobs"><strong>get_jobs</strong></a>(page=1, per_page=50)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Job-get_jobs_by_cluster"><strong>get_jobs_by_cluster</strong></a>(cluster, page=1, per_page=50)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Job-get_jobs_by_location"><strong>get_jobs_by_location</strong></a>(location, page=1, per_page=50)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Job-get_jobs_by_onet"><strong>get_jobs_by_onet</strong></a>(onet, page=1, per_page=50)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Company</strong></dt>
+</dl>
+<dl><dt><strong>DatePosted</strong></dt>
+</dl>
+<dl><dt><strong>Id</strong></dt>
+</dl>
+<dl><dt><strong>JCityID</strong></dt>
+</dl>
+<dl><dt><strong>JobLocation</strong></dt>
+</dl>
+<dl><dt><strong>JobTitle</strong></dt>
+</dl>
+<dl><dt><strong>OnetCode</strong></dt>
+</dl>
+<dl><dt><strong>Url</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be154b0; Job&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('jobs', MetaData(), Column('Id', String(le...ID'), table=&lt;jobs&gt;, nullable=False), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'jobs'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Job-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Location">class <strong>Location</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Location">Location</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Location">Location</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Location-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="Location-get_location"><strong>get_location</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Location-get_location_details"><strong>get_location_details</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Location-get_locations"><strong>get_locations</strong></a>(page=1, per_page=30)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Average_rat</strong></dt>
+</dl>
+<dl><dt><strong>Budget</strong></dt>
+</dl>
+<dl><dt><strong>City</strong></dt>
+</dl>
+<dl><dt><strong>CityID</strong></dt>
+</dl>
+<dl><dt><strong>Guide</strong></dt>
+</dl>
+<dl><dt><strong>Photos</strong></dt>
+</dl>
+<dl><dt><strong>Population</strong></dt>
+</dl>
+<dl><dt><strong>Safety</strong></dt>
+</dl>
+<dl><dt><strong>State</strong></dt>
+</dl>
+<dl><dt><strong>job</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be14bb0; Location&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('locations', MetaData(), Column('City', St... table=&lt;locations&gt;, nullable=False), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'locations'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Location-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Occupation">class <strong>Occupation</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Occupation">Occupation</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Occupation">Occupation</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Occupation-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="Occupation-get_occupation"><strong>get_occupation</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Occupation-get_occupation_by_cluster"><strong>get_occupation_by_cluster</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<dl><dt><a name="Occupation-get_occupations"><strong>get_occupations</strong></a>(page=1, per_page=50)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>basic</strong></dt>
+</dl>
+<dl><dt><strong>bls</strong></dt>
+</dl>
+<dl><dt><strong>cluster</strong></dt>
+</dl>
+<dl><dt><strong>course</strong></dt>
+</dl>
+<dl><dt><strong>curr_employment</strong></dt>
+</dl>
+<dl><dt><strong>description</strong></dt>
+</dl>
+<dl><dt><strong>job</strong></dt>
+</dl>
+<dl><dt><strong>median_wage</strong></dt>
+</dl>
+<dl><dt><strong>onetCode</strong></dt>
+</dl>
+<dl><dt><strong>outlook</strong></dt>
+</dl>
+<dl><dt><strong>outlook_category</strong></dt>
+</dl>
+<dl><dt><strong>pct90_wage</strong></dt>
+</dl>
+<dl><dt><strong>percent_change</strong></dt>
+</dl>
+<dl><dt><strong>proj_openings</strong></dt>
+</dl>
+<dl><dt><strong>tech</strong></dt>
+</dl>
+<dl><dt><strong>title</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be74b20; Occupation&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('occupations', MetaData(), Column('onetCod...'bls', Text(), table=&lt;occupations&gt;), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'occupations'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Occupation-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Tech_Skill">class <strong>Tech_Skill</strong></a>(sqlalchemy.orm.decl_api.Model)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt><a href="#Tech_Skill">Tech_Skill</a>(**kwargs)<br>
+&nbsp;<br>
+<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="models.html#Tech_Skill">Tech_Skill</a></dd>
+<dd>sqlalchemy.orm.decl_api.Model</dd>
+<dd><a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a></dd>
+<dd><a href="builtins.html#object">builtins.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="Tech_Skill-__init__"><strong>__init__</strong></a>(self, **kwargs)</dt><dd><tt>A&nbsp;simple&nbsp;constructor&nbsp;that&nbsp;allows&nbsp;initialization&nbsp;from&nbsp;kwargs.<br>
+&nbsp;<br>
+Sets&nbsp;attributes&nbsp;on&nbsp;the&nbsp;constructed&nbsp;instance&nbsp;using&nbsp;the&nbsp;names&nbsp;and<br>
+values&nbsp;in&nbsp;``kwargs``.<br>
+&nbsp;<br>
+Only&nbsp;keys&nbsp;that&nbsp;are&nbsp;present&nbsp;as<br>
+attributes&nbsp;of&nbsp;the&nbsp;instance's&nbsp;class&nbsp;are&nbsp;allowed.&nbsp;These&nbsp;could&nbsp;be,<br>
+for&nbsp;example,&nbsp;any&nbsp;mapped&nbsp;columns&nbsp;or&nbsp;relationships.</tt></dd></dl>
+
+<hr>
+Class methods defined here:<br>
+<dl><dt><a name="Tech_Skill-get_tech_skills"><strong>get_tech_skills</strong></a>(page=1, per_page=20)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>Description</strong></dt>
+</dl>
+<dl><dt><strong>Id</strong></dt>
+</dl>
+<dl><dt><strong>Name</strong></dt>
+</dl>
+<dl><dt><strong>OnetCodes</strong></dt>
+</dl>
+<dl><dt><strong>dtech</strong></dt>
+</dl>
+<dl><dt><strong>occupations</strong></dt>
+</dl>
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be17310; Tech_Skill&gt;</dl>
+
+<dl><dt><strong>__table__</strong> = Table('tech_skills', MetaData(), Column('Id', St...g(length=30)), table=&lt;tech_skills&gt;), schema=None)</dl>
+
+<dl><dt><strong>__tablename__</strong> = 'tech_skills'</dl>
+
+<hr>
+Methods inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>query</strong></dt>
+</dl>
+
+<hr>
+Data and other attributes inherited from sqlalchemy.orm.decl_api.Model:<br>
+<dl><dt><strong>__abstract__</strong> = True</dl>
+
+<dl><dt><strong>__fsa__</strong> = &lt;SQLAlchemy&gt;</dl>
+
+<dl><dt><strong>metadata</strong> = MetaData()</dl>
+
+<dl><dt><strong>query_class</strong> = &lt;class 'flask_sqlalchemy.query.Query'&gt;<dd><tt>SQLAlchemy&nbsp;:class:`~sqlalchemy.orm.query.Query`&nbsp;subclass&nbsp;with&nbsp;some&nbsp;extra&nbsp;methods<br>
+useful&nbsp;for&nbsp;querying&nbsp;in&nbsp;a&nbsp;web&nbsp;application.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;the&nbsp;default&nbsp;query&nbsp;class&nbsp;for&nbsp;:attr:`.Model.query`.<br>
+&nbsp;<br>
+..&nbsp;versionchanged::&nbsp;3.0<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Renamed&nbsp;to&nbsp;``Query``&nbsp;from&nbsp;``BaseQuery``.</tt></dl>
+
+<dl><dt><strong>registry</strong> = &lt;sqlalchemy.orm.decl_api.registry object&gt;</dl>
+
+<hr>
+Methods inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><a name="Tech_Skill-__repr__"><strong>__repr__</strong></a>(self) -&gt; 'str'</dt><dd><tt>Return&nbsp;repr(self).</tt></dd></dl>
+
+<hr>
+Data descriptors inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Model">flask_sqlalchemy.model.Model</a>:<br>
+<dl><dt><strong>__annotations__</strong> = {'__fsa__': 't.ClassVar[SQLAlchemy]', 'query': 't.ClassVar[Query]', 'query_class': 't.ClassVar[type[Query]]'}</dl>
+
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-merge_dicts"><strong>merge_dicts</strong></a>(**dict_args)</dt></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>basic_jobs</strong> = Table('basic_jobs', MetaData(), Column('onetcode..., primary_key=True, nullable=False), schema=None)<br>
+<strong>db</strong> = &lt;SQLAlchemy&gt;<br>
+<strong>tech_jobs</strong> = Table('tech_jobs', MetaData(), Column('onetcode'...ech_skills.Id'), table=&lt;tech_jobs&gt;), schema=None)</td></tr></table>
+</body></html>

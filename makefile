@@ -24,3 +24,7 @@ run-back-test:
 	
 run-front:
 	cd frontend && npm run start
+
+VPATH = backend/app
+models.html: models.py
+	cd ./backend/app && python -m pydoc -w models
