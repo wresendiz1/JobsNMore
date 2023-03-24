@@ -1,3 +1,100 @@
+commit 1077b52ff901eaa3adceadd0849ab349ed20c016
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Thu Mar 23 21:46:45 2023 -0500
+
+    Pydoc for models.py
+
+commit 551f5b298c08ad6d2c6835b3293980dfc39bbd32
+Author: bobo-1232 <javierr8906@gmail.com>
+Date:   Thu Mar 23 20:28:54 2023 -0500
+
+    added pydoc for models.py
+
+commit f76096b3768d94f186ddce4ee0090f4434fe1711
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 23 19:07:50 2023 -0500
+
+    use original
+
+commit a69852326de18f264da85a5eb9d25524fb1a8c23
+Merge: a69d8dc 39af7a3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 23 19:06:30 2023 -0500
+
+    Merge branch 'main' of https://gitlab.com/javier.ramirez5/cs331e-idb
+
+commit a69d8dca35eb2b8b7f28a32aa19ac68ca858b1f3
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 23 19:05:27 2023 -0500
+
+    fetch testing
+
+commit 655d6ece4a79fa5cf391f6f1c52c4ef4d5758818
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 23 19:05:05 2023 -0500
+
+    added testing output
+
+commit 39af7a39a947bc9bedb0bcea45b50b0e9d04c476
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 22:44:16 2023 +0000
+
+    Fixed db name
+
+commit 621450658b9c8668665794765c089cf9f23ef153
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 22:25:39 2023 +0000
+
+    Update file __init__.py
+
+commit c2062d7ee241c67c22a15f7478b4c4432135acab
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 22:21:32 2023 +0000
+
+    Update file __init__.py
+
+commit d02e08d44f5dea4696b26b6504fe0c10f794a17d
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 22:10:38 2023 +0000
+
+    Update file __init__.py
+
+commit 86c1a3fb62cdbb0a6262ae496c92118f5ecb1d09
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 22:10:08 2023 +0000
+
+    Update file __init__.py
+
+commit b88160c31deb017c110d41e435aac5c4d676101e
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 22:03:22 2023 +0000
+
+    Fixe db issue
+
+commit c4ed55a996f98c90eaa7118345a54107eb6d1bfd
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 22:00:55 2023 +0000
+
+    Updated db log in for init.py
+
+commit 2257b854ca79662b5717630dff7df10aea079afa
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 21:58:37 2023 +0000
+
+    Updated app.yml for the db
+
+commit c7d64773203caf6028bea4d7f0e192f6c08aa964
+Author: Javier Ramirez <javier.ramirez5@utexas.edu>
+Date:   Thu Mar 23 21:46:41 2023 +0000
+
+    Update file run.py
+
+commit 47e9588521522b449e92182f49dbab70c490b01c
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Mar 23 14:42:21 2023 -0500
+
+    added log, deleted test folder
+
 commit 2a2e4fbefca66ca14e24ac6d537acc232f394727
 Author: wresendiz <wresendiz@utexas.edu>
 Date:   Thu Mar 23 05:52:26 2023 -0500
