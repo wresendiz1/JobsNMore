@@ -1,7 +1,7 @@
 idb1.log:
 	git log > IDB1.log
 
-idb2:
+idb2.log:
 	git log > IDB2.log
 
 install-back:

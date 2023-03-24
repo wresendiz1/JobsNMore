@@ -81,7 +81,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be16590; Basic_Skill&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b58966590; Basic_Skill&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('basic_skills', MetaData(), Column('Id', S...(length=30)), table=&lt;basic_skills&gt;), schema=None)</dl>
 
@@ -182,7 +182,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be17b50; Course&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b58967b50; Course&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('courses', MetaData(), Column('Id', String...cription', Text(), table=&lt;courses&gt;), schema=None)</dl>
 
@@ -236,7 +236,7 @@ Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Mo
 <tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
 <td colspan=2><tt><a href="#Dbasic_Skill">Dbasic_Skill</a>(**kwargs)<br>
 &nbsp;<br>
-<br>&nbsp;</tt></td></tr>
+#&nbsp;The&nbsp;two&nbsp;skills&nbsp;tables&nbsp;have&nbsp;composite&nbsp;primary&nbsp;keys<br>&nbsp;</tt></td></tr>
 <tr><td>&nbsp;</td>
 <td width="100%"><dl><dt>Method resolution order:</dt>
 <dd><a href="models.html#Dbasic_Skill">Dbasic_Skill</a></dd>
@@ -267,7 +267,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be16da0; Dbasic_Skill&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b58966da0; Dbasic_Skill&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('dbasic_skills', MetaData(), Column('Id', ...(length=20), table=&lt;dbasic_skills&gt;), schema=None)</dl>
 
@@ -352,7 +352,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be17970; Dtech_Skill&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b58967970; Dtech_Skill&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('dtech_skills', MetaData(), Column('Id', S...', BOOLEAN(), table=&lt;dtech_skills&gt;), schema=None)</dl>
 
@@ -447,7 +447,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be75390; Industry&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b589c5390; Industry&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('industries', MetaData(), Column('Code', S...ng(length=200), table=&lt;industries&gt;), schema=None)</dl>
 
@@ -556,7 +556,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be154b0; Job&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b589654b0; Job&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('jobs', MetaData(), Column('Id', String(le...ID'), table=&lt;jobs&gt;, nullable=False), schema=None)</dl>
 
@@ -610,7 +610,8 @@ Data and other attributes inherited from <a href="flask_sqlalchemy.model.html#Mo
 <tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
 <td colspan=2><tt><a href="#Location">Location</a>(**kwargs)<br>
 &nbsp;<br>
-<br>&nbsp;</tt></td></tr>
+#&nbsp;This&nbsp;is&nbsp;how&nbsp;a&nbsp;model&nbsp;is&nbsp;created&nbsp;in&nbsp;the&nbsp;db&nbsp;they&nbsp;are&nbsp;9&nbsp;models&nbsp;total&nbsp;in&nbsp;addition&nbsp;to&nbsp;the&nbsp;<br>
+#&nbsp;two&nbsp;associative&nbsp;models<br>&nbsp;</tt></td></tr>
 <tr><td>&nbsp;</td>
 <td width="100%"><dl><dt>Method resolution order:</dt>
 <dd><a href="models.html#Location">Location</a></dd>
@@ -635,7 +636,7 @@ Class methods defined here:<br>
 
 <dl><dt><a name="Location-get_location_details"><strong>get_location_details</strong></a>(id)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
 
-<dl><dt><a name="Location-get_locations"><strong>get_locations</strong></a>(page=1, per_page=30)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt></dl>
+<dl><dt><a name="Location-get_locations"><strong>get_locations</strong></a>(page=1, per_page=30)<font color="#909090"><font face="helvetica, arial"> from <a href="flask_sqlalchemy.model.html#DefaultMeta">flask_sqlalchemy.model.DefaultMeta</a></font></font></dt><dd><tt>#&nbsp;these&nbsp;are&nbsp;pointer&nbsp;function&nbsp;use&nbsp;by&nbsp;the&nbsp;frontend</tt></dd></dl>
 
 <hr>
 Data descriptors defined here:<br>
@@ -661,7 +662,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be14bb0; Location&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b58964bb0; Location&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('locations', MetaData(), Column('City', St... table=&lt;locations&gt;, nullable=False), schema=None)</dl>
 
@@ -778,7 +779,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be74b20; Occupation&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b589c4b20; Occupation&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('occupations', MetaData(), Column('onetCod...'bls', Text(), table=&lt;occupations&gt;), schema=None)</dl>
 
@@ -871,7 +872,7 @@ Data descriptors defined here:<br>
 </dl>
 <hr>
 Data and other attributes defined here:<br>
-<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x2884be17310; Tech_Skill&gt;</dl>
+<dl><dt><strong>__mapper__</strong> = &lt;Mapper at 0x26b58967310; Tech_Skill&gt;</dl>
 
 <dl><dt><strong>__table__</strong> = Table('tech_skills', MetaData(), Column('Id', St...g(length=30)), table=&lt;tech_skills&gt;), schema=None)</dl>
 
