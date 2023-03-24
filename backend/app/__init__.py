@@ -35,13 +35,13 @@ def create_app(config=None):
     )
     # to suppress a warning message
     app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
-    app.config["JSON_SORT_KEYS"] = False
+    app.json.sort_keys= False
 
     db.init_app(app)
 
     with app.app_context():
         # add the string in run.py to initialize/reset the database
-        if config == "intialize_db":
+        if config == "initialize":
             db.drop_all()
             db.create_all()
             create_locations()
@@ -56,21 +56,21 @@ def create_app(config=None):
 
     from app.gitlab import get_commits, get_issues
 
-    @app.route("/")
-    def index():
-        return "Test"
-
     @app.route("/about")
     def about():
         commits = get_commits()
         issues = get_issues()
         return [commits, issues]
 
+    @app.route("/test")
+    def test():
+        return send_file("output/tests.txt")
+    
     @app.route("/about.json")
     def about_json():
         return send_file("data/about.json")
 
-    @app.route("/test")
+    @app.route("/test_request")
     def get_locations():
         location = db.get_or_404(Location, 1)
         return location.City

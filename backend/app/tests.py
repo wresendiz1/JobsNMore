@@ -12,7 +12,7 @@ function scope if you need to isolate errors between tests."""
 
 @pytest.fixture(scope="session")
 def app():
-    app = create_app("intialize_db")
+    app = create_app("initialize")
     app.config.update(
         {
             "TESTING": True,
@@ -42,7 +42,7 @@ def runner(app):
 
 
 def test_request_example(client):
-    response = client.get("/")
+    response = client.get("/test_request")
     assert response.status_code == 200
 
 
