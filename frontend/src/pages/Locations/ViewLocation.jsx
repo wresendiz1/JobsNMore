@@ -17,7 +17,7 @@ function ViewLocation() {
   const [location, setLocation] = useState();
   const [jobs, setJobs] = useState();
   useEffect(() => {
-    fetch(`/locations/${id}`)
+    fetch(`/api/locations/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setLocation(data[0]);

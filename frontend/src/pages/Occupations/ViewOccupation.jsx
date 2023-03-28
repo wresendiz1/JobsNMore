@@ -23,7 +23,7 @@ function ViewOccupation() {
     maximumFractionDigits: 2,
   });
   useEffect(() => {
-    fetch(`/occupations/${id}`)
+    fetch(`/api/occupations/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setOccupation(data);

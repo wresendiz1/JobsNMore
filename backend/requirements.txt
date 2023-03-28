@@ -2,6 +2,7 @@ aiohttp
 astroid
 black
 dill
+flask-cors
 flask-sqlalchemy
 gunicorn
 mccabe

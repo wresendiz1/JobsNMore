@@ -6,7 +6,7 @@ import MainLayout from "../../components/Layout/MainLayout";
 function Clusters() {
   const [clusters, setClusters] = useState();
   useEffect(() => {
-    fetch("/clusters")
+    fetch("/api/clusters")
       .then((res) => res.json())
       .then((data) => {
         setClusters(data["Clusters"]);

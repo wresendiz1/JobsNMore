@@ -8,7 +8,7 @@ function Occupations() {
   const [page, setPage] = useState();
   const [occupations, setOccupations] = useState();
   useEffect(() => {
-    fetch("/occupations")
+    fetch("/api/occupations")
       .then((res) => res.json())
       .then((data) => {
         setOccupations(data["Occupations"]);

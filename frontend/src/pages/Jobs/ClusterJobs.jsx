@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { getPageData } from "../../components/Pagination/PaginationHelper";
 import Container from "react-bootstrap/esm/Container";
 import Card from "react-bootstrap/Card";
 import { Link, useParams } from "react-router-dom";
@@ -11,7 +12,7 @@ function ClusterJobs() {
   const [jobs, setJobs] = useState();
   const [page, setPage] = useState();
   useEffect(() => {
-    fetch(`/jobs/cluster/${id}`)
+    fetch(`/api/jobs/cluster/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setJobs(data["Jobs"]);
@@ -19,27 +20,15 @@ function ClusterJobs() {
         // console.log(data);
       })
       .catch((err) => console.log(err));
-
-    document.addEventListener("click", clickPaginate, true);
-
-    return () => {
-      document.removeEventListener("click", clickPaginate, true);
-    };
   }, []);
 
-  const clickPaginate = (e) => {
-    if (e.target.className === "page-link") {
-      // console.log(e.target.innerText);
-      fetch(`/jobs/cluster/${id}?page=${e.target.innerText}`)
-        .then((res) => res.json())
-        .then((data) => {
-          console.log(data);
-          setJobs(data["Jobs"]);
-          setPage(data["Page"]);
-          // console.log(data["Page"][0].total);
-        })
-        .catch((err) => console.log(err));
-    }
+  const Change = async (action) => {
+    const url = `/api/jobs/cluster/${id}?page=`;
+    getPageData(action, url, page).then((data) => {
+      setJobs(data["Jobs"]);
+      setPage(data["Page"]);
+    });
+      
   };
 
   return (
@@ -74,6 +63,7 @@ function ClusterJobs() {
       <Container className="d-flex flex-wrap justify-content-center">
         {jobs && (
           <PaginationBar
+            change={Change}
             total_pages={page[0].total}
             current_page={page[0].current_page}
           />

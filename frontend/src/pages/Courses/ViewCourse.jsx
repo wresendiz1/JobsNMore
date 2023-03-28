@@ -18,7 +18,7 @@ function ViewCourse() {
   const [course, setCourse] = useState();
 
   useEffect(() => {
-    fetch(`/courses/${id}`)
+    fetch(`/api/courses/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setCourse(data);
@@ -57,6 +57,11 @@ function ViewCourse() {
                       >
                         Link
                       </a>
+                    </ListGroupItem>
+                    <ListGroupItem>
+                      <Link to={`/Jobs/course/${course.OnetCode}`}>
+                        <Button variant="primary">View Jobs</Button>
+                      </Link>
                     </ListGroupItem>
                   </ListGroup>
                 </Card.Body>

@@ -5,36 +5,27 @@ import { Link, useParams } from "react-router-dom";
 import MainLayout from "../../components/Layout/MainLayout";
 import Button from "react-bootstrap/esm/Button";
 import PaginationBar from "../../components/Pagination/Pagination";
+import { getPageData } from "../../components/Pagination/PaginationHelper";
 
 function LocationsJobs() {
   const [page, setPage] = useState();
   const [jobs, setJobs] = useState();
   const { id } = useParams();
   useEffect(() => {
-    fetch(`/jobs/location/${id}`)
+    fetch(`/api/jobs/location/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setJobs(data["Jobs"]);
         setPage(data["Page"]);
       })
       .catch((err) => console.log(err));
-
-    document.addEventListener("click", clickPaginate, true);
-
-    return () => {
-      document.removeEventListener("click", clickPaginate, true);
-    };
   }, []);
-  const clickPaginate = (e) => {
-    if (e.target.className === "page-link") {
-      fetch(`/jobs/location/${id}?page=${e.target.innerText}`)
-        .then((res) => res.json())
-        .then((data) => {
-          setJobs(data["Jobs"]);
-          setPage(data["Page"]);
-        })
-        .catch((err) => console.log(err));
-    }
+  const Change = async (action) => {
+    const url = `/api/jobs/location/${id}?page=`;
+    getPageData(action, url, page).then((data) => {
+      setJobs(data["Jobs"]);
+      setPage(data["Page"]);
+    });
   };
 
   return (
@@ -71,6 +62,7 @@ function LocationsJobs() {
       <Container className="d-flex flex-wrap justify-content-center">
         {jobs && (
           <PaginationBar
+            change={Change}
             total_pages={page[0].total}
             current_page={page[0].current_page}
           />

@@ -12,15 +12,14 @@ import "../Layout/bootstrap.css";
 import "../Layout/custom.css";
 
 function AboutCard({ data }) {
+  // TODO: Move this to About/pages
   const [info, setInfo] = useState();
 
   useEffect(() => {
-    if (!info) {
-      fetch("/about.json")
-        .then((res) => res.json())
-        .then((aboutCard) => setInfo(aboutCard))
-        .catch((err) => console.log(err));
-    }
+    fetch("/api/about.json")
+      .then((res) => res.json())
+      .then((aboutCard) => setInfo(aboutCard))
+      .catch((err) => console.log(err));
   }, []);
 
   return (

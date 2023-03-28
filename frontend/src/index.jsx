@@ -1,11 +1,6 @@
 import React, { lazy, Suspense } from "react";
 import ReactDOM from "react-dom/client";
-import {
-  createBrowserRouter,
-  Route,
-  createRoutesFromElements,
-  RouterProvider,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Load from "./pages/Load/Load";
 
 const Home = lazy(() => import("./pages/Home/Home"));
@@ -25,6 +20,7 @@ const ClusterJobs = lazy(() => import("./pages/Jobs/ClusterJobs"));
 const ViewCourse = lazy(() => import("./pages/Courses/ViewCourse"));
 const ViewOccupation = lazy(() => import("./pages/Occupations/ViewOccupation"));
 const LocationJobs = lazy(() => import("./pages/Jobs/LocationJobs"));
+const CourseJobs = lazy(() => import("./pages/Jobs/CourseJobs"));
 
 const router = createBrowserRouter([
   {
@@ -45,121 +41,165 @@ const router = createBrowserRouter([
   },
   {
     path: "/Jobs",
-    element: (
-      <Suspense fallback={<Load />}>
-        <Jobs />
-      </Suspense>
-    ),
-  },
-  {
-    path: "/Jobs/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <ViewJob />
-      </Suspense>
-    ),
-  },
+    children: [
+      {
+        index: true,
+        element: (
+          <Suspense fallback={<Load />}>
+            <Jobs />
+          </Suspense>
+        ),
+      },
+      {
+        path: ":id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <ViewJob />
+          </Suspense>
+        ),
+      },
+    
+      {
+        path: "/Jobs/occupation/:id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <OnetJobs />
+          </Suspense>
+        ),
+      },
+    
+      {
+        path: "/Jobs/locations/:id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <LocationJobs />
+          </Suspense>
+        ),
+      },
+    
+      {
+        path: "/Jobs/cluster/:id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <ClusterJobs />
+          </Suspense>
+        ),
+      },
+    
+      {
+        path: "/Jobs/course/:id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <CourseJobs />
+          </Suspense>
+        ),
+      },
 
-  {
-    path: "/Jobs/occupation/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <OnetJobs />
-      </Suspense>
-    ),
+    ]
   },
-
-  {
-    path: "/Jobs/locations/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <LocationJobs />
-      </Suspense>
-    ),
-  },
-
-  {
-    path: "/Jobs/cluster/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <ClusterJobs />
-      </Suspense>
-    ),
-  },
+  
   {
     path: "/Occupations",
-    element: (
-      <Suspense fallback={<Load />}>
-        <Occupations />
-      </Suspense>
-    ),
+    children: [
+      {
+        index: true,
+        element: (
+          <Suspense fallback={<Load />}>
+            <Occupations />
+          </Suspense>
+        ),
+      },
+      {
+        path: ":id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <ViewOccupation />
+          </Suspense>
+        ),
+      },
+    ],
   },
-  {
-    path: "/Occupations/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <ViewOccupation />
-      </Suspense>
-    ),
-  },
+
   {
     path: "/Skills",
-    element: (
-      <Suspense fallback={<Load />}>
-        <Skills />
-      </Suspense>
-    ),
+    children: [
+      {
+        index: true,
+        element: (
+          <Suspense fallback={<Load />}>
+            <Skills />
+          </Suspense>
+        ),
+      }
+    ]
   },
   {
     path: "/Courses",
-    element: (
-      <Suspense fallback={<Load />}>
-        <Courses />
-      </Suspense>
-    ),
+    children: [
+      {
+        index: true,
+        element: (
+          <Suspense fallback={<Load />}>
+            <Courses />
+          </Suspense>
+        ),
+      },
+      {
+        path: ":id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <ViewCourse />
+          </Suspense>
+        ),
+      }
+    ]
   },
 
-  {
-    path: "/Courses/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <ViewCourse />
-      </Suspense>
-    ),
-  },
   {
     path: "/Locations",
-    element: (
-      <Suspense fallback={<Load />}>
-        <Locations />
-      </Suspense>
-    ),
+    children: [
+      {
+        index: true,
+        element: (
+          <Suspense fallback={<Load />}>
+            <Locations />
+          </Suspense>
+        ),
+      },
+      {
+        path: ":id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <ViewLocation />
+          </Suspense>
+        ),
+      },
+    ]
   },
-  {
-    path: "/Locations/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <ViewLocation />
-      </Suspense>
-    ),
-  },
+  
   {
     path: "/Clusters",
-    element: (
-      <Suspense fallback={<Load />}>
-        <Clusters />
-      </Suspense>
-    ),
+    children: [
+      {
+        index: true,
+        element: (
+          <Suspense fallback={<Load />}>
+            <Clusters />
+          </Suspense>
+        ),
+      },
+      {
+        path: ":id",
+        element: (
+          <Suspense fallback={<Load />}>
+            <ViewCluster />
+          </Suspense>
+        ),
+      },
+    ]
   },
 
-  {
-    path: "/Clusters/:id",
-    element: (
-      <Suspense fallback={<Load />}>
-        <ViewCluster />
-      </Suspense>
-    ),
-  },
+  
   {
     path: "/Contact",
     element: (

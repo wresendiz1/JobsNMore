@@ -8,7 +8,7 @@ import AboutCard from "./components/AboutCard/AboutCard";
 function App() {
   const [data, setData] = useState();
   useMemo(() => {
-    fetch("/about")
+    fetch("/api/about")
       .then((res) => res.json())
       .then((ex) => setData(ex))
       .catch((err) => console.log(err));

@@ -7,23 +7,23 @@ import Button from "react-bootstrap/esm/Button";
 import PaginationBar from "../../components/Pagination/Pagination";
 import { getPageData } from "../../components/Pagination/PaginationHelper";
 
-function OnetJobs() {
-  const [page, setPage] = useState();
-  const [jobs, setJobs] = useState();
+function CourseJobs() {
   const { id } = useParams();
-
+  const [jobs, setJobs] = useState();
+  const [page, setPage] = useState();
   useEffect(() => {
-    fetch(`/api/jobs/onet/${id}`)
+    fetch(`/api/jobs/courses/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setJobs(data["Jobs"]);
         setPage(data["Page"]);
+        // console.log(data);
       })
       .catch((err) => console.log(err));
   }, []);
 
-  const Change = (action) => {
-    const url = `/api/jobs/onet/${id}?page=`;
+  const Change = async (action) => {
+    const url = `/api/jobs/course/${id}?page=`;
     getPageData(action, url, page).then((data) => {
       setJobs(data["Jobs"]);
       setPage(data["Page"]);
@@ -32,7 +32,7 @@ function OnetJobs() {
 
   return (
     <MainLayout>
-      <h1 className="text-center py-5">Jobs from ONET code: {id} </h1>
+      <h1 className="text-center py-5">Jobs from Course: {id} </h1>
       <Container className="d-flex flex-wrap justify-content-center">
         {jobs &&
           jobs.map((job) => (
@@ -72,4 +72,4 @@ function OnetJobs() {
   );
 }
 
-export default OnetJobs;
+export default CourseJobs;

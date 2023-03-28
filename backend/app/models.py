@@ -107,6 +107,7 @@ class Job(db.Model):
             for job in jobs
         ]
         num = cls.get_count() // per_page
+        num += 1 if cls.get_count() % per_page else 0
         page = [{"current_page": page, "per_page": per_page, "total": num}]
         return page, jobs
 
@@ -159,7 +160,31 @@ class Job(db.Model):
             }
             for job in jobs
         ]
-        num = cls.get_count() // per_page
+        num = (cls.query.filter_by(OnetCode=onet).count()) // per_page
+        num += 1 if (cls.query.filter_by(OnetCode=onet).count()) % per_page else 0
+
+        page = [{"current_page": page, "per_page": per_page, "total": num}]
+
+        return page, jobs
+
+    @classmethod
+    def get_jobs_by_course(cls, course, page=1, per_page=50):
+        jobs = (
+            cls.query.filter_by(OnetCode=course)
+            .limit(per_page)
+            .offset((page - 1) * per_page)
+            .all()
+        )
+        jobs = [
+            {
+                key: value
+                for key, value in job.__dict__.items()
+                if key != "_sa_instance_state"
+            }
+            for job in jobs
+        ]
+        num = (cls.query.filter_by(OnetCode=course).count()) // per_page
+        num += 1 if (cls.query.filter_by(OnetCode=course).count()) % per_page else 0
 
         page = [{"current_page": page, "per_page": per_page, "total": num}]
 
@@ -181,7 +206,10 @@ class Job(db.Model):
             }
             for job in jobs
         ]
-        num = cls.get_count() // per_page
+        num = (cls.query.filter_by(JCityID=location).count()) // per_page
+        num += (
+            1 if (cls.query.filter_by(JCityID=location).count()) % per_page != 0 else 0
+        )
 
         page = [{"current_page": page, "per_page": per_page, "total": num}]
 
@@ -205,7 +233,12 @@ class Job(db.Model):
             }
             for job in jobs
         ]
-        num = cls.get_count() // per_page
+        num = (cls.query.filter(cls.OnetCode.in_(onets)).count()) // per_page
+        num += (
+            1
+            if (cls.query.filter(cls.OnetCode.in_(onets)).count() % per_page) > 0
+            else 0
+        )
         page = [{"current_page": page, "per_page": per_page, "total": num}]
 
         return page, jobs
@@ -282,6 +315,7 @@ class Course(db.Model):
     def get_courses(cls, page=1, per_page=50):
         courses = cls.query.limit(per_page).offset((page - 1) * per_page).all()
         num = cls.get_count() // per_page
+        num += 1 if cls.get_count() % per_page > 0 else 0
         return courses, num
 
     @classmethod

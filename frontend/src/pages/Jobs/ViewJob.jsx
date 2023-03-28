@@ -26,7 +26,7 @@ function ViewJob() {
   });
 
   useEffect(() => {
-    fetch(`/jobs/${id}`)
+    fetch(`/api/jobs/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setData(data[0]);

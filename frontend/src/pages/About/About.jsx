@@ -23,7 +23,7 @@ function About() {
   // fetch data from backend and store in state and cache
   useEffect(() => {
     if (!data) {
-      fetch("/about")
+      fetch("/api/about")
         .then((res) => res.json())
         .then((gitlab) => {
           setData(gitlab);
@@ -31,10 +31,10 @@ function About() {
         })
         .catch((err) => console.log(err));
     }
-  }, [test]);
+  }, []);
 
   const runTests = () => {
-    fetch("/test")
+    fetch("/api/test")
       .then((res) => res.text())
       .then((data) => {
         setTest(data);
@@ -63,10 +63,10 @@ function About() {
         </Container>
       </Container>
       <h1 className="text-center py-5">Unit Testing</h1>
-      <Container className = "justify-content-center">
+      <Container className="justify-content-center">
         <Row>
           <Col className="text-center">
-            <Button  variant="primary" onClick={runTests} className= 'mx-auto'>
+            <Button variant="primary" onClick={runTests} className="mx-auto">
               Run Unit Tests
             </Button>
           </Col>

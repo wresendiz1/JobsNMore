@@ -1,5 +1,6 @@
-from flask import Flask, jsonify, request, send_file
+from flask import Flask, jsonify, request, send_file, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
+from flask_cors import CORS
 import os
 from app.create_db import (
     db,
@@ -27,23 +28,27 @@ from app.create_db import (
 
 
 def create_app(config=None):
-    app = Flask(__name__)
+    
+    if config == "deploy" or config == "deploy_migrate":
+        app = Flask(__name__, static_folder = "../build", static_url_path = "")
+    else:
+        app = Flask(__name__)
+
+    CORS(app, supports_credentials=True)
 
     # Make sure your log info matches up with this line. You can change this line for you local machine
     app.config["SQLALCHEMY_DATABASE_URI"] = os.environ.get(
         "DB_STRING", "postgresql://postgres:Passkey123@localhost:5432/jobdb"
-        #"DB_STRING", "postgresql://postgres:Passkey123@/postgres?host=/cloudsql/cs331e-idb:us-central1:jobdb"
-
     )
     # to suppress a warning message
-    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
-    app.json.sort_keys= False
+    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = True
+    app.config["JSON_SORT_KEYS"] = False
 
     db.init_app(app)
 
     with app.app_context():
         # add the string in run.py to initialize/reset the database
-        if config == "intialize_db":
+        if config == "initialize_db" or config == "deploy_migrate":
             db.drop_all()
             db.create_all()
             create_locations()
@@ -57,20 +62,29 @@ def create_app(config=None):
             create_courses()
 
     from app.gitlab import get_commits, get_issues
+    
+    # Serve React SPA from Flask when running in production
+    @app.route("/")
+    def serve():
+        return send_from_directory(app.static_folder, "index.html")
+    
+    @app.errorhandler(404)
+    def not_found(e):
+        return app.send_static_file("index.html")
 
-    @app.route("/about")
+    @app.route("/api/about")
     def about():
         commits = get_commits()
         issues = get_issues()
-        return [commits, issues]
+        return jsonify([commits, issues])
 
-    @app.route("/test")
+    @app.route("/api/test")
     def test():
-        return send_file("output/tests.txt")
-    
-    @app.route("/about.json")
+        return send_file("static/tests.txt")
+
+    @app.route("/api/about.json")
     def about_json():
-        return send_file("data/about.json")
+        return send_file("static/about.json")
 
     @app.route("/test_request")
     def get_locations():
@@ -82,7 +96,9 @@ def create_app(config=None):
         per_page = args.get("per_page", 50, type=int)
         return page, per_page
 
-    @app.route("/jobs", methods=["GET"])
+    # TODO: Divide into multiple blueprint files for each model
+    
+    @app.route("/api/jobs", methods=["GET"])
     def jobs():
         # Query parameters
         # Example: http://localhost:5000/jobs?page=20&per_page=100
@@ -97,7 +113,7 @@ def create_app(config=None):
 
         return jsonify(job_dict)
 
-    @app.route("/jobs/onet/<onetCode>", methods=["GET"])
+    @app.route("/api/jobs/onet/<onetCode>", methods=["GET"])
     def get_jobs_by_onet(onetCode):
         pg, per_page = get_query_page(request.args)
 
@@ -110,7 +126,7 @@ def create_app(config=None):
 
         return jsonify(job_dict)
 
-    @app.route("/jobs/cluster/<cluster>", methods=["GET"])
+    @app.route("/api/jobs/cluster/<cluster>", methods=["GET"])
     def get_jobs_by_cluster(cluster):
         pg, per_page = get_query_page(request.args)
 
@@ -123,7 +139,7 @@ def create_app(config=None):
 
         return jsonify(job_dict)
 
-    @app.route("/jobs/location/<location>", methods=["GET"])
+    @app.route("/api/jobs/location/<location>", methods=["GET"])
     def get_jobs_by_location(location):
         pg, per_page = get_query_page(request.args)
 
@@ -136,14 +152,27 @@ def create_app(config=None):
 
         return jsonify(job_dict)
 
-    @app.route("/jobs/<Id>", methods=["GET"])
+    @app.route("/api/jobs/course/<Id>", methods=["GET"])
+    def get_jobs_by_course(Id):
+        pg, per_page = get_query_page(request.args)
+
+        page, jobs = Job.get_jobs_by_course(Id, pg, per_page)
+
+        job_dict = {
+            "Page": page,
+            "Jobs": jobs,
+        }
+
+        return jsonify(job_dict)
+
+    @app.route("/api/jobs/<Id>", methods=["GET"])
     def get_job(Id):
         job, courses = Job.get_job_details(Id)
 
         return jsonify(job, courses)
 
     # TODO: Add tech skills, basic skills
-    @app.route("/clusters", methods=["GET"])
+    @app.route("/api/clusters", methods=["GET"])
     def career_cluster():
         clusters = Industry.get_clusters()
 
@@ -162,13 +191,13 @@ def create_app(config=None):
 
         return jsonify(cluster_dict)
 
-    @app.route("/clusters/<code>", methods=["GET"])
+    @app.route("/api/clusters/<code>", methods=["GET"])
     def get_cluster(code):
         cluster = Industry.get_cluster(code)
 
         return jsonify(cluster)
 
-    @app.route("/occupations", methods=["GET"])
+    @app.route("/api/occupations", methods=["GET"])
     def occupations():
         page, per_page = get_query_page(request.args)
 
@@ -202,16 +231,18 @@ def create_app(config=None):
         }
         return jsonify(occupations_dict)
 
-    @app.route("/occupations/<onetCode>", methods=["GET"])
+    @app.route("/api/occupations/<onetCode>", methods=["GET"])
     def get_ocupation(onetCode):
         occupation = Occupation.get_occupation(onetCode)
         return jsonify(occupation)
 
-    @app.route("/courses", methods=["GET"])
+    @app.route("/api/courses", methods=["GET"])
     def courses():
         page, per_page = get_query_page(request.args)
 
         courses, num = Course.get_courses(page, per_page)
+        
+        # TODO: Do this in the model
         course_dict = {
             "Page": [
                 {
@@ -236,12 +267,12 @@ def create_app(config=None):
 
         return jsonify(course_dict)
 
-    @app.route("/courses/<Id>", methods=["GET"])
+    @app.route("/api/courses/<Id>", methods=["GET"])
     def get_course(Id):
         course = Course.get_course(Id)
         return jsonify(course)
 
-    @app.route("/locations", methods=["GET"])
+    @app.route("/api/locations", methods=["GET"])
     def locations():
         page, per_page = get_query_page(request.args)
         locations = Location.get_locations(page, per_page)
@@ -271,18 +302,19 @@ def create_app(config=None):
 
         return jsonify(locations_dict)
 
-    @app.route("/locations/<Id>", methods=["GET"])
+    @app.route("/api/locations/<Id>", methods=["GET"])
     def get_location(Id):
         location, jobs = Location.get_location_details(Id)
 
         return jsonify(location, jobs)
 
-    @app.route("/basic_skills", methods=["GET"])
+    @app.route("/api/basic_skills", methods=["GET"])
     def basic_skils():
         page, per_page = get_query_page(request.args)
 
         skills = Basic_Skill.get_basic_skills(page, per_page)
 
+        # TODO: Do this in the model
         skill_dict = {
             "Page": [
                 {
@@ -302,12 +334,13 @@ def create_app(config=None):
 
         return jsonify(skill_dict)
 
-    @app.route("/tech_skills", methods=["GET"])
+    @app.route("/api/tech_skills", methods=["GET"])
     def tech_skills():
         page, per_page = get_query_page(request.args)
 
         skills = Tech_Skill.get_tech_skills(page, per_page)
 
+        # TODO: Do this in the model
         skill_dict = {
             "Page": [
                 {
@@ -326,7 +359,7 @@ def create_app(config=None):
 
         return jsonify(skill_dict)
 
-    @app.route("/contact", methods=["GET", "POST"])
+    @app.route("/api/contact", methods=["GET", "POST"])
     def contact():
         if request.method == "POST":
             return "Form submitted"

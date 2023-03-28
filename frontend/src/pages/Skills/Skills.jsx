@@ -6,7 +6,7 @@ import MainLayout from "../../components/Layout/MainLayout";
 function Skills() {
   const [skills, setSkills] = useState();
   useEffect(() => {
-    fetch("/skills")
+    fetch("/api/skills")
       .then((res) => res.json())
       .then((skills) => setSkills(skills))
       .catch((err) => console.log(err));

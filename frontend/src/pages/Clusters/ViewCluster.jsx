@@ -17,7 +17,7 @@ function ViewCluster() {
   const { id } = useParams();
   const [cluster, setCluster] = useState();
   useEffect(() => {
-    fetch(`/clusters/${id}`)
+    fetch(`/api/clusters/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setCluster(data);

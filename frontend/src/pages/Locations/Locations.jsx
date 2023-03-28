@@ -7,7 +7,7 @@ function Locations() {
   const [page, setPage] = useState();
   const [locations, setLocations] = useState();
   useEffect(() => {
-    fetch("/locations")
+    fetch("/api/locations")
       .then((res) => res.json())
       .then((data) => {
         setLocations(data["Locations"]);
