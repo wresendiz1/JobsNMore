@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import Pagination from "react-bootstrap/Pagination";
-import "../Layout/bootstrap.css";
 
 function PaginationBar({ change, total_pages, current_page }) {
   // useEffect(() => {
@@ -10,12 +9,8 @@ function PaginationBar({ change, total_pages, current_page }) {
   let tab = Math.floor(current_page / 5) * 5;
   // console.log(tab)
 
-  if ((current_page) % 5 == 0) {
-    for (
-      let i = current_page - 4;
-      i <= current_page;
-      i++
-    ) {
+  if (current_page % 5 == 0) {
+    for (let i = current_page - 4; i <= current_page; i++) {
       pages.push(
         <Pagination.Item
           key={i}
@@ -47,13 +42,17 @@ function PaginationBar({ change, total_pages, current_page }) {
   return (
     <div>
       <Pagination>
-        {current_page > 1 && <Pagination.First onClick={() => change("First")} />}
+        {current_page > 1 && (
+          <Pagination.First onClick={() => change("First")} />
+        )}
         {current_page > 1 && <Pagination.Prev onClick={() => change("Prev")} />}
         {pages}
         {current_page < total_pages && (
           <Pagination.Next onClick={() => change("Next")} />
         )}
-        {current_page < total_pages && <Pagination.Last onClick={() => change("Last")} />}
+        {current_page < total_pages && (
+          <Pagination.Last onClick={() => change("Last")} />
+        )}
       </Pagination>
     </div>
   );

@@ -86,7 +86,7 @@ function ViewOccupation() {
                     </ListGroupItem>
                     <ListGroupItem>
                       <Link
-                        to={`/jobs/occupation/${occupation.onetCode}`}
+                        to={`/Jobs/occupation/${occupation.onetCode}`}
                         className="btn btn-primary mx-2"
                       >
                         Find Jobs

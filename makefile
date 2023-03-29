@@ -5,8 +5,10 @@ LOCAL = http://127.0.0.1:5000
 idb3:
 	git log > IDB3.log
 
-format:
-	black backend
+format-back:
+	cd backend && find . -name '*.py' ! -path '*/venv/*' -print0 | xargs -0 black
+
+format-front:
 	cd frontend && npx prettier --write .
 
 requirements:

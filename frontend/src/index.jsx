@@ -58,7 +58,7 @@ const router = createBrowserRouter([
           </Suspense>
         ),
       },
-    
+
       {
         path: "/Jobs/occupation/:id",
         element: (
@@ -67,7 +67,7 @@ const router = createBrowserRouter([
           </Suspense>
         ),
       },
-    
+
       {
         path: "/Jobs/locations/:id",
         element: (
@@ -76,7 +76,7 @@ const router = createBrowserRouter([
           </Suspense>
         ),
       },
-    
+
       {
         path: "/Jobs/cluster/:id",
         element: (
@@ -85,7 +85,7 @@ const router = createBrowserRouter([
           </Suspense>
         ),
       },
-    
+
       {
         path: "/Jobs/course/:id",
         element: (
@@ -94,10 +94,9 @@ const router = createBrowserRouter([
           </Suspense>
         ),
       },
-
-    ]
+    ],
   },
-  
+
   {
     path: "/Occupations",
     children: [
@@ -130,8 +129,8 @@ const router = createBrowserRouter([
             <Skills />
           </Suspense>
         ),
-      }
-    ]
+      },
+    ],
   },
   {
     path: "/Courses",
@@ -151,8 +150,8 @@ const router = createBrowserRouter([
             <ViewCourse />
           </Suspense>
         ),
-      }
-    ]
+      },
+    ],
   },
 
   {
@@ -174,9 +173,9 @@ const router = createBrowserRouter([
           </Suspense>
         ),
       },
-    ]
+    ],
   },
-  
+
   {
     path: "/Clusters",
     children: [
@@ -196,10 +195,9 @@ const router = createBrowserRouter([
           </Suspense>
         ),
       },
-    ]
+    ],
   },
 
-  
   {
     path: "/Contact",
     element: (

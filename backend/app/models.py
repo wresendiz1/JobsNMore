@@ -57,14 +57,22 @@ class Location(db.Model):
         sort_by = "CityID" if sort_by is None else sort_by
 
         total = cls.query.count()
-        
+
         if order == "asc":
-            loc_q = cls.query.order_by(getattr(cls, sort_by)).limit(per_page).offset((page - 1) * per_page).all()
+            loc_q = (
+                cls.query.order_by(getattr(cls, sort_by))
+                .limit(per_page)
+                .offset((page - 1) * per_page)
+                .all()
+            )
         else:
-            loc_q = cls.query.order_by(getattr(cls, sort_by).desc()).limit(per_page).offset((page - 1) * per_page).all()
-            
-            
-        
+            loc_q = (
+                cls.query.order_by(getattr(cls, sort_by).desc())
+                .limit(per_page)
+                .offset((page - 1) * per_page)
+                .all()
+            )
+
         num = total // per_page
         num += 1 if total % per_page else 0
         locations = [
@@ -207,14 +215,23 @@ class Job(db.Model):
     def get_jobs_by_onet(cls, onet, page=1, per_page=50, sort_by="Id", order="asc"):
         sort_by = "Id" if sort_by is None else sort_by
         total = cls.query.filter_by(OnetCode=onet)
-        
+
         if order == "asc":
-            jobs = total.order_by(getattr(cls, sort_by)).limit(per_page).offset((page - 1) * per_page).all()
-            
+            jobs = (
+                total.order_by(getattr(cls, sort_by))
+                .limit(per_page)
+                .offset((page - 1) * per_page)
+                .all()
+            )
+
         else:
-            jobs = total.order_by(getattr(cls, sort_by).desc()).limit(per_page).offset((page - 1) * per_page).all()
-        
-        
+            jobs = (
+                total.order_by(getattr(cls, sort_by).desc())
+                .limit(per_page)
+                .offset((page - 1) * per_page)
+                .all()
+            )
+
         jobs_q = [
             {
                 key: value
@@ -277,14 +294,16 @@ class Job(db.Model):
                 "page_items": len(jobs_q),
             }
         ]
-        
+
         return page, jobs_q
 
     @classmethod
-    def get_jobs_by_location(cls, location, page=1, per_page=50, sort_by="Id", order="asc"):
+    def get_jobs_by_location(
+        cls, location, page=1, per_page=50, sort_by="Id", order="asc"
+    ):
         sort_by = "Id" if sort_by is None else sort_by
         total = cls.query.filter_by(JCityID=location)
-        
+
         if order == "asc":
             jobs = (
                 total.order_by(getattr(cls, sort_by))
@@ -299,7 +318,7 @@ class Job(db.Model):
                 .offset((page - 1) * per_page)
                 .all()
             )
-    
+
         jobs_q = [
             {
                 key: value
@@ -325,7 +344,9 @@ class Job(db.Model):
         return page, jobs_q
 
     @classmethod
-    def get_jobs_by_cluster(cls, cluster, page=1, per_page=50, sort_by="Id", order="asc"):
+    def get_jobs_by_cluster(
+        cls, cluster, page=1, per_page=50, sort_by="Id", order="asc"
+    ):
         sort_by = "Id" if sort_by is None else sort_by
         occupations = Occupation.get_occupation_by_cluster(cluster)
         onets = [occupation["onetCode"] for occupation in occupations]
@@ -344,7 +365,7 @@ class Job(db.Model):
                 .offset((page - 1) * per_page)
                 .all()
             )
-            
+
         jobs_q = [
             {
                 key: value
@@ -364,7 +385,7 @@ class Job(db.Model):
                 "page_items": len(jobs_q),
             }
         ]
-        
+
         cluster_name = Industry.get_cluster(cluster)
 
         return page, jobs_q, cluster_name
@@ -559,8 +580,8 @@ class Occupation(db.Model):
                 .limit(per_page)
                 .offset((page - 1) * per_page)
                 .all()
-            ) 
-        
+            )
+
         occupations = [
             {
                 key: value
@@ -622,12 +643,12 @@ class Industry(db.Model):
         sort_by = "Code" if sort_by is None else sort_by
 
         # clusters = cls.query.all()
-        
+
         if order == "asc":
             clusters = cls.query.order_by(getattr(cls, sort_by)).all()
         else:
             clusters = cls.query.order_by(getattr(cls, sort_by).desc()).all()
-            
+
         clusters = {
             "Clusters": [
                 {

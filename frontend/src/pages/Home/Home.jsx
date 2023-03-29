@@ -50,7 +50,7 @@ const pages = [
     Locations:
       "Find a job near you or explore what other cities have to offer.",
   },
-  { Contact: "Contact us with any questions or concerns." },
+  { Clusters: "Explore different clusters to find the right choice." },
 ];
 
 function Home() {

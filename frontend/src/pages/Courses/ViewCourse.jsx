@@ -59,7 +59,12 @@ function ViewCourse() {
                       </a>
                     </ListGroupItem>
                     <ListGroupItem>
-                      <Link to={`/Jobs/course/${course.OnetCode}`}>
+                      <Link
+                        to={{
+                          pathname: `/Jobs/course/${course.OnetCode}`,
+                          state: { course: course.Name },
+                        }}
+                      >
                         <Button variant="primary">View Jobs</Button>
                       </Link>
                     </ListGroupItem>

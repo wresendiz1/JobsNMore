@@ -1,34 +1,102 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { Card, Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import Container from "react-bootstrap/esm/Container";
 import MainLayout from "../../components/Layout/MainLayout";
+import Sorting from "../../components/Sorting/Sorting";
+import PaginationBar from "../../components/Pagination/Pagination";
+import { getPageData } from "../../components/Pagination/PaginationHelper";
 
 function Occupations() {
   const [page, setPage] = useState();
   const [occupations, setOccupations] = useState();
+  const order = useRef();
+  const sort = useRef();
+  const items_per_page = useRef(30);
+
   useEffect(() => {
     fetch("/api/occupations")
       .then((res) => res.json())
       .then((data) => {
         setOccupations(data["Occupations"]);
         setPage(data["Page"]);
+        // console.log(data)
       })
       .catch((err) => console.log(err));
   }, []);
+
+  const ChangePage = (action) => {
+    const url = `/api/occupations?sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}&page=`;
+    getPageData(action, url, page).then((data) => {
+      setOccupations(data["Occupations"]);
+      setPage(data["Page"]);
+      // console.log(data["Page"][0]);
+    });
+  };
+
+  const ShowPerPage = (items_per_page, e) => {
+    e.preventDefault();
+    {
+      // console.log(items_per_page.current.value)
+      fetch(
+        `/api/occupations?page=1&sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}`
+      )
+        .then((res) => res.json())
+        .then((data) => {
+          setOccupations(data["Occupations"]);
+          setPage(data["Page"]);
+        });
+    }
+  };
+
+  const sortPage = (sort, order, e) => {
+    e.preventDefault();
+    fetch(
+      `/api/occupations?page=${page[0].current_page}&per_page=${items_per_page.current.value}&sort_by=${sort.current.value}&order=${order.current.value}`
+    )
+      .then((res) => res.json())
+      .then((data) => {
+        setOccupations(data["Occupations"]);
+        setPage(data["Page"]);
+      });
+  };
+
+  const value_name = [
+    { id: "onetCode", name: "Relevance" },
+    { id: "cluster", name: "Cluster" },
+    { id: "median_wage", name: "Median Wage" },
+    { id: "pct90_wage", name: "90th Wage" },
+    { id: "outlook", name: "Outlook" },
+    { id: "curr_employment", name: "Job Title" },
+    { id: "proj_openings", name: "Projected Openings" },
+    { id: "percent_change", name: "Percent Change in Employment" },
+  ];
   return (
     <MainLayout>
-      <h1 className="text-center py-5">Occupations</h1>
+      {/* <h1 className="text-center py-5">Occupations</h1> */}
+      {page && (
+        <Sorting
+          page_name={"Occupations"}
+          page={page}
+          handler={sortPage}
+          value_name={value_name}
+          order={order}
+          sort={sort}
+          show_handler={ShowPerPage}
+          items_per_page={items_per_page}
+          default_items={30}
+        />
+      )}
       <Container>
         <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
           {occupations &&
             occupations.map((occupation) => (
-              <Col key={occupation["OnetCode"]}>
+              <Col key={occupation.onetCode}>
                 <Card className="m-3">
                   <Card.Body>
-                    <Card.Title>{occupation["title"]}</Card.Title>
+                    <Card.Title>{occupation.title}</Card.Title>
                     <Card.Subtitle className="mb-2 text-muted">
-                      {occupation["cluster"]}
+                      {occupation.cluster}
                     </Card.Subtitle>
 
                     {/* <Card.Text>{occupation["description"]}</Card.Text> */}
@@ -62,7 +130,7 @@ function Occupations() {
                   Find Jobs
                 </Link> */}
                     <Link
-                      to={`/Occupations/${occupation.OnetCode}`}
+                      to={`/Occupations/${occupation.onetCode}`}
                       className="btn btn-primary mx-2"
                     >
                       Info
@@ -78,6 +146,15 @@ function Occupations() {
               </Col>
             ))}
         </Row>
+      </Container>
+      <Container className="d-flex justify-content-center">
+        {occupations && (
+          <PaginationBar
+            change={ChangePage}
+            total_pages={page[0].total}
+            current_page={page[0].current_page}
+          />
+        )}
       </Container>
     </MainLayout>
   );

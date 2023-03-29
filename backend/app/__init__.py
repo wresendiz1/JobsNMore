@@ -28,9 +28,8 @@ from app.create_db import (
 
 
 def create_app(config=None):
-    
     if config == "deploy" or config == "deploy_migrate":
-        app = Flask(__name__, static_folder = "../build", static_url_path = "")
+        app = Flask(__name__, static_folder="../build", static_url_path="")
     else:
         app = Flask(__name__)
 
@@ -62,12 +61,12 @@ def create_app(config=None):
             create_courses()
 
     from app.gitlab import get_commits, get_issues
-    
+
     # Serve React SPA from Flask when running in production
     @app.route("/")
     def serve():
         return send_from_directory(app.static_folder, "index.html")
-    
+
     @app.errorhandler(404)
     def not_found(e):
         return app.send_static_file("index.html")
@@ -94,13 +93,13 @@ def create_app(config=None):
     def get_query_page(args):
         page = args.get("page", 1, type=int)
         per_page = args.get("per_page", 50, type=int)
-        sort_by = args.get("sort_by", None, type= None if None else str )
+        sort_by = args.get("sort_by", None, type=None if None else str)
         order = args.get("order", "asc", type=str)
-        
+
         return page, per_page, sort_by, order
 
     # TODO: Divide into multiple blueprint files for each model
-    
+
     @app.route("/api/jobs", methods=["GET"])
     def jobs():
         # Query parameters
@@ -133,7 +132,9 @@ def create_app(config=None):
     def get_jobs_by_cluster(cluster):
         pg, per_page, sort_by, order = get_query_page(request.args)
 
-        page, jobs, name = Job.get_jobs_by_cluster(cluster, pg, per_page, sort_by, order)
+        page, jobs, name = Job.get_jobs_by_cluster(
+            cluster, pg, per_page, sort_by, order
+        )
 
         job_dict = {
             "Page": page,
@@ -160,7 +161,7 @@ def create_app(config=None):
     def get_jobs_by_course(Id):
         pg, per_page, sort_by, order = get_query_page(request.args)
 
-        page, jobs= Job.get_jobs_by_course(Id, pg, per_page, sort_by, order)
+        page, jobs = Job.get_jobs_by_course(Id, pg, per_page, sort_by, order)
 
         job_dict = {
             "Page": page,
@@ -181,7 +182,7 @@ def create_app(config=None):
         pg, per_page, sort_by, order = get_query_page(request.args)
 
         clusters = Industry.get_clusters(sort_by, order)
-        
+
         return jsonify(clusters)
 
     @app.route("/api/clusters/<code>", methods=["GET"])
@@ -200,7 +201,7 @@ def create_app(config=None):
             "Page": page,
             "Occupations": occupations,
         }
-        
+
         return jsonify(occ_dict)
 
     @app.route("/api/occupations/<onetCode>", methods=["GET"])
@@ -213,7 +214,7 @@ def create_app(config=None):
         pg, per_page, sort_by, order = get_query_page(request.args)
 
         page, courses = Course.get_courses(pg, per_page, sort_by, order)
-        
+
         courses_dict = {
             "Page": page,
             "Courses": courses,

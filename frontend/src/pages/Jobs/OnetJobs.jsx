@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import Container from "react-bootstrap/esm/Container";
 import Card from "react-bootstrap/Card";
 import { Link, useParams } from "react-router-dom";
@@ -6,11 +6,15 @@ import MainLayout from "../../components/Layout/MainLayout";
 import Button from "react-bootstrap/esm/Button";
 import PaginationBar from "../../components/Pagination/Pagination";
 import { getPageData } from "../../components/Pagination/PaginationHelper";
+import Sorting from "../../components/Sorting/Sorting";
 
 function OnetJobs() {
   const [page, setPage] = useState();
   const [jobs, setJobs] = useState();
   const { id } = useParams();
+  const order = useRef();
+  const sort = useRef();
+  const items_per_page = useRef(50);
 
   useEffect(() => {
     fetch(`/api/jobs/onet/${id}`)
@@ -22,17 +26,65 @@ function OnetJobs() {
       .catch((err) => console.log(err));
   }, []);
 
-  const Change = (action) => {
-    const url = `/api/jobs/onet/${id}?page=`;
+  const ChangePage = (action) => {
+    const url = `/api/jobs/onet/${id}?sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}&page=`;
     getPageData(action, url, page).then((data) => {
       setJobs(data["Jobs"]);
       setPage(data["Page"]);
     });
   };
 
+  const ShowPerPage = (items_per_page, e) => {
+    e.preventDefault();
+    {
+      // console.log(items_per_page.current.value)
+      fetch(
+        `/api/jobs/onet/${id}?page=1&sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}`
+      )
+        .then((res) => res.json())
+        .then((data) => {
+          setJobs(data["Jobs"]);
+          setPage(data["Page"]);
+        });
+    }
+  };
+
+  const sortPage = (sort, order, e) => {
+    e.preventDefault();
+    fetch(
+      `/api/jobs/onet/${id}?page=${page[0].current_page}&per_page=${items_per_page.current.value}&sort_by=${sort.current.value}&order=${order.current.value}`
+    )
+      .then((res) => res.json())
+      .then((data) => {
+        setJobs(data["Jobs"]);
+        setPage(data["Page"]);
+      });
+  };
+
+  const value_name = [
+    { id: "Id", name: "Relevance" },
+    { id: "Company", name: "Company" },
+    { id: "DatePosted", name: "Date Posted" },
+    { id: "JCityID", name: "Job Location" },
+    { id: "JobTitle", name: "Job Title" },
+  ];
+
   return (
     <MainLayout>
-      <h1 className="text-center py-5">Jobs from ONET code: {id} </h1>
+      {/* <h1 className="text-center py-5">Jobs from ONET code: {id} </h1> */}
+      {page && (
+        <Sorting
+          page_name={"Jobs"}
+          page={page}
+          handler={sortPage}
+          value_name={value_name}
+          order={order}
+          sort={sort}
+          show_handler={ShowPerPage}
+          items_per_page={items_per_page}
+        />
+      )}
+
       <Container className="d-flex flex-wrap justify-content-center">
         {jobs &&
           jobs.map((job) => (
@@ -62,7 +114,7 @@ function OnetJobs() {
       <Container className="d-flex flex-wrap justify-content-center">
         {jobs && (
           <PaginationBar
-            change={Change}
+            change={ChangePage}
             total_pages={page[0].total}
             current_page={page[0].current_page}
           />

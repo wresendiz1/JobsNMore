@@ -1,12 +1,11 @@
-
 export const getPageData = (action, url, page) => {
   let result;
-  switch (action) {    
+  switch (action) {
     case "Next":
       result = url.concat(`${page[0].current_page + 1}`);
       break;
     case "Prev":
-      result = url.concat(`${page[0].current_page - 1}`)
+      result = url.concat(`${page[0].current_page - 1}`);
       break;
     case "First":
       result = url.concat("1");
