@@ -94,7 +94,10 @@ def create_app(config=None):
     def get_query_page(args):
         page = args.get("page", 1, type=int)
         per_page = args.get("per_page", 50, type=int)
-        return page, per_page
+        sort_by = args.get("sort_by", None, type= None if None else str )
+        order = args.get("order", "asc", type=str)
+        
+        return page, per_page, sort_by, order
 
     # TODO: Divide into multiple blueprint files for each model
     
@@ -102,9 +105,9 @@ def create_app(config=None):
     def jobs():
         # Query parameters
         # Example: http://localhost:5000/jobs?page=20&per_page=100
-        pg, per_page = get_query_page(request.args)
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs(pg, per_page)
+        page, jobs = Job.get_jobs(pg, per_page, sort_by, order)
 
         job_dict = {
             "Page": page,
@@ -115,9 +118,9 @@ def create_app(config=None):
 
     @app.route("/api/jobs/onet/<onetCode>", methods=["GET"])
     def get_jobs_by_onet(onetCode):
-        pg, per_page = get_query_page(request.args)
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_onet(onetCode, pg, per_page)
+        page, jobs = Job.get_jobs_by_onet(onetCode, pg, per_page, sort_by, order)
 
         job_dict = {
             "Page": page,
@@ -128,22 +131,23 @@ def create_app(config=None):
 
     @app.route("/api/jobs/cluster/<cluster>", methods=["GET"])
     def get_jobs_by_cluster(cluster):
-        pg, per_page = get_query_page(request.args)
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_cluster(cluster, pg, per_page)
+        page, jobs, name = Job.get_jobs_by_cluster(cluster, pg, per_page, sort_by, order)
 
         job_dict = {
             "Page": page,
             "Jobs": jobs,
+            "Cluster": name,
         }
 
         return jsonify(job_dict)
 
     @app.route("/api/jobs/location/<location>", methods=["GET"])
     def get_jobs_by_location(location):
-        pg, per_page = get_query_page(request.args)
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_location(location, pg, per_page)
+        page, jobs = Job.get_jobs_by_location(location, pg, per_page, sort_by, order)
 
         job_dict = {
             "Page": page,
@@ -154,9 +158,9 @@ def create_app(config=None):
 
     @app.route("/api/jobs/course/<Id>", methods=["GET"])
     def get_jobs_by_course(Id):
-        pg, per_page = get_query_page(request.args)
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_course(Id, pg, per_page)
+        page, jobs= Job.get_jobs_by_course(Id, pg, per_page, sort_by, order)
 
         job_dict = {
             "Page": page,
@@ -174,22 +178,11 @@ def create_app(config=None):
     # TODO: Add tech skills, basic skills
     @app.route("/api/clusters", methods=["GET"])
     def career_cluster():
-        clusters = Industry.get_clusters()
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        # TODO: Do this in the model
-        cluster_dict = {
-            "Clusters": [
-                {
-                    "code": cluster.Code,
-                    "title": cluster.Group,
-                    "median_wage": cluster.Median_wage,
-                    "link": cluster.Url,
-                }
-                for cluster in clusters
-            ]
-        }
-
-        return jsonify(cluster_dict)
+        clusters = Industry.get_clusters(sort_by, order)
+        
+        return jsonify(clusters)
 
     @app.route("/api/clusters/<code>", methods=["GET"])
     def get_cluster(code):
@@ -199,37 +192,16 @@ def create_app(config=None):
 
     @app.route("/api/occupations", methods=["GET"])
     def occupations():
-        page, per_page = get_query_page(request.args)
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        occupatiions = Occupation.get_occupations(page, per_page)
+        page, occupations = Occupation.get_occupations(pg, per_page, sort_by, order)
 
-        # TODO: Do this in the model
-        occupations_dict = {
-            "Page": [
-                {
-                    "CurrentPage": page,
-                    "Count": per_page,
-                }
-            ],
-            "Occupations": [
-                {
-                    "OnetCode": occupation.onetCode,
-                    "cluster": occupation.cluster,
-                    "title": occupation.title,
-                    "description": occupation.description,
-                    "median_wage": occupation.median_wage,
-                    "pct90_wage": occupation.pct90_wage,
-                    "outlook": occupation.outlook,
-                    "outlook_category": occupation.outlook_category,
-                    "curr_employment": occupation.curr_employment,
-                    "proj_openings": occupation.proj_openings,
-                    "percent_change": occupation.percent_change,
-                    "bls": occupation.bls,
-                }
-                for occupation in occupatiions
-            ],
+        occ_dict = {
+            "Page": page,
+            "Occupations": occupations,
         }
-        return jsonify(occupations_dict)
+        
+        return jsonify(occ_dict)
 
     @app.route("/api/occupations/<onetCode>", methods=["GET"])
     def get_ocupation(onetCode):
@@ -238,34 +210,16 @@ def create_app(config=None):
 
     @app.route("/api/courses", methods=["GET"])
     def courses():
-        page, per_page = get_query_page(request.args)
+        pg, per_page, sort_by, order = get_query_page(request.args)
 
-        courses, num = Course.get_courses(page, per_page)
+        page, courses = Course.get_courses(pg, per_page, sort_by, order)
         
-        # TODO: Do this in the model
-        course_dict = {
-            "Page": [
-                {
-                    "current_page": page,
-                    "per_page": per_page,
-                    "total": num,
-                }
-            ],
-            "Courses": [
-                {
-                    "Id": course.Id,
-                    "OnetCode": course.OnetCode,
-                    "Provider": course.Provider,
-                    "Name": course.Name,
-                    "Type": course.Type,
-                    "Description": course.Description,
-                    "Url": course.Url,
-                }
-                for course in courses
-            ],
+        courses_dict = {
+            "Page": page,
+            "Courses": courses,
         }
 
-        return jsonify(course_dict)
+        return jsonify(courses_dict)
 
     @app.route("/api/courses/<Id>", methods=["GET"])
     def get_course(Id):
@@ -274,30 +228,11 @@ def create_app(config=None):
 
     @app.route("/api/locations", methods=["GET"])
     def locations():
-        page, per_page = get_query_page(request.args)
-        locations = Location.get_locations(page, per_page)
+        pg, per_page, sort_by, order = get_query_page(request.args)
+        page, locations = Location.get_locations(pg, per_page, sort_by, order)
         locations_dict = {
-            # TODO: Do this in the model
-            "Page": [
-                {
-                    "current_page": page,
-                    "per_page": per_page,
-                }
-            ],
-            "Locations": [
-                {
-                    "CityID": location.CityID,
-                    "City": location.City,
-                    "State": location.State,
-                    "Population": location.Population,
-                    "Budget": location.Budget,
-                    "Safety": location.Safety,
-                    "Average_rat": location.Average_rat,
-                    "Guide": location.Guide,
-                    "Photos": location.Photos,
-                }
-                for location in locations
-            ],
+            "Page": page,
+            "Locations": locations,
         }
 
         return jsonify(locations_dict)
@@ -312,49 +247,23 @@ def create_app(config=None):
     def basic_skils():
         page, per_page = get_query_page(request.args)
 
-        skills = Basic_Skill.get_basic_skills(page, per_page)
+        page, skills = Basic_Skill.get_basic_skills(page, per_page)
 
-        # TODO: Do this in the model
         skill_dict = {
-            "Page": [
-                {
-                    "CurrentPage ": page,
-                    "Count": per_page,
-                }
-            ],
-            "Skills": [
-                {
-                    "Id": skill.Id,
-                    "Name": skill.Name,
-                    "Description": skill.Description,
-                }
-                for skill in skills
-            ],
+            "Page": page,
+            "Skills": skills,
         }
-
         return jsonify(skill_dict)
 
     @app.route("/api/tech_skills", methods=["GET"])
     def tech_skills():
         page, per_page = get_query_page(request.args)
 
-        skills = Tech_Skill.get_tech_skills(page, per_page)
+        page, skills = Tech_Skill.get_tech_skills(page, per_page)
 
-        # TODO: Do this in the model
         skill_dict = {
-            "Page": [
-                {
-                    "CurrentPage ": page,
-                    "Count": per_page,
-                }
-            ],
-            "Skills": [
-                {
-                    "Id": skill.Id,
-                    "Name": skill.Name,
-                }
-                for skill in skills
-            ],
+            "Page": page,
+            "Skills": skills,
         }
 
         return jsonify(skill_dict)
