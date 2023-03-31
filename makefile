@@ -1,5 +1,5 @@
 PROJECT =  wired-plateau-359721
-WEBSITE = https://$(PROJECT).uc.r.appspot.com
+cdWEBSITE = https://$(PROJECT).uc.r.appspot.com
 LOCAL = http://127.0.0.1:5000
 
 idb3:
@@ -42,7 +42,7 @@ build-back: clean-production
 	cp backend/app/*.py production/app
 	cp backend/app/static/* production/app/static
 	cp backend/*.* production
-	cd production && sed -i 's|app = create_app()|app = create_app("deploy")|' run.py
+	
 
 build-back-migrate: clean-production
 	mkdir -p production/app/static

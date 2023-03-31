@@ -1,0 +1,2 @@
+@-webkit-keyframes spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}#center{display:grid;height:100vh;place-items:center}#image{-webkit-animation:spin 1.5s linear infinite;animation:spin 1.5s linear infinite;aspect-ratio:1.618;width:25vmin}
+/*# sourceMappingURL=main.18ea8074.css.map*/
