@@ -12,7 +12,7 @@ function scope if you need to isolate errors between tests."""
 
 @pytest.fixture(scope="session")
 def app():
-    app = create_app("initialize_db")
+    app = create_app("intialize_db")
     app.config.update(
         {
             "TESTING": True,
@@ -111,7 +111,6 @@ def test_db_inserting_location(database):
         CityID=42,
         Photos={"photo.png"},
     )
-
     database.session.add(case)
     r = database.session.query(Location).filter_by(City="Los Santos").one()
     assert r.CityID == 42
@@ -124,9 +123,56 @@ def test_db_queryingType_location(database):
             database.select(Location).filter_by(CityID="one")
         ).one()
 
-
 def test_postgres_query_location(database):
     city = database.session.execute(
         database.select(Location).filter_by(CityID=1)
     ).scalar_one()
     assert city.City == "New York"
+
+
+#Job database unit tests
+def test_db_inserting_job(database):
+    job = Job(
+        Id="1031",
+        JobTitle="General Manager/ Operating Partner",
+        Company="Sonic Drive-In",
+        DatePosted="2023-3-1 5:42 AM",
+        Url="https://de.jobsyn.org/14079E0199A042C1AA3ADC5769A91739206",
+        JobLocation="Baltimore, MD",
+        OnetCode="11-1021.00",
+        JCityID=30
+    )
+    database.session.add(job)
+    r = database.session.query(Job).filter_by(Id="1031").one()
+    assert r.Id == "1031"
+
+def test_db_inserting_jobs_incorrect(database):
+    # Raise an error as there is a foreign key constraint from jobs to occupation
+    # start a new session to test the error
+    with pytest.raises(IntegrityError):
+        s = Job(
+            Id="1031",
+            JobTitle="1031",
+            Company="1031",
+            DatePosted="1031",
+            Url="1031",
+            JobLocation="1031",
+            OnetCode="1031",
+            JCityID=1031
+        )
+
+        database.session.add(s)
+        database.session.commit()
+
+def test_postgres_query_job(database):
+    job = database.session.execute(
+        database.select(Job).filter_by(Id="E5EBD2624EF8430483CBAC687A921A0E206")
+    ).scalar_one()
+    assert job.JobTitle == "Senior Facility Manager"
+
+def test_postgres_query_courses(database):
+    courses = database.session.execute(
+        database.select(Course).filter_by(Id='3998-B')
+    ).scalar_one()
+    assert courses.Name == "Certified Fund Raising Executive (CFRE)"
+
