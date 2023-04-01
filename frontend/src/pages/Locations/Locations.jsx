@@ -12,6 +12,8 @@ function Locations() {
   const order = useRef();
   const sort = useRef();
   const items_per_page = useRef(30);
+  const search_term = useRef();
+  const search_by = useRef();
 
   useEffect(() => {
     fetch("/api/locations")
@@ -24,7 +26,14 @@ function Locations() {
   }, []);
 
   const ChangePage = (action) => {
-    const url = `/api/locations?sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}&page=`;
+    const url = `/api/locations?sort_by=${
+      sort.current.value
+    }&search=${search_term.current.value.trim()}&search_by=${
+      search_by.current.value
+    }
+    &order=${order.current.value}&per_page=${
+      items_per_page.current.value
+    }&page=`;
     getPageData(action, url, page).then((data) => {
       setLocations(data["Locations"]);
       setPage(data["Page"]);
@@ -32,12 +41,17 @@ function Locations() {
     });
   };
 
-  const ShowPerPage = (items_per_page, e) => {
+  const ShowPerPage = (items_per_page, search_term, search_by, e) => {
     e.preventDefault();
     {
       // console.log(items_per_page.current.value)
       fetch(
-        `/api/locations?page=1&sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}`
+        `/api/locations?page=1&sort_by=${
+          sort.current.value
+        }&search=${search_term.current.value.trim()}&search_by=${
+          search_by.current.value
+        }
+        &order=${order.current.value}&per_page=${items_per_page.current.value}`
       )
         .then((res) => res.json())
         .then((data) => {
@@ -46,10 +60,10 @@ function Locations() {
         });
     }
   };
-  const sortPage = (sort, order, e) => {
+  const sortPage = (sort, order, search_term, search_by, e) => {
     e.preventDefault();
     fetch(
-      `/api/locations?page=${page[0].current_page}&sort_by=${sort.current.value}&order=${order.current.value}`
+      `/api/locations?page=${page[0].current_page}&search=${search_term.current.value.trim()}&search_by=${search_by.current.value}&sort_by=${sort.current.value}&order=${order.current.value}`
     )
       .then((res) => res.json())
       .then((data) => {
@@ -80,6 +94,8 @@ function Locations() {
           show_handler={ShowPerPage}
           items_per_page={items_per_page}
           default_items={30}
+          search_term={search_term}
+          search_by={search_by}        
         />
       )}
 

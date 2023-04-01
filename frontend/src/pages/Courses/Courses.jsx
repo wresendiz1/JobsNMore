@@ -12,6 +12,8 @@ function Courses() {
   const order = useRef();
   const sort = useRef();
   const items_per_page = useRef(50);
+  const search_term = useRef();
+  const search_by = useRef();
 
   useEffect(() => {
     fetch("/api/courses")
@@ -26,19 +28,29 @@ function Courses() {
   }, []);
 
   const ChangePage = (action) => {
-    const url = `/api/courses?sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}&page=`;
+    const url = `/api/courses?sort_by=${
+      sort.current.value
+    }&search=${search_term.current.value.trim()}&search_by=${
+      search_by.current.value
+    }&order=${order.current.value}&per_page=${
+      items_per_page.current.value
+    }&page=`;
     getPageData(action, url, page).then((data) => {
       setCourses(data.Courses);
       setPage(data.Page);
     });
   };
 
-  const ShowPerPage = (items_per_page, e) => {
+  const ShowPerPage = (items_per_page, search_term, search_by, e) => {
     e.preventDefault();
     {
       // console.log(items_per_page.current.value)
       fetch(
-        `/api/courses?page=1&sort_by=${sort.current.value}&order=${order.current.value}&per_page=${items_per_page.current.value}`
+        `/api/courses?page=1&sort_by=${
+          sort.current.value
+        }&search=${search_term.current.value.trim()}&search_by=${
+          search_by.current.value
+        }&order=${order.current.value}&per_page=${items_per_page.current.value}`
       )
         .then((res) => res.json())
         .then((data) => {
@@ -48,10 +60,16 @@ function Courses() {
     }
   };
 
-  const sortPage = (sort, order, e) => {
+  const sortPage = (sort, order, search_term, search_by, e) => {
     e.preventDefault();
     fetch(
-      `/api/courses?page=${page[0].current_page}&per_page=${items_per_page.current.value}&sort_by=${sort.current.value}&order=${order.current.value}`
+      `/api/courses?page=${
+        page[0].current_page
+      }&search=${search_term.current.value.trim()}&search_by=${
+        search_by.current.value
+      }&per_page=${items_per_page.current.value}&sort_by=${
+        sort.current.value
+      }&order=${order.current.value}`
     )
       .then((res) => res.json())
       .then((data) => {
@@ -79,6 +97,8 @@ function Courses() {
           sort={sort}
           show_handler={ShowPerPage}
           items_per_page={items_per_page}
+          search_term={search_term}
+          search_by={search_by}
         />
       )}
 

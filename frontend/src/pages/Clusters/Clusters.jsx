@@ -8,6 +8,8 @@ function Clusters() {
   const [clusters, setClusters] = useState();
   const order = useRef();
   const sort = useRef();
+  const search_term = useRef();
+  const search_by = useRef();
 
   useEffect(() => {
     fetch("/api/clusters")
@@ -19,10 +21,11 @@ function Clusters() {
       .catch((err) => console.log(err));
   }, []);
 
-  const sortPage = (sort, order, e) => {
+  const sortPage = (sort, order, search_term, search_by, e) => {
     e.preventDefault();
+    // console.log(sort.current.value, order.current.value, search_term.current.value, search_by.current.value)
     fetch(
-      `/api/clusters?&sort_by=${sort.current.value}&order=${order.current.value}`
+      `/api/clusters?&sort_by=${sort.current.value}&order=${order.current.value}&search=${search_term.current.value.trim()}&search_by=${search_by.current.value}`
     )
       .then((res) => res.json())
       .then((data) => {
@@ -31,7 +34,7 @@ function Clusters() {
   };
 
   const value_name = [
-    { id: "Code", name: "Relevance" },
+    { id: "Code", name: "Code" },
     { id: "Group", name: "Group" },
     { id: "Median_wage", name: "Median Wage" },
   ];
@@ -47,6 +50,8 @@ function Clusters() {
           value_name={value_name}
           order={order}
           sort={sort}
+          search_term={search_term}
+          search_by={search_by}
         />
       )}
 

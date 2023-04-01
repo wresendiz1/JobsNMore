@@ -63,9 +63,9 @@ function AboutCard({ data }) {
                       </Badge>
                     </ListGroup.Item>
                     <ListGroup.Item>
-                      Unit Tests:
+                      Unit Tests: {" "}
                       <Badge pill bg="primary" className="ms-2">
-                        1
+                        {data && member.Test}
                       </Badge>
                     </ListGroup.Item>
                   </ListGroup>

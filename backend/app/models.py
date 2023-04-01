@@ -53,28 +53,26 @@ class Location(db.Model):
     @classmethod
     # The get_query_page in __init__ assings the default parameters, there just defined here
     # for future-proofing
-    def get_locations(cls, page=1, per_page=30, sort_by="CityID", order="asc"):
+    def get_locations(cls, page=1, per_page=30, sort_by="CityID", order="asc", search=None, search_by=None):
         sort_by = "CityID" if sort_by is None else sort_by
-
-        total = cls.query.count()
+        
+        column = getattr(cls, sort_by)
+        
+        if search:
+            search_column = getattr(cls, search_by)
+            search_q = cls.query.filter(search_column.ilike(f"%{search}%"))
+        else:
+            search_q = cls.query
+        
 
         if order == "asc":
-            loc_q = (
-                cls.query.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            loc_q = search_q.order_by(column).paginate(page=page, per_page=per_page)
         else:
-            loc_q = (
-                cls.query.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            loc_q = search_q.order_by(column.desc()).paginate(page=page, per_page=per_page)
 
-        num = total // per_page
-        num += 1 if total % per_page else 0
+        total_items = search_q.count()
+        num = total_items // per_page
+        num += 1 if total_items % per_page else 0
         locations = [
             {
                 key: value
@@ -88,8 +86,8 @@ class Location(db.Model):
                 "current_page": page,
                 "per_page": per_page,
                 "total": num,
-                "total_items": total,
-                "page_items": len(loc_q),
+                "total_items": total_items,
+                "page_items": len(locations),
             }
         ]
 
@@ -137,23 +135,27 @@ class Job(db.Model):
         return cls.query.count()
 
     @classmethod
-    def get_jobs(cls, page=1, per_page=50, sort_by="Id", order="asc"):
-        sort_by = "Id" if sort_by is None else sort_by
+    def get_jobs(
+        cls, page=1, per_page=50, sort_by=None, order="asc", search=None, search_by=None
+    ):
+        sort_by = "Company" if sort_by is None else sort_by
+        # order = "asc" if order is None else order
+
+        column = getattr(cls, sort_by)
+
+        if search:
+            column_search = getattr(cls, search_by)
+            search_q = cls.query.filter(column_search.ilike(f"%{search}%"))
+        else:
+            search_q = cls.query
 
         # Order
         if order == "asc":
-            jobs = (
-                cls.query.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+
+            jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
         else:
-            jobs = (
-                cls.query.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
+            jobs = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
             )
 
         # Sort
@@ -165,14 +167,18 @@ class Job(db.Model):
             }
             for job in jobs
         ]
-        num = cls.get_count() // per_page
-        num += 1 if cls.get_count() % per_page else 0
+        # num = cls.get_count() // per_page
+        # num += 1 if cls.get_count() % per_page else 0
+
+        total_items = search_q.count()
+        num_pages = total_items // per_page
+        num_pages += 1 if total_items % per_page else 0
         page = [
             {
                 "current_page": page,
                 "per_page": per_page,
-                "total": num,
-                "total_items": cls.get_count(),
+                "total": num_pages,
+                "total_items": total_items,
                 "page_items": len(jobs_q),
             }
         ]
@@ -212,24 +218,36 @@ class Job(db.Model):
         return merged, courses
 
     @classmethod
-    def get_jobs_by_onet(cls, onet, page=1, per_page=50, sort_by="Id", order="asc"):
+    def get_jobs_by_onet(
+        cls,
+        onet,
+        page=1,
+        per_page=50,
+        sort_by="Id",
+        order="asc",
+        search=None,
+        search_by=None,
+    ):
         sort_by = "Id" if sort_by is None else sort_by
+
+        # Get query of all jobs with onet code
         total = cls.query.filter_by(OnetCode=onet)
 
-        if order == "asc":
-            jobs = (
-                total.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+        column = getattr(cls, sort_by)
+
+        if search:
+            column_search = getattr(cls, search_by)
+            search_q = total.filter(column_search.ilike(f"%{search}%"))
 
         else:
-            jobs = (
-                total.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
+            search_q = total
+
+        if order == "asc":
+            jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
+
+        else:
+            jobs = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
             )
 
         jobs_q = [
@@ -240,15 +258,16 @@ class Job(db.Model):
             }
             for job in jobs
         ]
-        num = (total.count()) // per_page
-        num += 1 if (total.count()) % per_page else 0
+        total_items = search_q.count()
+        num = total_items // per_page
+        num += 1 if total_items % per_page else 0
 
         page = [
             {
                 "current_page": page,
                 "per_page": per_page,
                 "total": num,
-                "total_items": total.count(),
+                "total_items": total_items,
                 "page_items": len(jobs_q),
             }
         ]
@@ -256,23 +275,35 @@ class Job(db.Model):
         return page, jobs_q
 
     @classmethod
-    def get_jobs_by_course(cls, course, page=1, per_page=50, sort_by="Id", order="asc"):
+    def get_jobs_by_course(
+        cls,
+        course,
+        page=1,
+        per_page=50,
+        sort_by="Id",
+        order="asc",
+        search=None,
+        search_by=None,
+    ):
         sort_by = "Id" if sort_by is None else sort_by
         total = cls.query.filter_by(OnetCode=course)
-        if order == "asc":
-            jobs = (
-                total.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+
+        column = getattr(cls, sort_by)
+
+        if search:
+            column_search = getattr(cls, search_by)
+            search_q = total.filter(column_search.ilike(f"%{search}%"))
         else:
-            jobs = (
-                total.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            search_q = total
+
+        if order == "asc":
+            jobs = search_q.order_by(column).paginate( page = page, per_page = per_page)
+
+        else:
+            jobs = search_q.order_by(column.desc()).paginate( page = page, per_page = per_page)
+            
+        total_items = search_q.count()
+        
         # jobs = total.limit(per_page).offset((page - 1) * per_page).all()
         jobs_q = [
             {
@@ -282,15 +313,15 @@ class Job(db.Model):
             }
             for job in jobs
         ]
-        num = (total.count()) // per_page
-        num += 1 if (total.count()) % per_page else 0
+        num = total_items // per_page
+        num += 1 if total_items % per_page else 0
 
         page = [
             {
                 "current_page": page,
                 "per_page": per_page,
                 "total": num,
-                "total_items": total.count(),
+                "total_items": total_items,
                 "page_items": len(jobs_q),
             }
         ]
@@ -299,25 +330,24 @@ class Job(db.Model):
 
     @classmethod
     def get_jobs_by_location(
-        cls, location, page=1, per_page=50, sort_by="Id", order="asc"
+        cls, location, page=1, per_page=50, sort_by="Id", order="asc", search=None, search_by=None
     ):
         sort_by = "Id" if sort_by is None else sort_by
         total = cls.query.filter_by(JCityID=location)
 
-        if order == "asc":
-            jobs = (
-                total.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+        column = getattr(cls, sort_by)
+        
+        if search:
+            column_search = getattr(cls, search_by)
+            search_q = total.filter(column_search.ilike(f"%{search}%"))
         else:
-            jobs = (
-                total.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            search_q = total
+        
+        
+        if order == "asc":
+            jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
+        else: 
+            jobs = search_q.order_by(column.desc()).paginate(page=page, per_page=per_page)
 
         jobs_q = [
             {
@@ -328,15 +358,17 @@ class Job(db.Model):
             for job in jobs
         ]
 
-        num = (total.count()) // per_page
-        num += 1 if (total.count()) % per_page != 0 else 0
+        total_items = search_q.count()
+        
+        num = total_items // per_page
+        num += 1 if total_items % per_page != 0 else 0
 
         page = [
             {
                 "current_page": page,
                 "per_page": per_page,
                 "total": num,
-                "total_items": total.count(),
+                "total_items": total_items,
                 "page_items": len(jobs_q),
             }
         ]
@@ -345,26 +377,28 @@ class Job(db.Model):
 
     @classmethod
     def get_jobs_by_cluster(
-        cls, cluster, page=1, per_page=50, sort_by="Id", order="asc"
+        cls, cluster, page=1, per_page=50, sort_by="Id", order="asc", search=None, search_by=None
     ):
         sort_by = "Id" if sort_by is None else sort_by
         occupations = Occupation.get_occupation_by_cluster(cluster)
         onets = [occupation["onetCode"] for occupation in occupations]
+        
+        
         total = cls.query.filter(cls.OnetCode.in_(onets))
-        if order == "asc":
-            jobs = (
-                total.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+        column = getattr(cls, sort_by)
+        
+        if search:
+            search_column = getattr(cls, search_by)
+            search_q = total.filter(search_column.ilike(f"%{search}%"))
         else:
-            jobs = (
-                total.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            search_q = total
+        
+        
+        if order == "asc":
+            jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
+
+        else:
+            jobs = search_q.order_by(column.desc()).paginate(page=page, per_page=per_page)
 
         jobs_q = [
             {
@@ -374,14 +408,16 @@ class Job(db.Model):
             }
             for job in jobs
         ]
-        num = (total.count()) // per_page
-        num += 1 if (total.count() % per_page) > 0 else 0
+        total_items = search_q.count()
+
+        num = total_items // per_page
+        num += 1 if (total_items % per_page) > 0 else 0
         page = [
             {
                 "current_page": page,
                 "per_page": per_page,
                 "total": num,
-                "total_items": total.count(),
+                "total_items": total_items,
                 "page_items": len(jobs_q),
             }
         ]
@@ -484,24 +520,24 @@ class Course(db.Model):
         return cls.query.count()
 
     @classmethod
-    def get_courses(cls, page=1, per_page=50, sort_by="Id", order="asc"):
+    def get_courses(cls, page=1, per_page=50, sort_by="Id", order="asc", search=None, search_by=None):
         sort_by = "Id" if sort_by is None else sort_by
+        
+        column = getattr(cls, sort_by)
+        
+        if search:
+            search_column = getattr(cls, search_by)
+            search_q = cls.query.filter(search_column.ilike(f"%{search}%"))
+        else:
+            search_q = cls.query
 
         # Order
         if order == "asc":
-            courses = (
-                cls.query.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            courses =  search_q.order_by(column).paginate(page = page, per_page= per_page)
+
         else:
-            courses = (
-                cls.query.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            courses =  search_q.order_by(column.desc()).paginate(page = page, per_page= per_page)
+            
         courses_q = [
             {
                 key: value
@@ -510,14 +546,15 @@ class Course(db.Model):
             }
             for course in courses
         ]
-        num = cls.get_count() // per_page
-        num += 1 if cls.get_count() % per_page > 0 else 0
+        total_items = search_q.count()
+        num = total_items // per_page
+        num += 1 if total_items % per_page > 0 else 0
         page = [
             {
                 "current_page": page,
                 "per_page": per_page,
                 "total": num,
-                "total_items": cls.get_count(),
+                "total_items": total_items,
                 "page_items": len(courses_q),
             }
         ]
@@ -564,23 +601,23 @@ class Occupation(db.Model):
     )
 
     @classmethod
-    def get_occupations(cls, page=1, per_page=50, sort_by="onetCode", order="asc"):
+    def get_occupations(cls, page=1, per_page=50, sort_by="onetCode", order="asc", search=None, search_by=None):
         sort_by = "onetCode" if sort_by is None else sort_by
+        
+        column = getattr(cls, sort_by)
+
+        if search:
+            search_column = getattr(cls, search_by)
+            search_q = cls.query.filter(search_column.like(f"%{search}%"))
+        else:
+            search_q = cls.query
+            
+        
 
         if order == "asc":
-            occupations_q = (
-                cls.query.order_by(getattr(cls, sort_by))
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            occupations_q = search_q.order_by(column).paginate(page = page, per_page = per_page) 
         else:
-            occupations_q = (
-                cls.query.order_by(getattr(cls, sort_by).desc())
-                .limit(per_page)
-                .offset((page - 1) * per_page)
-                .all()
-            )
+            occupations_q = search_q.order_by(column.desc()).paginate(page = page, per_page = per_page)
 
         occupations = [
             {
@@ -590,15 +627,18 @@ class Occupation(db.Model):
             }
             for occ in occupations_q
         ]
-        num = cls.query.count() // per_page
-        num += 1 if cls.query.count() % per_page > 0 else 0
+        
+        total_items = search_q.count()
+        
+        num = total_items // per_page
+        num += 1 if total_items % per_page > 0 else 0
         page = [
             {
                 "current_page": page,
                 "per_page": per_page,
                 "total": num,
-                "total_items": cls.query.count(),
-                "page_items": len(occupations_q),
+                "total_items": total_items,
+                "page_items": len(occupations),
             }
         ]
         return page, occupations
@@ -639,15 +679,26 @@ class Industry(db.Model):
     occupations = db.relationship("Occupation", backref="Industry")
 
     @classmethod
-    def get_clusters(cls, sort_by="Code", order="asc"):
+    def get_clusters(cls, sort_by="Code", order="asc", search=None, search_by=None):
         sort_by = "Code" if sort_by is None else sort_by
 
-        # clusters = cls.query.all()
+        # clusters = cls.query.all() <-- all() converts the query object to a list
+
+        # specifiy the column to sort by
+        column = getattr(cls, sort_by)
+
+        if search:
+            # speciy the column to search by
+            column_search = getattr(cls, search_by)
+            clusters_q = cls.query.filter(column_search.ilike(f"%{search}%"))
+        else:
+            clusters_q = cls.query
 
         if order == "asc":
-            clusters = cls.query.order_by(getattr(cls, sort_by)).all()
+            # clusters = cls.query.order_by(getattr(cls, sort_by)).all()
+            order_q = clusters_q.order_by(column).all()
         else:
-            clusters = cls.query.order_by(getattr(cls, sort_by).desc()).all()
+            order_q = clusters_q.order_by(column.desc()).all()
 
         clusters = {
             "Clusters": [
@@ -656,7 +707,7 @@ class Industry(db.Model):
                     for key, value in cluster.__dict__.items()
                     if key != "_sa_instance_state"
                 }
-                for cluster in clusters
+                for cluster in order_q
             ]
         }
         return clusters

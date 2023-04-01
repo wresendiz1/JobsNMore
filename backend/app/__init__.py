@@ -63,13 +63,19 @@ def create_app(config=None):
     from app.gitlab import get_commits, get_issues
 
     # Serve React SPA from Flask when running in production
-    @app.route("/")
-    def serve():
-        return send_from_directory(app.static_folder, "index.html")
+    
+    if config == "deploy" or config == "deploy_migrate":
+        @app.route("/")
+        def serve():
+            return send_from_directory(app.static_folder, "index.html")
 
-    @app.errorhandler(404)
-    def not_found(e):
-        return app.send_static_file("index.html")
+        @app.errorhandler(404)
+        def not_found(e):
+            return app.send_static_file("index.html")
+    else:
+        @app.route("/")
+        def index():
+            return "Hello World"
 
     @app.route("/api/about")
     def about():
@@ -93,10 +99,14 @@ def create_app(config=None):
     def get_query_page(args):
         page = args.get("page", 1, type=int)
         per_page = args.get("per_page", 50, type=int)
-        sort_by = args.get("sort_by", None, type=None if None else str)
+        sort_by = args.get("sort_by", None, type=str)
         order = args.get("order", "asc", type=str)
+        search = args.get("search", None, type=str)
+        search_by = args.get("search_by", None, type=str)
 
-        return page, per_page, sort_by, order
+        return page, per_page, sort_by, order, search, search_by
+
+
 
     # TODO: Divide into multiple blueprint files for each model
 
@@ -104,9 +114,9 @@ def create_app(config=None):
     def jobs():
         # Query parameters
         # Example: http://localhost:5000/jobs?page=20&per_page=100
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs(pg, per_page, sort_by, order)
+        page, jobs = Job.get_jobs(pg, per_page, sort_by, order, search, search_by)
 
         job_dict = {
             "Page": page,
@@ -117,9 +127,9 @@ def create_app(config=None):
 
     @app.route("/api/jobs/onet/<onetCode>", methods=["GET"])
     def get_jobs_by_onet(onetCode):
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_onet(onetCode, pg, per_page, sort_by, order)
+        page, jobs = Job.get_jobs_by_onet(onetCode, pg, per_page, sort_by, order, search, search_by)
 
         job_dict = {
             "Page": page,
@@ -130,10 +140,10 @@ def create_app(config=None):
 
     @app.route("/api/jobs/cluster/<cluster>", methods=["GET"])
     def get_jobs_by_cluster(cluster):
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
         page, jobs, name = Job.get_jobs_by_cluster(
-            cluster, pg, per_page, sort_by, order
+            cluster, pg, per_page, sort_by, order, search, search_by
         )
 
         job_dict = {
@@ -146,9 +156,9 @@ def create_app(config=None):
 
     @app.route("/api/jobs/location/<location>", methods=["GET"])
     def get_jobs_by_location(location):
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_location(location, pg, per_page, sort_by, order)
+        page, jobs = Job.get_jobs_by_location(location, pg, per_page, sort_by, order, search, search_by)
 
         job_dict = {
             "Page": page,
@@ -159,9 +169,9 @@ def create_app(config=None):
 
     @app.route("/api/jobs/course/<Id>", methods=["GET"])
     def get_jobs_by_course(Id):
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_course(Id, pg, per_page, sort_by, order)
+        page, jobs = Job.get_jobs_by_course(Id, pg, per_page, sort_by, order, search, search_by)
 
         job_dict = {
             "Page": page,
@@ -179,9 +189,9 @@ def create_app(config=None):
     # TODO: Add tech skills, basic skills
     @app.route("/api/clusters", methods=["GET"])
     def career_cluster():
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        clusters = Industry.get_clusters(sort_by, order)
+        clusters = Industry.get_clusters(sort_by, order, search, search_by)
 
         return jsonify(clusters)
 
@@ -193,9 +203,9 @@ def create_app(config=None):
 
     @app.route("/api/occupations", methods=["GET"])
     def occupations():
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, occupations = Occupation.get_occupations(pg, per_page, sort_by, order)
+        page, occupations = Occupation.get_occupations(pg, per_page, sort_by, order, search, search_by)
 
         occ_dict = {
             "Page": page,
@@ -211,9 +221,9 @@ def create_app(config=None):
 
     @app.route("/api/courses", methods=["GET"])
     def courses():
-        pg, per_page, sort_by, order = get_query_page(request.args)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, courses = Course.get_courses(pg, per_page, sort_by, order)
+        page, courses = Course.get_courses(pg, per_page, sort_by, order, search, search_by)
 
         courses_dict = {
             "Page": page,
@@ -229,8 +239,8 @@ def create_app(config=None):
 
     @app.route("/api/locations", methods=["GET"])
     def locations():
-        pg, per_page, sort_by, order = get_query_page(request.args)
-        page, locations = Location.get_locations(pg, per_page, sort_by, order)
+        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
+        page, locations = Location.get_locations(pg, per_page, sort_by, order, search, search_by)
         locations_dict = {
             "Page": page,
             "Locations": locations,

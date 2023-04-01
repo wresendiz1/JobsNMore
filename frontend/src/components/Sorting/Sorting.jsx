@@ -18,6 +18,8 @@ function Sorting({
   show_handler,
   items_per_page,
   default_items,
+  search_term,
+  search_by,
 }) {
   return (
     <>
@@ -55,7 +57,7 @@ function Sorting({
               <Col>
                 <Form
                   onSubmit={(e) => {
-                    handler(sort, order, e);
+                    handler(sort, order, search_term, search_by, e);
                     // console.log(sort.current.value);
                   }}
                 >
@@ -82,6 +84,39 @@ function Sorting({
                         <option value="desc">Descending</option>
                       </Form.Select>
                     </FloatingLabel>
+                  </Form.Group>
+                  <Form.Group className="mb-3">
+                    <Row className="g-2">
+                      <Col md>
+                        <FloatingLabel
+                          controlId="floatingInput"
+                          label="Search"
+                          className="mb-3"
+                        >
+                          <Form.Control
+                            ref={search_term}
+                            type="text"
+                            placeholder="test"
+                          />
+                        </FloatingLabel>
+                      </Col>
+                      <Col md>
+                        <FloatingLabel
+                          controlId="floatingSelect"
+                          label="Search by:"
+                        >
+                          <Form.Select aria-label="Search:" ref={search_by}>
+                            {page &&
+                              value_name.map((obj) => (
+                                <option key={obj.id} value={obj.id}>
+                                  {obj.name}
+                                </option>
+                              ))}
+                            ;
+                          </Form.Select>
+                        </FloatingLabel>
+                      </Col>
+                    </Row>
                   </Form.Group>
                   <Button variant="outline-info" type="submit">
                     Go
@@ -119,7 +154,11 @@ function Sorting({
                       </p>
                     ))}
 
-                  <Form onChange={(e) => show_handler(items_per_page, e)}>
+                  <Form
+                    onChange={(e) =>
+                      show_handler(items_per_page, search_term, search_by, e)
+                    }
+                  >
                     <Form.Group className="mb-3" style={{ width: "10vw" }}>
                       <FloatingLabel
                         controlId="floatingSelect"
@@ -158,7 +197,7 @@ function Sorting({
               <Col>
                 <Form
                   onSubmit={(e) => {
-                    handler(sort, order, e);
+                    handler(sort, order, search_term, search_by, e);
                     // console.log(sort.current.value);
                   }}
                 >
@@ -186,6 +225,41 @@ function Sorting({
                       </Form.Select>
                     </FloatingLabel>
                   </Form.Group>
+
+                  <Form.Group className="mb-3">
+                    <Row className="g-2">
+                      <Col md>
+                        <FloatingLabel
+                          controlId="floatingInput"
+                          label="Search"
+                          className="mb-3"
+                        >
+                          <Form.Control
+                            ref={search_term}
+                            type="text"
+                            placeholder="test"
+                          />
+                        </FloatingLabel>
+                      </Col>
+                      <Col md>
+                        <FloatingLabel
+                          controlId="floatingSelect"
+                          label="Search by:"
+                        >
+                          <Form.Select aria-label="Search:" ref={search_by}>
+                            {page &&
+                              value_name.map((obj) => (
+                                <option key={obj.id} value={obj.id}>
+                                  {obj.name}
+                                </option>
+                              ))}
+                            ;
+                          </Form.Select>
+                        </FloatingLabel>
+                      </Col>
+                    </Row>
+                  </Form.Group>
+
                   <Button variant="outline-info" type="submit">
                     Go
                   </Button>
