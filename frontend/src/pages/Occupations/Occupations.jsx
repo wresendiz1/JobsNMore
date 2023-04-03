@@ -7,14 +7,30 @@ import Sorting from "../../components/Sorting/Sorting";
 import PaginationBar from "../../components/Pagination/Pagination";
 import { getPageData } from "../../components/Pagination/PaginationHelper";
 
+
 function Occupations() {
   const [page, setPage] = useState();
   const [occupations, setOccupations] = useState();
   const order = useRef();
   const sort = useRef();
-  const items_per_page = useRef(30);
+  const items_per_page = useRef(10);
   const search_term = useRef();
   const search_by = useRef();
+
+  const sort_values = [
+    { id: "onetCode", name: "Onet Code" },
+    { id: "cluster", name: "Cluster" },
+    { id: "title", name: "Job Title" },
+    { id: "outlook", name: "Outlook" },
+    { id: "median_wage", name: "Median Wage" },
+    { id: "pct90_wage", name: "90th Wage" },
+    { id: "curr_employment", name: "Current Employment" },
+    { id: "proj_openings", name: "Projected Openings" },
+    { id: "percent_change", name: "Percent Change in Employment" },
+  ];
+  
+  const search_values = sort_values.slice(0, 3);
+  
 
   useEffect(() => {
     fetch("/api/occupations")
@@ -79,17 +95,6 @@ function Occupations() {
       });
   };
 
-  const value_name = [
-    { id: "onetCode", name: "Relevance" },
-    { id: "cluster", name: "Cluster" },
-    { id: "title", name: "Job Title" },
-    { id: "median_wage", name: "Median Wage" },
-    { id: "pct90_wage", name: "90th Wage" },
-    { id: "outlook", name: "Outlook" },
-    { id: "curr_employment", name: "Current Employment" },
-    { id: "proj_openings", name: "Projected Openings" },
-    { id: "percent_change", name: "Percent Change in Employment" },
-  ];
   return (
     <MainLayout>
       {/* <h1 className="text-center py-5">Occupations</h1> */}
@@ -98,20 +103,20 @@ function Occupations() {
           page_name={"Occupations"}
           page={page}
           handler={sortPage}
-          value_name={value_name}
+          sort_values={sort_values}
+          search_values={search_values}
           order={order}
           sort={sort}
           show_handler={ShowPerPage}
           items_per_page={items_per_page}
-          default_items={30}
+          max_items={30}
           search_term={search_term}
           search_by={search_by}
-
         />
       )}
       <Container>
         <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
-          {occupations &&
+          {occupations && occupations.length > 0 ? (
             occupations.map((occupation) => (
               <Col key={occupation.onetCode}>
                 <Card className="m-3">
@@ -123,34 +128,34 @@ function Occupations() {
 
                     {/* <Card.Text>{occupation["description"]}</Card.Text> */}
                     {/* <Card.Text>
-                    Median Wage: {occupation["median_wage"]}
-                  </Card.Text>
-                  <Card.Text>90th Wage: {occupation["pct90_wage"]}</Card.Text>
-                  <Card.Text>Outlook: {occupation["outlook"]}</Card.Text>
-                  <Card.Text>
-                    Outlook Category: {occupation["outlook_category"]}
-                  </Card.Text>
-                  <Card.Text>
-                    Current Employment: {occupation["curr_employment"]}
-                  </Card.Text>
-                  <Card.Text>
-                    Projected Employment: {occupation["proj_openings"]}
-                  </Card.Text>
-                  <Card.Text>
-                    Percent Change: {occupation["percent_change"]}
-                  </Card.Text>
-                  <Card.Text>
-                    <a
-                      href={occupation["bls"]}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      BLS
-                    </a>
-                  </Card.Text> */}
+        Median Wage: {occupation["median_wage"]}
+      </Card.Text>
+      <Card.Text>90th Wage: {occupation["pct90_wage"]}</Card.Text>
+      <Card.Text>Outlook: {occupation["outlook"]}</Card.Text>
+      <Card.Text>
+        Outlook Category: {occupation["outlook_category"]}
+      </Card.Text>
+      <Card.Text>
+        Current Employment: {occupation["curr_employment"]}
+      </Card.Text>
+      <Card.Text>
+        Projected Employment: {occupation["proj_openings"]}
+      </Card.Text>
+      <Card.Text>
+        Percent Change: {occupation["percent_change"]}
+      </Card.Text>
+      <Card.Text>
+        <a
+          href={occupation["bls"]}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          BLS
+        </a>
+      </Card.Text> */}
                     {/* <Link to={`/jobs/occupation/${occupation.OnetCode}`} className="btn btn-primary mx-2">
-                  Find Jobs
-                </Link> */}
+      Find Jobs
+    </Link> */}
                     <Link
                       to={`/Occupations/${occupation.onetCode}`}
                       className="btn btn-primary mx-2"
@@ -166,7 +171,13 @@ function Occupations() {
                   </Card.Body>
                 </Card>
               </Col>
-            ))}
+            ))
+          ) : (occupations && (
+            <Container style={{ height: "50vh" }}>
+              <h2 className="text-center fw-lighter text-muted">No Results</h2>
+            </Container>
+          )
+          )}
         </Row>
       </Container>
       <Container className="d-flex justify-content-center">

@@ -6,14 +6,26 @@ import MainLayout from "../../components/Layout/MainLayout";
 import PaginationBar from "../../components/Pagination/Pagination";
 import Sorting from "../../components/Sorting/Sorting";
 
+
+
+
 function Jobs() {
   const [page, setPage] = useState();
   const [jobs, setJobs] = useState();
   const order = useRef();
   const sort = useRef();
-  const items_per_page = useRef(50);
+  const items_per_page = useRef(10);
   const search_term = useRef();
   const search_by = useRef();
+
+  const sort_values = [
+    { id: "Company", name: "Company" },
+    { id: "JobLocation", name: "Job Location" },
+    { id: "JobTitle", name: "Job Title" },
+    { id: "DatePosted", name: "Date Posted" },
+  ];
+  
+  const search_values = sort_values.slice(0, 3);
 
   useEffect(() => {
     fetch("/api/jobs")
@@ -62,13 +74,6 @@ function Jobs() {
       });
   };
 
-  const value_name = [
-    { id: "Company", name: "Company" },
-    { id: "DatePosted", name: "Date Posted" },
-    { id: "JCityID", name: "Job Location" },
-    { id: "OnetCode", name: "Occupation Code" },
-    { id: "JobTitle", name: "Job Title" },
-  ];
 
   // const handleSubmit = (sort, order) => {
   //   return (e) => {
@@ -91,7 +96,8 @@ function Jobs() {
           page_name={"Jobs"}
           page={page}
           handler={sortPage}
-          value_name={value_name}
+          sort_values={sort_values}
+          search_values={search_values}
           order={order}
           sort={sort}
           show_handler={ShowPerPage}
@@ -101,7 +107,7 @@ function Jobs() {
         />
       )}
       <Container className="d-flex flex-wrap justify-content-center">
-        {jobs &&
+        {jobs && jobs.length > 0 ? (
           jobs.map((job) => (
             <Card key={job["Id"]} className="m-3" style={{ width: "18rem" }}>
               <Card.Body>
@@ -124,7 +130,13 @@ function Jobs() {
                 </Link>
               </Card.Body>
             </Card>
-          ))}
+          ))):(
+            jobs && (
+              <Container style={{ height: "50vh" }}>
+                <h2 className="text-center fw-lighter text-muted">No Results</h2>
+              </Container>
+            )
+          )}
       </Container>
       <Container className="d-flex justify-content-center">
         {jobs && (

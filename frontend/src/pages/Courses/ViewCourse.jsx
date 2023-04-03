@@ -3,12 +3,10 @@ import { useParams } from "react-router-dom";
 import {
   Container,
   Row,
-  Col,
   Card,
   Button,
   ListGroup,
   ListGroupItem,
-  Tab,
 } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import MainLayout from "../../components/Layout/MainLayout";
@@ -21,7 +19,7 @@ function ViewCourse() {
     fetch(`/api/courses/${id}`)
       .then((res) => res.json())
       .then((data) => {
-        setCourse(data);
+        setCourse(data.Course);
       })
       .catch((err) => console.log(err));
   }, []);
@@ -60,10 +58,7 @@ function ViewCourse() {
                     </ListGroupItem>
                     <ListGroupItem>
                       <Link
-                        to={{
-                          pathname: `/Jobs/course/${course.OnetCode}`,
-                          state: { course: course.Name },
-                        }}
+                        to={`/Jobs/course/${course.OnetCode}?course=${course.Name}`}
                       >
                         <Button variant="primary">View Jobs</Button>
                       </Link>

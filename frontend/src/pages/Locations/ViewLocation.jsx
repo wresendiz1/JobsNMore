@@ -20,8 +20,8 @@ function ViewLocation() {
     fetch(`/api/locations/${id}`)
       .then((res) => res.json())
       .then((data) => {
-        setLocation(data[0]);
-        setJobs(data[1]);
+        setLocation(data.Location);
+        setJobs(data.Jobs);
       })
       .catch((err) => console.log(err));
   }, []);
@@ -72,7 +72,7 @@ function ViewLocation() {
             </Row>
             <Link
               to={`/Jobs/locations/${location.CityID}`}
-              className="btn btn-primary mx-2"
+              className="btn btn-primary mx-2 my-2"
             >
               More Jobs
             </Link>

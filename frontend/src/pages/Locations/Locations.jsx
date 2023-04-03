@@ -6,14 +6,27 @@ import Sorting from "../../components/Sorting/Sorting";
 import PaginationBar from "../../components/Pagination/Pagination";
 import { getPageData } from "../../components/Pagination/PaginationHelper";
 
+
+
 function Locations() {
   const [page, setPage] = useState();
   const [locations, setLocations] = useState();
   const order = useRef();
   const sort = useRef();
-  const items_per_page = useRef(30);
+  const items_per_page = useRef(10);
   const search_term = useRef();
   const search_by = useRef();
+
+  
+  const sort_values = [
+  { id: "City", name: "City" },
+  { id: "State", name: "State" },
+  { id: "Budget", name: "Budget" },
+  { id: "Safety", name: "Safety" },
+  { id: "Average_rat", name: "Average Rating" },
+  ];
+
+  const search_values = sort_values.slice(0, 2);
 
   useEffect(() => {
     fetch("/api/locations")
@@ -72,14 +85,6 @@ function Locations() {
       });
   };
 
-  const value_name = [
-    { id: "CityID", name: "Relevance" },
-    { id: "City", name: "City" },
-    { id: "State", name: "State" },
-    { id: "Budget", name: "Budget" },
-    { id: "Safety", name: "Safety" },
-    { id: "Average_rat", name: "Average Rating" },
-  ];
 
   return (
     <MainLayout>
@@ -88,19 +93,20 @@ function Locations() {
           page_name="Locations"
           page={page}
           handler={sortPage}
-          value_name={value_name}
+          sort_values={sort_values}
+          search_values={search_values}
           order={order}
           sort={sort}
           show_handler={ShowPerPage}
           items_per_page={items_per_page}
-          default_items={30}
+          max_items={30}
           search_term={search_term}
           search_by={search_by}        
         />
       )}
 
       <Container className="d-flex flex-wrap justify-content-center">
-        {locations &&
+        {locations && locations.length > 0 ? (
           locations.map((location) => (
             <Card
               key={location.CityID}
@@ -144,7 +150,15 @@ function Locations() {
                 </ListGroup>
               </Card.Body>
             </Card>
-          ))}
+          ))
+        ):(
+          locations && (
+            <Container style={{ height: "50vh" }}>
+              <h2 className="text-center fw-lighter text-muted">No Results</h2>
+            </Container>
+          )
+        )
+          }
       </Container>
       <Container className="d-flex justify-content-center">
         {locations && (

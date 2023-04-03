@@ -12,12 +12,13 @@ function Sorting({
   page_name,
   page,
   handler,
-  value_name,
+  sort_values,
+  search_values,
   order,
   sort,
   show_handler,
   items_per_page,
-  default_items,
+  max_items,
   search_term,
   search_by,
 }) {
@@ -68,7 +69,7 @@ function Sorting({
                   <option value="DatePosted">Date Posted</option>
                   <option value="Salary">Salary</option> */}
                         {page &&
-                          value_name.map((obj) => (
+                          sort_values.map((obj) => (
                             <option key={obj.id} value={obj.id}>
                               {obj.name}
                             </option>
@@ -107,7 +108,7 @@ function Sorting({
                         >
                           <Form.Select aria-label="Search:" ref={search_by}>
                             {page &&
-                              value_name.map((obj) => (
+                              search_values.map((obj) => (
                                 <option key={obj.id} value={obj.id}>
                                   {obj.name}
                                 </option>
@@ -164,24 +165,24 @@ function Sorting({
                         controlId="floatingSelect"
                         label="Show items:"
                       >
-                        {default_items == 30 ? (
+                        {max_items == 30 ? (
                           <Form.Select
                             aria-label="Show items:"
                             ref={items_per_page}
                           >
-                            <option value="30">30</option>
-                            <option value="25">25</option>
                             <option value="10">10</option>
+                            <option value="25">25</option>
+                            <option value="30">30</option>                                                        
                           </Form.Select>
                         ) : (
                           <Form.Select
                             aria-label="Show items:"
                             ref={items_per_page}
-                          >
-                            <option value="50">50</option>
+                          >                    
                             <option value="10">10</option>
-                            <option value="30">30</option>
                             <option value="25">25</option>
+                            <option value="30">30</option>
+                            <option value="50">50</option>
                             <option value="100">100</option>
                           </Form.Select>
                         )}
@@ -208,7 +209,7 @@ function Sorting({
                   <option value="DatePosted">Date Posted</option>
                   <option value="Salary">Salary</option> */}
                         {page &&
-                          value_name.map((obj) => (
+                          sort_values.map((obj) => (
                             <option key={obj.id} value={obj.id}>
                               {obj.name}
                             </option>
@@ -248,7 +249,7 @@ function Sorting({
                         >
                           <Form.Select aria-label="Search:" ref={search_by}>
                             {page &&
-                              value_name.map((obj) => (
+                              search_values.map((obj) => (
                                 <option key={obj.id} value={obj.id}>
                                   {obj.name}
                                 </option>

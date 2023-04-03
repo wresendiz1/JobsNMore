@@ -8,15 +8,26 @@ import PaginationBar from "../../components/Pagination/Pagination";
 import { getPageData } from "../../components/Pagination/PaginationHelper";
 import Sorting from "../../components/Sorting/Sorting";
 
+
+
 function OnetJobs() {
   const [page, setPage] = useState();
   const [jobs, setJobs] = useState();
   const { id } = useParams();
   const order = useRef();
   const sort = useRef();
-  const items_per_page = useRef(50);
+  const items_per_page = useRef(10);
   const search_term = useRef();
   const search_by = useRef();
+
+  const sort_values = [
+    { id: "Company", name: "Company" },
+    { id: "JobLocation", name: "Job Location" },
+    { id: "JobTitle", name: "Job Title" },
+    { id: "DatePosted", name: "Date Posted" },
+  ];
+  
+  const search_values = sort_values.slice(0, 3);
 
   useEffect(() => {
     fetch(`/api/jobs/onet/${id}`)
@@ -77,13 +88,7 @@ function OnetJobs() {
       });
   };
 
-  const value_name = [
-    { id: "Id", name: "Relevance" },
-    { id: "Company", name: "Company" },
-    { id: "DatePosted", name: "Date Posted" },
-    { id: "JCityID", name: "Job Location" },
-    { id: "JobTitle", name: "Job Title" },
-  ];
+
 
   return (
     <MainLayout>
@@ -93,7 +98,8 @@ function OnetJobs() {
           page_name={"Jobs"}
           page={page}
           handler={sortPage}
-          value_name={value_name}
+          sort_values={sort_values}
+          search_values={search_values}
           order={order}
           sort={sort}
           show_handler={ShowPerPage}
@@ -104,19 +110,19 @@ function OnetJobs() {
       )}
 
       <Container className="d-flex flex-wrap justify-content-center">
-        {jobs &&
+      {jobs && jobs.length > 0 ? (
           jobs.map((job) => (
             <Card key={job["Id"]} className="m-3" style={{ width: "18rem" }}>
               <Card.Body>
-                <Card.Title>{job["JobTitle"]}</Card.Title>
+                <Card.Title>{job.JobTitle}</Card.Title>
                 <Card.Subtitle className="mb-2 text-muted">
-                  {job["Company"]}
+                  {job.Company}
                 </Card.Subtitle>
                 {/* TODO: query occupation DB to get average pay or use google API in next phase */}
-                <Card.Text>{job["Location"]}</Card.Text>
+                <Card.Text>{job.Location}</Card.Text>
                 <Button
                   variant="primary"
-                  href={job["Url"]}
+                  href={job.Url}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -127,7 +133,13 @@ function OnetJobs() {
                 </Link>
               </Card.Body>
             </Card>
-          ))}
+          ))):(
+            jobs && (
+              <Container style={{ height: "50vh" }}>
+                <h2 className="text-center fw-lighter text-muted">No Results</h2>
+              </Container>
+            )
+          )}
       </Container>
       <Container className="d-flex flex-wrap justify-content-center">
         {jobs && (

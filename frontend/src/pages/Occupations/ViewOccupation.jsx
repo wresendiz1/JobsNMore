@@ -26,7 +26,7 @@ function ViewOccupation() {
     fetch(`/api/occupations/${id}`)
       .then((res) => res.json())
       .then((data) => {
-        setOccupation(data);
+        setOccupation(data.Occupation);
       })
       .catch((err) => console.log(err));
   }, []);

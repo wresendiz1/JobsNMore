@@ -4,12 +4,24 @@ import { Link } from "react-router-dom";
 import MainLayout from "../../components/Layout/MainLayout";
 import Sorting from "../../components/Sorting/Sorting";
 
+
+
+
+
 function Clusters() {
   const [clusters, setClusters] = useState();
   const order = useRef();
   const sort = useRef();
   const search_term = useRef();
   const search_by = useRef();
+
+  const sort_values = [
+    { id: "Code", name: "Code" },
+    { id: "Group", name: "Group" },
+    { id: "Median_wage", name: "Median Wage" },
+  ];
+  
+  const search_values = sort_values.slice(0, 2);
 
   useEffect(() => {
     fetch("/api/clusters")
@@ -33,11 +45,7 @@ function Clusters() {
       });
   };
 
-  const value_name = [
-    { id: "Code", name: "Code" },
-    { id: "Group", name: "Group" },
-    { id: "Median_wage", name: "Median Wage" },
-  ];
+
 
   return (
     <MainLayout>
@@ -47,7 +55,8 @@ function Clusters() {
           page_name={"Clusters"}
           page={clusters}
           handler={sortPage}
-          value_name={value_name}
+          sort_values={sort_values}
+          search_values={search_values}
           order={order}
           sort={sort}
           search_term={search_term}
@@ -57,7 +66,7 @@ function Clusters() {
 
       <Container className="min-vh-100">
         <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
-          {clusters &&
+          {clusters && clusters.length > 0 ?(
             clusters.map((cluster) => (
               <Col md={4} key={cluster.Code} className="my-3">
                 <Card>
@@ -77,7 +86,15 @@ function Clusters() {
                   </Card.Body>
                 </Card>
               </Col>
-            ))}
+            ))
+          ):(
+            clusters && (
+              <Container style={{ height: "50vh" }}>
+                <h2 className="text-center fw-lighter text-muted">No Results</h2>
+              </Container>
+            )
+          )
+            }
         </Row>
       </Container>
     </MainLayout>

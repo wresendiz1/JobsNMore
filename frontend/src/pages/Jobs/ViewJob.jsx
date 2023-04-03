@@ -29,8 +29,8 @@ function ViewJob() {
     fetch(`/api/jobs/${id}`)
       .then((res) => res.json())
       .then((data) => {
-        setData(data[0]);
-        setCourses(data[1]);
+        setData(data["Job Info"]);
+        setCourses(data["Courses"]);
       })
       .catch((err) => console.log(err));
   }, []);

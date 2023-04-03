@@ -6,6 +6,7 @@ import PaginationBar from "../../components/Pagination/Pagination";
 import { getPageData } from "../../components/Pagination/PaginationHelper";
 import Sorting from "../../components/Sorting/Sorting";
 
+
 function Courses() {
   const [page, setPage] = useState();
   const [courses, setCourses] = useState();
@@ -14,6 +15,14 @@ function Courses() {
   const items_per_page = useRef(50);
   const search_term = useRef();
   const search_by = useRef();
+
+  const sort_values = [
+    { id: "OnetCode", name: "Onet Code" },
+    { id: "Provider", name: "Provider" },
+    { id: "Name", name: "Name" },
+    { id: "Type", name: "Type" },
+  ];
+
 
   useEffect(() => {
     fetch("/api/courses")
@@ -78,13 +87,7 @@ function Courses() {
       });
   };
 
-  const value_name = [
-    { id: "Id", name: "Relevance" },
-    { id: "OnetCode", name: "Onet Code" },
-    { id: "Provider", name: "Provider" },
-    { id: "Name", name: "Name" },
-    { id: "Type", name: "Type" },
-  ];
+
   return (
     <MainLayout>
       {Courses && (
@@ -92,7 +95,8 @@ function Courses() {
           page_name={"Courses"}
           page={page}
           handler={sortPage}
-          value_name={value_name}
+          sort_values={sort_values}
+          search_values={sort_values}
           order={order}
           sort={sort}
           show_handler={ShowPerPage}
@@ -103,8 +107,7 @@ function Courses() {
       )}
 
       <Container className="d-flex flex-wrap justify-content-center">
-        {courses &&
-          courses.map((course) => (
+        {courses && courses.length > 0 ? (courses.map((course) => (
             <Card key={course.Id} className="m-3" style={{ width: "18rem" }}>
               <Card.Body>
                 <Card.Title>{course.Name}</Card.Title>
@@ -128,7 +131,14 @@ function Courses() {
                 </Link>
               </Card.Body>
             </Card>
-          ))}
+          ))):(
+            courses && (
+              <Container style={{ height: "50vh" }}>
+                <h2 className="text-center fw-lighter text-muted">No Results</h2>
+              </Container>
+            )
+          )
+          }
       </Container>
       <Container className="d-flex flex-wrap justify-content-center">
         {courses && (

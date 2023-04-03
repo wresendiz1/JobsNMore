@@ -22,7 +22,7 @@ run-back: backend/venv/Scripts/activate
 	cd backend && venv/Scripts/python run.py
 
 run-back-test:
-	cd backend && source venv/Scripts/activate && pytest app/tests.py
+	cd backend && source venv/Scripts/activate && pytest app/tests.py -p no:warnings
 
 run-front:
 	cd frontend && sed -i 's|$(WEBSITE)|$(LOCAL)|' \

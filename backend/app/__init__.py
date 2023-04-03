@@ -1,4 +1,5 @@
-from flask import Flask, jsonify, request, send_file, send_from_directory
+import json
+from flask import Flask, Response, jsonify, request, send_file, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 import os
@@ -63,19 +64,13 @@ def create_app(config=None):
     from app.gitlab import get_commits, get_issues
 
     # Serve React SPA from Flask when running in production
-    
-    if config == "deploy" or config == "deploy_migrate":
-        @app.route("/")
-        def serve():
-            return send_from_directory(app.static_folder, "index.html")
+    @app.route("/")
+    def serve():
+        return send_from_directory(app.static_folder, "index.html")
 
-        @app.errorhandler(404)
-        def not_found(e):
-            return app.send_static_file("index.html")
-    else:
-        @app.route("/")
-        def index():
-            return "Hello World"
+    @app.errorhandler(404)
+    def not_found(e):
+        return app.send_static_file("index.html")
 
     @app.route("/api/about")
     def about():
@@ -98,15 +93,13 @@ def create_app(config=None):
 
     def get_query_page(args):
         page = args.get("page", 1, type=int)
-        per_page = args.get("per_page", 50, type=int)
+        per_page = args.get("per_page", 10, type=int)
         sort_by = args.get("sort_by", None, type=str)
         order = args.get("order", "asc", type=str)
         search = args.get("search", None, type=str)
         search_by = args.get("search_by", None, type=str)
 
         return page, per_page, sort_by, order, search, search_by
-
-
 
     # TODO: Divide into multiple blueprint files for each model
 
@@ -116,75 +109,55 @@ def create_app(config=None):
         # Example: http://localhost:5000/jobs?page=20&per_page=100
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs(pg, per_page, sort_by, order, search, search_by)
+        job_dict = Job.get_jobs(pg, per_page, sort_by, order, search, search_by)
 
-        job_dict = {
-            "Page": page,
-            "Jobs": jobs,
-        }
-
-        return jsonify(job_dict)
+        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/jobs/onet/<onetCode>", methods=["GET"])
     def get_jobs_by_onet(onetCode):
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_onet(onetCode, pg, per_page, sort_by, order, search, search_by)
+        job_dict = Job.get_jobs_by_onet(
+            onetCode, pg, per_page, sort_by, order, search, search_by
+        )
 
-        job_dict = {
-            "Page": page,
-            "Jobs": jobs,
-        }
-
-        return jsonify(job_dict)
+        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/jobs/cluster/<cluster>", methods=["GET"])
     def get_jobs_by_cluster(cluster):
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs, name = Job.get_jobs_by_cluster(
+        job_dict = Job.get_jobs_by_cluster(
             cluster, pg, per_page, sort_by, order, search, search_by
         )
 
-        job_dict = {
-            "Page": page,
-            "Jobs": jobs,
-            "Cluster": name,
-        }
-
-        return jsonify(job_dict)
+        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/jobs/location/<location>", methods=["GET"])
     def get_jobs_by_location(location):
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_location(location, pg, per_page, sort_by, order, search, search_by)
+        job_dict = Job.get_jobs_by_location(
+            location, pg, per_page, sort_by, order, search, search_by
+        )
 
-        job_dict = {
-            "Page": page,
-            "Jobs": jobs,
-        }
-
-        return jsonify(job_dict)
+        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/jobs/course/<Id>", methods=["GET"])
     def get_jobs_by_course(Id):
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, jobs = Job.get_jobs_by_course(Id, pg, per_page, sort_by, order, search, search_by)
+        job_dict = Job.get_jobs_by_course(
+            Id, pg, per_page, sort_by, order, search, search_by
+        )
 
-        job_dict = {
-            "Page": page,
-            "Jobs": jobs,
-        }
-
-        return jsonify(job_dict)
+        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/jobs/<Id>", methods=["GET"])
     def get_job(Id):
-        job, courses = Job.get_job_details(Id)
+        info_dict = Job.get_job_details(Id)
 
-        return jsonify(job, courses)
+        return Response(json.dumps(info_dict, indent=2), mimetype="application/json")
 
     # TODO: Add tech skills, basic skills
     @app.route("/api/clusters", methods=["GET"])
@@ -193,66 +166,63 @@ def create_app(config=None):
 
         clusters = Industry.get_clusters(sort_by, order, search, search_by)
 
-        return jsonify(clusters)
+        return Response(json.dumps(clusters, indent=2), mimetype="application/json")
 
     @app.route("/api/clusters/<code>", methods=["GET"])
     def get_cluster(code):
-        cluster = Industry.get_cluster(code)
+        # cluster = Industry.get_cluster(code)
 
-        return jsonify(cluster)
+        cluster_dict = Industry.get_cluster(code)
+
+        return Response(json.dumps(cluster_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/occupations", methods=["GET"])
     def occupations():
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, occupations = Occupation.get_occupations(pg, per_page, sort_by, order, search, search_by)
+        occ = Occupation.get_occupations(
+            pg, per_page, sort_by, order, search, search_by
+        )
 
-        occ_dict = {
-            "Page": page,
-            "Occupations": occupations,
-        }
-
-        return jsonify(occ_dict)
+        return Response(json.dumps(occ, indent=2), mimetype="application/json")
 
     @app.route("/api/occupations/<onetCode>", methods=["GET"])
     def get_ocupation(onetCode):
         occupation = Occupation.get_occupation(onetCode)
-        return jsonify(occupation)
+
+        return Response(json.dumps(occupation, indent=2), mimetype="application/json")
 
     @app.route("/api/courses", methods=["GET"])
     def courses():
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-        page, courses = Course.get_courses(pg, per_page, sort_by, order, search, search_by)
+        courses_dict = Course.get_courses(
+            pg, per_page, sort_by, order, search, search_by
+        )
 
-        courses_dict = {
-            "Page": page,
-            "Courses": courses,
-        }
-
-        return jsonify(courses_dict)
+        return Response(json.dumps(courses_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/courses/<Id>", methods=["GET"])
     def get_course(Id):
         course = Course.get_course(Id)
-        return jsonify(course)
+        return Response(json.dumps(course, indent=2), mimetype="application/json")
 
     @app.route("/api/locations", methods=["GET"])
     def locations():
         pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-        page, locations = Location.get_locations(pg, per_page, sort_by, order, search, search_by)
-        locations_dict = {
-            "Page": page,
-            "Locations": locations,
-        }
+        locations_dict = Location.get_locations(
+            pg, per_page, sort_by, order, search, search_by
+        )
 
-        return jsonify(locations_dict)
+        return Response(
+            json.dumps(locations_dict, indent=2), mimetype="application/json"
+        )
 
     @app.route("/api/locations/<Id>", methods=["GET"])
     def get_location(Id):
-        location, jobs = Location.get_location_details(Id)
+        loc_dict = Location.get_location_details(Id)
 
-        return jsonify(location, jobs)
+        return Response(json.dumps(loc_dict, indent=2), mimetype="application/json")
 
     @app.route("/api/basic_skills", methods=["GET"])
     def basic_skils():

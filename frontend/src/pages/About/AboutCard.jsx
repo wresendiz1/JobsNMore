@@ -8,11 +8,8 @@ import Image from "react-bootstrap/Image";
 import ListGroup from "react-bootstrap/ListGroup";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGitlab } from "@fortawesome/free-brands-svg-icons";
-import "../Layout/bootstrap.css";
-import "../Layout/custom.css";
 
 function AboutCard({ data }) {
-  // TODO: Move this to About/pages
   const [info, setInfo] = useState();
 
   useEffect(() => {

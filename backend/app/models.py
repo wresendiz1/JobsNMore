@@ -1,4 +1,5 @@
 from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy import func
 
 db = SQLAlchemy()
 
@@ -53,22 +54,32 @@ class Location(db.Model):
     @classmethod
     # The get_query_page in __init__ assings the default parameters, there just defined here
     # for future-proofing
-    def get_locations(cls, page=1, per_page=30, sort_by="CityID", order="asc", search=None, search_by=None):
+    def get_locations(
+        cls,
+        page=1,
+        per_page=10,
+        sort_by="CityID",
+        order="asc",
+        search=None,
+        search_by=None,
+    ):
         sort_by = "CityID" if sort_by is None else sort_by
-        
+
         column = getattr(cls, sort_by)
-        
+
         if search:
             search_column = getattr(cls, search_by)
             search_q = cls.query.filter(search_column.ilike(f"%{search}%"))
+
         else:
             search_q = cls.query
-        
 
         if order == "asc":
             loc_q = search_q.order_by(column).paginate(page=page, per_page=per_page)
         else:
-            loc_q = search_q.order_by(column.desc()).paginate(page=page, per_page=per_page)
+            loc_q = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
+            )
 
         total_items = search_q.count()
         num = total_items // per_page
@@ -79,7 +90,7 @@ class Location(db.Model):
                 for key, value in location.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for location in loc_q
+            for location in loc_q.items
         ]
         page = [
             {
@@ -91,7 +102,7 @@ class Location(db.Model):
             }
         ]
 
-        return page, locations
+        return {"Page": page, "Locations": locations}
 
     @classmethod
     def get_location(cls, id):
@@ -114,7 +125,8 @@ class Location(db.Model):
             for key, value in location.__dict__.items()
             if key != "_sa_instance_state"
         }
-        return location, jobs
+        # return location, jobs
+        return {"Location": location, "Jobs": jobs}
 
 
 class Job(db.Model):
@@ -136,7 +148,7 @@ class Job(db.Model):
 
     @classmethod
     def get_jobs(
-        cls, page=1, per_page=50, sort_by=None, order="asc", search=None, search_by=None
+        cls, page=1, per_page=10, sort_by=None, order="asc", search=None, search_by=None
     ):
         sort_by = "Company" if sort_by is None else sort_by
         # order = "asc" if order is None else order
@@ -151,7 +163,6 @@ class Job(db.Model):
 
         # Order
         if order == "asc":
-
             jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
         else:
             jobs = search_q.order_by(column.desc()).paginate(
@@ -165,7 +176,7 @@ class Job(db.Model):
                 for key, value in job.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for job in jobs
+            for job in jobs.items
         ]
         # num = cls.get_count() // per_page
         # num += 1 if cls.get_count() % per_page else 0
@@ -182,7 +193,8 @@ class Job(db.Model):
                 "page_items": len(jobs_q),
             }
         ]
-        return page, jobs_q
+
+        return {"Page": page, "Jobs": jobs_q}
 
     @classmethod
     def get_job(cls, id):
@@ -215,14 +227,14 @@ class Job(db.Model):
             for course in courses
         ]
 
-        return merged, courses
+        return {"Job Info": merged, "Courses": courses}
 
     @classmethod
     def get_jobs_by_onet(
         cls,
         onet,
         page=1,
-        per_page=50,
+        per_page=10,
         sort_by="Id",
         order="asc",
         search=None,
@@ -256,7 +268,7 @@ class Job(db.Model):
                 for key, value in job.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for job in jobs
+            for job in jobs.items
         ]
         total_items = search_q.count()
         num = total_items // per_page
@@ -272,14 +284,14 @@ class Job(db.Model):
             }
         ]
 
-        return page, jobs_q
+        return {"Page": page, "Jobs": jobs_q}
 
     @classmethod
     def get_jobs_by_course(
         cls,
         course,
         page=1,
-        per_page=50,
+        per_page=10,
         sort_by="Id",
         order="asc",
         search=None,
@@ -297,13 +309,15 @@ class Job(db.Model):
             search_q = total
 
         if order == "asc":
-            jobs = search_q.order_by(column).paginate( page = page, per_page = per_page)
+            jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
 
         else:
-            jobs = search_q.order_by(column.desc()).paginate( page = page, per_page = per_page)
-            
+            jobs = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
+            )
+
         total_items = search_q.count()
-        
+
         # jobs = total.limit(per_page).offset((page - 1) * per_page).all()
         jobs_q = [
             {
@@ -311,7 +325,7 @@ class Job(db.Model):
                 for key, value in job.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for job in jobs
+            for job in jobs.items
         ]
         num = total_items // per_page
         num += 1 if total_items % per_page else 0
@@ -326,28 +340,36 @@ class Job(db.Model):
             }
         ]
 
-        return page, jobs_q
+        return {"Page": page, "Jobs": jobs_q}
 
     @classmethod
     def get_jobs_by_location(
-        cls, location, page=1, per_page=50, sort_by="Id", order="asc", search=None, search_by=None
+        cls,
+        location,
+        page=1,
+        per_page=10,
+        sort_by="Id",
+        order="asc",
+        search=None,
+        search_by=None,
     ):
         sort_by = "Id" if sort_by is None else sort_by
         total = cls.query.filter_by(JCityID=location)
 
         column = getattr(cls, sort_by)
-        
+
         if search:
             column_search = getattr(cls, search_by)
             search_q = total.filter(column_search.ilike(f"%{search}%"))
         else:
             search_q = total
-        
-        
+
         if order == "asc":
             jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
-        else: 
-            jobs = search_q.order_by(column.desc()).paginate(page=page, per_page=per_page)
+        else:
+            jobs = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
+            )
 
         jobs_q = [
             {
@@ -355,11 +377,11 @@ class Job(db.Model):
                 for key, value in job.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for job in jobs
+            for job in jobs.items
         ]
 
         total_items = search_q.count()
-        
+
         num = total_items // per_page
         num += 1 if total_items % per_page != 0 else 0
 
@@ -373,32 +395,39 @@ class Job(db.Model):
             }
         ]
 
-        return page, jobs_q
+        return {"Page": page, "Jobs": jobs_q}
 
     @classmethod
     def get_jobs_by_cluster(
-        cls, cluster, page=1, per_page=50, sort_by="Id", order="asc", search=None, search_by=None
+        cls,
+        cluster,
+        page=1,
+        per_page=10,
+        sort_by="Id",
+        order="asc",
+        search=None,
+        search_by=None,
     ):
         sort_by = "Id" if sort_by is None else sort_by
         occupations = Occupation.get_occupation_by_cluster(cluster)
         onets = [occupation["onetCode"] for occupation in occupations]
-        
-        
+
         total = cls.query.filter(cls.OnetCode.in_(onets))
         column = getattr(cls, sort_by)
-        
+
         if search:
             search_column = getattr(cls, search_by)
             search_q = total.filter(search_column.ilike(f"%{search}%"))
         else:
             search_q = total
-        
-        
+
         if order == "asc":
             jobs = search_q.order_by(column).paginate(page=page, per_page=per_page)
 
         else:
-            jobs = search_q.order_by(column.desc()).paginate(page=page, per_page=per_page)
+            jobs = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
+            )
 
         jobs_q = [
             {
@@ -406,7 +435,7 @@ class Job(db.Model):
                 for key, value in job.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for job in jobs
+            for job in jobs.items
         ]
         total_items = search_q.count()
 
@@ -424,7 +453,7 @@ class Job(db.Model):
 
         cluster_name = Industry.get_cluster(cluster)
 
-        return page, jobs_q, cluster_name
+        return {"Page": page, "Jobs": jobs_q, "Cluster": cluster_name}
 
 
 class Basic_Skill(db.Model):
@@ -520,11 +549,13 @@ class Course(db.Model):
         return cls.query.count()
 
     @classmethod
-    def get_courses(cls, page=1, per_page=50, sort_by="Id", order="asc", search=None, search_by=None):
+    def get_courses(
+        cls, page=1, per_page=10, sort_by="Id", order="asc", search=None, search_by=None
+    ):
         sort_by = "Id" if sort_by is None else sort_by
-        
+
         column = getattr(cls, sort_by)
-        
+
         if search:
             search_column = getattr(cls, search_by)
             search_q = cls.query.filter(search_column.ilike(f"%{search}%"))
@@ -533,18 +564,20 @@ class Course(db.Model):
 
         # Order
         if order == "asc":
-            courses =  search_q.order_by(column).paginate(page = page, per_page= per_page)
+            courses = search_q.order_by(column).paginate(page=page, per_page=per_page)
 
         else:
-            courses =  search_q.order_by(column.desc()).paginate(page = page, per_page= per_page)
-            
+            courses = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
+            )
+
         courses_q = [
             {
                 key: value
                 for key, value in course.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for course in courses
+            for course in courses.items
         ]
         total_items = search_q.count()
         num = total_items // per_page
@@ -558,7 +591,8 @@ class Course(db.Model):
                 "page_items": len(courses_q),
             }
         ]
-        return page, courses_q
+        # return {page, courses_q
+        return {"Page": page, "Courses": courses_q}
 
     @classmethod
     def get_course(cls, id):
@@ -568,7 +602,7 @@ class Course(db.Model):
             for key, value in course.__dict__.items()
             if key != "_sa_instance_state"
         }
-        return course
+        return {"Course": course}
 
     @classmethod
     def get_courses_by_onet(cls, onet):
@@ -601,23 +635,33 @@ class Occupation(db.Model):
     )
 
     @classmethod
-    def get_occupations(cls, page=1, per_page=50, sort_by="onetCode", order="asc", search=None, search_by=None):
+    def get_occupations(
+        cls,
+        page=1,
+        per_page=10,
+        sort_by="onetCode",
+        order="asc",
+        search=None,
+        search_by=None,
+    ):
         sort_by = "onetCode" if sort_by is None else sort_by
-        
+
         column = getattr(cls, sort_by)
 
         if search:
             search_column = getattr(cls, search_by)
-            search_q = cls.query.filter(search_column.like(f"%{search}%"))
+            search_q = cls.query.filter(search_column.ilike(f"%{search}%"))
         else:
             search_q = cls.query
-            
-        
 
         if order == "asc":
-            occupations_q = search_q.order_by(column).paginate(page = page, per_page = per_page) 
+            occupations_q = search_q.order_by(column).paginate(
+                page=page, per_page=per_page
+            )
         else:
-            occupations_q = search_q.order_by(column.desc()).paginate(page = page, per_page = per_page)
+            occupations_q = search_q.order_by(column.desc()).paginate(
+                page=page, per_page=per_page
+            )
 
         occupations = [
             {
@@ -625,11 +669,11 @@ class Occupation(db.Model):
                 for key, value in occ.__dict__.items()
                 if key != "_sa_instance_state"
             }
-            for occ in occupations_q
+            for occ in occupations_q.items
         ]
-        
+
         total_items = search_q.count()
-        
+
         num = total_items // per_page
         num += 1 if total_items % per_page > 0 else 0
         page = [
@@ -641,7 +685,11 @@ class Occupation(db.Model):
                 "page_items": len(occupations),
             }
         ]
-        return page, occupations
+        query_d = {"Page": page, "Occupations": occupations}
+
+        return query_d
+
+        # return occupations, page
 
     @classmethod
     def get_occupation(cls, id):
@@ -651,7 +699,7 @@ class Occupation(db.Model):
             for key, value in occ.__dict__.items()
             if key != "_sa_instance_state"
         }
-        return occ
+        return {"Occupation": occ}
 
     @classmethod
     def get_occupation_by_cluster(cls, id):
@@ -720,4 +768,7 @@ class Industry(db.Model):
             for key, value in cluster.__dict__.items()
             if key != "_sa_instance_state"
         }
-        return cluster
+
+        occupations = Occupation.get_occupation_by_cluster(id)
+
+        return {"Cluster": cluster, "Occupations": occupations}

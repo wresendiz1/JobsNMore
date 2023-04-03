@@ -5,9 +5,8 @@ import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
 import MainLayout from "../../components/Layout/MainLayout";
 import Logo from "../../images/logos/png/logo-no-slogan.png";
-import AboutCard from "../../components/AboutCard/AboutCard";
+import AboutCard from "./AboutCard";
 import Spinner from "../../components/Spinner/Spinner";
-import { Link } from "react-router-dom";
 import { Button } from "react-bootstrap";
 
 function About() {
