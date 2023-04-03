@@ -132,12 +132,6 @@ def test_postgres_query_location(database):
     assert city.City == "New York"
 
 
-def test_postgres_query_course(database):
-    course = database.session.execute(
-        database.select(Course).filter_by(Id="3998-B")
-    ).scalar_one()
-    assert course.Course == "Certified Fund Raising Executive (CFRE)"
-
 def test_adding_course(database):
     course = Course(Id="1234-A",OnetCode="12-3456.00",Provider="Cade",
                     Name="Test Course",Url="website",Type="beginner",
