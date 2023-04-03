@@ -147,6 +147,6 @@ def test_adding_course(database):
 
 def test_postgres_query_course(database):
     course = database.session.execute(
-        database.select(Course).filter_by(ID="12634-D")
+        database.select(Course).filter_by(Id="12634-D")
     ).scalar_one()
     assert course.Course == "Oracle CPQ 2022 Implementation Professional"
