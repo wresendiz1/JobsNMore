@@ -130,6 +130,7 @@ def test_postgres_query_location(database):
     assert city.City == "New York"
 
 
+<<<<<<< HEAD
 #Job database unit tests
 def test_db_inserting_job(database):
     job = Job(
@@ -176,3 +177,10 @@ def test_postgres_query_courses(database):
     ).scalar_one()
     assert courses.Name == "Certified Fund Raising Executive (CFRE)"
 
+=======
+def test_postgres_query_course(database):
+    course = database.session.execute(
+        database.select(Course).filter_by(Id="3998-B")
+    ).scalar_one()
+    assert course.Course == "Certified Fund Raising Executive (CFRE)"
+>>>>>>> 98b1025 (1st unit test)
