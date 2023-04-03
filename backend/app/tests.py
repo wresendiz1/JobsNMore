@@ -146,7 +146,7 @@ def test_adding_course(database):
     assert course.Description == "A test course"
 
 def test_postgres_query_course(database):
-    with pytest.raises(ValueError):
-        course = database.session.execute(
-            database.select(Course).filter_by(Name="The Cheese Course")
-        ).one()
+    course = database.session.execute(
+        database.select(Course).filter_by(ID="12634-D")
+    ).scalar_one()
+    assert course.Course == "Oracle CPQ 2022 Implementation Professional"
