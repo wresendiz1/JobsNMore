@@ -91,9 +91,9 @@ function ViewJob() {
                       </ListGroup.Item>
                       <ListGroup.Item>
                         Top 10%:{" "}
-                        {data.pct90_wage.slice(-1) == "+"
-                          ? "$" + data.pct90_wage.slice(0, -1)
-                          : "$" + data.pct90_wage}
+                        {data.pct90_wage == 208000
+                        ? `${formatter_dollar.format(data.pct90_wage)} or more`
+                        : `${formatter_dollar.format(data.pct90_wage)}`}
                       </ListGroup.Item>
                       <ListGroup.Item>Outlook: {data.outlook}</ListGroup.Item>
                       <ListGroup.Item>

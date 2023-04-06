@@ -55,9 +55,9 @@ function ViewOccupation() {
                     </ListGroup.Item>
                     <ListGroup.Item>
                       Top 10%:{" "}
-                      {occupation.pct90_wage.slice(-1) == "+"
-                        ? "$" + occupation.pct90_wage.slice(0, -1) + " or more"
-                        : "$" + occupation.pct90_wage}
+                      {occupation.pct90_wage == 208000
+                        ? `${formatter_dollar.format(occupation.pct90_wage)} or more`
+                        : `${formatter_dollar.format(occupation.pct90_wage)}`}
                     </ListGroup.Item>
                     <ListGroup.Item>
                       Outlook: {occupation.outlook}
