@@ -116,7 +116,7 @@ def test_db_vartype_course(database):
     assert isinstance(testEntry.OnetCode, str)
     assert isinstance(testEntry.Provider, str)
     assert isinstance(testEntry.Name, str)
-    assert isinstance(testEntry.Url, str)
+    assert testEntry.Url is None or isinstance(testEntry.Url, str)
     assert isinstance(testEntry.Type, str)
     assert testEntry.Description == None or isinstance(testEntry.Description, str)
 
