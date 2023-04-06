@@ -1,7 +1,7 @@
-image: python: 3.6
+image: python:3.6
 
 services:
-  - postgres: 14.0
+  - postgres:14.0
 
 variables:
   PIP_CACHE_DIR: "$CI_PROJECT_DIR/backend/.cache/pip"
