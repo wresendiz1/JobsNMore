@@ -56,8 +56,8 @@ function About() {
               <p>
                 JobsNMore is your one-stop shop for job search and career
                 advancement. The website tracks the latest job listing from
-                multiple sources, the statistics on the skills required, and
-                recommended online courses to fulfill skills.
+                multiple sources, the statistics on the occupations, and
+                recommended online courses to become a more competitive applicant.
               </p>
             </Col>
           </Row>

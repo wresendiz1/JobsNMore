@@ -155,8 +155,8 @@ class Location(db.Model):
 class Job(db.Model):
     __tablename__ = "jobs"
     Id = db.Column(db.String(80), primary_key=True)
-    JobTitle = db.Column(db.String(200), nullable=False)
-    Company = db.Column(db.String(80), nullable=False)
+    JobTitle = db.Column(db.String(300), nullable=False)
+    Company = db.Column(db.String(200), nullable=False)
     DatePosted = db.Column(db.String(80), nullable=False)
     Url = db.Column(db.String(200), nullable=False)
     JobLocation = db.Column(db.String(80), nullable=False)
