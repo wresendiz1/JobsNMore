@@ -171,7 +171,6 @@ def create_app(config=None):
 
     @app.route("/api/clusters/<code>", methods=["GET"])
     def get_cluster(code):
-        # cluster = Industry.get_cluster(code)
 
         cluster_dict = Industry.get_cluster(code)
 

@@ -55,22 +55,10 @@
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/bls.png": "https://rapidapi.com/community/api/bls-public-data/"
     },
     {
-      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/census.png": "https://www.census.gov/data/developers/data-sets.html"
-    },
-    {
-      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/linkup.png": "https://rapidapi.com/LinkUpJobSearch/api/linkup-job-search/"
-    },
-    {
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/onet.png": "https://services.onetcenter.org/v1.9/reference/mnm/career/state/"
     },
     {
-      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/skills.png": "https://rapidapi.com/ItsYourSkills/api/skills-profiler/"
-    },
-    {
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/gitlab.png": "https://docs.gitlab.com/ee/api/"
-    },
-    {
-      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/janzz.png": "https://rapidapi.com/janzz-ltd-janzz-ltd-default/api/ontology1/"
     },
     {
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/youtube.png": "https://developers.google.com/youtube/v3/"

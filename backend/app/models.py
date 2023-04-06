@@ -148,7 +148,7 @@ class Job(db.Model):
 
     @classmethod
     def get_jobs(
-        cls, page=1, per_page=10, sort_by=None, order="asc", search=None, search_by=None
+        cls, page=1, per_page=10, sort_by="Company", order="asc", search=None, search_by=None
     ):
         sort_by = "Company" if sort_by is None else sort_by
         # order = "asc" if order is None else order
