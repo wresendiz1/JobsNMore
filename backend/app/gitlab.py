@@ -5,7 +5,7 @@ urls = [
     # commits by user and total for a branch, uses email
     "https://gitlab.com/api/v4/projects/42829136/repository/commits",
     # issues by user, uses username
-    "https://gitlab.com/api/v4/projects/42829136/issues?",
+    "https://gitlab.com/api/v4/projects/42829136/issues",
 ]
 
 
