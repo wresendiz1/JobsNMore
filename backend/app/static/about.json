@@ -50,12 +50,26 @@
       "Wiki": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/wikis/JobsNMore"
     }
   ],
+  "Extra": [
+    {
+      "Presentation": "https://speakerdeck.com/jesusamc/jobsnmore-team-9"
+    },
+    {
+      "API Doc": "https://www.postman.com/blue-star-899918/workspace/jobsnmore/collection/25798655-7687536b-da5a-452c-b44c-de6ee911752b"
+    }
+  ],
   "Data": [
     {
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/bls.png": "https://rapidapi.com/community/api/bls-public-data/"
     },
     {
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/onet.png": "https://services.onetcenter.org/v1.9/reference/mnm/career/state/"
+    },
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/careeronestop.png": "https://api.careeronestop.org/api-explorer/"
+    },
+    {
+      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/roadgoat.png": "https://www.roadgoat.com/business/cities-api"
     },
     {
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/gitlab.png": "https://docs.gitlab.com/ee/api/"
@@ -70,6 +84,7 @@
     "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/pytest.png",
     "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/requests.png",
     "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/flask.png",
-    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/slack.png"
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/slack.png",
+    "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/react.png"
   ]
 }

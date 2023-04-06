@@ -8,6 +8,8 @@ import Logo from "../../images/logos/png/logo-no-slogan.png";
 import AboutCard from "./AboutCard";
 import Spinner from "../../components/Spinner/Spinner";
 import { Button } from "react-bootstrap";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faPlay } from "@fortawesome/free-solid-svg-icons";
 
 function About() {
   /*   lazy initial state, runs only once, once we have our data in session storage this
@@ -66,7 +68,8 @@ function About() {
         <Row>
           <Col className="text-center">
             <Button variant="primary" onClick={runTests} className="mx-auto">
-              Run Unit Tests
+            <FontAwesomeIcon icon={faPlay} className="mx-2" />
+              Unit Tests
             </Button>
           </Col>
           <Col className="text-center">
@@ -74,6 +77,7 @@ function About() {
           </Col>
         </Row>
       </Container>
+
       {!data ? <Spinner /> : <AboutCard data={data} />}
     </MainLayout>
   );

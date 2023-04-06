@@ -8,6 +8,7 @@ import Image from "react-bootstrap/Image";
 import ListGroup from "react-bootstrap/ListGroup";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGitlab } from "@fortawesome/free-brands-svg-icons";
+import { faLink } from "@fortawesome/free-solid-svg-icons";
 
 function AboutCard({ data }) {
   const [info, setInfo] = useState();
@@ -73,7 +74,7 @@ function AboutCard({ data }) {
         </Row>
       </Container>
       <Container>
-        <h1 className="text-center py-5">Project Stats</h1>
+        <h1 className="text-center py-5">Project Stats & Info</h1>
         <ListGroup>
           {info &&
             info.Stats.map((stat, index) => (
@@ -101,6 +102,22 @@ function AboutCard({ data }) {
             >
               <span>
                 <FontAwesomeIcon icon={faGitlab} /> {Object.keys(repo)}
+              </span>
+            </a>
+          ))}
+      </div>
+      <div className="buttondiv">
+        {info &&
+          info.Extra.map((link) => (
+            <a
+              key={Object.values(link)}
+              href={Object.values(link)}
+              className="btn btn-primary"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <span>
+                <FontAwesomeIcon icon={faLink} /> {Object.keys(link)}
               </span>
             </a>
           ))}

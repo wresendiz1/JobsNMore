@@ -88,7 +88,7 @@ def create_app(config=None):
         return send_file("static/about.json")
 
     @app.route("/test_request")
-    def get_locations():
+    def get_test():
         location = db.session.query(Location).first()
         return location.City
 

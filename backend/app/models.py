@@ -1,5 +1,5 @@
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy import func
+from sqlalchemy import func, case
 
 db = SQLAlchemy()
 
@@ -74,12 +74,35 @@ class Location(db.Model):
         else:
             search_q = cls.query
 
-        if order == "asc":
-            loc_q = search_q.order_by(column).paginate(page=page, per_page=per_page)
+
+
+        
+        """   Sorting
+        Budget and Safety are special cases, because they are strings, but are sorted by the priority of their strings """
+
+        budget_priority = {"Medium": 1, "Medium High": 2, "High": 3, "Very High": 4, "Extreme": 5}
+        safety_priority = {"Medium": 1,  "High": 2, "Very High": 3}
+        
+        if sort_by == "Budget":
+            if order == "asc":
+                loc_q = search_q.order_by(case(value=cls.Budget, whens=budget_priority)).paginate(page=page, per_page=per_page)
+            else:
+                loc_q = search_q.order_by(case(value=cls.Budget, whens=budget_priority).desc()).paginate(page=page, per_page=per_page)
+                
+        elif sort_by == "Safety":
+            if order == "asc":
+                loc_q = search_q.order_by(case(value=cls.Safety, whens=safety_priority)).paginate(page=page, per_page=per_page)
+            else:
+                loc_q = search_q.order_by(case(value=cls.Safety, whens=safety_priority).desc()).paginate(page=page, per_page=per_page)
+                
         else:
-            loc_q = search_q.order_by(column.desc()).paginate(
-                page=page, per_page=per_page
-            )
+            
+            if order == "asc":
+                loc_q = search_q.order_by(column).paginate(page=page, per_page=per_page)
+            else:
+                loc_q = search_q.order_by(column.desc()).paginate(
+                    page=page, per_page=per_page
+                )
 
         total_items = search_q.count()
         num = total_items // per_page
@@ -618,7 +641,7 @@ class Occupation(db.Model):
     title = db.Column(db.String(200), nullable=False)
     description = db.Column(db.Text)
     median_wage = db.Column(db.Integer)
-    pct90_wage = db.Column(db.String(20))
+    pct90_wage = db.Column(db.Integer)
     outlook = db.Column(db.String(20))
     outlook_category = db.Column(db.String(50))
     curr_employment = db.Column(db.Integer)
@@ -654,15 +677,26 @@ class Occupation(db.Model):
             search_q = cls.query.filter(search_column.ilike(f"%{search}%"))
         else:
             search_q = cls.query
+            
+            
+        outlook_priority = {"Below Average": 1, "Average": 2, "Bright": 3}
+        
+        if sort_by == "Budget":
+            if order == "asc":
+                occupations_q = search_q.order_by(case(value=cls.outlook, whens=outlook_priority)).paginate(page=page, per_page=per_page)
+            else:
+                occupations_q = search_q.order_by(case(value=cls.outlook, whens=outlook_priority).desc()).paginate(page=page, per_page=per_page)
+                
+        else:               
 
-        if order == "asc":
-            occupations_q = search_q.order_by(column).paginate(
-                page=page, per_page=per_page
-            )
-        else:
-            occupations_q = search_q.order_by(column.desc()).paginate(
-                page=page, per_page=per_page
-            )
+            if order == "asc":
+                occupations_q = search_q.order_by(column).paginate(
+                    page=page, per_page=per_page
+                )
+            else:
+                occupations_q = search_q.order_by(column.desc()).paginate(
+                    page=page, per_page=per_page
+                )
 
         occupations = [
             {
