@@ -25,9 +25,8 @@ from app.create_db import (
     create_industries,
 )
 
+
 # Application factory, use run.py to create an instance of the app
-
-
 def create_app(config=None):
     if config == "deploy" or config == "deploy_migrate":
         app = Flask(__name__, static_folder="../build", static_url_path="")
@@ -76,7 +75,9 @@ def create_app(config=None):
     def about():
         commits = get_commits()
         issues = get_issues()
-        return jsonify([commits, issues])
+        return Response(
+            json.dumps([commits, issues], indent=2), mimetype="application/json"
+        )
 
     @app.route("/api/test")
     def test():
@@ -88,7 +89,7 @@ def create_app(config=None):
 
     @app.route("/test_request")
     def get_locations():
-        location = db.get_or_404(Location, 1)
+        location = db.session.query(Location).first()
         return location.City
 
     def get_query_page(args):

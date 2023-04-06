@@ -16,6 +16,7 @@
       "About": "I am third-year student at the University of Texas at Austin, studying mechanical engineering with a certificate in Computer Science.",
       "Username": "javier.ramirez5",
       "Email": "javier.ramirez5@utexas.edu",
+      "Email2": "javierr8906@gmail.com",
       "Test": 3
     },
     {
@@ -25,7 +26,7 @@
       "About": "I am a fourth-year student at the University of Texas at Austin, studying Mathematics with a certificate in Computer Science.",
       "Username": "cadetaylor01",
       "Email": "cade.taylor01@gmail.com",
-      "Test": 3
+      "Test": 2
     },
     {
       "Name": "Jesus Munoz-Castaneda",
@@ -34,10 +35,10 @@
       "About": "A fourth-year chemistry student with a certificate in computer science at the University of Texas at Austin.",
       "Username": "jesusamc",
       "Email": "jesusamc@utexas.edu",
-      "Test": 5
+      "Test": 3
     }
   ],
-  "Stats": ["Total Commits", "Total Test", "Total Unit Tests"],
+  "Stats": ["Total Commits", "Total Issues", "Total Unit Tests"],
   "Repos": [
     {
       "Issue Tracker": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/boards"

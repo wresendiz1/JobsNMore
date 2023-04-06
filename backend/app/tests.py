@@ -32,9 +32,7 @@ def database(app):
         connection = db.engine.connect()
         transaction = connection.begin()
         session = Session(bind=connection)
-
         yield session
-
         session.close()
         transaction.rollback()
         connection.close()

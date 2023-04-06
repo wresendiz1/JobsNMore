@@ -46,9 +46,10 @@ function AboutCard({ data }) {
                     <ListGroup.Item>
                       Commits:
                       <Badge pill bg="primary" className="ms-2">
-                        {data && data[0][1][member.Email]
+                        {data && member.Email2 ? data && data[0][1][member.Email] + data[0][1][member.Email2]:
+                        (data && data[0][1][member.Email]
                           ? data[0][1][member.Email]
-                          : 0}
+                          : 0)}
                       </Badge>
                     </ListGroup.Item>
                     <ListGroup.Item>

@@ -13,6 +13,7 @@ import Sorting from "../../components/Sorting/Sorting";
 function OnetJobs() {
   const [page, setPage] = useState();
   const [jobs, setJobs] = useState();
+  const [occupation, setOccupation] = useState();
   const { id } = useParams();
   const order = useRef();
   const sort = useRef();
@@ -33,8 +34,9 @@ function OnetJobs() {
     fetch(`/api/jobs/onet/${id}`)
       .then((res) => res.json())
       .then((data) => {
-        setJobs(data["Jobs"]);
-        setPage(data["Page"]);
+        setJobs(data.Jobs);
+        setPage(data.Page);
+        setOccupation(data.Occupation);
       })
       .catch((err) => console.log(err));
   }, []);
@@ -95,7 +97,7 @@ function OnetJobs() {
       {/* <h1 className="text-center py-5">Jobs from ONET code: {id} </h1> */}
       {page && (
         <Sorting
-          page_name={"Jobs"}
+          page_name={`Jobs for ${occupation.title}`}
           page={page}
           handler={sortPage}
           sort_values={sort_values}

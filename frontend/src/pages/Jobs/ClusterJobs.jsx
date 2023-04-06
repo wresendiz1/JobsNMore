@@ -98,7 +98,7 @@ function ClusterJobs() {
     <MainLayout>
       {cluster && (
         <Sorting
-          page_name={"Jobs in " + cluster[0].Group}
+          page_name={"Jobs in " + cluster["Cluster"].Group}
           page={page}
           handler={sortPage}
           sort_values={sort_values}

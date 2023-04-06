@@ -283,8 +283,9 @@ class Job(db.Model):
                 "page_items": len(jobs_q),
             }
         ]
+        occupation = Occupation.get_occupation(onet)
 
-        return {"Page": page, "Jobs": jobs_q}
+        return {"Page": page, "Jobs": jobs_q, "Occupation": occupation["Occupation"]}
 
     @classmethod
     def get_jobs_by_course(

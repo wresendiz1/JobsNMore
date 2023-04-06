@@ -12,7 +12,6 @@ import {
 } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import MainLayout from "../../components/Layout/MainLayout";
-import Occupations from "../Occupations/Occupations";
 
 function ViewCluster() {
   const { id } = useParams();

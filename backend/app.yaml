@@ -3,7 +3,7 @@ env: flex
 entrypoint: gunicorn -b :$PORT run:app
 
 runtime_config:
-  python_version: 3
+  python_version: 3.7
 
 #[START env]
 env_variables:
@@ -12,6 +12,7 @@ env_variables:
   # when configuring your Cloud SQL instance.
   DB_STRING: >-
     postgresql://postgres:Passkey123@/postgres?host=/cloudsql/wired-plateau-359721:us-central1:jobdb
+
 
 #[END env]
 #[START cloudsql_settings]

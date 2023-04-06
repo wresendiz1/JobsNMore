@@ -157,8 +157,6 @@ def create_dbasic_skills():
         Score_value = skill["score_value"]
         Importance = skill["importance"]
 
-        # TODO: Figure out how to add the individual scores to the database - maybe add it as part of the OnetCodes?
-
         newSkill = Dbasic_Skill(
             Id=Id, OnetCode=OnetCode, Score_value=Score_value, Importance=Importance
         )
@@ -196,8 +194,6 @@ def create_dtech_skills():
         OnetCode = skill["onetcode"]
         Example = skill["name"]
         Hot_technology = skill["hot_technology"]
-
-        # TODO: Figure out how to add the example information to the database
 
         newSkill = Dtech_Skill(
             Id=Id, OnetCode=OnetCode, Example=Example, Hot_technology=Hot_technology
