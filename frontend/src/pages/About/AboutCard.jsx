@@ -84,7 +84,7 @@ function AboutCard({ data }) {
               >
                 {stat}
                 <span className="badge bg-primary rounded-pill">
-                  {data && index !== 2 ? data[index][0] : 1}
+                  {data && index !== 2 ? data[index][0] : 11}
                 </span>
               </ListGroup.Item>
             ))}

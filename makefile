@@ -29,7 +29,7 @@ run-front:
 	package.json && npm run start
 
 # Do build test and ensure that the website is running before deploying
-build: build-back-migrate build-front deploy
+build: build-back build-front deploy
 
 build-test: build-back build-front-test run-production
 

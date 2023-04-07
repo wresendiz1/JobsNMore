@@ -1,5 +1,5 @@
 import json
-from flask import Flask, Response, jsonify, request, send_file, send_from_directory
+from flask import Flask, Response, request, send_file, send_from_directory
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 import os
@@ -9,21 +9,15 @@ from app.create_db import (
     Occupation,
     Job,
     Course,
-    Tech_Skill,
-    Dtech_Skill,
-    Basic_Skill,
-    Dbasic_Skill,
     Industry,
     create_locations,
     create_jobs,
-    create_basic_skills,
-    create_dbasic_skills,
-    create_tech_skills,
-    create_dtech_skills,
     create_courses,
     create_occupations,
     create_industries,
 )
+
+
 
 
 # Application factory, use run.py to create an instance of the app
@@ -46,7 +40,11 @@ def create_app(config=None):
     db.init_app(app)
 
     with app.app_context():
-        # add the string in run.py to initialize/reset the database
+        """ 
+            initialize_db is for local reset of DB
+            deploy_migrate is for GCP reset of DB
+            
+        """
         if config == "initialize_db" or config == "deploy_migrate":
             db.drop_all()
             db.create_all()
@@ -54,13 +52,10 @@ def create_app(config=None):
             create_industries()
             create_occupations()
             create_jobs()
-            create_tech_skills()
-            create_dtech_skills()
-            create_basic_skills()
-            create_dbasic_skills()
             create_courses()
 
     from app.gitlab import get_commits, get_issues
+    from app.routes import job, location, occupation, course, cluster
 
     # Serve React SPA from Flask when running in production
     @app.route("/")
@@ -92,166 +87,17 @@ def create_app(config=None):
         location = db.session.query(Location).first()
         return location.City
 
-    def get_query_page(args):
-        page = args.get("page", 1, type=int)
-        per_page = args.get("per_page", 10, type=int)
-        sort_by = args.get("sort_by", None, type=str)
-        order = args.get("order", "asc", type=str)
-        search = args.get("search", None, type=str)
-        search_by = args.get("search_by", None, type=str)
-
-        return page, per_page, sort_by, order, search, search_by
-
-    # TODO: Divide into multiple blueprint files for each model
-
-    @app.route("/api/jobs", methods=["GET"])
-    def jobs():
-        # Query parameters
-        # Example: http://localhost:5000/jobs?page=20&per_page=100
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        job_dict = Job.get_jobs(pg, per_page, sort_by, order, search, search_by)
-
-        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/jobs/onet/<onetCode>", methods=["GET"])
-    def get_jobs_by_onet(onetCode):
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        job_dict = Job.get_jobs_by_onet(
-            onetCode, pg, per_page, sort_by, order, search, search_by
-        )
-
-        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/jobs/cluster/<cluster>", methods=["GET"])
-    def get_jobs_by_cluster(cluster):
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        job_dict = Job.get_jobs_by_cluster(
-            cluster, pg, per_page, sort_by, order, search, search_by
-        )
-
-        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/jobs/location/<location>", methods=["GET"])
-    def get_jobs_by_location(location):
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        job_dict = Job.get_jobs_by_location(
-            location, pg, per_page, sort_by, order, search, search_by
-        )
-
-        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/jobs/course/<Id>", methods=["GET"])
-    def get_jobs_by_course(Id):
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        job_dict = Job.get_jobs_by_course(
-            Id, pg, per_page, sort_by, order, search, search_by
-        )
-
-        return Response(json.dumps(job_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/jobs/<Id>", methods=["GET"])
-    def get_job(Id):
-        info_dict = Job.get_job_details(Id)
-
-        return Response(json.dumps(info_dict, indent=2), mimetype="application/json")
-
-    # TODO: Add tech skills, basic skills
-    @app.route("/api/clusters", methods=["GET"])
-    def career_cluster():
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        clusters = Industry.get_clusters(sort_by, order, search, search_by)
-
-        return Response(json.dumps(clusters, indent=2), mimetype="application/json")
-
-    @app.route("/api/clusters/<code>", methods=["GET"])
-    def get_cluster(code):
-
-        cluster_dict = Industry.get_cluster(code)
-
-        return Response(json.dumps(cluster_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/occupations", methods=["GET"])
-    def occupations():
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        occ = Occupation.get_occupations(
-            pg, per_page, sort_by, order, search, search_by
-        )
-
-        return Response(json.dumps(occ, indent=2), mimetype="application/json")
-
-    @app.route("/api/occupations/<onetCode>", methods=["GET"])
-    def get_ocupation(onetCode):
-        occupation = Occupation.get_occupation(onetCode)
-
-        return Response(json.dumps(occupation, indent=2), mimetype="application/json")
-
-    @app.route("/api/courses", methods=["GET"])
-    def courses():
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-
-        courses_dict = Course.get_courses(
-            pg, per_page, sort_by, order, search, search_by
-        )
-
-        return Response(json.dumps(courses_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/courses/<Id>", methods=["GET"])
-    def get_course(Id):
-        course = Course.get_course(Id)
-        return Response(json.dumps(course, indent=2), mimetype="application/json")
-
-    @app.route("/api/locations", methods=["GET"])
-    def locations():
-        pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
-        locations_dict = Location.get_locations(
-            pg, per_page, sort_by, order, search, search_by
-        )
-
-        return Response(
-            json.dumps(locations_dict, indent=2), mimetype="application/json"
-        )
-
-    @app.route("/api/locations/<Id>", methods=["GET"])
-    def get_location(Id):
-        loc_dict = Location.get_location_details(Id)
-
-        return Response(json.dumps(loc_dict, indent=2), mimetype="application/json")
-
-    @app.route("/api/basic_skills", methods=["GET"])
-    def basic_skils():
-        page, per_page = get_query_page(request.args)
-
-        page, skills = Basic_Skill.get_basic_skills(page, per_page)
-
-        skill_dict = {
-            "Page": page,
-            "Skills": skills,
-        }
-        return jsonify(skill_dict)
-
-    @app.route("/api/tech_skills", methods=["GET"])
-    def tech_skills():
-        page, per_page = get_query_page(request.args)
-
-        page, skills = Tech_Skill.get_tech_skills(page, per_page)
-
-        skill_dict = {
-            "Page": page,
-            "Skills": skills,
-        }
-
-        return jsonify(skill_dict)
-
     @app.route("/api/contact", methods=["GET", "POST"])
     def contact():
         if request.method == "POST":
             return "Form submitted"
 
+
+    # Model routes
+    app.register_blueprint(job.jobs_bp)
+    app.register_blueprint(cluster.clusters_bp)
+    app.register_blueprint(location.locations_bp)
+    app.register_blueprint(course.courses_bp)
+    app.register_blueprint(occupation.occupations_bp)
+    
     return app

@@ -8,7 +8,6 @@ const About = lazy(() => import("./pages/About/About"));
 const Contact = lazy(() => import("./pages/Contact/Contact"));
 const Jobs = lazy(() => import("./pages/Jobs/Jobs"));
 const Courses = lazy(() => import("./pages/Courses/Courses"));
-const Skills = lazy(() => import("./pages/Skills/Skills"));
 const Locations = lazy(() => import("./pages/Locations/Locations"));
 const Occupations = lazy(() => import("./pages/Occupations/Occupations"));
 const Clusters = lazy(() => import("./pages/Clusters/Clusters"));
@@ -113,20 +112,6 @@ const router = createBrowserRouter([
         element: (
           <Suspense fallback={<Load />}>
             <ViewOccupation />
-          </Suspense>
-        ),
-      },
-    ],
-  },
-
-  {
-    path: "/Skills",
-    children: [
-      {
-        index: true,
-        element: (
-          <Suspense fallback={<Load />}>
-            <Skills />
           </Suspense>
         ),
       },
