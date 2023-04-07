@@ -1,3 +1,21 @@
+commit 6ff4829d0916c2ff4e2098c5c528210b59a2c37d
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Apr 6 22:15:02 2023 -0500
+
+    fix merge errors, final commit
+
+commit 72a609922dec1859fd7e5b87cdad4b2d3d8926c5
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Apr 6 20:50:14 2023 -0500
+
+    quick blueprint addition
+
+commit 09cad5654fdfb6463e74998dbe7301e8a008f106
+Author: wresendiz <wresendiz@utexas.edu>
+Date:   Thu Apr 6 17:36:42 2023 -0500
+
+    add idb3 log and corrected python version
+
 commit 91bf0fca5dbef731bfc7a667e65c5a1048ea7b0d
 Author: wresendiz <wresendiz@utexas.edu>
 Date:   Thu Apr 6 17:16:09 2023 -0500
