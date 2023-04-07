@@ -38,6 +38,12 @@ tech_jobs = db.Table(
 
 
 class Location(db.Model):
+    
+    '''
+    Contains information about the location, including the city, state, population, budget, safety, average rating, and guide.
+    Chosen by looking at the top 30 most populated cities in the US.
+    
+    '''
     __tablename__ = "locations"
 
     City = db.Column(db.String(80))
@@ -63,6 +69,10 @@ class Location(db.Model):
         search=None,
         search_by=None,
     ):
+        '''
+        gets all locations, query parameters are specified in postman doc: https://documenter.getpostman.com/view/25798655/2s93RZMpTL
+        
+        '''
         sort_by = "CityID" if sort_by is None else sort_by
 
         column = getattr(cls, sort_by)
@@ -89,21 +99,21 @@ class Location(db.Model):
         if sort_by == "Budget":
             if order == "asc":
                 loc_q = search_q.order_by(
-                    case(value=cls.Budget, whens=budget_priority)
+                    case(budget_priority, value=cls.Budget)
                 ).paginate(page=page, per_page=per_page)
             else:
                 loc_q = search_q.order_by(
-                    case(value=cls.Budget, whens=budget_priority).desc()
+                    case(budget_priority, value=cls.Budget ).desc()
                 ).paginate(page=page, per_page=per_page)
 
         elif sort_by == "Safety":
             if order == "asc":
                 loc_q = search_q.order_by(
-                    case(value=cls.Safety, whens=safety_priority)
+                    case(safety_priority, value=cls.Safety )
                 ).paginate(page=page, per_page=per_page)
             else:
                 loc_q = search_q.order_by(
-                    case(value=cls.Safety, whens=safety_priority).desc()
+                    case(safety_priority, value=cls.Safety).desc()
                 ).paginate(page=page, per_page=per_page)
 
         else:
@@ -163,6 +173,11 @@ class Location(db.Model):
 
 
 class Job(db.Model):
+    
+    '''
+    Contains information about the job, including the job title, company, date posted, url, job location, and onet code.
+    Chosen by using the ONET Code of the top 6 occupations for each cluster and querying jobs from CareerOneStop.
+    '''
     __tablename__ = "jobs"
     Id = db.Column(db.String(80), primary_key=True)
     JobTitle = db.Column(db.String(300), nullable=False)
@@ -572,6 +587,11 @@ class Dtech_Skill(db.Model):
 
 
 class Course(db.Model):
+    
+    '''
+    This class represents the courses table which contains the courses that are available for the occupations
+
+    '''
     __tablename__ = "courses"
 
     Id = db.Column(db.String(80), primary_key=True)
@@ -650,6 +670,9 @@ class Course(db.Model):
 
 
 class Occupation(db.Model):
+    '''
+    Occupations found by looking at the chosen clusters from ONET and then looking at the top 6 occupations that are in those clusters
+    '''
     __tablename__ = "occupations"
 
     onetCode = db.Column(db.String(10), primary_key=True)
@@ -705,21 +728,21 @@ class Occupation(db.Model):
         
       
 
-        if sort_by == "Budget":
+        if sort_by == "outlook":
             if order == "asc":
                 occupations_q = search_q.order_by(
-                    case(value=cls.outlook, whens=outlook_priority)
+                    case(outlook_priority, value=cls.outlook)
                 ).paginate(page=page, per_page=per_page)
             else:
                 occupations_q = search_q.order_by(
-                    case(value=cls.outlook, whens=outlook_priority).desc()
+                    case(outlook_priority, value=cls.outlook).desc()
                 ).paginate(page=page, per_page=per_page)
                 
         elif sort_by == "cluster":
             if order == "asc":
-                occupations_q = search_q.order_by(case(value=cls.cluster, whens=cluster_priority)).paginate(page=page, per_page=per_page)
+                occupations_q = search_q.order_by(case(cluster_priority, value=cls.cluster)).paginate(page=page, per_page=per_page)
             else:
-                occupations_q = search_q.order_by(case(value=cls.cluster, whens=cluster_priority).desc()).paginate(page=page, per_page=per_page)
+                occupations_q = search_q.order_by(case(cluster_priority, value=cls.cluster).desc()).paginate(page=page, per_page=per_page)
         
 
         else:
@@ -785,6 +808,10 @@ class Occupation(db.Model):
 
 
 class Industry(db.Model):
+    
+    '''
+    Derived from onet clusters and chosen by picking the clusters that are most relvent to the college students.
+    '''
     __tablename__ = "industries"
 
     Code = db.Column(db.String(10), primary_key=True)
@@ -821,11 +848,12 @@ class Industry(db.Model):
             "15.0000": 5,
         }
         
+        
         if sort_by == "Code":
             if order == "asc":
-                order_q = clusters_q.order_by(case(value=cls.Code, whens=cluster_priority))
+                order_q = clusters_q.order_by(case(cluster_priority, value=cls.Code))
             else:
-                order_q = clusters_q.order_by(case(value=cls.Code, whens=cluster_priority).desc())
+                order_q = clusters_q.order_by(case(cluster_priority , value=cls.Code).desc())
         else:
             if order == "asc":
                 order_q = clusters_q.order_by(column).all()
