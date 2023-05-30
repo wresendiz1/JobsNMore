@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+/* eslint-disable react/jsx-no-useless-fragment */
+import React, { useState } from "react";
+import { useParams, Link } from "react-router-dom";
 import {
   Container,
   Row,
@@ -10,35 +11,31 @@ import {
   ListGroupItem,
   Tab,
 } from "react-bootstrap";
-import { Link } from "react-router-dom";
-import MainLayout from "../../components/Layout/MainLayout";
+import UseFetch from "../../utils/UseFetch";
 
 function ViewJob() {
   const { id } = useParams();
-  const [data, setData] = useState();
+  const [job, setJob] = useState();
   const [courses, setCourses] = useState();
-  const formatter_dollar = new Intl.NumberFormat("en-US", {
+  const formatDollar = new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: "USD",
   });
-  const formatter_comma = new Intl.NumberFormat("en-US", {
+  const formatComma = new Intl.NumberFormat("en-US", {
     maximumFractionDigits: 2,
   });
 
-  useEffect(() => {
-    fetch(`/api/jobs/${id}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setData(data["Job Info"]);
-        setCourses(data["Courses"]);
-      })
-      .catch((err) => console.log(err));
-  }, []);
-
+  // useEffect(() => {
+  //   UseFetch(`/api/jobs/${id}`).then((data) => {
+  //     setJob(data["Job Info"]);
+  //     setCourses(data.Courses);
+  //   });
+  // }, []);
+  UseFetch(`/api/jobs/${id}`, { "Job Info": setJob, Courses: setCourses });
   return (
     <>
-      {data && (
-        <MainLayout>
+      {job && (
+        <>
           <h1 className="text-center py-5">Job Details</h1>
 
           <Container>
@@ -49,21 +46,21 @@ function ViewJob() {
                     Job Information
                   </Card.Header>
                   <Card.Body className="text-center">
-                    <Card.Title>{data["JobTitle"]}</Card.Title>
-                    {data["Company"]}
+                    <Card.Title>{job.JobTitle}</Card.Title>
+                    {job.Company}
                     <Link
-                      to={`/locations/${data.JCityID}`}
+                      to={`/locations/${job.JCityID}`}
                       className="btn btn-primary mx-2 my-2"
                     >
-                      View {data["JobLocation"]}
+                      View {job.JobLocation}
                     </Link>
                   </Card.Body>
                   <Card.Body>
                     <Card.Title>Job Description</Card.Title>
-                    <Card.Text>{data["description"]}</Card.Text>
+                    <Card.Text>{job.description}</Card.Text>
                     <Button
                       variant="info"
-                      href={data["Url"]}
+                      href={job.Url}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="mx-4"
@@ -72,7 +69,7 @@ function ViewJob() {
                     </Button>
                   </Card.Body>
                   <Card.Footer className="text-muted">
-                    Posted on : {data["DatePosted"]}
+                    Posted on : {job.DatePosted}
                   </Card.Footer>
                 </Card>
               </Col>
@@ -82,36 +79,33 @@ function ViewJob() {
                     Occupation Outlook
                   </Card.Header>
                   <Card.Body>
-                    <Card.Title className="text-center">
-                      {data["title"]}
-                    </Card.Title>
+                    <Card.Title className="text-center">{job.title}</Card.Title>
                     <ListGroup variant="flush">
                       <ListGroup.Item className="my-2">
-                        Median: {formatter_dollar.format(data.median_wage)}
+                        Median: {formatDollar.format(job.median_wage)}
                       </ListGroup.Item>
                       <ListGroup.Item>
                         Top 10%:{" "}
-                        {data.pct90_wage == 208000
-                        ? `${formatter_dollar.format(data.pct90_wage)} or more`
-                        : `${formatter_dollar.format(data.pct90_wage)}`}
+                        {job.pct90_wage === 208000
+                          ? `${formatDollar.format(job.pct90_wage)} or more`
+                          : `${formatDollar.format(job.pct90_wage)}`}
                       </ListGroup.Item>
-                      <ListGroup.Item>Outlook: {data.outlook}</ListGroup.Item>
+                      <ListGroup.Item>Outlook: {job.outlook}</ListGroup.Item>
                       <ListGroup.Item>
-                        Outlook Category: {data.outlook_category}
+                        Outlook Category: {job.outlook_category}
                       </ListGroup.Item>
                       <ListGroupItem>
-                        Workforce:{" "}
-                        {formatter_comma.format(data.curr_employment)}
+                        Workforce: {formatComma.format(job.curr_employment)}
                       </ListGroupItem>
                       <ListGroupItem>
                         Projected Openings:{" "}
-                        {formatter_comma.format(data.proj_openings)}
+                        {formatComma.format(job.proj_openings)}
                       </ListGroupItem>
                       <ListGroupItem>
                         BLS Info:
                         <a
                           className="mx-2"
-                          href={data.bls}
+                          href={job.bls}
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -175,7 +169,7 @@ function ViewJob() {
               </Col>
             </Row>
           </Container>
-        </MainLayout>
+        </>
       )}
     </>
   );

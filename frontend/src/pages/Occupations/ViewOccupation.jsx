@@ -1,39 +1,32 @@
-import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+/* eslint-disable react/jsx-no-useless-fragment */
+import React, { useState } from "react";
+import { useParams, Link } from "react-router-dom";
 import {
   Container,
   Row,
-  Col,
   Card,
-  Button,
   ListGroup,
   ListGroupItem,
 } from "react-bootstrap";
-import { Link } from "react-router-dom";
-import MainLayout from "../../components/Layout/MainLayout";
+import UseFetch from "../../utils/UseFetch";
 
 function ViewOccupation() {
   const { id } = useParams();
   const [occupation, setOccupation] = useState();
-  const formatter_dollar = new Intl.NumberFormat("en-US", {
+  const formatDollar = new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: "USD",
   });
-  const formatter_comma = new Intl.NumberFormat("en-US", {
+  const formatComma = new Intl.NumberFormat("en-US", {
     maximumFractionDigits: 2,
   });
-  useEffect(() => {
-    fetch(`/api/occupations/${id}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setOccupation(data.Occupation);
-      })
-      .catch((err) => console.log(err));
-  }, []);
+
+  UseFetch(`/api/occupations/${id}`, { Occupation: setOccupation });
+
   return (
     <>
       {occupation && (
-        <MainLayout>
+        <>
           <h1 className="text-center py-5">Occupation Details</h1>
           <Container className="min-vh-100">
             <Row>
@@ -51,13 +44,15 @@ function ViewOccupation() {
                 <Card.Body>
                   <ListGroup variant="flush">
                     <ListGroup.Item className="my-2">
-                      Median: {formatter_dollar.format(occupation.median_wage)}
+                      Median: {formatDollar.format(occupation.median_wage)}
                     </ListGroup.Item>
                     <ListGroup.Item>
                       Top 10%:{" "}
-                      {occupation.pct90_wage == 208000
-                        ? `${formatter_dollar.format(occupation.pct90_wage)} or more`
-                        : `${formatter_dollar.format(occupation.pct90_wage)}`}
+                      {occupation.pct90_wage === 208000
+                        ? `${formatDollar.format(
+                            occupation.pct90_wage
+                          )} or more`
+                        : `${formatDollar.format(occupation.pct90_wage)}`}
                     </ListGroup.Item>
                     <ListGroup.Item>
                       Outlook: {occupation.outlook}
@@ -67,11 +62,11 @@ function ViewOccupation() {
                     </ListGroup.Item>
                     <ListGroupItem>
                       Workforce:{" "}
-                      {formatter_comma.format(occupation.curr_employment)}
+                      {formatComma.format(occupation.curr_employment)}
                     </ListGroupItem>
                     <ListGroupItem>
                       Projected Openings:{" "}
-                      {formatter_comma.format(occupation.proj_openings)}
+                      {formatComma.format(occupation.proj_openings)}
                     </ListGroupItem>
                     <ListGroupItem>
                       BLS Info:
@@ -97,7 +92,7 @@ function ViewOccupation() {
               </Card>
             </Row>
           </Container>
-        </MainLayout>
+        </>
       )}
     </>
   );

@@ -1,26 +1,15 @@
-export const getPageData = (action, url, page) => {
-  let result;
+const getPageData = async (action, page) => {
   switch (action) {
     case "Next":
-      result = url.concat(`${page[0].current_page + 1}`);
-      break;
+      return page.current_page + 1;
     case "Prev":
-      result = url.concat(`${page[0].current_page - 1}`);
-      break;
+      return page.current_page - 1;
     case "First":
-      result = url.concat("1");
-      break;
+      return 1;
     case "Last":
-      result = url.concat(`${page[0].total}`);
-      break;
+      return page.total;
     default:
-      result = url.concat(`${action}`);
-      break;
+      return action;
   }
-  return fetch(result)
-    .then((res) => res.json())
-    .then((data) => {
-      return data;
-    })
-    .catch((err) => console.log(err));
 };
+export default getPageData;

@@ -19,7 +19,10 @@ requirements:
 	cd backend && source venv/Scripts/activate && pip-chill --no-version > requirements.txt
 
 backend/venv/Scripts/activate: backend/requirements.txt
-	cd backend && python -m venv venv
+	# App engine flex runs on python 3.7
+	# https://cloud.google.com/appengine/docs/flexible/python/runtime * GCP now supports later versions of python
+	# https://www.python.org/downloads/release/python-370/ - download and add to PATH	
+	cd backend && virtualenv -p python3.7 venv
 	cd backend && venv/Scripts/pip install -r requirements.txt
 
 run-back: backend/venv/Scripts/activate
@@ -72,7 +75,7 @@ build-front-test:
 	cd frontend && npm run build && mv build ../production
 
 venv:
-	cd production && python -m venv venv && venv/Scripts/pip install -r requirements.txt
+	cd production && virtualenv -p python3.7 venv && venv/Scripts/pip install -r requirements.txt
 
 run-production: venv
 	cd production && venv/Scripts/python run.py

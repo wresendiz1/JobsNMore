@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from "react";
 import "./custom.css";
 import CustomBar from "../Navbar/Navbar";
@@ -7,7 +8,8 @@ function MainLayout({ children }) {
     <>
       <CustomBar />
       <main>{children}</main>
-      <footer id="bottom" className="mt-4" />
+
+      {/* {!isHome ? <footer id="bottom" className="mt-4" /> : null} */}
     </>
   );
 }

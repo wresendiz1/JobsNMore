@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+/* eslint-disable react/jsx-no-useless-fragment */
+import React, { useState } from "react";
+import { useParams, Link } from "react-router-dom";
 import {
   Container,
   Row,
@@ -8,25 +9,17 @@ import {
   ListGroup,
   ListGroupItem,
 } from "react-bootstrap";
-import { Link } from "react-router-dom";
-import MainLayout from "../../components/Layout/MainLayout";
+import UseFetch from "../../utils/UseFetch";
 
 function ViewCourse() {
   const { id } = useParams();
   const [course, setCourse] = useState();
 
-  useEffect(() => {
-    fetch(`/api/courses/${id}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setCourse(data.Course);
-      })
-      .catch((err) => console.log(err));
-  }, []);
+  UseFetch(`/api/courses/${id}`, { Course: setCourse });
   return (
     <>
       {course && (
-        <MainLayout>
+        <>
           <h1 className="text-center py-5">Course Details</h1>
           <Container className="min-vh-100">
             <Row>
@@ -57,9 +50,7 @@ function ViewCourse() {
                       </a>
                     </ListGroupItem>
                     <ListGroupItem>
-                      <Link
-                        to={`/Jobs/course/${course.OnetCode}?course=${course.Name}`}
-                      >
+                      <Link to={`/Jobs/course/${course.Id}`}>
                         <Button variant="primary">View Jobs</Button>
                       </Link>
                     </ListGroupItem>
@@ -68,7 +59,7 @@ function ViewCourse() {
               </Card>
             </Row>
           </Container>
-        </MainLayout>
+        </>
       )}
     </>
   );

@@ -1,201 +1,150 @@
+/* eslint-disable no-promise-executor-return */
+/* eslint-disable arrow-body-style */
 import React, { lazy, Suspense } from "react";
 import ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Load from "./pages/Load/Load";
+import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
+import Spinner from "./components/Spinner/Spinner";
+import MainLayout from "./components/Layout/MainLayout";
+import Test from "./App";
 
-const Home = lazy(() => import("./pages/Home/Home"));
-const About = lazy(() => import("./pages/About/About"));
-const Contact = lazy(() => import("./pages/Contact/Contact"));
-const Jobs = lazy(() => import("./pages/Jobs/Jobs"));
-const Courses = lazy(() => import("./pages/Courses/Courses"));
-const Locations = lazy(() => import("./pages/Locations/Locations"));
-const Occupations = lazy(() => import("./pages/Occupations/Occupations"));
-const Clusters = lazy(() => import("./pages/Clusters/Clusters"));
-const ViewJob = lazy(() => import("./pages/Jobs/ViewJob"));
-const ViewLocation = lazy(() => import("./pages/Locations/ViewLocation"));
-const OnetJobs = lazy(() => import("./pages/Jobs/OnetJobs"));
-const ViewCluster = lazy(() => import("./pages/Clusters/ViewCluster"));
-const ClusterJobs = lazy(() => import("./pages/Jobs/ClusterJobs"));
-const ViewCourse = lazy(() => import("./pages/Courses/ViewCourse"));
-const ViewOccupation = lazy(() => import("./pages/Occupations/ViewOccupation"));
-const LocationJobs = lazy(() => import("./pages/Jobs/LocationJobs"));
-const CourseJobs = lazy(() => import("./pages/Jobs/CourseJobs"));
+// Prevent sudden flash of fallback component when lazy loading
+const getPageComponent = (pageName, page) =>
+  lazy(() =>
+    Promise.all([
+      import(`./pages/${!page ? pageName : page}/${pageName}`),
+      new Promise((resolve) => setTimeout(resolve, 500)),
+    ]).then(([moduleExports]) => moduleExports)
+  );
+const Home = getPageComponent("Home");
+const About = getPageComponent("About");
+const Contact = getPageComponent("Contact");
+const Jobs = getPageComponent("Jobs");
+const ViewJob = getPageComponent("ViewJob", "Jobs");
+const JobsExtra = getPageComponent("JobsExtra", "Jobs");
+const Occupations = getPageComponent("Occupations");
+const ViewOccupation = getPageComponent("ViewOccupation", "Occupations");
+const Courses = getPageComponent("Courses");
+const ViewCourse = getPageComponent("ViewCourse", "Courses");
+const Locations = getPageComponent("Locations");
+const ViewLocation = getPageComponent("ViewLocation", "Locations");
+const Clusters = getPageComponent("Clusters");
+const ViewCluster = getPageComponent("ViewCluster", "Clusters");
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: (
-      <Suspense fallback={<Load />}>
-        <Home />
-      </Suspense>
+      <MainLayout>
+        <Suspense fallback={<Spinner />}>
+          <Outlet />
+        </Suspense>
+      </MainLayout>
     ),
-  },
-  {
-    path: "/About",
-    element: (
-      <Suspense fallback={<Load />}>
-        <About />
-      </Suspense>
-    ),
-  },
-  {
-    path: "/Jobs",
     children: [
       {
         index: true,
-        element: (
-          <Suspense fallback={<Load />}>
-            <Jobs />
-          </Suspense>
-        ),
+        element: <Home />,
       },
       {
-        path: ":id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <ViewJob />
-          </Suspense>
-        ),
+        path: "About",
+        element: <About />,
       },
-
       {
-        path: "/Jobs/occupation/:id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <OnetJobs />
-          </Suspense>
-        ),
+        path: "Contact",
+        element: <Contact />,
       },
-
       {
-        path: "/Jobs/locations/:id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <LocationJobs />
-          </Suspense>
-        ),
+        path: "Jobs",
+        children: [
+          {
+            index: true,
+            element: <Jobs />,
+          },
+          {
+            path: ":id",
+            element: <ViewJob />,
+          },
+          {
+            path: "occupation/:id",
+            element: <JobsExtra url="/api/jobs/onet" />,
+          },
+          {
+            path: "location/:id",
+            element: <JobsExtra url="/api/jobs/location" />,
+          },
+          {
+            path: "cluster/:id",
+            element: <JobsExtra url="/api/jobs/cluster" />,
+          },
+          {
+            path: "course/:id",
+            element: <JobsExtra url="/api/jobs/course" />,
+          },
+        ],
       },
-
       {
-        path: "/Jobs/cluster/:id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <ClusterJobs />
-          </Suspense>
-        ),
+        path: "Occupations",
+        children: [
+          {
+            index: true,
+            element: <Occupations />,
+          },
+          {
+            path: ":id",
+            element: <ViewOccupation />,
+          },
+        ],
       },
-
       {
-        path: "/Jobs/course/:id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <CourseJobs />
-          </Suspense>
-        ),
+        path: "Courses",
+        children: [
+          {
+            index: true,
+            element: <Courses />,
+          },
+          {
+            path: ":id",
+            element: <ViewCourse />,
+          },
+        ],
+      },
+      {
+        path: "Locations",
+        children: [
+          {
+            index: true,
+            element: <Locations />,
+          },
+          {
+            path: ":id",
+            element: <ViewLocation />,
+          },
+        ],
+      },
+      {
+        path: "Clusters",
+        children: [
+          {
+            index: true,
+            element: <Clusters />,
+          },
+          {
+            path: ":id",
+            element: <ViewCluster />,
+          },
+        ],
+      },
+      {
+        path: "Test",
+        element: <Test />,
       },
     ],
-  },
-
-  {
-    path: "/Occupations",
-    children: [
-      {
-        index: true,
-        element: (
-          <Suspense fallback={<Load />}>
-            <Occupations />
-          </Suspense>
-        ),
-      },
-      {
-        path: ":id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <ViewOccupation />
-          </Suspense>
-        ),
-      },
-    ],
-  },
-  {
-    path: "/Courses",
-    children: [
-      {
-        index: true,
-        element: (
-          <Suspense fallback={<Load />}>
-            <Courses />
-          </Suspense>
-        ),
-      },
-      {
-        path: ":id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <ViewCourse />
-          </Suspense>
-        ),
-      },
-    ],
-  },
-
-  {
-    path: "/Locations",
-    children: [
-      {
-        index: true,
-        element: (
-          <Suspense fallback={<Load />}>
-            <Locations />
-          </Suspense>
-        ),
-      },
-      {
-        path: ":id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <ViewLocation />
-          </Suspense>
-        ),
-      },
-    ],
-  },
-
-  {
-    path: "/Clusters",
-    children: [
-      {
-        index: true,
-        element: (
-          <Suspense fallback={<Load />}>
-            <Clusters />
-          </Suspense>
-        ),
-      },
-      {
-        path: ":id",
-        element: (
-          <Suspense fallback={<Load />}>
-            <ViewCluster />
-          </Suspense>
-        ),
-      },
-    ],
-  },
-
-  {
-    path: "/Contact",
-    element: (
-      <Suspense fallback={<Load />}>
-        <Contact />
-      </Suspense>
-    ),
-  },
-  {
-    path: "/Load",
-    element: <Load />,
   },
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<RouterProvider router={router} />);
+root.render(
+  <React.StrictMode>
+    <RouterProvider router={router} />
+  </React.StrictMode>
+);

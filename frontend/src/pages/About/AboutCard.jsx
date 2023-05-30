@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React, { useEffect, useState } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -14,17 +15,23 @@ function AboutCard({ data }) {
   const [info, setInfo] = useState();
 
   useEffect(() => {
-    fetch("/api/about.json")
+    const controller = new AbortController();
+    const { signal } = controller;
+    fetch("/api/about.json", { signal })
       .then((res) => res.json())
-      .then((aboutCard) => setInfo(aboutCard))
-      .catch((err) => console.log(err));
+      .then((about) => {
+        setInfo(about);
+      });
+    return () => {
+      controller.abort();
+    };
   }, []);
 
   return (
     <>
-      <Container className="align-items-center">
+      <Container>
         <h1 className="text-center py-5">Meet the Team</h1>
-        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
+        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4 justify-content-center">
           {info &&
             info.Team.map((member) => (
               <Col key={member.Name}>
@@ -47,22 +54,22 @@ function AboutCard({ data }) {
                     <ListGroup.Item>
                       Commits:
                       <Badge pill bg="primary" className="ms-2">
-                        {data && member.Email2 ? data && data[0][1][member.Email] + data[0][1][member.Email2]:
-                        (data && data[0][1][member.Email]
-                          ? data[0][1][member.Email]
-                          : 0)}
+                        {data && member.Email2
+                          ? data.Commits.User[member.Email] +
+                            data.Commits.User[member.Email2]
+                          : data.Commits.User[member.Email]}
                       </Badge>
                     </ListGroup.Item>
                     <ListGroup.Item>
                       Issues:
                       <Badge pill bg="primary" className="ms-2">
-                        {data && data[1][1][member.Username]
-                          ? data[1][1][member.Username]
+                        {data && data.Issues.User[member.Username]
+                          ? data.Issues.User[member.Username]
                           : 0}
                       </Badge>
                     </ListGroup.Item>
                     <ListGroup.Item>
-                      Unit Tests: {" "}
+                      Unit Tests:{" "}
                       <Badge pill bg="primary" className="ms-2">
                         {data && member.Test}
                       </Badge>
@@ -82,9 +89,9 @@ function AboutCard({ data }) {
                 className="d-flex justify-content-between"
                 key={stat}
               >
-                {stat}
+                {`Total ${stat}`}
                 <span className="badge bg-primary rounded-pill">
-                  {data && index !== 2 ? data[index][0] : 11}
+                  {data && index !== 2 ? data[stat].Total : 11}
                 </span>
               </ListGroup.Item>
             ))}
@@ -124,7 +131,7 @@ function AboutCard({ data }) {
       </div>
       <Container>
         <h1 className="text-center py-5">Data Sources</h1>
-        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-5">
+        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-5 justify-content-center">
           {info &&
             info.Data.map((link) => (
               <Col className="text-center" key={Object.keys(link)}>
@@ -133,7 +140,14 @@ function AboutCard({ data }) {
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <Image className="w-75 mx-auto" src={Object.keys(link)} />
+                  <Image
+                    className="w-75"
+                    src={Object.keys(link)}
+                    style={{
+                      aspectRatio: 4 / 3,
+                      objectFit: "contain",
+                    }}
+                  />
                 </a>
               </Col>
             ))}
@@ -141,11 +155,15 @@ function AboutCard({ data }) {
       </Container>
       <Container>
         <h1 className="text-center py-5">Tools Used</h1>
-        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-5">
+        <Row className="row row-cols-1 row-cols-md-3 py-4 gy-5 justify-content-center">
           {info &&
             info.Tools.map((tool) => (
               <Col className="text-center" key={tool}>
-                <Image className="w-75 mx-auto" src={tool} />
+                <Image
+                  className="w-75"
+                  src={tool}
+                  style={{ aspectRatio: 4 / 3, objectFit: "contain" }}
+                />
               </Col>
             ))}
         </Row>

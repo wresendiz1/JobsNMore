@@ -4,11 +4,9 @@ import "./Spinner.css";
 
 function Spinner() {
   return (
-    <>
-      <div id="center">
-        <img id="image" src={logo}></img>
-      </div>
-    </>
+    <div id="center">
+      <img id="image" src={logo} alt="Loading" />
+    </div>
   );
 }
 

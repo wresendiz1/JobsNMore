@@ -3,13 +3,12 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
-import MainLayout from "../../components/Layout/MainLayout";
-import Logo from "../../images/logos/png/logo-no-slogan.png";
+import { faPlay, faEyeSlash } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Button } from "react-bootstrap";
 import AboutCard from "./AboutCard";
 import Spinner from "../../components/Spinner/Spinner";
-import { Button } from "react-bootstrap";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faPlay } from "@fortawesome/free-solid-svg-icons";
+import Logo from "../../images/logos/png/logo-no-slogan.png";
 
 function About() {
   /*   lazy initial state, runs only once, once we have our data in session storage this
@@ -19,32 +18,34 @@ function About() {
     const cached = sessionStorage.getItem("about");
     return cached ? JSON.parse(cached) : null;
   });
-  const [test, setTest] = useState([]);
+  const [test, setTest] = useState(() => {
+    fetch("/api/test")
+      .then((res) => res.text())
+      .then((testRes) => {
+        setTest(testRes);
+      });
+  });
+  const [show, setShow] = useState(false);
 
   // fetch data from backend and store in state and cache
   useEffect(() => {
+    const controller = new AbortController();
+    const { signal } = controller;
     if (!data) {
-      fetch("/api/about")
+      fetch("/api/about", { signal })
         .then((res) => res.json())
         .then((gitlab) => {
           setData(gitlab);
           sessionStorage.setItem("about", JSON.stringify(gitlab));
-        })
-        .catch((err) => console.log(err));
+        });
     }
+    return () => {
+      controller.abort();
+    };
   }, []);
 
-  const runTests = () => {
-    fetch("/api/test")
-      .then((res) => res.text())
-      .then((data) => {
-        setTest(data);
-      })
-      .catch((err) => console.log(err));
-  };
-
   return (
-    <MainLayout>
+    <>
       <Container fluid className="h-50 bg-gradient2">
         <Container className="align-items-center py-5">
           <Row>
@@ -57,7 +58,8 @@ function About() {
                 JobsNMore is your one-stop shop for job search and career
                 advancement. The website tracks the latest job listing from
                 multiple sources, the statistics on the occupations, and
-                recommended online courses to become a more competitive applicant.
+                recommended online courses to become a more competitive
+                applicant.
               </p>
             </Col>
           </Row>
@@ -67,19 +69,34 @@ function About() {
       <Container className="justify-content-center">
         <Row>
           <Col className="text-center">
-            <Button variant="primary" onClick={runTests} className="mx-auto">
-            <FontAwesomeIcon icon={faPlay} className="mx-2" />
-              Unit Tests
+            <Button
+              variant="primary"
+              onClick={() => {
+                setShow(!show);
+              }}
+              className="mx-auto"
+            >
+              {!show ? (
+                <>
+                  <FontAwesomeIcon icon={faPlay} className="mx-2" />
+                  Unit Tests
+                </>
+              ) : (
+                <>
+                  <FontAwesomeIcon icon={faEyeSlash} className="mx-2" />
+                  Hide
+                </>
+              )}
             </Button>
           </Col>
           <Col className="text-center">
-            <p>{test && test}</p>
+            <p>{show && test}</p>
           </Col>
         </Row>
       </Container>
 
       {!data ? <Spinner /> : <AboutCard data={data} />}
-    </MainLayout>
+    </>
   );
 }
 

@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+/* eslint-disable react/jsx-no-useless-fragment */
+import React, { useState } from "react";
+import { useParams, Link } from "react-router-dom";
 import {
   Container,
   Row,
@@ -9,33 +10,24 @@ import {
   ListGroup,
   ListGroupItem,
 } from "react-bootstrap";
-import { Link } from "react-router-dom";
-import MainLayout from "../../components/Layout/MainLayout";
+import UseFetch from "../../utils/UseFetch";
 
 function ViewLocation() {
   const { id } = useParams();
   const [location, setLocation] = useState();
   const [jobs, setJobs] = useState();
-  useEffect(() => {
-    fetch(`/api/locations/${id}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setLocation(data.Location);
-        setJobs(data.Jobs);
-      })
-      .catch((err) => console.log(err));
-  }, []);
+  UseFetch(`/api/locations/${id}`, { Location: setLocation, Jobs: setJobs });
   return (
     <>
       {jobs && (
-        <MainLayout>
+        <>
           <h1 className="text-center py-5">City Details</h1>
 
           <Container>
             <Row>
               <Card>
                 <Card.Header className="text-center">
-                  {location["City"]}, {location["State"]}
+                  {location.City}, {location.State}
                 </Card.Header>
                 <Card.Img
                   variant="top"
@@ -71,23 +63,23 @@ function ViewLocation() {
               </Card>
             </Row>
             <Link
-              to={`/Jobs/locations/${location.CityID}`}
+              to={`/Jobs/location/${location.CityID}`}
               className="btn btn-primary mx-2 my-2"
             >
               More Jobs
             </Link>
             <Row className="row row-cols-1 row-cols-md-3 py-4 gy-4">
-              {jobs.slice(0, 50).map((job) => (
+              {jobs.map((job) => (
                 <Col key={job.Id}>
                   <Card>
                     <Card.Header className="text-center">
-                      {job["JobTitle"]}
+                      {job.JobTitle}
                     </Card.Header>
                     <Card.Body className="text-center">
-                      <Card.Title>{job["Company"]}</Card.Title>
+                      <Card.Title>{job.Company}</Card.Title>
                       <Button
                         variant="primary"
-                        href={job["Url"]}
+                        href={job.Url}
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -101,14 +93,14 @@ function ViewLocation() {
                       </Link>
                     </Card.Body>
                     <Card.Footer className="text-muted">
-                      Posted on: {job["DatePosted"]}
+                      Posted on: {job.DatePosted}
                     </Card.Footer>
                   </Card>
                 </Col>
               ))}
             </Row>
           </Container>
-        </MainLayout>
+        </>
       )}
     </>
   );

@@ -1,6 +1,5 @@
 import { useEffect, useRef, React } from "react";
 import { useNavigate } from "react-router-dom";
-import CustomBar from "../../components/Navbar/Navbar";
 import "./home.css";
 
 const sizes = [
@@ -42,30 +41,66 @@ const sizes = [
 ];
 
 const pages = [
-  { About: "Learn more about our team and development." },
-  { Jobs: "Find a job that fits your needs." },
-  { Occupations: "Search by standardized job occupations." },
-  { Courses: "Learn new skills and improve your current ones." },
+  { title: "About", content: "Learn more about our team and development." },
+  { title: "Jobs", content: "Find a job that fits your needs." },
+  { title: "Occupations", content: "Search by standardized job occupations." },
   {
-    Locations:
-      "Find a job near you or explore what other cities have to offer.",
+    title: "Courses",
+    content: "Learn new skills and improve your current ones.",
   },
-  { Clusters: "Explore different clusters to find the right choice." },
+  {
+    title: "Locations",
+    content: "Find a job near you or explore what other cities have to offer.",
+  },
+  {
+    title: "Clusters",
+    content: "Explore different clusters to find the right choice.",
+  },
 ];
+// Custom hook that runs given handler when clicked outside of the ref node
+const useClickOutside = (handler) => {
+  const clickBox = useRef();
+  useEffect(() => {
+    const listener = (e) => {
+      if (!clickBox.current) return;
+      if (!clickBox.current.contains(e.target)) {
+        handler();
+      }
+    };
+    document.addEventListener("click", listener);
+    return () => {
+      document.removeEventListener("click", listener);
+    };
+  });
+  return clickBox;
+};
 
 function Home() {
+  // on render
+  useEffect(() => {
+    document.body.classList.add("home");
+    // on unmount
+    return () => {
+      document.body.classList.remove("home");
+    };
+  }, []);
+
   // DOM elements states
-  const shapes = useRef();
+  const shapes = useRef(null);
+  if (shapes.current === null) {
+    shapes.current = document.getElementsByClassName("shape");
+  }
+
   const title = useRef();
   const logo = useRef();
-  const clickBox = useRef();
   const desc = useRef(null);
   const clickedShape = useRef(null);
   const navigate = useNavigate();
 
-  const clickOutside = (e) => {
-    if (!clickBox.current.contains(e.target) && clickedShape.current !== null) {
-      // if the clicked element is outside, reset the page to original state
+  // attach custom hook to clickBox ref node
+  const clickBox = useClickOutside(() => {
+    // if the clicked element is outside, reset the page to original state
+    if (clickedShape.current !== null) {
       title.current.innerHTML = "";
       logo.current.style.display = "block";
       desc.current = null;
@@ -73,28 +108,13 @@ function Home() {
       // set shapes to original state
       Array.from(shapes.current).forEach((shape) => {
         shape.classList.remove("clicked");
-        shape.style.zIndex = 1;
         // reset shape to original size
         shape.style = "";
         shape.children[0].style = "";
         shape.children[0].innerHTML = shape.title;
       });
     }
-  };
-
-  // on render
-  useEffect(() => {
-    // checks if the click is outside the shapes
-    shapes.current = document.getElementsByClassName("shape");
-    document.addEventListener("click", clickOutside, true);
-    document.body.classList.add("home");
-
-    // on unmount
-    return () => {
-      document.body.classList.remove("home");
-      document.removeEventListener("click", clickOutside, true);
-    };
-  }, []);
+  });
 
   const checkShape = (e) => {
     // if the target is the children, get the parent
@@ -108,23 +128,23 @@ function Home() {
     }
     // redirect to the clicked shapes title
     if (clickedShape.current === e.target) {
-      // window.location.href = "/" + clickedShape.current.title;
       navigate(`/${clickedShape.current.title}`);
     }
     clickedShape.current = e.target;
 
     logo.current.style.display = "none";
-    desc.current = clickedShape.current.children[0];
+    const [descElement] = clickedShape.current.children;
+    desc.current = descElement;
     // get dictionary of clicked shape
     const clickedShapeDict = pages.find(
-      (page) => Object.keys(page)[0] === e.target.title
+      (page) => page.title === e.target.title
     );
 
     // set the title and description
     // set description visible
     desc.current.style.display = "block";
-    title.current.innerHTML = Object.keys(clickedShapeDict)[0];
-    desc.current.innerHTML = Object.values(clickedShapeDict)[0];
+    title.current.innerHTML = clickedShapeDict.title;
+    desc.current.innerHTML = clickedShapeDict.content;
 
     // set the shape to the largest size
     clickedShape.current.classList.add("clicked");
@@ -142,28 +162,25 @@ function Home() {
     });
   };
   return (
-    <>
-      <CustomBar />
-      <div id="container">
-        <div id="box" ref={clickBox}>
-          {pages.map((page, index) => (
-            <div
-              role="button"
-              tabIndex={index}
-              className="shape hvr-reveal"
-              title={Object.keys(page)[0]}
-              key={Object.keys(page)[0]}
-              onClick={checkShape}
-              onKeyUp={checkShape}
-            >
-              <div className="shapeDescription">{Object.keys(page)[0]}</div>
-            </div>
-          ))}
-          <div id="logo-center" ref={logo} />
-          <div id="shapeLabel" ref={title} />
-        </div>
+    <div id="container">
+      <div id="box" ref={clickBox}>
+        {pages.map((page, index) => (
+          <div
+            role="button"
+            tabIndex={index}
+            className="shape hvr-reveal"
+            title={page.title}
+            key={page.title}
+            onClick={checkShape}
+            onKeyUp={checkShape}
+          >
+            <div className="shapeDescription">{page.title}</div>
+          </div>
+        ))}
+        <div id="logo-center" ref={logo} />
+        <div id="shapeLabel" ref={title} />
       </div>
-    </>
+    </div>
   );
 }
 

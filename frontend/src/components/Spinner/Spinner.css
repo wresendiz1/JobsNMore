@@ -14,7 +14,7 @@
 }
 
 #image {
-  animation: spin 1.5s linear infinite;
+  animation: spin 1s linear infinite;
   aspect-ratio: 1.618;
   width: 25vmin;
 }

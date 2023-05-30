@@ -18,8 +18,6 @@ from app.create_db import (
 )
 
 
-
-
 # Application factory, use run.py to create an instance of the app
 def create_app(config=None):
     if config == "deploy" or config == "deploy_migrate":
@@ -40,10 +38,10 @@ def create_app(config=None):
     db.init_app(app)
 
     with app.app_context():
-        """ 
-            initialize_db is for local reset of DB
-            deploy_migrate is for GCP reset of DB
-            
+        """
+        initialize_db is for local reset of DB
+        deploy_migrate is for GCP reset of DB
+
         """
         if config == "initialize_db" or config == "deploy_migrate":
             db.drop_all()
@@ -58,20 +56,23 @@ def create_app(config=None):
     from app.routes import job, location, occupation, course, cluster
 
     # Serve React SPA from Flask when running in production
-    @app.route("/")
-    def serve():
-        return send_from_directory(app.static_folder, "index.html")
+    if config == "deploy" or config == "deploy_migrate":
 
-    @app.errorhandler(404)
-    def not_found(e):
-        return app.send_static_file("index.html")
+        @app.route("/")
+        def serve():
+            return send_from_directory(app.static_folder, "index.html")
+
+        @app.errorhandler(404)
+        def not_found(e):
+            return app.send_static_file("index.html")
 
     @app.route("/api/about")
     def about():
         commits = get_commits()
         issues = get_issues()
         return Response(
-            json.dumps([commits, issues], indent=2), mimetype="application/json"
+            json.dumps({"Commits": commits, "Issues": issues}, indent=2),
+            mimetype="application/json",
         )
 
     @app.route("/api/test")
@@ -92,12 +93,11 @@ def create_app(config=None):
         if request.method == "POST":
             return "Form submitted"
 
-
     # Model routes
     app.register_blueprint(job.jobs_bp)
     app.register_blueprint(cluster.clusters_bp)
     app.register_blueprint(location.locations_bp)
     app.register_blueprint(course.courses_bp)
     app.register_blueprint(occupation.occupations_bp)
-    
+
     return app

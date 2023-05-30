@@ -13,11 +13,10 @@ CORS(courses_bp)
 def courses():
     pg, per_page, sort_by, order, search, search_by = get_query_page(request.args)
 
-    courses_dict = Course.get_courses(
-        pg, per_page, sort_by, order, search, search_by
-    )
+    courses_dict = Course.get_courses(pg, per_page, sort_by, order, search, search_by)
 
     return Response(json.dumps(courses_dict, indent=2), mimetype="application/json")
+
 
 @courses_bp.route("/api/courses/<Id>", methods=["GET"])
 def get_course(Id):

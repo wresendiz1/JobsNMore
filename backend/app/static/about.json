@@ -38,7 +38,7 @@
       "Test": 3
     }
   ],
-  "Stats": ["Total Commits", "Total Issues", "Total Unit Tests"],
+  "Stats": ["Commits", "Issues", "Unit Tests"],
   "Repos": [
     {
       "Issue Tracker": "https://gitlab.com/javier.ramirez5/cs331e-idb/-/boards"
@@ -73,9 +73,6 @@
     },
     {
       "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Tools/gitlab.png": "https://docs.gitlab.com/ee/api/"
-    },
-    {
-      "https://gitlab.com/javier.ramirez5/cs331e-idb/-/raw/main/frontend/src/images/About/Data/youtube.png": "https://developers.google.com/youtube/v3/"
     }
   ],
   "Tools": [

@@ -32,7 +32,7 @@ def get_commits():
 
         page_num += 1
 
-    return total, users
+    return {"Total": total, "User": users}
 
 
 def get_issues():
@@ -46,7 +46,7 @@ def get_issues():
             users[issue["author"]["username"]] = 1
         else:
             users[issue["author"]["username"]] += 1
-    return total, users
+    return {"Total": total, "User": users}
 
 
 if __name__ == "__main__":

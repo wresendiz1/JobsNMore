@@ -1,20 +1,17 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Pagination from "react-bootstrap/Pagination";
 
-function PaginationBar({ change, total_pages, current_page }) {
-  // useEffect(() => {
-  //   console.log(total_pages, current_page);
-  // }, [total_pages, current_page]);
-  let pages = [];
-  let tab = Math.floor(current_page / 5) * 5;
-  // console.log(tab)
+// eslint-disable-next-line react/prop-types
+function PaginationBar({ change, totalPages, currPage }) {
+  const pages = [];
+  const tab = Math.floor(currPage / 5) * 5;
 
-  if (current_page % 5 == 0) {
-    for (let i = current_page - 4; i <= current_page; i++) {
+  if (currPage % 5 === 0) {
+    for (let i = currPage - 4; i <= currPage; i += 1) {
       pages.push(
         <Pagination.Item
           key={i}
-          active={i === current_page}
+          active={i === currPage}
           onClick={() => change(i)}
         >
           {i}
@@ -24,13 +21,13 @@ function PaginationBar({ change, total_pages, current_page }) {
   } else {
     for (
       let i = tab + 1;
-      i <= (tab + 5 > total_pages ? total_pages : tab + 5);
-      i++
+      i <= (tab + 5 > totalPages ? totalPages : tab + 5);
+      i += 1
     ) {
       pages.push(
         <Pagination.Item
           key={i}
-          active={i === current_page}
+          active={i === currPage}
           onClick={() => change(i)}
         >
           {i}
@@ -42,16 +39,18 @@ function PaginationBar({ change, total_pages, current_page }) {
   return (
     <div>
       <Pagination>
-        {current_page > 1 && (
-          <Pagination.First onClick={() => change("First")} />
+        {currPage > 1 && (
+          <Pagination.First onClick={() => change("First")} title="First" />
         )}
-        {current_page > 1 && <Pagination.Prev onClick={() => change("Prev")} />}
+        {currPage > 1 && (
+          <Pagination.Prev onClick={() => change("Prev")} title="Previous" />
+        )}
         {pages}
-        {current_page < total_pages && (
-          <Pagination.Next onClick={() => change("Next")} />
+        {currPage < totalPages && (
+          <Pagination.Next onClick={() => change("Next")} title="Next" />
         )}
-        {current_page < total_pages && (
-          <Pagination.Last onClick={() => change("Last")} />
+        {currPage < totalPages && (
+          <Pagination.Last onClick={() => change("Last")} title="Last" />
         )}
       </Pagination>
     </div>

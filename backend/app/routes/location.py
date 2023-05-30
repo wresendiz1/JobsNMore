@@ -15,13 +15,11 @@ def locations():
         pg, per_page, sort_by, order, search, search_by
     )
 
-    return Response(
-        json.dumps(locations_dict, indent=2), mimetype="application/json"
-    )
+    return Response(json.dumps(locations_dict, indent=2), mimetype="application/json")
+
 
 @locations_bp.route("/api/locations/<Id>", methods=["GET"])
 def get_location(Id):
     loc_dict = Location.get_location_details(Id)
 
     return Response(json.dumps(loc_dict, indent=2), mimetype="application/json")
-

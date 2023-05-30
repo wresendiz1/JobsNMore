@@ -17,6 +17,16 @@ def merge_dicts(**dict_args):
     return result
 
 
+def page_info(page, per_page, query_pag_obj, items):
+    return {
+        "current_page": page,
+        "per_page": per_page,
+        "total": query_pag_obj.pages,
+        "total_items": query_pag_obj.total,
+        "page_items": len(items),
+    }
+
+
 basic_jobs = db.Table(
     "basic_jobs",
     db.Column(
@@ -38,12 +48,13 @@ tech_jobs = db.Table(
 
 
 class Location(db.Model):
-    
-    '''
+
+    """
     Contains information about the location, including the city, state, population, budget, safety, average rating, and guide.
     Chosen by looking at the top 30 most populated cities in the US.
-    
-    '''
+
+    """
+
     __tablename__ = "locations"
 
     City = db.Column(db.String(80))
@@ -57,6 +68,20 @@ class Location(db.Model):
     Photos = db.Column(db.ARRAY(db.String(200)), nullable=False)
     job = db.relationship("Job", backref="Location")
 
+    @property
+    def serialize(self):
+        return {
+            "City": self.City,
+            "State": self.State,
+            "Population": self.Population,
+            "Budget": self.Budget,
+            "Safety": self.Safety,
+            "Average_rat": self.Average_rat,
+            "Guide": self.Guide,
+            "CityID": self.CityID,
+            "Photos": self.Photos,
+        }
+
     @classmethod
     # The get_query_page in __init__ assings the default parameters, there just defined here
     # for future-proofing
@@ -69,11 +94,11 @@ class Location(db.Model):
         search=None,
         search_by=None,
     ):
-        '''
+        """
         gets all locations, query parameters are specified in postman doc: https://documenter.getpostman.com/view/25798655/2s93RZMpTL
-        
-        '''
-        sort_by = "CityID" if sort_by is None else sort_by
+
+        """
+        sort_by = "CityID" if sort_by == "" else sort_by
 
         column = getattr(cls, sort_by)
 
@@ -103,13 +128,13 @@ class Location(db.Model):
                 ).paginate(page=page, per_page=per_page)
             else:
                 loc_q = search_q.order_by(
-                    case(budget_priority, value=cls.Budget ).desc()
+                    case(budget_priority, value=cls.Budget).desc()
                 ).paginate(page=page, per_page=per_page)
 
         elif sort_by == "Safety":
             if order == "asc":
                 loc_q = search_q.order_by(
-                    case(safety_priority, value=cls.Safety )
+                    case(safety_priority, value=cls.Safety)
                 ).paginate(page=page, per_page=per_page)
             else:
                 loc_q = search_q.order_by(
@@ -124,28 +149,11 @@ class Location(db.Model):
                     page=page, per_page=per_page
                 )
 
-        total_items = search_q.count()
-        num = total_items // per_page
-        num += 1 if total_items % per_page else 0
-        locations = [
-            {
-                key: value
-                for key, value in location.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for location in loc_q.items
-        ]
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num,
-                "total_items": total_items,
-                "page_items": len(locations),
-            }
-        ]
-
-        return {"Page": page, "Locations": locations}
+        locations = [location.serialize for location in loc_q.items]
+        return {
+            "Page": page_info(page, per_page, loc_q, locations),
+            "Locations": locations,
+        }
 
     @classmethod
     def get_location(cls, id):
@@ -154,30 +162,19 @@ class Location(db.Model):
     @classmethod
     def get_location_details(cls, id):
         location = cls.query.filter_by(CityID=id).first()
-        jobs = Job.query.filter_by(JCityID=id).all()
-        jobs = [
-            {
-                key: value
-                for key, value in job.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for job in jobs
-        ]
-        location = {
-            key: value
-            for key, value in location.__dict__.items()
-            if key != "_sa_instance_state"
-        }
-        # return location, jobs
-        return {"Location": location, "Jobs": jobs}
+
+        jobs = Job.query.filter_by(JCityID=id).limit(50).all()
+
+        return {"Location": location.serialize, "Jobs": [job.serialize for job in jobs]}
 
 
 class Job(db.Model):
-    
-    '''
+
+    """
     Contains information about the job, including the job title, company, date posted, url, job location, and onet code.
     Chosen by using the ONET Code of the top 6 occupations for each cluster and querying jobs from CareerOneStop.
-    '''
+    """
+
     __tablename__ = "jobs"
     Id = db.Column(db.String(80), primary_key=True)
     JobTitle = db.Column(db.String(300), nullable=False)
@@ -189,6 +186,19 @@ class Job(db.Model):
         db.String(20), db.ForeignKey("occupations.onetCode"), nullable=False
     )
     JCityID = db.Column(db.Integer, db.ForeignKey("locations.CityID"), nullable=False)
+
+    @property
+    def serialize(self):
+        return {
+            "Id": self.Id,
+            "JobTitle": self.JobTitle,
+            "Company": self.Company,
+            "DatePosted": self.DatePosted,
+            "Url": self.Url,
+            "JobLocation": self.JobLocation,
+            "OnetCode": self.OnetCode,
+            "JCityID": self.JCityID,
+        }
 
     @classmethod
     def get_count(cls):
@@ -204,8 +214,7 @@ class Job(db.Model):
         search=None,
         search_by=None,
     ):
-        sort_by = "Company" if sort_by is None else sort_by
-        # order = "asc" if order is None else order
+        sort_by = "Company" if sort_by == "" else sort_by
 
         column = getattr(cls, sort_by)
 
@@ -223,32 +232,9 @@ class Job(db.Model):
                 page=page, per_page=per_page
             )
 
-        # Sort
-        jobs_q = [
-            {
-                key: value
-                for key, value in job.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for job in jobs.items
-        ]
-        # num = cls.get_count() // per_page
-        # num += 1 if cls.get_count() % per_page else 0
+        jobs_q = [job.serialize for job in jobs.items]
 
-        total_items = search_q.count()
-        num_pages = total_items // per_page
-        num_pages += 1 if total_items % per_page else 0
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num_pages,
-                "total_items": total_items,
-                "page_items": len(jobs_q),
-            }
-        ]
-
-        return {"Page": page, "Jobs": jobs_q}
+        return {"Page": page_info(page, per_page, jobs, jobs_q), "Jobs": jobs_q}
 
     @classmethod
     def get_job(cls, id):
@@ -259,29 +245,14 @@ class Job(db.Model):
         job = cls.query.filter_by(Id=id).first()
         occupation = Occupation.query.filter_by(onetCode=job.OnetCode).first()
 
-        job = {
-            key: value
-            for key, value in job.__dict__.items()
-            if key != "_sa_instance_state"
-        }
-        occupation = {
-            key: value
-            for key, value in occupation.__dict__.items()
-            if key != "_sa_instance_state"
-        }
+        job = job.serialize
+        occupation = occupation.serialize
 
         merged = merge_dicts(job=job, occupation=occupation)
         courses = Course.get_courses_by_onet(occupation["onetCode"])
-        courses = [
-            {
-                key: value
-                for key, value in course.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for course in courses
-        ]
+        test = [course.serialize for course in courses]
 
-        return {"Job Info": merged, "Courses": courses}
+        return {"Job Info": merged, "Courses": test}
 
     @classmethod
     def get_jobs_by_onet(
@@ -294,7 +265,7 @@ class Job(db.Model):
         search=None,
         search_by=None,
     ):
-        sort_by = "Id" if sort_by is None else sort_by
+        sort_by = "Id" if sort_by == "" else sort_by
 
         # Get query of all jobs with onet code
         total = cls.query.filter_by(OnetCode=onet)
@@ -316,35 +287,20 @@ class Job(db.Model):
                 page=page, per_page=per_page
             )
 
-        jobs_q = [
-            {
-                key: value
-                for key, value in job.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for job in jobs.items
-        ]
-        total_items = search_q.count()
-        num = total_items // per_page
-        num += 1 if total_items % per_page else 0
+        jobs_q = [job.serialize for job in jobs.items]
 
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num,
-                "total_items": total_items,
-                "page_items": len(jobs_q),
-            }
-        ]
         occupation = Occupation.get_occupation(onet)
 
-        return {"Page": page, "Jobs": jobs_q, "Occupation": occupation["Occupation"]}
+        return {
+            "Name": occupation["Occupation"]["title"],
+            "Page": page_info(page, per_page, jobs, jobs_q),
+            "Jobs": jobs_q,
+        }
 
     @classmethod
     def get_jobs_by_course(
         cls,
-        course,
+        Id,
         page=1,
         per_page=10,
         sort_by="Id",
@@ -352,8 +308,9 @@ class Job(db.Model):
         search=None,
         search_by=None,
     ):
-        sort_by = "Id" if sort_by is None else sort_by
-        total = cls.query.filter_by(OnetCode=course)
+        sort_by = "Id" if sort_by == "" else sort_by
+        course = Course.get_course(Id)
+        total = cls.query.filter_by(OnetCode=course["Course"]["OnetCode"])
 
         column = getattr(cls, sort_by)
 
@@ -371,31 +328,13 @@ class Job(db.Model):
                 page=page, per_page=per_page
             )
 
-        total_items = search_q.count()
+        jobs_q = [job.serialize for job in jobs.items]
 
-        # jobs = total.limit(per_page).offset((page - 1) * per_page).all()
-        jobs_q = [
-            {
-                key: value
-                for key, value in job.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for job in jobs.items
-        ]
-        num = total_items // per_page
-        num += 1 if total_items % per_page else 0
-
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num,
-                "total_items": total_items,
-                "page_items": len(jobs_q),
-            }
-        ]
-
-        return {"Page": page, "Jobs": jobs_q}
+        return {
+            "Name": course["Course"]["Name"],
+            "Page": page_info(page, per_page, jobs, jobs_q),
+            "Jobs": jobs_q,
+        }
 
     @classmethod
     def get_jobs_by_location(
@@ -408,7 +347,7 @@ class Job(db.Model):
         search=None,
         search_by=None,
     ):
-        sort_by = "Id" if sort_by is None else sort_by
+        sort_by = "Id" if sort_by == "" else sort_by
         total = cls.query.filter_by(JCityID=location)
 
         column = getattr(cls, sort_by)
@@ -426,31 +365,13 @@ class Job(db.Model):
                 page=page, per_page=per_page
             )
 
-        jobs_q = [
-            {
-                key: value
-                for key, value in job.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for job in jobs.items
-        ]
+        jobs_q = [job.serialize for job in jobs.items]
 
-        total_items = search_q.count()
-
-        num = total_items // per_page
-        num += 1 if total_items % per_page != 0 else 0
-
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num,
-                "total_items": total_items,
-                "page_items": len(jobs_q),
-            }
-        ]
-
-        return {"Page": page, "Jobs": jobs_q}
+        return {
+            "Name": jobs_q[0]["JobLocation"],
+            "Page": page_info(page, per_page, jobs, jobs_q),
+            "Jobs": jobs_q,
+        }
 
     @classmethod
     def get_jobs_by_cluster(
@@ -463,7 +384,7 @@ class Job(db.Model):
         search=None,
         search_by=None,
     ):
-        sort_by = "Id" if sort_by is None else sort_by
+        sort_by = "Id" if sort_by == "" else sort_by
         occupations = Occupation.get_occupation_by_cluster(cluster)
         onets = [occupation["onetCode"] for occupation in occupations]
 
@@ -484,31 +405,15 @@ class Job(db.Model):
                 page=page, per_page=per_page
             )
 
-        jobs_q = [
-            {
-                key: value
-                for key, value in job.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for job in jobs.items
-        ]
-        total_items = search_q.count()
+        jobs_q = [job.serialize for job in jobs.items]
 
-        num = total_items // per_page
-        num += 1 if (total_items % per_page) > 0 else 0
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num,
-                "total_items": total_items,
-                "page_items": len(jobs_q),
-            }
-        ]
+        cluster_name = Industry.get_cluster_name(cluster)
 
-        cluster_name = Industry.get_cluster(cluster)
-
-        return {"Page": page, "Jobs": jobs_q, "Cluster": cluster_name}
+        return {
+            "Name": cluster_name,
+            "Page": page_info(page, per_page, jobs, jobs_q),
+            "Jobs": jobs_q,
+        }
 
 
 class Basic_Skill(db.Model):
@@ -523,20 +428,22 @@ class Basic_Skill(db.Model):
     )
     dbasic = db.relationship("Dbasic_Skill", backref="Basic_Skill")
 
+    @property
+    def serialize(self):
+        return {
+            "Id": self.Id,
+            "Name": self.Name,
+            "Description": self.Description,
+            "OnetCodes": self.OnetCodes,
+        }
+
     @classmethod
     def get_basic_skills(cls, page=1, per_page=20):
         basic_q = cls.query.limit(per_page).offset((page - 1) * per_page).all()
         num = (cls.query.count()) // per_page
         num += 1 if (cls.query.count()) % per_page else 0
-        page = [{"current_page": page, "per_page": per_page, "total": num}]
-        basic = [
-            {
-                key: value
-                for key, value in basic.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for basic in basic_q
-        ]
+        page = {"current_page": page, "per_page": per_page, "total": num}
+        basic = [skill.serialize for skill in basic_q]
         return page, basic
 
 
@@ -560,20 +467,22 @@ class Tech_Skill(db.Model):
     )
     dtech = db.relationship("Dtech_Skill", backref="Tech_Skill")
 
+    @property
+    def serialize(self):
+        return {
+            "Id": self.Id,
+            "Name": self.Name,
+            "Description": self.Description,
+            "OnetCodes": self.OnetCodes,
+        }
+
     @classmethod
     def get_tech_skills(cls, page=1, per_page=20):
         tech_q = cls.query.limit(per_page).offset((page - 1) * per_page).all()
         num = (cls.query.count()) // per_page
         num += 1 if (cls.query.count()) % per_page else 0
-        tech = [
-            {
-                key: value
-                for key, value in tech.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for tech in tech_q
-        ]
-        page = [{"current_page": page, "per_page": per_page, "total": num}]
+        tech = [skill.serialize for skill in tech_q]
+        page = {"current_page": page, "per_page": per_page, "total": num}
 
         return page, tech
 
@@ -587,11 +496,12 @@ class Dtech_Skill(db.Model):
 
 
 class Course(db.Model):
-    
-    '''
+
+    """
     This class represents the courses table which contains the courses that are available for the occupations
 
-    '''
+    """
+
     __tablename__ = "courses"
 
     Id = db.Column(db.String(80), primary_key=True)
@@ -604,6 +514,18 @@ class Course(db.Model):
     Type = db.Column(db.String(80), nullable=False)
     Description = db.Column(db.Text)
 
+    @property
+    def serialize(self):
+        return {
+            "Id": self.Id,
+            "OnetCode": self.OnetCode,
+            "Provider": self.Provider,
+            "Name": self.Name,
+            "Url": self.Url,
+            "Type": self.Type,
+            "Description": self.Description,
+        }
+
     @classmethod
     def get_count(cls):
         return cls.query.count()
@@ -612,7 +534,7 @@ class Course(db.Model):
     def get_courses(
         cls, page=1, per_page=10, sort_by="Id", order="asc", search=None, search_by=None
     ):
-        sort_by = "Id" if sort_by is None else sort_by
+        sort_by = "Id" if sort_by == "" else sort_by
 
         column = getattr(cls, sort_by)
 
@@ -631,38 +553,17 @@ class Course(db.Model):
                 page=page, per_page=per_page
             )
 
-        courses_q = [
-            {
-                key: value
-                for key, value in course.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for course in courses.items
-        ]
-        total_items = search_q.count()
-        num = total_items // per_page
-        num += 1 if total_items % per_page > 0 else 0
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num,
-                "total_items": total_items,
-                "page_items": len(courses_q),
-            }
-        ]
-        # return {page, courses_q
-        return {"Page": page, "Courses": courses_q}
+        courses_q = [course.serialize for course in courses.items]
+
+        return {
+            "Page": page_info(page, per_page, courses, courses_q),
+            "Courses": courses_q,
+        }
 
     @classmethod
     def get_course(cls, id):
         course = cls.query.filter_by(Id=id).first()
-        course = {
-            key: value
-            for key, value in course.__dict__.items()
-            if key != "_sa_instance_state"
-        }
-        return {"Course": course}
+        return {"Course": course.serialize}
 
     @classmethod
     def get_courses_by_onet(cls, onet):
@@ -670,9 +571,10 @@ class Course(db.Model):
 
 
 class Occupation(db.Model):
-    '''
+    """
     Occupations found by looking at the chosen clusters from ONET and then looking at the top 6 occupations that are in those clusters
-    '''
+    """
+
     __tablename__ = "occupations"
 
     onetCode = db.Column(db.String(10), primary_key=True)
@@ -697,6 +599,23 @@ class Occupation(db.Model):
         "Tech_Skill", secondary=tech_jobs, back_populates="occupations"
     )
 
+    @property
+    def serialize(self):
+        return {
+            "onetCode": self.onetCode,
+            "cluster": self.cluster,
+            "title": self.title,
+            "description": self.description,
+            "median_wage": self.median_wage,
+            "pct90_wage": self.pct90_wage,
+            "outlook": self.outlook,
+            "outlook_category": self.outlook_category,
+            "curr_employment": self.curr_employment,
+            "proj_openings": self.proj_openings,
+            "percent_change": self.percent_change,
+            "bls": self.bls,
+        }
+
     @classmethod
     def get_occupations(
         cls,
@@ -707,7 +626,7 @@ class Occupation(db.Model):
         search=None,
         search_by=None,
     ):
-        sort_by = "onetCode" if sort_by is None else sort_by
+        sort_by = "onetCode" if sort_by == "" else sort_by
 
         column = getattr(cls, sort_by)
 
@@ -725,8 +644,6 @@ class Occupation(db.Model):
             "11.0000": 4,
             "15.0000": 5,
         }
-        
-      
 
         if sort_by == "outlook":
             if order == "asc":
@@ -737,13 +654,16 @@ class Occupation(db.Model):
                 occupations_q = search_q.order_by(
                     case(outlook_priority, value=cls.outlook).desc()
                 ).paginate(page=page, per_page=per_page)
-                
+
         elif sort_by == "cluster":
             if order == "asc":
-                occupations_q = search_q.order_by(case(cluster_priority, value=cls.cluster)).paginate(page=page, per_page=per_page)
+                occupations_q = search_q.order_by(
+                    case(cluster_priority, value=cls.cluster)
+                ).paginate(page=page, per_page=per_page)
             else:
-                occupations_q = search_q.order_by(case(cluster_priority, value=cls.cluster).desc()).paginate(page=page, per_page=per_page)
-        
+                occupations_q = search_q.order_by(
+                    case(cluster_priority, value=cls.cluster).desc()
+                ).paginate(page=page, per_page=per_page)
 
         else:
             if order == "asc":
@@ -755,63 +675,33 @@ class Occupation(db.Model):
                     page=page, per_page=per_page
                 )
 
-        occupations = [
-            {
-                key: value
-                for key, value in occ.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for occ in occupations_q.items
-        ]
+        occupations = [occupation.serialize for occupation in occupations_q.items]
 
-        total_items = search_q.count()
-
-        num = total_items // per_page
-        num += 1 if total_items % per_page > 0 else 0
-        page = [
-            {
-                "current_page": page,
-                "per_page": per_page,
-                "total": num,
-                "total_items": total_items,
-                "page_items": len(occupations),
-            }
-        ]
-        query_d = {"Page": page, "Occupations": occupations}
+        query_d = {
+            "Page": page_info(page, per_page, occupations_q, occupations),
+            "Occupations": occupations,
+        }
 
         return query_d
-
-        # return occupations, page
 
     @classmethod
     def get_occupation(cls, id):
         occ = cls.query.filter_by(onetCode=id).first()
-        occ = {
-            key: value
-            for key, value in occ.__dict__.items()
-            if key != "_sa_instance_state"
-        }
-        return {"Occupation": occ}
+        return {"Occupation": occ.serialize}
 
     @classmethod
     def get_occupation_by_cluster(cls, id):
         occupations = cls.query.filter_by(cluster=id).all()
-        occupations = [
-            {
-                key: value
-                for key, value in job.__dict__.items()
-                if key != "_sa_instance_state"
-            }
-            for job in occupations
-        ]
-        return occupations
+
+        return [occupation.serialize for occupation in occupations]
 
 
 class Industry(db.Model):
-    
-    '''
+
+    """
     Derived from onet clusters and chosen by picking the clusters that are most relvent to the college students.
-    '''
+    """
+
     __tablename__ = "industries"
 
     Code = db.Column(db.String(10), primary_key=True)
@@ -822,9 +712,19 @@ class Industry(db.Model):
 
     occupations = db.relationship("Occupation", backref="Industry")
 
+    @property
+    def serialize(self):
+        return {
+            "Code": self.Code,
+            "Group": self.Group,
+            "Median_wage": self.Median_wage,
+            "Job_codes": self.Job_codes,
+            "Url": self.Url,
+        }
+
     @classmethod
     def get_clusters(cls, sort_by="Code", order="asc", search=None, search_by=None):
-        sort_by = "Code" if sort_by is None else sort_by
+        sort_by = "Code" if sort_by == "" else sort_by
 
         # clusters = cls.query.all() <-- all() converts the query object to a list
 
@@ -837,9 +737,7 @@ class Industry(db.Model):
             clusters_q = cls.query.filter(column_search.ilike(f"%{search}%"))
         else:
             clusters_q = cls.query
-            
-            
-            
+
         cluster_priority = {
             "4.0000": 1,
             "6.0000": 2,
@@ -847,30 +745,21 @@ class Industry(db.Model):
             "11.0000": 4,
             "15.0000": 5,
         }
-        
-        
+
         if sort_by == "Code":
             if order == "asc":
                 order_q = clusters_q.order_by(case(cluster_priority, value=cls.Code))
             else:
-                order_q = clusters_q.order_by(case(cluster_priority , value=cls.Code).desc())
+                order_q = clusters_q.order_by(
+                    case(cluster_priority, value=cls.Code).desc()
+                )
         else:
             if order == "asc":
                 order_q = clusters_q.order_by(column).all()
             else:
                 order_q = clusters_q.order_by(column.desc()).all()
 
-        clusters = {
-            "Clusters": [
-                {
-                    key: value
-                    for key, value in cluster.__dict__.items()
-                    if key != "_sa_instance_state"
-                }
-                for cluster in order_q
-            ]
-        }
-        return clusters
+        return {"Clusters": [cluster.serialize for cluster in order_q]}
 
     @classmethod
     def get_cluster(cls, id):
@@ -884,3 +773,9 @@ class Industry(db.Model):
         occupations = Occupation.get_occupation_by_cluster(id)
 
         return {"Cluster": cluster, "Occupations": occupations}
+
+    @classmethod
+    def get_cluster_name(cls, id):
+        cluster = cls.query.filter_by(Code=id).first()
+        cluster = cluster.serialize
+        return cluster["Group"]
