@@ -12,6 +12,7 @@ function Locations() {
   const [page, setPage] = useState();
   const [locations, setLocations] = useState();
   const [query, setQuery] = useState(defaultQueryParams);
+  const formatPop = new Intl.NumberFormat("en-US");
 
   const sortValues = [
     { id: "City", name: "City" },
@@ -57,7 +58,7 @@ function Locations() {
                     {location.City}, {location.State}
                   </Card.Title>
                   <Card.Subtitle className="mb-2 text-muted">
-                    Population: {location.Population}
+                    Population: {formatPop.format(location.Population)}
                   </Card.Subtitle>
                   {/* TODO: query occupation DB to get average pay or use google API in next phase */}
                   {/* <Card.Text>{location.Description}</Card.Text> */}

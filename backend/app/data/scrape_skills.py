@@ -1,5 +1,7 @@
 import requests
 import json
+from dotenv import load_dotenv
+load_dotenv()
 import os
 
 
@@ -7,7 +9,7 @@ session = requests.Session()
 session.headers.update(
     {
         "Accept": "application/json",
-        "Authorization": "Basic dXRleGFzMToyODkzY3Z1",
+        "Authorization": os.getenv("ONET_TOKEN"),
     }
 )
 with open(os.path.join(os.path.dirname(__file__), "occupations.json")) as f:

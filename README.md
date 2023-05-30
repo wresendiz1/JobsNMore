@@ -1,6 +1,6 @@
 # cs331e-idb - JobsNMore
 
-### Website
+## Website
 - [ ] [JobsnMore](http://jobsnmore.me/)
 
 ## Phase 1

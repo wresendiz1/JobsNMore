@@ -1,35 +1,9 @@
 import requests
 import json
 from concurrent.futures import ThreadPoolExecutor
-
-# retrieves all jobs and their details for each cluster - not used
-# def get_jobs_per_cluster():
-#     clustersCodes = ["4.0000", "6.0000", "8.0000", "11.0000", "15.0000"]
-#     all_jobs = {}
-#     session = requests.Session()
-#     session.headers.update(
-#         {
-#             "Accept": "application/json",
-#             "Authorization": "Basic dXRleGFzMToyODkzY3Z1",
-#         }
-#     )
-#     for code in clustersCodes:
-#         url = (
-#             "https://services.onetcenter.org/ws/online/career_clusters/"
-#             + code
-#             + "?start=0&end=200"
-#         )
-
-#         response = session.request("GET", url)
-#         data = response.json()["occupation"]
-#         codes = [get_code_details(onet_code["code"]) for onet_code in data]
-#         sort = sorted(codes, key=lambda x: x["curr_employment"], reverse=True)
-#         all_jobs[code] = sort
-
-#     final = json.dumps(all_jobs, indent=2)
-#     with open("all_jobs.json", "w") as f:
-#         f.write(final)
-
+from dotenv import load_dotenv
+load_dotenv()
+import os
 
 def get_top_jobs(cluster_codes):
     jobs = []
@@ -37,7 +11,7 @@ def get_top_jobs(cluster_codes):
     session = requests.Session()
     session.headers.update(
         {
-            "Authorization": "Bearer h5913JTCBlAINrrwwtf+LulXF+a0DQMZ8coPXmT+pF1vlhCajU4FbMvl33gIJ0vbFRIO4XZ1EnUcjJTKp3IWIg=="
+            "Authorization": os.getenv("ONESTOP_TOKEN"),
         }
     )
 
