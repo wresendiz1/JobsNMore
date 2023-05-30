@@ -11,7 +11,7 @@ env_variables:
   # Replace user, password, database, and instance connection name with the values obtained
   # when configuring your Cloud SQL instance.
   DB_STRING: >-
-    postgresql://postgres:Passkey123@/postgres?host=/cloudsql/wired-plateau-359721:us-central1:jobdb
+    postgresql+psycopg2://postgres:Passkey123@/postgres?host=/cloudsql/jobs-n-more:us-central1:jobsnmore
 
 
 #[END env]
@@ -19,7 +19,7 @@ env_variables:
 # Replace project and instance with the values obtained  when configuring your
 # Cloud SQL instance.
 beta_settings:
-  cloud_sql_instances: wired-plateau-359721:us-central1:jobdb
+  cloud_sql_instances: jobs-n-more:us-central1:jobsnmore
 
 # This sample incurs costs to run on the App Engine flexible environment.
 # The settings below are to reduce costs during testing and are not appropriate

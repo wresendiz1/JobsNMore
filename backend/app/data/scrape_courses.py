@@ -1,9 +1,10 @@
 import requests
 import json
-from concurrent.futures import ThreadPoolExecutor
-from dotenv import load_dotenv
-load_dotenv()
 import os
+from concurrent.futures import ThreadPoolExecutor
+from dotenv import dotenv_values
+config = dotenv_values(".env")
+
 
 
 def scrape_courses(occupations):
@@ -11,7 +12,7 @@ def scrape_courses(occupations):
     session = requests.Session()
     session.headers.update(
         {
-            "Authorization": os.getenv("ONET_TOKEN")
+            "Authorization": config["ONET_TOKEN"]
         }
     )
     for occupation in occupations:

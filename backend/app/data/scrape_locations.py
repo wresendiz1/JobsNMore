@@ -1,9 +1,9 @@
 import requests
 import json
 import re
-from dotenv import load_dotenv
-load_dotenv()
 import os
+from dotenv import dotenv_values
+config = dotenv_values(".env")
 
 
 states_id = [
@@ -44,13 +44,13 @@ final_json = []
 for number, city in enumerate(states_id):
     id_req = requests.get(
         "https://api.roadgoat.com/api/v2/destinations/auto_complete?q=" + city + "-usa",
-        auth=(os.envget("ROADGOAT_ACC"), os.envget("ROADGAT_SEC")),
+        auth=(config["ROADGAT_ACC"], config["ROADGAT_SEC"]),
     )
     id = id_req.json()["data"][0]["id"]
 
     response = requests.get(
         "https://api.roadgoat.com/api/v2/destinations/" + id,
-        auth=(os.envget("ROADGOAT_ACC"), os.envget("ROADGAT_SEC")),
+        auth=(config["ROADGAT_ACC"], config["ROADGAT_SEC"]),
     )
     data, links = response.json()["data"], response.json()["included"]
 

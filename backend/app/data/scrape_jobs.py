@@ -1,8 +1,8 @@
 import requests
 import json
 from concurrent.futures import ThreadPoolExecutor
-from dotenv import load_dotenv
-load_dotenv()
+from dotenv import dotenv_values
+config = dotenv_values(".env")
 import os
 
 cities = [
@@ -47,7 +47,7 @@ def get_jobs(cities):
     session = requests.Session()
     session.headers.update(
         {
-            "Authorization": os.envget("ONET_TOKEN")
+            "Authorization": config["ONESTOP_TOKEN"],
         }
     )
 

@@ -1,4 +1,4 @@
-PROJECT =  wired-plateau-359721
+PROJECT =  jobs-n-more
 WEBSITE = https://$(PROJECT).uc.r.appspot.com
 LOCAL = http://127.0.0.1:5000
 
@@ -46,7 +46,7 @@ clean-production:
 # Reduces size of the production folder by only copying necessary files
 build-back: clean-production
 	mkdir -p production/app/static
-	mkdir production//app/routes
+	mkdir production/app/routes
 	cp backend/app/*.py production/app
 	cp backend/app/static/* production/app/static
 	cp backend/app/routes/*.py production/app/routes
@@ -69,7 +69,7 @@ build-front:
 	package.json && npm run build  && mv build ../production
 
 deploy:
-	cd production && gcloud app deploy --project $(PROJECT)
+	cd production && gcloud app deploy
 
 build-front-test:
 	cd frontend && npm run build && mv build ../production

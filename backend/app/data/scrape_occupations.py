@@ -1,9 +1,10 @@
 import requests
 import json
-from concurrent.futures import ThreadPoolExecutor
-from dotenv import load_dotenv
-load_dotenv()
 import os
+from concurrent.futures import ThreadPoolExecutor
+from dotenv import dotenv_values
+config = dotenv_values(".env")
+
 
 def get_top_jobs(cluster_codes):
     jobs = []
@@ -11,7 +12,7 @@ def get_top_jobs(cluster_codes):
     session = requests.Session()
     session.headers.update(
         {
-            "Authorization": os.getenv("ONESTOP_TOKEN"),
+            "Authorization": config["ONESTOP_TOKEN"],
         }
     )
 
